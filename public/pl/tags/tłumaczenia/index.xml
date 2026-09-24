@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tłumaczenia on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/pl/tags/t%C5%82umaczenia/</link>
+		<description>Recent content in Tłumaczenia on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>pl</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/pl/tags/t%C5%82umaczenia/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Jak przetłumaczyć własną książkę na 101 języków w kilka minut</title>
+				<link>http://localhost:1313/all101lang/pl/announcement/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/pl/announcement/</guid>
+				<description>&lt;p&gt;Narzędzie Gemini i standardowy tłumacz w Dokumentach Google pozwoliły mi niemal natychmiast i przy minimalnych kosztach skalować teksty do poziomu globalnego. Dzięki mojemu autorskiemu skryptowi przetwarzania wsadowego oferuję usługę szybkiego tłumaczenia dokumentu na ponad 100 języków bez konieczności ręcznej interwencji.&#xA;Dlaczego to działa:&#xA;⬧ Ultraszybki: 101 języków w 15 minut (≈ 9 sekund na język w przypadku dokumentu liczącego 48 000 słów).&#xA;⬧ Skalowalność: Zachowaj nagłówki, listy, tabele i obrazy.&#xA;⬧ Oszczędności: Koszt przetłumaczenia książki na 101 języków wynosi zaledwie około 5 € / 6 $.&#xA;Poniżej znajdziesz pełną instrukcję i warunki zamówienia 101. tłumaczenia Twojej pracy.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

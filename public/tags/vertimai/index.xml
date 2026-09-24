@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Vertimai on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/vertimai/</link>
+		<description>Recent content in Vertimai on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/vertimai/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kaip per kelias minutes išversti savo knygą į 101 kalbą</title>
+				<link>http://localhost:1313/all101lang/announcement.lt/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.lt/</guid>
+				<description>&lt;p&gt;„Gemini“ įrankis ir standartinis „Google“ dokumentų vertėjas leido man beveik akimirksniu ir minimaliomis sąnaudomis pritaikyti tekstus pasauliniu mastu. Dėl savo paties sukurto paketinio apdorojimo scenarijaus siūlau paslaugą, leidžiančią greitai išversti jūsų dokumentą į daugiau nei 100 kalbų be rankinio įsikišimo.&#xA;Kodėl tai veikia:&#xA;⬧ Itin greitas: 101 kalba per 15 minučių (≈ 9 sekundės kiekvienai kalbai, jei dokumentas yra 48 000 žodžių).&#xA;⬧ Mastelio keitimas: išsaugokite antraštes, sąrašus, lenteles ir vaizdus.&#xA;⬧ Sutaupymai: knygos vertimas į 101 kalbą kainuoja tik apie 5 € / 6 USD.&#xA;Žemiau rasite išsamias instrukcijas ir sąlygas, kaip užsisakyti 101-ąjį savo darbo vertimą.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

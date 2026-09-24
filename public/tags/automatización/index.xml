@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Automatización on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/automatizaci%C3%B3n/</link>
+		<description>Recent content in Automatización on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/automatizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Como traducir o teu propio libro a 101 idiomas en minutos</title>
+				<link>http://localhost:1313/all101lang/announcement.gl/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.gl/</guid>
+				<description>&lt;p&gt;A ferramenta Gemini e o tradutor estándar de Google Docs permitíronme escalar textos a nivel global case ao instante e cun custo mínimo. Grazas ao meu propio script de procesamento por lotes, ofrezo un servizo para traducir rapidamente o teu documento a máis de 100 idiomas sen intervención manual.&#xA;Por que funciona:&#xA;Ultrarrápido: 101 idiomas en 15 minutos (≈ 9 segundos por idioma para un documento de 48.000 palabras).&#xA;⬧ Escalabilidade: Conservar títulos, listas, táboas e imaxes.&#xA;⬧ Aforro: O custo de traducir un libro a 101 idiomas é de só uns 5 € / 6 $.&#xA;A continuación atoparás as instrucións completas e os termos para solicitar a tradución número 101 da túa obra.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cómo traducir tu propio libro a 101 idiomas en minutos</title>
+				<link>http://localhost:1313/all101lang/announcement.es/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.es/</guid>
+				<description>&lt;p&gt;La herramienta Gemini y el traductor estándar de Google Docs me han permitido escalar textos a nivel global casi instantáneamente y a un costo mínimo. Gracias a mi propio script de procesamiento por lotes, ofrezco un servicio para traducir rápidamente su documento a más de 100 idiomas sin intervención manual.&#xA;Por qué funciona:&#xA;⬧ Ultrarrápido: 101 idiomas en 15 minutos (≈ 9 segundos por idioma para un documento de 48.000 palabras).&#xA;⬧ Escalabilidad: Conserva los encabezados, las listas, las tablas y las imágenes.&#xA;⬧ Ahorro: El coste de traducir un libro a 101 idiomas es de tan solo unos 5 € / 6 $.&#xA;A continuación encontrará las instrucciones y condiciones completas para solicitar la traducción número 101 de su obra.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

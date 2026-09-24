@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Avtomatizacija on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/avtomatizacija/</link>
+		<description>Recent content in Avtomatizacija on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/avtomatizacija/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kako v nekaj minutah prevesti svojo knjigo v 101 jezik</title>
+				<link>http://localhost:1313/all101lang/announcement.sl/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.sl/</guid>
+				<description>&lt;p&gt;Orodje Gemini in standardni prevajalnik v Google Dokumentih sta mi omogočila skoraj takojšnje in minimalne stroške prilagajanja besedil na globalno raven. Zahvaljujoč lastnemu skriptu za paketno obdelavo ponujam storitev hitrega prevajanja vašega dokumenta v več kot 100 jezikov brez ročnega posredovanja.&#xA;Zakaj deluje:&#xA;⬧ Ultra hitro: 101 jezikov v 15 minutah (≈ 9 sekund na jezik za dokument s 48.000 besedami).&#xA;⬧ Prilagodljivost: Ohranite naslove, sezname, tabele in slike.&#xA;⬧ Prihranki: Stroški prevajanja knjige v 101 jezikov znašajo le približno 5 € / 6 $.&#xA;Spodaj boste našli popolna navodila in pogoje za naročilo 101. prevoda vašega dela.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

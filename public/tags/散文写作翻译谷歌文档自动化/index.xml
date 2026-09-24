@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>散文、写作、翻译、谷歌文档、自动化 on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/%E6%95%A3%E6%96%87%E5%86%99%E4%BD%9C%E7%BF%BB%E8%AF%91%E8%B0%B7%E6%AD%8C%E6%96%87%E6%A1%A3%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+		<description>Recent content in 散文、写作、翻译、谷歌文档、自动化 on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/%E6%95%A3%E6%96%87%E5%86%99%E4%BD%9C%E7%BF%BB%E8%AF%91%E8%B0%B7%E6%AD%8C%E6%96%87%E6%A1%A3%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>如何在几分钟内将自己的书翻译成 101 种语言</title>
+				<link>http://localhost:1313/all101lang/announcement.zh-cn/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.zh-cn/</guid>
+				<description>&lt;p&gt;Gemini 工具和 Google Docs 的标准翻译功能让我能够以极低的成本，几乎瞬间将文本翻译成全球通用语言。凭借我自主开发的批量处理脚本，我可以提供无需人工干预，快速将您的文档翻译成 100 多种语言的服务。&#xA;其原理：&#xA;⬧ 超快：15 分钟内翻译 101 种语言（对于 48,000 字的文档，每种语言约需 9 秒）。&#xA;⬧ 可扩展性：保留标题、列表、表格和图像。&#xA;⬧ 节省：将一本书翻译成 101 种语言的成本仅约为 5 欧元/6 美元。&#xA;下面您将找到订购第 101 次翻译作品的完整说明和条款。&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

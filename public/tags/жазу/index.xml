@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Жазу on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/%D0%B6%D0%B0%D0%B7%D1%83/</link>
+		<description>Recent content in Жазу on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/%D0%B6%D0%B0%D0%B7%D1%83/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Кітабыңызды бірнеше минут ішінде 101 тілге қалай аударуға болады</title>
+				<link>http://localhost:1313/all101lang/announcement.kk/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.kk/</guid>
+				<description>&lt;p&gt;Gemini құралы және Google Docs бағдарламасындағы стандартты аудармашы мәтіндерді жаһандық деңгейге дейін бірден және минималды шығынмен масштабтауға мүмкіндік берді. Жеке пакеттік өңдеу сценарийімнің арқасында мен құжатыңызды қолмен араласпай 100-ден астам тілге тез аудару қызметін ұсынамын.&#xA;Неліктен жұмыс істейді:&#xA;⬧ Өте жылдам: 15 минутта 101 тіл (48 000 сөзден тұратын құжат үшін әр тілге ≈ 9 секунд).&#xA;⬧ Масштабталу: Тақырыптарды, тізімдерді, кестелерді және суреттерді сақтаңыз.&#xA;⬧ Үнемдеу: Кітапты 101 тілге аудару құны шамамен €5 / $6 құрайды.&#xA;Төменде сіз өз жұмысыңыздың 101-ші аудармасына тапсырыс берудің толық нұсқаулары мен шарттарын таба аласыз.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

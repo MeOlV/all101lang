@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Automatiseerimine on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/automatiseerimine/</link>
+		<description>Recent content in Automatiseerimine on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/automatiseerimine/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kuidas tõlkida oma raamat minutitega 101 keelde</title>
+				<link>http://localhost:1313/all101lang/announcement.et/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.et/</guid>
+				<description>&lt;p&gt;Gemini tööriist ja Google Docsi standardne tõlkija on võimaldanud mul tekste peaaegu koheselt ja minimaalsete kuludega globaalsele tasemele skaleerida. Tänu oma partiitöötlusskriptile pakun teenust, mis võimaldab teie dokumenti kiiresti tõlkida enam kui 100 keelde ilma käsitsi sekkumiseta.&#xA;Miks see toimib:&#xA;⬧ Ülikiire: 101 keelt 15 minutiga (≈ 9 sekundit keele kohta 48 000-sõnalise dokumendi puhul).&#xA;⬧ Skaleeritavus: Säilitage pealkirjad, loendid, tabelid ja pildid.&#xA;⬧ Säästud: Raamatu tõlkimine 101 keelde maksab vaid umbes 5 eurot / 6 dollarit.&#xA;Altpoolt leiate täielikud juhised ja tingimused oma töö 101. tõlke tellimiseks.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

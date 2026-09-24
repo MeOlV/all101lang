@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Traductions on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/traductions/</link>
+		<description>Recent content in Traductions on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/traductions/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Comment traduire son propre livre en 101 langues en quelques minutes</title>
+				<link>http://localhost:1313/all101lang/announcement.fr/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.fr/</guid>
+				<description>&lt;p&gt;L&amp;rsquo;outil Gemini et le traducteur intégré à Google Docs m&amp;rsquo;ont permis de traduire des textes à l&amp;rsquo;échelle mondiale quasi instantanément et à moindre coût. Grâce à mon propre script de traitement par lots, je propose un service de traduction rapide de vos documents dans plus de 100 langues, sans intervention manuelle.&#xA;Pourquoi ça marche :&#xA;⬧ Ultra-rapide : 101 langues en 15 minutes (≈ 9 secondes par langue pour un document de 48 000 mots).&#xA;⬧ Évolutivité : Préserver les titres, les listes, les tableaux et les images.&#xA;⬧ Économies : Le coût de la traduction d&amp;rsquo;un livre en 101 langues n&amp;rsquo;est que d&amp;rsquo;environ 5 € / 6 $.&#xA;Vous trouverez ci-dessous les instructions et conditions complètes pour commander la 101e traduction de votre ouvrage.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

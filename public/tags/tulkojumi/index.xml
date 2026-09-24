@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tulkojumi on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/tulkojumi/</link>
+		<description>Recent content in Tulkojumi on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/tulkojumi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kā dažu minūšu laikā iztulkot savu grāmatu 101 valodā</title>
+				<link>http://localhost:1313/all101lang/announcement.lv/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.lv/</guid>
+				<description>&lt;p&gt;Gemini rīks un standarta tulkotājs pakalpojumā Google dokumenti ir ļāvuši man gandrīz acumirklī un ar minimālām izmaksām mērogot tekstus globālā līmenī. Pateicoties manam pakešapstrādes skriptam, es piedāvāju pakalpojumu, kas ļauj ātri iztulkot jūsu dokumentu vairāk nekā 100 valodās bez manuālas iejaukšanās.&#xA;Kāpēc tas darbojas:&#xA;⬧ Īpaši ātrs: 101 valoda 15 minūtēs (≈ 9 sekundes katrā valodā 48 000 vārdu dokumentam).&#xA;⬧ Mērogojamība: Saglabājiet virsrakstus, sarakstus, tabulas un attēlus.&#xA;⬧ Ietaupījumi: Grāmatas tulkošana 101 valodā izmaksā tikai aptuveni 5 eiro / 6 ASV dolārus.&#xA;Zemāk jūs atradīsiet pilnīgus norādījumus un noteikumus sava darba 101. tulkojuma pasūtīšanai.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

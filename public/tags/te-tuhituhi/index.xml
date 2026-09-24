@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Te Tuhituhi on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/te-tuhituhi/</link>
+		<description>Recent content in Te Tuhituhi on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/te-tuhituhi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Me pēhea te whakamāori i tāu ake pukapuka ki ngā reo 101 i roto i ngā meneti</title>
+				<link>http://localhost:1313/all101lang/announcement.mi/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.mi/</guid>
+				<description>&lt;p&gt;Nā te taputapu Gemini me te kaiwhakamāori paerewa i roto i ngā Tuhinga a Google, kua taea e au te whakarahi ake i ngā tuhinga ki te taumata ao tata tonu, me te iti rawa o te utu. Nā taku ake tuhinga tukatuka puranga, ka tukuna e au he ratonga hei whakamāori tere i tō tuhinga ki roto i te neke atu i te 100 reo, me te kore e hiahiatia he wawaotanga ā-ringa.&#xA;He aha i mahi ai:&#xA;⬧ Tino tere: 101 ngā reo i roto i te 15 meneti (≈ 9 hēkona mō ia reo mō tētahi tuhinga 48,000 kupu).&#xA;⬧ Tauine: Tiakina ngā pane, ngā rārangi, ngā ripanga me ngā whakaahua.&#xA;⬧ Penapena: Ko te utu mō te whakamāori i tētahi pukapuka ki ngā reo 101 he tata ki te €5 / $6 noa iho.&#xA;Kei raro nei ngā tohutohu me ngā tikanga katoa mō te tono i te whakamāoritanga 101 o tāu mahi.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

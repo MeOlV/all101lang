@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Schrijven on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/schrijven/</link>
+		<description>Recent content in Schrijven on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/schrijven/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hoe vertaal je je eigen boek in 101 talen in enkele minuten?</title>
+				<link>http://localhost:1313/all101lang/announcement.nl/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.nl/</guid>
+				<description>&lt;p&gt;Met de Gemini-tool en de standaardvertaler in Google Docs kan ik teksten vrijwel direct en tegen minimale kosten wereldwijd vertalen. Dankzij mijn eigen batchverwerkingsscript bied ik een service aan waarmee u uw document snel en zonder handmatige tussenkomst in meer dan 100 talen kunt vertalen.&#xA;Waarom het werkt:&#xA;⬧ Ultrasnel: 101 talen in 15 minuten (ongeveer 9 seconden per taal voor een document van 48.000 woorden).&#xA;⬧ Schaalbaarheid: Behoud kopteksten, lijsten, tabellen en afbeeldingen.&#xA;⬧ Besparing: De kosten voor het vertalen van een boek in 101 talen bedragen slechts ongeveer €5 / $6.&#xA;Hieronder vindt u de volledige instructies en voorwaarden voor het bestellen van de 101e vertaling van uw werk.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

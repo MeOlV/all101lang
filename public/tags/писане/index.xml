@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Писане on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B5/</link>
+		<description>Recent content in Писане on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Как да преведете собствената си книга на 101 езика за минути</title>
+				<link>http://localhost:1313/all101lang/announcement.bg/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.bg/</guid>
+				<description>&lt;p&gt;Инструментът Gemini и стандартният преводач в Google Docs ми позволиха да мащабирам текстове до глобално ниво почти мигновено и с минимални разходи. Благодарение на моя собствен скрипт за пакетна обработка, предлагам услуга за бърз превод на вашия документ на над 100 езика без ръчна намеса.&#xA;Защо работи:&#xA;⬧ Ултрабърз: 101 езика за 15 минути (≈ 9 секунди на език за документ от 48 000 думи).&#xA;⬧ Мащабируемост: Запазване на заглавия, списъци, таблици и изображения.&#xA;⬧ Спестявания: Цената за превод на книга на 101 езика е само около €5 / $6.&#xA;По-долу ще намерите пълни инструкции и условия за поръчка на 101-ия превод на вашата работа.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

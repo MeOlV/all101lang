@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pwoz on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/pwoz/</link>
+		<description>Recent content in Pwoz on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/pwoz/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kijan pou tradui pwòp liv ou a nan 101 lang an kèk minit</title>
+				<link>http://localhost:1313/all101lang/announcement.ht/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.ht/</guid>
+				<description>&lt;p&gt;Zouti Gemini a ak tradiktè estanda ki nan Google Docs la pèmèt mwen ajiste tèks yo sou yon nivo mondyal prèske imedyatman e avèk yon pri minimòm. Gras a pwòp script pwosesis pakèt mwen an, mwen ofri yon sèvis pou tradui dokiman ou byen vit nan plis pase 100 lang san entèvansyon manyèl.&#xA;Poukisa li fonksyone:&#xA;Ultra rapid: 101 lang nan 15 minit (≈ 9 segonn pa lang pou yon dokiman 48,000 mo).&#xA;⬧ Eskalabilite: Prezève tit, lis, tablo ak imaj.&#xA;⬧ Ekonomi: Pri pou tradui yon liv nan 101 lang se sèlman anviwon €5 / $6.&#xA;Anba a, ou pral jwenn enstriksyon konplè ak kondisyon pou kòmande 101yèm tradiksyon travay ou a.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

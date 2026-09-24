@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Dokumenty Google on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tags/dokumenty-google/</link>
+		<description>Recent content in Dokumenty Google on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tags/dokumenty-google/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ako preložiť vlastnú knihu do 101 jazykov za pár minút</title>
+				<link>http://localhost:1313/all101lang/announcement.sk/</link>
+				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/announcement.sk/</guid>
+				<description>&lt;p&gt;Nástroj Gemini a štandardný prekladač v Dokumentoch Google mi umožnili takmer okamžite a s minimálnymi nákladmi škálovať texty na globálnu úroveň. Vďaka môjmu vlastnému skriptu pre dávkové spracovanie ponúkam službu rýchleho prekladu vášho dokumentu do viac ako 100 jazykov bez manuálneho zásahu.&#xA;Prečo to funguje:&#xA;⬧ Ultrarýchly: 101 jazykov za 15 minút (≈ 9 sekúnd na jazyk pre dokument s rozsahom 48 000 slov).&#xA;⬧ Škálovateľnosť: Zachovanie nadpisov, zoznamov, tabuliek a obrázkov.&#xA;⬧ Úspory: Cena za preklad knihy do 101 jazykov je len približne 5 € / 6 dolárov.&#xA;Nižšie nájdete kompletné pokyny a podmienky pre objednanie 101. prekladu vášho diela.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

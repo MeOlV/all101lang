@@ -1,0 +1,29 @@
+baseURL = 'https://meolv.github.io/all101lang/'
+languageCode = 'uk'
+title = '101 Languages Hub'
+theme = 'ananke'
+
+defaultContentLanguage = 'uk'
+defaultContentLanguageInSubdir = false
+
+[params]
+  disable_language_toggle = false
+
+[languages]
+  [languages.uk]
+    languageCode = 'uk'
+    languageName = 'Українська'
+    label = 'uk'
+    weight = 1
+
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    label = 'en'
+    weight = 2
+
+  [languages.pl]
+    languageCode = 'pl'
+    languageName = 'Polski'
+    label = 'pl'
+    weight = 3
