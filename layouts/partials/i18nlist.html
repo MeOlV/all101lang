@@ -1,0 +1,12 @@
+{{ if .IsTranslated }}
+<div class="dib dropdown-languages mr2">
+  <select onchange="location = this.value;" class="pa1 bg-near-black white bn br1 pointer">
+    <option value="" disabled selected>🌐 Мова / Language (101)</option>
+    {{ range .Translations }}
+    <option value="{{ .RelPermalink }}">
+      {{ .Language.LanguageName | default .Language.Lang }}
+    </option>
+    {{ end }}
+  </select>
+</div>
+{{ end }}
