@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Google Docs on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/lb/tags/google-docs/</link>
+		<link>https://meolv.github.io/all101lang/lb/tags/google-docs/</link>
 		<description>Recent content in Google Docs on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>lb</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/lb/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/lb/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Wéi Dir Äert eegent Buch a Minutten an 101 Sproochen iwwersetze kënnt</title>
-				<link>http://localhost:1313/all101lang/lb/announcement/</link>
+				<link>https://meolv.github.io/all101lang/lb/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/lb/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/lb/announcement/</guid>
 				<description>&lt;p&gt;Den Gemini-Tool an den Standard-Iwwersetzer a Google Docs hunn et mir erméiglecht, Texter bal direkt an zu minimale Käschten op e globalen Niveau ze skaléieren. Dank mengem eegene Batch-Veraarbechtungsskript bidden ech e Service un, fir Äert Dokument séier an iwwer 100 Sproochen ouni manuell Interventioun ze iwwersetzen.&lt;br&gt;&#xA;Firwat et funktionéiert:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultra-schnell: 101 Sproochen an 15 Minutten (≈ 9 Sekonnen pro Sprooch fir en Dokument mat 48.000 Wierder).&lt;/li&gt;&#xA;&lt;li&gt;Skalierbarkeet: Iwwerschrëften, Lëschten, Tabellen a Biller erhalen.&lt;/li&gt;&#xA;&lt;li&gt;Erspuernisser: D&amp;rsquo;Iwwersetzung vun engem Buch an 101 Sprooche kascht nëmmen ongeféier 5 € / 6 $.&lt;br&gt;&#xA;Hei ënnendrënner fannt Dir komplett Instruktiounen a Konditioune fir d&amp;rsquo;Bestellung vun der 101. Iwwersetzung vun Ärem Wierk.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

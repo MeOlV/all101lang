@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/ja/tags/</link>
+		<link>https://meolv.github.io/all101lang/ja/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ja</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/ja/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>散文、執筆、翻訳、Googleドキュメント、自動化</title>
-				<link>http://localhost:1313/all101lang/ja/tags/%E6%95%A3%E6%96%87%E5%9F%B7%E7%AD%86%E7%BF%BB%E8%A8%B3google%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E8%87%AA%E5%8B%95%E5%8C%96/</link>
+				<link>https://meolv.github.io/all101lang/ja/tags/%E6%95%A3%E6%96%87%E5%9F%B7%E7%AD%86%E7%BF%BB%E8%A8%B3google%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E8%87%AA%E5%8B%95%E5%8C%96/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ja/tags/%E6%95%A3%E6%96%87%E5%9F%B7%E7%AD%86%E7%BF%BB%E8%A8%B3google%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E8%87%AA%E5%8B%95%E5%8C%96/</guid>
+				<guid>https://meolv.github.io/all101lang/ja/tags/%E6%95%A3%E6%96%87%E5%9F%B7%E7%AD%86%E7%BF%BB%E8%A8%B3google%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E8%87%AA%E5%8B%95%E5%8C%96/</guid>
 				<description></description>
 			</item>
 	</channel>

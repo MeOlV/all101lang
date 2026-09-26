@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Google Документи on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/bg/tags/google-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/</link>
+		<link>https://meolv.github.io/all101lang/bg/tags/google-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/</link>
 		<description>Recent content in Google Документи on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>bg</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/bg/tags/google-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/bg/tags/google-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Как да преведете собствената си книга на 101 езика за минути</title>
-				<link>http://localhost:1313/all101lang/bg/announcement/</link>
+				<link>https://meolv.github.io/all101lang/bg/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/bg/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/bg/announcement/</guid>
 				<description>&lt;p&gt;Инструментът Gemini и стандартният преводач в Google Docs ми позволиха да мащабирам текстове до глобално ниво почти мигновено и с минимални разходи. Благодарение на моя собствен скрипт за пакетна обработка, предлагам услуга за бърз превод на вашия документ на над 100 езика без ръчна намеса.&lt;br&gt;&#xA;Защо работи:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ултрабърз: 101 езика за 15 минути (≈ 9 секунди на език за документ от 48 000 думи).&lt;/li&gt;&#xA;&lt;li&gt;Мащабируемост: Запазване на заглавия, списъци, таблици и изображения.&lt;/li&gt;&#xA;&lt;li&gt;Спестявания: Цената за превод на книга на 101 езика е само около €5 / $6.&lt;br&gt;&#xA;По-долу ще намерите пълни инструкции и условия за поръчка на 101-ия превод на вашата работа.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

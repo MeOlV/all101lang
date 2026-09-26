@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/iw/tags/</link>
+		<link>https://meolv.github.io/all101lang/iw/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>iw</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/iw/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/iw/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>אוטומציה</title>
-				<link>http://localhost:1313/all101lang/iw/tags/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94/</link>
+				<link>https://meolv.github.io/all101lang/iw/tags/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/iw/tags/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94/</guid>
+				<guid>https://meolv.github.io/all101lang/iw/tags/%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>גוגל דוקס</title>
-				<link>http://localhost:1313/all101lang/iw/tags/%D7%92%D7%95%D7%92%D7%9C-%D7%93%D7%95%D7%A7%D7%A1/</link>
+				<link>https://meolv.github.io/all101lang/iw/tags/%D7%92%D7%95%D7%92%D7%9C-%D7%93%D7%95%D7%A7%D7%A1/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/iw/tags/%D7%92%D7%95%D7%92%D7%9C-%D7%93%D7%95%D7%A7%D7%A1/</guid>
+				<guid>https://meolv.github.io/all101lang/iw/tags/%D7%92%D7%95%D7%92%D7%9C-%D7%93%D7%95%D7%A7%D7%A1/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>כתיבה</title>
-				<link>http://localhost:1313/all101lang/iw/tags/%D7%9B%D7%AA%D7%99%D7%91%D7%94/</link>
+				<link>https://meolv.github.io/all101lang/iw/tags/%D7%9B%D7%AA%D7%99%D7%91%D7%94/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/iw/tags/%D7%9B%D7%AA%D7%99%D7%91%D7%94/</guid>
+				<guid>https://meolv.github.io/all101lang/iw/tags/%D7%9B%D7%AA%D7%99%D7%91%D7%94/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>‏פרוזה</title>
-				<link>http://localhost:1313/all101lang/iw/tags/%D7%A4%D7%A8%D7%95%D7%96%D7%94/</link>
+				<link>https://meolv.github.io/all101lang/iw/tags/%D7%A4%D7%A8%D7%95%D7%96%D7%94/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/iw/tags/%D7%A4%D7%A8%D7%95%D7%96%D7%94/</guid>
+				<guid>https://meolv.github.io/all101lang/iw/tags/%D7%A4%D7%A8%D7%95%D7%96%D7%94/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>תרגומים</title>
-				<link>http://localhost:1313/all101lang/iw/tags/%D7%AA%D7%A8%D7%92%D7%95%D7%9E%D7%99%D7%9D/</link>
+				<link>https://meolv.github.io/all101lang/iw/tags/%D7%AA%D7%A8%D7%92%D7%95%D7%9E%D7%99%D7%9D/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/iw/tags/%D7%AA%D7%A8%D7%92%D7%95%D7%9E%D7%99%D7%9D/</guid>
+				<guid>https://meolv.github.io/all101lang/iw/tags/%D7%AA%D7%A8%D7%92%D7%95%D7%9E%D7%99%D7%9D/</guid>
 				<description></description>
 			</item>
 	</channel>

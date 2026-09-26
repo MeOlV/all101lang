@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>गूगल डॉक्स on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/hi/tags/%E0%A4%97%E0%A5%82%E0%A4%97%E0%A4%B2-%E0%A4%A1%E0%A5%89%E0%A4%95%E0%A5%8D%E0%A4%B8/</link>
+		<link>https://meolv.github.io/all101lang/hi/tags/%E0%A4%97%E0%A5%82%E0%A4%97%E0%A4%B2-%E0%A4%A1%E0%A5%89%E0%A4%95%E0%A5%8D%E0%A4%B8/</link>
 		<description>Recent content in गूगल डॉक्स on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>hi</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/hi/tags/%E0%A4%97%E0%A5%82%E0%A4%97%E0%A4%B2-%E0%A4%A1%E0%A5%89%E0%A4%95%E0%A5%8D%E0%A4%B8/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/hi/tags/%E0%A4%97%E0%A5%82%E0%A4%97%E0%A4%B2-%E0%A4%A1%E0%A5%89%E0%A4%95%E0%A5%8D%E0%A4%B8/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>अपनी किताब को मिनटों में 101 भाषाओं में कैसे अनुवाद करें</title>
-				<link>http://localhost:1313/all101lang/hi/announcement/</link>
+				<link>https://meolv.github.io/all101lang/hi/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/hi/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/hi/announcement/</guid>
 				<description>&lt;p&gt;जेमिनी टूल और गूगल डॉक्स में मौजूद स्टैंडर्ड ट्रांसलेटर की मदद से मैं टेक्स्ट को लगभग तुरंत और बहुत कम लागत में वैश्विक स्तर पर अनुवादित कर सकता हूँ। अपने खुद के बैच प्रोसेसिंग स्क्रिप्ट की बदौलत, मैं आपके दस्तावेज़ को बिना किसी मैन्युअल हस्तक्षेप के 100 से अधिक भाषाओं में तेज़ी से अनुवादित करने की सेवा प्रदान करता हूँ।&lt;br&gt;&#xA;यह कैसे काम करता है:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;अति-तेज़: 15 मिनट में 101 भाषाएँ (लगभग 48,000 शब्दों के दस्तावेज़ के लिए प्रति भाषा 9 सेकंड)।&lt;/li&gt;&#xA;&lt;li&gt;स्केलेबिलिटी: शीर्षकों, सूचियों, तालिकाओं और छवियों को सुरक्षित रखें।&lt;/li&gt;&#xA;&lt;li&gt;बचत: किसी पुस्तक का 101 भाषाओं में अनुवाद करने की लागत केवल लगभग €5 / $6 है।&lt;br&gt;&#xA;नीचे आपको अपने काम के 101वें अनुवाद का ऑर्डर देने के लिए संपूर्ण निर्देश और शर्तें मिलेंगी।&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Prosa on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/co/tags/prosa/</link>
+		<link>https://meolv.github.io/all101lang/co/tags/prosa/</link>
 		<description>Recent content in Prosa on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>co</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/co/tags/prosa/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/co/tags/prosa/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Cumu traduce u vostru propiu libru in 101 lingue in minuti</title>
-				<link>http://localhost:1313/all101lang/co/announcement/</link>
+				<link>https://meolv.github.io/all101lang/co/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/co/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/co/announcement/</guid>
 				<description>&lt;p&gt;U strumentu Gemini è u traduttore standard in Google Docs m&amp;rsquo;anu permessu di scalà i testi à un livellu glubale guasi istantaneamente è à un costu minimu. Grazie à u mo propiu script di trasfurmazioni in batch, offru un serviziu per traduce rapidamente u vostru documentu in più di 100 lingue senza intervenzione manuale.&lt;br&gt;&#xA;Perchè funziona:&lt;br&gt;&#xA;Ultra-rapidu: 101 lingue in 15 minuti (≈ 9 secondi per lingua per un documentu di 48 000 parolle).&lt;br&gt;&#xA;Scalabilità: Priservà tituli, liste, tabelle è imagine.&lt;/p&gt;</description>
 			</item>
 	</channel>

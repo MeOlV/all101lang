@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Google Docs on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/ny/tags/google-docs/</link>
+		<link>https://meolv.github.io/all101lang/ny/tags/google-docs/</link>
 		<description>Recent content in Google Docs on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ny</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/ny/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/ny/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Momwe mungamasulire buku lanu m&#39;zilankhulo 101 mumphindi zochepa</title>
-				<link>http://localhost:1313/all101lang/ny/announcement/</link>
+				<link>https://meolv.github.io/all101lang/ny/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ny/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/ny/announcement/</guid>
 				<description>&lt;p&gt;Chida cha Gemini ndi womasulira wamba mu Google Docs zandithandiza kukweza malemba padziko lonse nthawi yomweyo komanso pamtengo wotsika. Chifukwa cha script yanga yokonza ma batch, ndimapereka ntchito yomasulira chikalata chanu mwachangu m&amp;rsquo;zilankhulo zoposa 100 popanda kugwiritsa ntchito manja.&lt;br&gt;&#xA;Chifukwa chake imagwira ntchito:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Yofulumira kwambiri: Zilankhulo 101 mu mphindi 15 (≈ masekondi 9 pa chinenero chilichonse pa chikalata cha mawu 48,000).&lt;/li&gt;&#xA;&lt;li&gt;Kukula: Sungani mitu, mindandanda, matebulo, ndi zithunzi.&lt;/li&gt;&#xA;&lt;li&gt;Ndalama Zosungidwa: Mtengo womasulira buku m&amp;rsquo;zilankhulo 101 ndi pafupifupi €5 / $6 yokha.&lt;br&gt;&#xA;Pansipa mupeza malangizo athunthu ndi malamulo oyitanitsa kumasulira kwa 101 kwa ntchito yanu.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

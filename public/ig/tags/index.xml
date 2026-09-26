@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/ig/tags/</link>
+		<link>https://meolv.github.io/all101lang/ig/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ig</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/ig/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/ig/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Akpaaka</title>
-				<link>http://localhost:1313/all101lang/ig/tags/akpaaka/</link>
+				<link>https://meolv.github.io/all101lang/ig/tags/akpaaka/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ig/tags/akpaaka/</guid>
+				<guid>https://meolv.github.io/all101lang/ig/tags/akpaaka/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Akwụkwọ Google</title>
-				<link>http://localhost:1313/all101lang/ig/tags/akw%E1%BB%A5kw%E1%BB%8D-google/</link>
+				<link>https://meolv.github.io/all101lang/ig/tags/akw%E1%BB%A5kw%E1%BB%8D-google/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ig/tags/akw%E1%BB%A5kw%E1%BB%8D-google/</guid>
+				<guid>https://meolv.github.io/all101lang/ig/tags/akw%E1%BB%A5kw%E1%BB%8D-google/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ide Ihe</title>
-				<link>http://localhost:1313/all101lang/ig/tags/ide-ihe/</link>
+				<link>https://meolv.github.io/all101lang/ig/tags/ide-ihe/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ig/tags/ide-ihe/</guid>
+				<guid>https://meolv.github.io/all101lang/ig/tags/ide-ihe/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ihe Osise</title>
-				<link>http://localhost:1313/all101lang/ig/tags/ihe-osise/</link>
+				<link>https://meolv.github.io/all101lang/ig/tags/ihe-osise/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ig/tags/ihe-osise/</guid>
+				<guid>https://meolv.github.io/all101lang/ig/tags/ihe-osise/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nsụgharị</title>
-				<link>http://localhost:1313/all101lang/ig/tags/ns%E1%BB%A5ghar%E1%BB%8B/</link>
+				<link>https://meolv.github.io/all101lang/ig/tags/ns%E1%BB%A5ghar%E1%BB%8B/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ig/tags/ns%E1%BB%A5ghar%E1%BB%8B/</guid>
+				<guid>https://meolv.github.io/all101lang/ig/tags/ns%E1%BB%A5ghar%E1%BB%8B/</guid>
 				<description></description>
 			</item>
 	</channel>

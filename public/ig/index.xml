@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/ig/</link>
+		<link>https://meolv.github.io/all101lang/ig/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ig</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/ig/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/ig/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Otu esi asụgharị akwụkwọ nke gị gaa n&#39;asụsụ 101 n&#39;ime nkeji ole na ole</title>
-				<link>http://localhost:1313/all101lang/ig/announcement/</link>
+				<link>https://meolv.github.io/all101lang/ig/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ig/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/ig/announcement/</guid>
 				<description>&lt;p&gt;Ngwa Gemini na onye ntụgharị asụsụ nkịtị dị na Google Docs enyela m ohere ịgbasa ederede n&amp;rsquo;ụwa niile ozugbo na obere ọnụ ahịa. Site na edemede nhazi nke m, ana m enye ọrụ iji tụgharịa akwụkwọ gị ngwa ngwa gaa n&amp;rsquo;asụsụ karịrị 100 na-enweghị aka.&lt;br&gt;&#xA;Ihe kpatara o ji arụ ọrụ:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ọsọ ọsọ dị oke elu: Asụsụ 101 n&amp;rsquo;ime nkeji 15 (≈ sekọnd 9 kwa asụsụ maka akwụkwọ okwu 48,000).&lt;/li&gt;&#xA;&lt;li&gt;Ịhazi ihe: Chekwaa isi okwu, ndepụta, tebụl, na onyonyo.&lt;/li&gt;&#xA;&lt;li&gt;Nchekwa ego: Ọnụ ego ịsụgharị akwụkwọ gaa n&amp;rsquo;asụsụ 101 bụ naanị ihe dị ka €5 / $6.&lt;br&gt;&#xA;N&amp;rsquo;okpuru ebe a, ị ga-ahụ ntuziaka zuru oke na usoro maka ịtụ nsụgharị nke ọrụ gị nke 101.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

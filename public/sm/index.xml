@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/sm/</link>
+		<link>https://meolv.github.io/all101lang/sm/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sm</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/sm/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/sm/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Auala e faaliliu ai lau lava tusi i gagana e 101 i ni nai minute</title>
-				<link>http://localhost:1313/all101lang/sm/announcement/</link>
+				<link>https://meolv.github.io/all101lang/sm/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sm/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/sm/announcement/</guid>
 				<description>&lt;p&gt;O le meafaigaluega Gemini ma le faaliliu masani i Google Docs ua mafai ai ona ou faʻateleina tusitusiga i se tulaga faʻavaomalo toetoe lava a vave ma i se tau maualalo. Faʻafetai i laʻu lava tusitusiga faʻatulagaina, ou te ofoina atu se tautua e faʻaliliu vave ai lau pepa i gagana e silia ma le 100 e aunoa ma le faʻalavelave lima.&lt;br&gt;&#xA;Aiseā e aoga ai:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Vave tele: 101 gagana i le 15 minute (≈ 9 sekone i le gagana mo se pepa e 48,000 upu).&lt;/li&gt;&#xA;&lt;li&gt;Fa&amp;rsquo;alauteleina: Fa&amp;rsquo;asaoina ulutala, lisi, laulau, ma ata.&lt;/li&gt;&#xA;&lt;li&gt;Sefega: O le tau o le faaliliuina o se tusi i gagana e 101 e na o le €5 / $6.&lt;br&gt;&#xA;O lo&amp;rsquo;o i lalo fa&amp;rsquo;atonuga atoa ma aiaiga mo le fa&amp;rsquo;atonuina o le fa&amp;rsquo;aliliuga lona 101 o lau galuega.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

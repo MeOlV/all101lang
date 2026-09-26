@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Ավտոմատացում on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/hy/tags/%D5%A1%D5%BE%D5%BF%D5%B8%D5%B4%D5%A1%D5%BF%D5%A1%D6%81%D5%B8%D6%82%D5%B4/</link>
+		<link>https://meolv.github.io/all101lang/hy/tags/%D5%A1%D5%BE%D5%BF%D5%B8%D5%B4%D5%A1%D5%BF%D5%A1%D6%81%D5%B8%D6%82%D5%B4/</link>
 		<description>Recent content in Ավտոմատացում on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>hy</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/hy/tags/%D5%A1%D5%BE%D5%BF%D5%B8%D5%B4%D5%A1%D5%BF%D5%A1%D6%81%D5%B8%D6%82%D5%B4/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/hy/tags/%D5%A1%D5%BE%D5%BF%D5%B8%D5%B4%D5%A1%D5%BF%D5%A1%D6%81%D5%B8%D6%82%D5%B4/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ինչպես րոպեների ընթացքում թարգմանել ձեր սեփական գիրքը 101 լեզուներով</title>
-				<link>http://localhost:1313/all101lang/hy/announcement/</link>
+				<link>https://meolv.github.io/all101lang/hy/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/hy/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/hy/announcement/</guid>
 				<description>&lt;p&gt;Gemini գործիքը և Google Docs-ի ստանդարտ թարգմանիչը թույլ են տվել ինձ գրեթե անմիջապես և նվազագույն ծախսերով մասշտաբավորել տեքստերը գլոբալ մակարդակի: Իմ սեփական խմբաքանակային մշակման սկրիպտի շնորհիվ ես առաջարկում եմ ծառայություն, որը թույլ է տալիս արագ թարգմանել ձեր փաստաթուղթը ավելի քան 100 լեզուներով՝ առանց ձեռքով միջամտության:&lt;br&gt;&#xA;Ինչու է այն աշխատում.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Գերարագ. 101 լեզու 15 րոպեում (≈ 9 վայրկյան յուրաքանչյուր լեզվի համար՝ 48,000 բառանոց փաստաթղթի համար):&lt;/li&gt;&#xA;&lt;li&gt;Մասշտաբայնություն. Պահպանել վերնագրերը, ցուցակները, աղյուսակները և պատկերները։&lt;/li&gt;&#xA;&lt;li&gt;Խնայողություններ. Գիրքը 101 լեզուներով թարգմանելու արժեքը կազմում է ընդամենը մոտ €5 / $6:&lt;br&gt;&#xA;Ստորև կգտնեք ձեր աշխատանքի 101-րդ թարգմանությունը պատվիրելու ամբողջական հրահանգները և պայմանները։&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

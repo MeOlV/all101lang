@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/ny/tags/</link>
+		<link>https://meolv.github.io/all101lang/ny/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ny</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/ny/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/ny/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Google Docs</title>
-				<link>http://localhost:1313/all101lang/ny/tags/google-docs/</link>
+				<link>https://meolv.github.io/all101lang/ny/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ny/tags/google-docs/</guid>
+				<guid>https://meolv.github.io/all101lang/ny/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kukonza Zinthu Mwadongosolo</title>
-				<link>http://localhost:1313/all101lang/ny/tags/kukonza-zinthu-mwadongosolo/</link>
+				<link>https://meolv.github.io/all101lang/ny/tags/kukonza-zinthu-mwadongosolo/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ny/tags/kukonza-zinthu-mwadongosolo/</guid>
+				<guid>https://meolv.github.io/all101lang/ny/tags/kukonza-zinthu-mwadongosolo/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kulemba</title>
-				<link>http://localhost:1313/all101lang/ny/tags/kulemba/</link>
+				<link>https://meolv.github.io/all101lang/ny/tags/kulemba/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ny/tags/kulemba/</guid>
+				<guid>https://meolv.github.io/all101lang/ny/tags/kulemba/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kumasulira</title>
-				<link>http://localhost:1313/all101lang/ny/tags/kumasulira/</link>
+				<link>https://meolv.github.io/all101lang/ny/tags/kumasulira/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ny/tags/kumasulira/</guid>
+				<guid>https://meolv.github.io/all101lang/ny/tags/kumasulira/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nkhani Yolembedwa</title>
-				<link>http://localhost:1313/all101lang/ny/tags/nkhani-yolembedwa/</link>
+				<link>https://meolv.github.io/all101lang/ny/tags/nkhani-yolembedwa/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ny/tags/nkhani-yolembedwa/</guid>
+				<guid>https://meolv.github.io/all101lang/ny/tags/nkhani-yolembedwa/</guid>
 				<description></description>
 			</item>
 	</channel>

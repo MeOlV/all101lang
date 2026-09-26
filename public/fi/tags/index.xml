@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/fi/tags/</link>
+		<link>https://meolv.github.io/all101lang/fi/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>fi</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/fi/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/fi/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Automaatio</title>
-				<link>http://localhost:1313/all101lang/fi/tags/automaatio/</link>
+				<link>https://meolv.github.io/all101lang/fi/tags/automaatio/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/fi/tags/automaatio/</guid>
+				<guid>https://meolv.github.io/all101lang/fi/tags/automaatio/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Docs</title>
-				<link>http://localhost:1313/all101lang/fi/tags/google-docs/</link>
+				<link>https://meolv.github.io/all101lang/fi/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/fi/tags/google-docs/</guid>
+				<guid>https://meolv.github.io/all101lang/fi/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kirjoittaminen</title>
-				<link>http://localhost:1313/all101lang/fi/tags/kirjoittaminen/</link>
+				<link>https://meolv.github.io/all101lang/fi/tags/kirjoittaminen/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/fi/tags/kirjoittaminen/</guid>
+				<guid>https://meolv.github.io/all101lang/fi/tags/kirjoittaminen/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Käännökset</title>
-				<link>http://localhost:1313/all101lang/fi/tags/k%C3%A4%C3%A4nn%C3%B6kset/</link>
+				<link>https://meolv.github.io/all101lang/fi/tags/k%C3%A4%C3%A4nn%C3%B6kset/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/fi/tags/k%C3%A4%C3%A4nn%C3%B6kset/</guid>
+				<guid>https://meolv.github.io/all101lang/fi/tags/k%C3%A4%C3%A4nn%C3%B6kset/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Proosa</title>
-				<link>http://localhost:1313/all101lang/fi/tags/proosa/</link>
+				<link>https://meolv.github.io/all101lang/fi/tags/proosa/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/fi/tags/proosa/</guid>
+				<guid>https://meolv.github.io/all101lang/fi/tags/proosa/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/ja/</link>
+		<link>https://meolv.github.io/all101lang/ja/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ja</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/ja/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/ja/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>自分の本を101言語に数分で翻訳する方法</title>
-				<link>http://localhost:1313/all101lang/ja/announcement/</link>
+				<link>https://meolv.github.io/all101lang/ja/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ja/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/ja/announcement/</guid>
 				<description>&lt;p&gt;GeminiツールとGoogleドキュメントの標準翻訳機能のおかげで、テキストをほぼ瞬時に、しかも最小限のコストでグローバル規模に展開できるようになりました。独自のバッチ処理スクリプトにより、手作業を一切必要とせずに、お客様のドキュメントを100以上の言語に迅速に翻訳するサービスを提供しています。&lt;br&gt;&#xA;効果がある理由：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;超高速：15分で101言語に対応（48,000語の文書の場合、1言語あたり約9秒）。&lt;/li&gt;&#xA;&lt;li&gt;スケーラビリティ：見出し、リスト、表、画像を保持します。&lt;/li&gt;&#xA;&lt;li&gt;節約: 本を 101 言語に翻訳する費用はわずか約 5 ユーロ / 6 ドルです。&lt;br&gt;&#xA;以下に、あなたの作品の101番目の翻訳を注文するための詳細な手順と規約を記載しています。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

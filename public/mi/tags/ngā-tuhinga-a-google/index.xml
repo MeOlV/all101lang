@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Ngā Tuhinga a Google on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/mi/tags/ng%C4%81-tuhinga-a-google/</link>
+		<link>https://meolv.github.io/all101lang/mi/tags/ng%C4%81-tuhinga-a-google/</link>
 		<description>Recent content in Ngā Tuhinga a Google on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>mi</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/mi/tags/ng%C4%81-tuhinga-a-google/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/mi/tags/ng%C4%81-tuhinga-a-google/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Me pēhea te whakamāori i tāu ake pukapuka ki ngā reo 101 i roto i ngā meneti</title>
-				<link>http://localhost:1313/all101lang/mi/announcement/</link>
+				<link>https://meolv.github.io/all101lang/mi/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/mi/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/mi/announcement/</guid>
 				<description>&lt;p&gt;Nā te taputapu Gemini me te kaiwhakamāori paerewa i roto i ngā Tuhinga a Google, kua taea e au te whakarahi ake i ngā tuhinga ki te taumata ao tata tonu, me te iti rawa o te utu. Nā taku ake tuhinga tukatuka puranga, ka tukuna e au he ratonga hei whakamāori tere i tō tuhinga ki roto i te neke atu i te 100 reo, me te kore e hiahiatia he wawaotanga ā-ringa.&lt;br&gt;&#xA;He aha i mahi ai:&lt;/p&gt;</description>
 			</item>
 	</channel>

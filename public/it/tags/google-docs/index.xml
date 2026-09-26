@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Google Docs on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/it/tags/google-docs/</link>
+		<link>https://meolv.github.io/all101lang/it/tags/google-docs/</link>
 		<description>Recent content in Google Docs on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>it</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/it/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/it/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Come tradurre il tuo libro in 101 lingue in pochi minuti</title>
-				<link>http://localhost:1313/all101lang/it/announcement/</link>
+				<link>https://meolv.github.io/all101lang/it/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/it/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/it/announcement/</guid>
 				<description>&lt;p&gt;Lo strumento Gemini e il traduttore standard di Google Docs mi hanno permesso di tradurre testi a livello globale in modo quasi istantaneo e a costi minimi. Grazie a un mio script di elaborazione batch, offro un servizio di traduzione rapida del tuo documento in oltre 100 lingue senza intervento manuale.&lt;br&gt;&#xA;Perché funziona:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultraveloce: 101 lingue in 15 minuti (circa 9 secondi per lingua per un documento di 48.000 parole).&lt;/li&gt;&#xA;&lt;li&gt;Scalabilità: preserva intestazioni, elenchi, tabelle e immagini.&lt;/li&gt;&#xA;&lt;li&gt;Risparmio: il costo della traduzione di un libro in 101 lingue è di soli 5 € / 6 $ circa.&lt;br&gt;&#xA;Di seguito troverete le istruzioni complete e le condizioni per ordinare la 101ª traduzione della vostra opera.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

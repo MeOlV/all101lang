@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/az/tags/</link>
+		<link>https://meolv.github.io/all101lang/az/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>az</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/az/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/az/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Avtomatlaşdırma</title>
-				<link>http://localhost:1313/all101lang/az/tags/avtomatla%C5%9Fd%C4%B1rma/</link>
+				<link>https://meolv.github.io/all101lang/az/tags/avtomatla%C5%9Fd%C4%B1rma/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/az/tags/avtomatla%C5%9Fd%C4%B1rma/</guid>
+				<guid>https://meolv.github.io/all101lang/az/tags/avtomatla%C5%9Fd%C4%B1rma/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Sənədlər</title>
-				<link>http://localhost:1313/all101lang/az/tags/google-s%C9%99n%C9%99dl%C9%99r/</link>
+				<link>https://meolv.github.io/all101lang/az/tags/google-s%C9%99n%C9%99dl%C9%99r/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/az/tags/google-s%C9%99n%C9%99dl%C9%99r/</guid>
+				<guid>https://meolv.github.io/all101lang/az/tags/google-s%C9%99n%C9%99dl%C9%99r/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nəsr</title>
-				<link>http://localhost:1313/all101lang/az/tags/n%C9%99sr/</link>
+				<link>https://meolv.github.io/all101lang/az/tags/n%C9%99sr/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/az/tags/n%C9%99sr/</guid>
+				<guid>https://meolv.github.io/all101lang/az/tags/n%C9%99sr/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Tərcümələr</title>
-				<link>http://localhost:1313/all101lang/az/tags/t%C9%99rc%C3%BCm%C9%99l%C9%99r/</link>
+				<link>https://meolv.github.io/all101lang/az/tags/t%C9%99rc%C3%BCm%C9%99l%C9%99r/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/az/tags/t%C9%99rc%C3%BCm%C9%99l%C9%99r/</guid>
+				<guid>https://meolv.github.io/all101lang/az/tags/t%C9%99rc%C3%BCm%C9%99l%C9%99r/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Yazı</title>
-				<link>http://localhost:1313/all101lang/az/tags/yaz%C4%B1/</link>
+				<link>https://meolv.github.io/all101lang/az/tags/yaz%C4%B1/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/az/tags/yaz%C4%B1/</guid>
+				<guid>https://meolv.github.io/all101lang/az/tags/yaz%C4%B1/</guid>
 				<description></description>
 			</item>
 	</channel>

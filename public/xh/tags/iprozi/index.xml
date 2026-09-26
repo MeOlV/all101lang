@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Iprozi on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/xh/tags/iprozi/</link>
+		<link>https://meolv.github.io/all101lang/xh/tags/iprozi/</link>
 		<description>Recent content in Iprozi on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>xh</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/xh/tags/iprozi/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/xh/tags/iprozi/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Indlela yokuguqulela incwadi yakho kwiilwimi ezili-101 ngemizuzu</title>
-				<link>http://localhost:1313/all101lang/xh/announcement/</link>
+				<link>https://meolv.github.io/all101lang/xh/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/xh/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/xh/announcement/</guid>
 				<description>&lt;p&gt;Isixhobo seGemini kunye nomguquleli oqhelekileyo kwiGoogle Docs zindivumele ukuba ndikwazi ukunyusa imibhalo iye kwinqanaba lehlabathi phantse ngoko nangoko kwaye ngexabiso eliphantsi. Ngenxa yesikripthi sam sokucubungula ibhetshi, ndinikezela ngenkonzo yokuguqulela uxwebhu lwakho ngokukhawuleza kwiilwimi ezingaphezu kwe-100 ngaphandle kokungenelela ngesandla.&lt;br&gt;&#xA;Kutheni isebenza:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ikhawuleza kakhulu: Iilwimi ezili-101 kwimizuzu eli-15 (≈ imizuzwana eli-9 ngolwimi ngalunye kuxwebhu olunamagama angama-48,000).&lt;/li&gt;&#xA;&lt;li&gt;Ukwanda: Gcina izihloko, uluhlu, iitafile, kunye nemifanekiso.&lt;/li&gt;&#xA;&lt;li&gt;Ukonga: Ixabiso lokuguqulela incwadi kwiilwimi ezili-101 limalunga ne-€5 / $6 kuphela.&lt;br&gt;&#xA;Ngezantsi uza kufumana imiyalelo epheleleyo kunye nemigaqo yoku-odola inguqulelo ye-101 yomsebenzi wakho.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

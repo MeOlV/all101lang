@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Συγγραφή on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/el/tags/%CF%83%CF%85%CE%B3%CE%B3%CF%81%CE%B1%CF%86%CE%AE/</link>
+		<link>https://meolv.github.io/all101lang/el/tags/%CF%83%CF%85%CE%B3%CE%B3%CF%81%CE%B1%CF%86%CE%AE/</link>
 		<description>Recent content in Συγγραφή on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>el</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/el/tags/%CF%83%CF%85%CE%B3%CE%B3%CF%81%CE%B1%CF%86%CE%AE/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/el/tags/%CF%83%CF%85%CE%B3%CE%B3%CF%81%CE%B1%CF%86%CE%AE/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Πώς να μεταφράσετε το δικό σας βιβλίο σε 101 γλώσσες σε λίγα λεπτά</title>
-				<link>http://localhost:1313/all101lang/el/announcement/</link>
+				<link>https://meolv.github.io/all101lang/el/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/el/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/el/announcement/</guid>
 				<description>&lt;p&gt;Το εργαλείο Gemini και ο τυπικός μεταφραστής στα Έγγραφα Google μου επέτρεψαν να μετατρέπω κείμενα σε παγκόσμιο επίπεδο σχεδόν άμεσα και με ελάχιστο κόστος. Χάρη στο δικό μου σενάριο μαζικής επεξεργασίας, προσφέρω μια υπηρεσία για γρήγορη μετάφραση του εγγράφου σας σε πάνω από 100 γλώσσες χωρίς χειροκίνητη παρέμβαση.&lt;br&gt;&#xA;Γιατί λειτουργεί:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Υπερταχύτητα: 101 γλώσσες σε 15 λεπτά (≈ 9 δευτερόλεπτα ανά γλώσσα για ένα έγγραφο 48.000 λέξεων).&lt;/li&gt;&#xA;&lt;li&gt;Επεκτασιμότητα: Διατήρηση επικεφαλίδων, λιστών, πινάκων και εικόνων.&lt;/li&gt;&#xA;&lt;li&gt;Εξοικονόμηση: Το κόστος μετάφρασης ενός βιβλίου σε 101 γλώσσες είναι μόνο περίπου 5 € / 6 $.&lt;br&gt;&#xA;Παρακάτω θα βρείτε πλήρεις οδηγίες και όρους για την παραγγελία της 101ης μετάφρασης του έργου σας.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

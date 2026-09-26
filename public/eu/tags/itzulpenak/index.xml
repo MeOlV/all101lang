@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Itzulpenak on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/eu/tags/itzulpenak/</link>
+		<link>https://meolv.github.io/all101lang/eu/tags/itzulpenak/</link>
 		<description>Recent content in Itzulpenak on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>eu</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/eu/tags/itzulpenak/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/eu/tags/itzulpenak/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Nola itzuli zure liburua 101 hizkuntzatara minutu gutxitan</title>
-				<link>http://localhost:1313/all101lang/eu/announcement/</link>
+				<link>https://meolv.github.io/all101lang/eu/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/eu/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/eu/announcement/</guid>
 				<description>&lt;p&gt;Gemini tresnak eta Google Docs-eko itzultzaile estandarrak testuak maila globalera eskalatzeko aukera eman didate ia berehala eta kostu minimoan. Nire prozesatzeko script propioari esker, zure dokumentua 100 hizkuntza baino gehiagotara azkar itzultzeko zerbitzua eskaintzen dut, eskuzko esku-hartzerik gabe.&lt;br&gt;&#xA;Zergatik funtzionatzen duen:&lt;br&gt;&#xA;Ultra-azkarra: 101 hizkuntza 15 minututan (≈ 9 segundo hizkuntza bakoitzeko 48.000 hitzeko dokumentu baterako).&lt;br&gt;&#xA;Eskalagarritasuna: Izenburuak, zerrendak, taulak eta irudiak mantendu.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aurrezkia: Liburu bat 101 hizkuntzatara itzultzearen kostua 5 € / 6 $ ingurukoa da.&lt;br&gt;&#xA;Jarraian, zure lanaren 101. itzulpena eskatzeko argibide eta baldintza osoak aurkituko dituzu.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

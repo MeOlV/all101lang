@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/fa/tags/</link>
+		<link>https://meolv.github.io/all101lang/fa/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>fa</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/fa/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/fa/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>‏نثر، نویسندگی، ترجمه‌ها، گوگل داکس، اتوماسیون</title>
-				<link>http://localhost:1313/all101lang/fa/tags/%D9%86%D8%AB%D8%B1-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%DB%8C-%D8%AA%D8%B1%D8%AC%D9%85%D9%87%D9%87%D8%A7-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%A7%DA%A9%D8%B3-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86/</link>
+				<link>https://meolv.github.io/all101lang/fa/tags/%D9%86%D8%AB%D8%B1-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%DB%8C-%D8%AA%D8%B1%D8%AC%D9%85%D9%87%D9%87%D8%A7-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%A7%DA%A9%D8%B3-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/fa/tags/%D9%86%D8%AB%D8%B1-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%DB%8C-%D8%AA%D8%B1%D8%AC%D9%85%D9%87%D9%87%D8%A7-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%A7%DA%A9%D8%B3-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86/</guid>
+				<guid>https://meolv.github.io/all101lang/fa/tags/%D9%86%D8%AB%D8%B1-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%DB%8C-%D8%AA%D8%B1%D8%AC%D9%85%D9%87%D9%87%D8%A7-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%A7%DA%A9%D8%B3-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86/</guid>
 				<description></description>
 			</item>
 	</channel>

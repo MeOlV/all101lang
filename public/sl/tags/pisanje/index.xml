@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Pisanje on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/sl/tags/pisanje/</link>
+		<link>https://meolv.github.io/all101lang/sl/tags/pisanje/</link>
 		<description>Recent content in Pisanje on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sl</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/sl/tags/pisanje/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/sl/tags/pisanje/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kako v nekaj minutah prevesti svojo knjigo v 101 jezik</title>
-				<link>http://localhost:1313/all101lang/sl/announcement/</link>
+				<link>https://meolv.github.io/all101lang/sl/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sl/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/sl/announcement/</guid>
 				<description>&lt;p&gt;Orodje Gemini in standardni prevajalnik v Google Dokumentih sta mi omogočila skoraj takojšnje in minimalne stroške prilagajanja besedil na globalno raven. Zahvaljujoč lastnemu skriptu za paketno obdelavo ponujam storitev hitrega prevajanja vašega dokumenta v več kot 100 jezikov brez ročnega posredovanja.&lt;br&gt;&#xA;Zakaj deluje:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultra hitro: 101 jezikov v 15 minutah (≈ 9 sekund na jezik za dokument s 48.000 besedami).&lt;/li&gt;&#xA;&lt;li&gt;Prilagodljivost: Ohranite naslove, sezname, tabele in slike.&lt;/li&gt;&#xA;&lt;li&gt;Prihranki: Stroški prevajanja knjige v 101 jezikov znašajo le približno 5 € / 6 $.&lt;br&gt;&#xA;Spodaj boste našli popolna navodila in pogoje za naročilo 101. prevoda vašega dela.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

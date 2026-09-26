@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Proza on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/bs/tags/proza/</link>
+		<link>https://meolv.github.io/all101lang/bs/tags/proza/</link>
 		<description>Recent content in Proza on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>bs</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/bs/tags/proza/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/bs/tags/proza/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kako prevesti vlastitu knjigu na 101 jezik za nekoliko minuta</title>
-				<link>http://localhost:1313/all101lang/bs/announcement/</link>
+				<link>https://meolv.github.io/all101lang/bs/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/bs/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/bs/announcement/</guid>
 				<description>&lt;p&gt;Alat Gemini i standardni prevodilac u Google dokumentima omogućili su mi da gotovo trenutno i uz minimalne troškove skaliram tekstove na globalni nivo. Zahvaljujući vlastitom skriptu za obradu u paketima, nudim uslugu brzog prevođenja vašeg dokumenta na preko 100 jezika bez ručne intervencije.&lt;br&gt;&#xA;Zašto funkcioniše:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultra brzo: 101 jezik za 15 minuta (≈ 9 sekundi po jeziku za dokument od 48.000 riječi).&lt;/li&gt;&#xA;&lt;li&gt;Skalabilnost: Sačuvajte naslove, liste, tabele i slike.&lt;/li&gt;&#xA;&lt;li&gt;Ušteda: Cijena prevođenja knjige na 101 jezik iznosi samo oko 5 € / 6 $.&lt;br&gt;&#xA;U nastavku ćete pronaći kompletna uputstva i uslove za naručivanje 101. prevoda vašeg djela.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

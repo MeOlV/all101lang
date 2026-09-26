@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Prós on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/ga/tags/pr%C3%B3s/</link>
+		<link>https://meolv.github.io/all101lang/ga/tags/pr%C3%B3s/</link>
 		<description>Recent content in Prós on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ga</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/ga/tags/pr%C3%B3s/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/ga/tags/pr%C3%B3s/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Conas do leabhar féin a aistriú go 101 teanga i gceann nóiméad</title>
-				<link>http://localhost:1313/all101lang/ga/announcement/</link>
+				<link>https://meolv.github.io/all101lang/ga/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ga/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/ga/announcement/</guid>
 				<description>&lt;p&gt;A bhuíochas leis an uirlis Gemini agus an t-aistritheoir caighdeánach i Google Docs, is féidir liom téacsanna a scálú go leibhéal domhanda beagnach láithreach agus ar chostas íosta. A bhuíochas le mo script próiseála baisce féin, cuirim seirbhís ar fáil chun do dhoiciméad a aistriú go tapa i níos mó ná 100 teanga gan idirghabháil láimhe.&lt;br&gt;&#xA;Cén fáth a n-oibríonn sé:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An-tapa: 101 teanga i 15 nóiméad (≈ 9 soicind in aghaidh na teanga le haghaidh doiciméad 48,000 focal).&lt;/li&gt;&#xA;&lt;li&gt;Inscálaitheacht: Ceannteidil, liostaí, táblaí agus íomhánna a chaomhnú.&lt;/li&gt;&#xA;&lt;li&gt;Coigilteas: Ní chosnaíonn aistriú leabhair go 101 teanga ach thart ar €5 / $6.&lt;br&gt;&#xA;Gheobhaidh tú treoracha agus téarmaí iomlána thíos maidir le hordú a dhéanamh ar an 101ú aistriúchán de do shaothar.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

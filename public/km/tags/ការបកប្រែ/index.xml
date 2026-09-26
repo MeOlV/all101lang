@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>ការបកប្រែ on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/km/tags/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%94%E1%9E%80%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9F%82/</link>
+		<link>https://meolv.github.io/all101lang/km/tags/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%94%E1%9E%80%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9F%82/</link>
 		<description>Recent content in ការបកប្រែ on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>km</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/km/tags/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%94%E1%9E%80%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9F%82/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/km/tags/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%94%E1%9E%80%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9F%82/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>របៀបបកប្រែសៀវភៅផ្ទាល់ខ្លួនរបស់អ្នកទៅជា ១០១ ភាសាក្នុងរយៈពេលប៉ុន្មាននាទី</title>
-				<link>http://localhost:1313/all101lang/km/announcement/</link>
+				<link>https://meolv.github.io/all101lang/km/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/km/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/km/announcement/</guid>
 				<description>&lt;p&gt;ឧបករណ៍ Gemini និងអ្នកបកប្រែស្តង់ដារនៅក្នុង Google Docs បានអនុញ្ញាតឱ្យខ្ញុំធ្វើមាត្រដ្ឋានអត្ថបទដល់កម្រិតសកលស្ទើរតែភ្លាមៗ និងចំណាយតិចបំផុត។ សូមអរគុណចំពោះស្គ្រីបដំណើរការជាបាច់របស់ខ្ញុំផ្ទាល់ ខ្ញុំផ្តល់ជូនសេវាកម្មដើម្បីបកប្រែឯកសាររបស់អ្នកយ៉ាងរហ័សទៅជាភាសាជាង 100 ដោយមិនចាំបាច់ធ្វើអន្តរាគមន៍ដោយដៃ។&lt;br&gt;&#xA;ហេតុអ្វីបានជាវាដំណើរការ៖&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;លឿនបំផុត៖ ១០១ ភាសាក្នុងរយៈពេល ១៥ នាទី (≈ ៩ វិនាទីក្នុងមួយភាសាសម្រាប់ឯកសារ ៤៨,០០០ ពាក្យ)។&lt;/li&gt;&#xA;&lt;li&gt;សមត្ថភាពធ្វើមាត្រដ្ឋាន៖ រក្សាចំណងជើង បញ្ជី តារាង និងរូបភាព។&lt;/li&gt;&#xA;&lt;li&gt;ការសន្សំ៖ តម្លៃនៃការបកប្រែសៀវភៅមួយក្បាលទៅជា ១០១ ភាសាគឺត្រឹមតែប្រហែល ៥ អឺរ៉ូ / ៦ ដុល្លារប៉ុណ្ណោះ។&lt;br&gt;&#xA;ខាងក្រោមនេះ អ្នកនឹងឃើញការណែនាំ និងលក្ខខណ្ឌពេញលេញសម្រាប់ការបញ្ជាទិញការបកប្រែលើកទី 101 នៃការងាររបស់អ្នក។&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

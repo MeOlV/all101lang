@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Google Docs on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/so/tags/google-docs/</link>
+		<link>https://meolv.github.io/all101lang/so/tags/google-docs/</link>
 		<description>Recent content in Google Docs on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>so</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/so/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/so/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Sida buuggaaga loogu turjumo 101 luqadood daqiiqado gudahood</title>
-				<link>http://localhost:1313/all101lang/so/announcement/</link>
+				<link>https://meolv.github.io/all101lang/so/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/so/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/so/announcement/</guid>
 				<description>&lt;p&gt;Qalabka Gemini iyo turjumaanka caadiga ah ee Google Docs ayaa ii oggolaaday inaan qoraallada u rogo heer caalami ah isla markiiba iyo kharash yar. Iyada oo ay ugu wacan tahay qoraalkayga habaynta dufcadda, waxaan bixiyaa adeeg si dhakhso leh loogu turjumo dukumeentigaaga in ka badan 100 luqadood iyada oo aan la faragelin gacanta.&lt;br&gt;&#xA;Sababta ay u shaqeyso:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aad u dhakhso badan: 101 luqadood 15 daqiiqo gudahood (≈ 9 ilbiriqsi luqad kasta oo loogu talagalay dukumeenti 48,000 oo eray ah).&lt;/li&gt;&#xA;&lt;li&gt;Cabbiraadda: Ilaali cinwaanada, liisaska, jadwalka, iyo sawirrada.&lt;/li&gt;&#xA;&lt;li&gt;Keydinta: Qiimaha turjumaadda buug 101 luqadood waa qiyaastii €5 / $6 oo keliya.&lt;br&gt;&#xA;Hoos waxaad ka heli doontaa tilmaamo dhammaystiran iyo shuruudo ku saabsan dalbashada turjumaadda 101aad ee shaqadaada.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

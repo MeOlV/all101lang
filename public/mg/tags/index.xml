@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/mg/tags/</link>
+		<link>https://meolv.github.io/all101lang/mg/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>mg</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/mg/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/mg/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Famoahana Ho Azy</title>
-				<link>http://localhost:1313/all101lang/mg/tags/famoahana-ho-azy/</link>
+				<link>https://meolv.github.io/all101lang/mg/tags/famoahana-ho-azy/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/mg/tags/famoahana-ho-azy/</guid>
+				<guid>https://meolv.github.io/all101lang/mg/tags/famoahana-ho-azy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fandikan-Teny</title>
-				<link>http://localhost:1313/all101lang/mg/tags/fandikan-teny/</link>
+				<link>https://meolv.github.io/all101lang/mg/tags/fandikan-teny/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/mg/tags/fandikan-teny/</guid>
+				<guid>https://meolv.github.io/all101lang/mg/tags/fandikan-teny/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fanoratana</title>
-				<link>http://localhost:1313/all101lang/mg/tags/fanoratana/</link>
+				<link>https://meolv.github.io/all101lang/mg/tags/fanoratana/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/mg/tags/fanoratana/</guid>
+				<guid>https://meolv.github.io/all101lang/mg/tags/fanoratana/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Docs</title>
-				<link>http://localhost:1313/all101lang/mg/tags/google-docs/</link>
+				<link>https://meolv.github.io/all101lang/mg/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/mg/tags/google-docs/</guid>
+				<guid>https://meolv.github.io/all101lang/mg/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Lahatsoratra Fohy</title>
-				<link>http://localhost:1313/all101lang/mg/tags/lahatsoratra-fohy/</link>
+				<link>https://meolv.github.io/all101lang/mg/tags/lahatsoratra-fohy/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/mg/tags/lahatsoratra-fohy/</guid>
+				<guid>https://meolv.github.io/all101lang/mg/tags/lahatsoratra-fohy/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/te/</link>
+		<link>https://meolv.github.io/all101lang/te/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>te</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/te/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/te/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>మీ స్వంత పుస్తకాన్ని నిమిషాల్లో 101 భాషల్లోకి ఎలా అనువదించాలి</title>
-				<link>http://localhost:1313/all101lang/te/announcement/</link>
+				<link>https://meolv.github.io/all101lang/te/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/te/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/te/announcement/</guid>
 				<description>&lt;p&gt;జెమిని టూల్ మరియు గూగుల్ డాక్స్‌లోని ప్రామాణిక అనువాదకుడు, అతి తక్కువ ఖర్చుతో, దాదాపు తక్షణమే పాఠ్యాలను ప్రపంచవ్యాప్త స్థాయికి విస్తరించడానికి నాకు వీలు కల్పించాయి. నా స్వంత బ్యాచ్ ప్రాసెసింగ్ స్క్రిప్ట్‌కు ధన్యవాదాలు, నేను మానవ ప్రమేయం లేకుండా మీ పత్రాన్ని 100కు పైగా భాషల్లోకి వేగంగా అనువదించే సేవను అందిస్తున్నాను.&lt;br&gt;&#xA;ఇది ఎందుకు పనిచేస్తుంది:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;అత్యంత వేగవంతమైనది: 15 నిమిషాల్లో 101 భాషలు (48,000 పదాల పత్రానికి ఒక్కో భాషకు సుమారు 9 సెకన్లు).&lt;/li&gt;&#xA;&lt;li&gt;స్కేలబిలిటీ: శీర్షికలు, జాబితాలు, పట్టికలు మరియు చిత్రాలను భద్రపరచండి.&lt;/li&gt;&#xA;&lt;li&gt;ఆదా: ఒక పుస్తకాన్ని 101 భాషల్లోకి అనువదించడానికి అయ్యే ఖర్చు కేవలం €5 / $6 మాత్రమే.&lt;br&gt;&#xA;మీ రచన యొక్క 101వ అనువాదాన్ని ఆర్డర్ చేయడానికి పూర్తి సూచనలు మరియు నిబంధనలు క్రింద ఇవ్వబడ్డాయి.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

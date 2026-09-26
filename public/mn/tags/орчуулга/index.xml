@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Орчуулга on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/mn/tags/%D0%BE%D1%80%D1%87%D1%83%D1%83%D0%BB%D0%B3%D0%B0/</link>
+		<link>https://meolv.github.io/all101lang/mn/tags/%D0%BE%D1%80%D1%87%D1%83%D1%83%D0%BB%D0%B3%D0%B0/</link>
 		<description>Recent content in Орчуулга on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>mn</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/mn/tags/%D0%BE%D1%80%D1%87%D1%83%D1%83%D0%BB%D0%B3%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/mn/tags/%D0%BE%D1%80%D1%87%D1%83%D1%83%D0%BB%D0%B3%D0%B0/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Өөрийн номоо хэдхэн минутын дотор 101 хэл рүү хэрхэн орчуулах вэ</title>
-				<link>http://localhost:1313/all101lang/mn/announcement/</link>
+				<link>https://meolv.github.io/all101lang/mn/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/mn/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/mn/announcement/</guid>
 				<description>&lt;p&gt;Gemini хэрэгсэл болон Google Docs дахь стандарт орчуулагч нь надад текстийг бараг тэр даруй, хамгийн бага өртгөөр дэлхийн түвшинд хүргэх боломжийг олгосон. Миний багц боловсруулах скриптийн ачаар би таны баримт бичгийг гараар оролцоогүйгээр 100 гаруй хэл рүү хурдан орчуулах үйлчилгээг санал болгож байна.&lt;br&gt;&#xA;Яагаад ажилладаг вэ:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Хэт хурдан: 15 минутад 101 хэл (48,000 үгтэй баримт бичигт хэл тус бүрт ≈ 9 секунд).&lt;/li&gt;&#xA;&lt;li&gt;Өргөтгөх боломжтой байдал: Гарчиг, жагсаалт, хүснэгт болон зургийг хадгалах.&lt;/li&gt;&#xA;&lt;li&gt;Хэмнэлт: Номыг 101 хэл рүү орчуулах зардал ердөө €5 / $6 орчим байна.&lt;br&gt;&#xA;Доор та бүтээлийнхээ 101 дэх орчуулгыг захиалах бүрэн заавар, нөхцөлийг олох болно.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

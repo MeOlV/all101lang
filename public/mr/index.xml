@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/mr/</link>
+		<link>https://meolv.github.io/all101lang/mr/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>mr</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/mr/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/mr/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>तुमचे स्वतःचे पुस्तक काही मिनिटांत १०१ भाषांमध्ये कसे भाषांतरित करावे</title>
-				<link>http://localhost:1313/all101lang/mr/announcement/</link>
+				<link>https://meolv.github.io/all101lang/mr/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/mr/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/mr/announcement/</guid>
 				<description>&lt;p&gt;जेमिनी टूल आणि गूगल डॉक्समधील स्टँडर्ड ट्रान्सलेटरमुळे मला मजकूर जवळजवळ त्वरित आणि कमीत कमी खर्चात जागतिक स्तरावर विस्तारित करता आला आहे. माझ्या स्वतःच्या बॅच प्रोसेसिंग स्क्रिप्टमुळे, मी कोणत्याही मानवी हस्तक्षेपाशिवाय तुमचा दस्तऐवज १०० हून अधिक भाषांमध्ये जलदगतीने अनुवादित करण्याची सेवा देतो.&lt;br&gt;&#xA;हे का काम करते:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;अति वेगवान: १५ मिनिटांत १०१ भाषा (४८,००० शब्दांच्या दस्तऐवजासाठी प्रति भाषा ≈ ९ सेकंद).&lt;/li&gt;&#xA;&lt;li&gt;स्केलेबिलिटी: शीर्षके, सूची, सारण्या आणि प्रतिमा जतन करा.&lt;/li&gt;&#xA;&lt;li&gt;बचत: एका पुस्तकाचे १०१ भाषांमध्ये भाषांतर करण्याचा खर्च फक्त अंदाजे ५ युरो / ६ डॉलर येतो.&lt;br&gt;&#xA;आपल्या कामाच्या १०१ व्या अनुवादाची ऑर्डर देण्यासाठीच्या संपूर्ण सूचना आणि अटी तुम्हाला खाली मिळतील.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

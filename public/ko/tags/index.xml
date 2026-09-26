@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/ko/tags/</link>
+		<link>https://meolv.github.io/all101lang/ko/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ko</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/ko/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/ko/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Google Docs</title>
-				<link>http://localhost:1313/all101lang/ko/tags/google-docs/</link>
+				<link>https://meolv.github.io/all101lang/ko/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ko/tags/google-docs/</guid>
+				<guid>https://meolv.github.io/all101lang/ko/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>글쓰기</title>
-				<link>http://localhost:1313/all101lang/ko/tags/%EA%B8%80%EC%93%B0%EA%B8%B0/</link>
+				<link>https://meolv.github.io/all101lang/ko/tags/%EA%B8%80%EC%93%B0%EA%B8%B0/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ko/tags/%EA%B8%80%EC%93%B0%EA%B8%B0/</guid>
+				<guid>https://meolv.github.io/all101lang/ko/tags/%EA%B8%80%EC%93%B0%EA%B8%B0/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>번역</title>
-				<link>http://localhost:1313/all101lang/ko/tags/%EB%B2%88%EC%97%AD/</link>
+				<link>https://meolv.github.io/all101lang/ko/tags/%EB%B2%88%EC%97%AD/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ko/tags/%EB%B2%88%EC%97%AD/</guid>
+				<guid>https://meolv.github.io/all101lang/ko/tags/%EB%B2%88%EC%97%AD/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>산문</title>
-				<link>http://localhost:1313/all101lang/ko/tags/%EC%82%B0%EB%AC%B8/</link>
+				<link>https://meolv.github.io/all101lang/ko/tags/%EC%82%B0%EB%AC%B8/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ko/tags/%EC%82%B0%EB%AC%B8/</guid>
+				<guid>https://meolv.github.io/all101lang/ko/tags/%EC%82%B0%EB%AC%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>자동화</title>
-				<link>http://localhost:1313/all101lang/ko/tags/%EC%9E%90%EB%8F%99%ED%99%94/</link>
+				<link>https://meolv.github.io/all101lang/ko/tags/%EC%9E%90%EB%8F%99%ED%99%94/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ko/tags/%EC%9E%90%EB%8F%99%ED%99%94/</guid>
+				<guid>https://meolv.github.io/all101lang/ko/tags/%EC%9E%90%EB%8F%99%ED%99%94/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/yo/tags/</link>
+		<link>https://meolv.github.io/all101lang/yo/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>yo</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/yo/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/yo/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Àdáṣe</title>
-				<link>http://localhost:1313/all101lang/yo/tags/%C3%A0d%C3%A1%E1%B9%A3e/</link>
+				<link>https://meolv.github.io/all101lang/yo/tags/%C3%A0d%C3%A1%E1%B9%A3e/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/yo/tags/%C3%A0d%C3%A1%E1%B9%A3e/</guid>
+				<guid>https://meolv.github.io/all101lang/yo/tags/%C3%A0d%C3%A1%E1%B9%A3e/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Àwọn Ìwé Google</title>
-				<link>http://localhost:1313/all101lang/yo/tags/%C3%A0w%E1%BB%8Dn-%C3%ACw%C3%A9-google/</link>
+				<link>https://meolv.github.io/all101lang/yo/tags/%C3%A0w%E1%BB%8Dn-%C3%ACw%C3%A9-google/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/yo/tags/%C3%A0w%E1%BB%8Dn-%C3%ACw%C3%A9-google/</guid>
+				<guid>https://meolv.github.io/all101lang/yo/tags/%C3%A0w%E1%BB%8Dn-%C3%ACw%C3%A9-google/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ìkọ̀wé</title>
-				<link>http://localhost:1313/all101lang/yo/tags/%C3%ACk%E1%BB%8D%CC%80w%C3%A9/</link>
+				<link>https://meolv.github.io/all101lang/yo/tags/%C3%ACk%E1%BB%8D%CC%80w%C3%A9/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/yo/tags/%C3%ACk%E1%BB%8D%CC%80w%C3%A9/</guid>
+				<guid>https://meolv.github.io/all101lang/yo/tags/%C3%ACk%E1%BB%8D%CC%80w%C3%A9/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ìròyìn</title>
-				<link>http://localhost:1313/all101lang/yo/tags/%C3%ACr%C3%B2y%C3%ACn/</link>
+				<link>https://meolv.github.io/all101lang/yo/tags/%C3%ACr%C3%B2y%C3%ACn/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/yo/tags/%C3%ACr%C3%B2y%C3%ACn/</guid>
+				<guid>https://meolv.github.io/all101lang/yo/tags/%C3%ACr%C3%B2y%C3%ACn/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ìtumọ̀</title>
-				<link>http://localhost:1313/all101lang/yo/tags/%C3%ACtum%E1%BB%8D%CC%80/</link>
+				<link>https://meolv.github.io/all101lang/yo/tags/%C3%ACtum%E1%BB%8D%CC%80/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/yo/tags/%C3%ACtum%E1%BB%8D%CC%80/</guid>
+				<guid>https://meolv.github.io/all101lang/yo/tags/%C3%ACtum%E1%BB%8D%CC%80/</guid>
 				<description></description>
 			</item>
 	</channel>

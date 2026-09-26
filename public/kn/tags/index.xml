@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/kn/tags/</link>
+		<link>https://meolv.github.io/all101lang/kn/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>kn</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/kn/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/kn/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Google ಡಾಕ್ಸ್</title>
-				<link>http://localhost:1313/all101lang/kn/tags/google-%E0%B2%A1%E0%B2%BE%E0%B2%95%E0%B3%8D%E0%B2%B8%E0%B3%8D/</link>
+				<link>https://meolv.github.io/all101lang/kn/tags/google-%E0%B2%A1%E0%B2%BE%E0%B2%95%E0%B3%8D%E0%B2%B8%E0%B3%8D/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/kn/tags/google-%E0%B2%A1%E0%B2%BE%E0%B2%95%E0%B3%8D%E0%B2%B8%E0%B3%8D/</guid>
+				<guid>https://meolv.github.io/all101lang/kn/tags/google-%E0%B2%A1%E0%B2%BE%E0%B2%95%E0%B3%8D%E0%B2%B8%E0%B3%8D/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ಅನುವಾದಗಳು</title>
-				<link>http://localhost:1313/all101lang/kn/tags/%E0%B2%85%E0%B2%A8%E0%B3%81%E0%B2%B5%E0%B2%BE%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81/</link>
+				<link>https://meolv.github.io/all101lang/kn/tags/%E0%B2%85%E0%B2%A8%E0%B3%81%E0%B2%B5%E0%B2%BE%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/kn/tags/%E0%B2%85%E0%B2%A8%E0%B3%81%E0%B2%B5%E0%B2%BE%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81/</guid>
+				<guid>https://meolv.github.io/all101lang/kn/tags/%E0%B2%85%E0%B2%A8%E0%B3%81%E0%B2%B5%E0%B2%BE%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ಆಟೋಮೇಷನ್</title>
-				<link>http://localhost:1313/all101lang/kn/tags/%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%AE%E0%B3%87%E0%B2%B7%E0%B2%A8%E0%B3%8D/</link>
+				<link>https://meolv.github.io/all101lang/kn/tags/%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%AE%E0%B3%87%E0%B2%B7%E0%B2%A8%E0%B3%8D/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/kn/tags/%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%AE%E0%B3%87%E0%B2%B7%E0%B2%A8%E0%B3%8D/</guid>
+				<guid>https://meolv.github.io/all101lang/kn/tags/%E0%B2%86%E0%B2%9F%E0%B3%8B%E0%B2%AE%E0%B3%87%E0%B2%B7%E0%B2%A8%E0%B3%8D/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ಗದ್ಯ</title>
-				<link>http://localhost:1313/all101lang/kn/tags/%E0%B2%97%E0%B2%A6%E0%B3%8D%E0%B2%AF/</link>
+				<link>https://meolv.github.io/all101lang/kn/tags/%E0%B2%97%E0%B2%A6%E0%B3%8D%E0%B2%AF/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/kn/tags/%E0%B2%97%E0%B2%A6%E0%B3%8D%E0%B2%AF/</guid>
+				<guid>https://meolv.github.io/all101lang/kn/tags/%E0%B2%97%E0%B2%A6%E0%B3%8D%E0%B2%AF/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ಬರವಣಿಗೆ</title>
-				<link>http://localhost:1313/all101lang/kn/tags/%E0%B2%AC%E0%B2%B0%E0%B2%B5%E0%B2%A3%E0%B2%BF%E0%B2%97%E0%B3%86/</link>
+				<link>https://meolv.github.io/all101lang/kn/tags/%E0%B2%AC%E0%B2%B0%E0%B2%B5%E0%B2%A3%E0%B2%BF%E0%B2%97%E0%B3%86/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/kn/tags/%E0%B2%AC%E0%B2%B0%E0%B2%B5%E0%B2%A3%E0%B2%BF%E0%B2%97%E0%B3%86/</guid>
+				<guid>https://meolv.github.io/all101lang/kn/tags/%E0%B2%AC%E0%B2%B0%E0%B2%B5%E0%B2%A3%E0%B2%BF%E0%B2%97%E0%B3%86/</guid>
 				<description></description>
 			</item>
 	</channel>

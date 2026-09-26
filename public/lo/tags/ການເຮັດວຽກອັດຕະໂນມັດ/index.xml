@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>ການເຮັດວຽກອັດຕະໂນມັດ on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%80%E0%BA%AE%E0%BA%B1%E0%BA%94%E0%BA%A7%E0%BA%BD%E0%BA%81%E0%BA%AD%E0%BA%B1%E0%BA%94%E0%BA%95%E0%BA%B0%E0%BB%82%E0%BA%99%E0%BA%A1%E0%BA%B1%E0%BA%94/</link>
+		<link>https://meolv.github.io/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%80%E0%BA%AE%E0%BA%B1%E0%BA%94%E0%BA%A7%E0%BA%BD%E0%BA%81%E0%BA%AD%E0%BA%B1%E0%BA%94%E0%BA%95%E0%BA%B0%E0%BB%82%E0%BA%99%E0%BA%A1%E0%BA%B1%E0%BA%94/</link>
 		<description>Recent content in ການເຮັດວຽກອັດຕະໂນມັດ on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>lo</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%80%E0%BA%AE%E0%BA%B1%E0%BA%94%E0%BA%A7%E0%BA%BD%E0%BA%81%E0%BA%AD%E0%BA%B1%E0%BA%94%E0%BA%95%E0%BA%B0%E0%BB%82%E0%BA%99%E0%BA%A1%E0%BA%B1%E0%BA%94/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%80%E0%BA%AE%E0%BA%B1%E0%BA%94%E0%BA%A7%E0%BA%BD%E0%BA%81%E0%BA%AD%E0%BA%B1%E0%BA%94%E0%BA%95%E0%BA%B0%E0%BB%82%E0%BA%99%E0%BA%A1%E0%BA%B1%E0%BA%94/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>ວິທີການແປປຶ້ມຂອງເຈົ້າເອງເປັນ 101 ພາສາພາຍໃນນາທີ</title>
-				<link>http://localhost:1313/all101lang/lo/announcement/</link>
+				<link>https://meolv.github.io/all101lang/lo/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/lo/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/lo/announcement/</guid>
 				<description>&lt;p&gt;ເຄື່ອງມື Gemini ແລະຕົວແປມາດຕະຖານໃນ Google Docs ໄດ້ຊ່ວຍໃຫ້ຂ້ອຍສາມາດປັບຂະໜາດຂໍ້ຄວາມໃຫ້ຢູ່ໃນລະດັບໂລກໄດ້ທັນທີ ແລະ ມີຄ່າໃຊ້ຈ່າຍໜ້ອຍທີ່ສຸດ. ຂໍຂອບໃຈກັບສະຄຣິບປະມວນຜົນແບບ batch ຂອງຂ້ອຍເອງ, ຂ້ອຍສະເໜີບໍລິການເພື່ອແປເອກະສານຂອງເຈົ້າໄດ້ໄວເປັນຫຼາຍກວ່າ 100 ພາສາໂດຍບໍ່ມີການແຊກແຊງດ້ວຍຕົນເອງ.&lt;br&gt;&#xA;ເປັນຫຍັງມັນຈຶ່ງໃຊ້ໄດ້:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ໄວຫຼາຍ: 101 ພາສາໃນ 15 ນາທີ (≈ 9 ວິນາທີຕໍ່ພາສາສຳລັບເອກະສານ 48,000 ຄຳ).&lt;/li&gt;&#xA;&lt;li&gt;ຄວາມສາມາດໃນການຂະຫຍາຍ: ຮັກສາຫົວຂໍ້, ລາຍຊື່, ຕາຕະລາງ ແລະ ຮູບພາບ.&lt;/li&gt;&#xA;&lt;li&gt;ປະຢັດ: ຄ່າໃຊ້ຈ່າຍໃນການແປປຶ້ມເປັນ 101 ພາສາແມ່ນພຽງແຕ່ປະມານ €5 / $6 ເທົ່ານັ້ນ.&lt;br&gt;&#xA;ຂ້າງລຸ່ມນີ້ທ່ານຈະພົບເຫັນຄໍາແນະນໍາແລະເງື່ອນໄຂທີ່ສົມບູນສໍາລັບການສັ່ງຊື້ການແປພາສາຄັ້ງທີ 101 ຂອງຜົນງານຂອງທ່ານ.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

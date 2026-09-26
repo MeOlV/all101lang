@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/ku/tags/</link>
+		<link>https://meolv.github.io/all101lang/ku/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ku</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/ku/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/ku/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Belgeyên Google</title>
-				<link>http://localhost:1313/all101lang/ku/tags/belgey%C3%AAn-google/</link>
+				<link>https://meolv.github.io/all101lang/ku/tags/belgey%C3%AAn-google/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ku/tags/belgey%C3%AAn-google/</guid>
+				<guid>https://meolv.github.io/all101lang/ku/tags/belgey%C3%AAn-google/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nivîsandin</title>
-				<link>http://localhost:1313/all101lang/ku/tags/niv%C3%AEsandin/</link>
+				<link>https://meolv.github.io/all101lang/ku/tags/niv%C3%AEsandin/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ku/tags/niv%C3%AEsandin/</guid>
+				<guid>https://meolv.github.io/all101lang/ku/tags/niv%C3%AEsandin/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Otomasyon</title>
-				<link>http://localhost:1313/all101lang/ku/tags/otomasyon/</link>
+				<link>https://meolv.github.io/all101lang/ku/tags/otomasyon/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ku/tags/otomasyon/</guid>
+				<guid>https://meolv.github.io/all101lang/ku/tags/otomasyon/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Wergerandin</title>
-				<link>http://localhost:1313/all101lang/ku/tags/wergerandin/</link>
+				<link>https://meolv.github.io/all101lang/ku/tags/wergerandin/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/ku/tags/wergerandin/</guid>
+				<guid>https://meolv.github.io/all101lang/ku/tags/wergerandin/</guid>
 				<description></description>
 			</item>
 	</channel>

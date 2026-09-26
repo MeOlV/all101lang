@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/sv/tags/</link>
+		<link>https://meolv.github.io/all101lang/sv/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sv</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/sv/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/sv/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Automatisering</title>
-				<link>http://localhost:1313/all101lang/sv/tags/automatisering/</link>
+				<link>https://meolv.github.io/all101lang/sv/tags/automatisering/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sv/tags/automatisering/</guid>
+				<guid>https://meolv.github.io/all101lang/sv/tags/automatisering/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Dokument</title>
-				<link>http://localhost:1313/all101lang/sv/tags/google-dokument/</link>
+				<link>https://meolv.github.io/all101lang/sv/tags/google-dokument/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sv/tags/google-dokument/</guid>
+				<guid>https://meolv.github.io/all101lang/sv/tags/google-dokument/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Prosa</title>
-				<link>http://localhost:1313/all101lang/sv/tags/prosa/</link>
+				<link>https://meolv.github.io/all101lang/sv/tags/prosa/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sv/tags/prosa/</guid>
+				<guid>https://meolv.github.io/all101lang/sv/tags/prosa/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Skrivande</title>
-				<link>http://localhost:1313/all101lang/sv/tags/skrivande/</link>
+				<link>https://meolv.github.io/all101lang/sv/tags/skrivande/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sv/tags/skrivande/</guid>
+				<guid>https://meolv.github.io/all101lang/sv/tags/skrivande/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Översättningar</title>
-				<link>http://localhost:1313/all101lang/sv/tags/%C3%B6vers%C3%A4ttningar/</link>
+				<link>https://meolv.github.io/all101lang/sv/tags/%C3%B6vers%C3%A4ttningar/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sv/tags/%C3%B6vers%C3%A4ttningar/</guid>
+				<guid>https://meolv.github.io/all101lang/sv/tags/%C3%B6vers%C3%A4ttningar/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/lb/tags/</link>
+		<link>https://meolv.github.io/all101lang/lb/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>lb</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/lb/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/lb/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Automatiséierung</title>
-				<link>http://localhost:1313/all101lang/lb/tags/automatis%C3%A9ierung/</link>
+				<link>https://meolv.github.io/all101lang/lb/tags/automatis%C3%A9ierung/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/lb/tags/automatis%C3%A9ierung/</guid>
+				<guid>https://meolv.github.io/all101lang/lb/tags/automatis%C3%A9ierung/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Docs</title>
-				<link>http://localhost:1313/all101lang/lb/tags/google-docs/</link>
+				<link>https://meolv.github.io/all101lang/lb/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/lb/tags/google-docs/</guid>
+				<guid>https://meolv.github.io/all101lang/lb/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Iwwersetzungen</title>
-				<link>http://localhost:1313/all101lang/lb/tags/iwwersetzungen/</link>
+				<link>https://meolv.github.io/all101lang/lb/tags/iwwersetzungen/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/lb/tags/iwwersetzungen/</guid>
+				<guid>https://meolv.github.io/all101lang/lb/tags/iwwersetzungen/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Prosa</title>
-				<link>http://localhost:1313/all101lang/lb/tags/prosa/</link>
+				<link>https://meolv.github.io/all101lang/lb/tags/prosa/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/lb/tags/prosa/</guid>
+				<guid>https://meolv.github.io/all101lang/lb/tags/prosa/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Schreiwen</title>
-				<link>http://localhost:1313/all101lang/lb/tags/schreiwen/</link>
+				<link>https://meolv.github.io/all101lang/lb/tags/schreiwen/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/lb/tags/schreiwen/</guid>
+				<guid>https://meolv.github.io/all101lang/lb/tags/schreiwen/</guid>
 				<description></description>
 			</item>
 	</channel>

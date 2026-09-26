@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/sl/tags/</link>
+		<link>https://meolv.github.io/all101lang/sl/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sl</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/sl/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/sl/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Avtomatizacija</title>
-				<link>http://localhost:1313/all101lang/sl/tags/avtomatizacija/</link>
+				<link>https://meolv.github.io/all101lang/sl/tags/avtomatizacija/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sl/tags/avtomatizacija/</guid>
+				<guid>https://meolv.github.io/all101lang/sl/tags/avtomatizacija/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Dokumenti</title>
-				<link>http://localhost:1313/all101lang/sl/tags/google-dokumenti/</link>
+				<link>https://meolv.github.io/all101lang/sl/tags/google-dokumenti/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sl/tags/google-dokumenti/</guid>
+				<guid>https://meolv.github.io/all101lang/sl/tags/google-dokumenti/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Pisanje</title>
-				<link>http://localhost:1313/all101lang/sl/tags/pisanje/</link>
+				<link>https://meolv.github.io/all101lang/sl/tags/pisanje/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sl/tags/pisanje/</guid>
+				<guid>https://meolv.github.io/all101lang/sl/tags/pisanje/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Prevodi</title>
-				<link>http://localhost:1313/all101lang/sl/tags/prevodi/</link>
+				<link>https://meolv.github.io/all101lang/sl/tags/prevodi/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sl/tags/prevodi/</guid>
+				<guid>https://meolv.github.io/all101lang/sl/tags/prevodi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Proza</title>
-				<link>http://localhost:1313/all101lang/sl/tags/proza/</link>
+				<link>https://meolv.github.io/all101lang/sl/tags/proza/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sl/tags/proza/</guid>
+				<guid>https://meolv.github.io/all101lang/sl/tags/proza/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/sm/tags/</link>
+		<link>https://meolv.github.io/all101lang/sm/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sm</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/sm/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/sm/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Fa&#39;aautomatika</title>
-				<link>http://localhost:1313/all101lang/sm/tags/faaautomatika/</link>
+				<link>https://meolv.github.io/all101lang/sm/tags/faaautomatika/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sm/tags/faaautomatika/</guid>
+				<guid>https://meolv.github.io/all101lang/sm/tags/faaautomatika/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Faaliliuga</title>
-				<link>http://localhost:1313/all101lang/sm/tags/faaliliuga/</link>
+				<link>https://meolv.github.io/all101lang/sm/tags/faaliliuga/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sm/tags/faaliliuga/</guid>
+				<guid>https://meolv.github.io/all101lang/sm/tags/faaliliuga/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Docs</title>
-				<link>http://localhost:1313/all101lang/sm/tags/google-docs/</link>
+				<link>https://meolv.github.io/all101lang/sm/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sm/tags/google-docs/</guid>
+				<guid>https://meolv.github.io/all101lang/sm/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Tusitusiga</title>
-				<link>http://localhost:1313/all101lang/sm/tags/tusitusiga/</link>
+				<link>https://meolv.github.io/all101lang/sm/tags/tusitusiga/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sm/tags/tusitusiga/</guid>
+				<guid>https://meolv.github.io/all101lang/sm/tags/tusitusiga/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Proza on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/lt/tags/proza/</link>
+		<link>https://meolv.github.io/all101lang/lt/tags/proza/</link>
 		<description>Recent content in Proza on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>lt</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/lt/tags/proza/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/lt/tags/proza/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kaip per kelias minutes išversti savo knygą į 101 kalbą</title>
-				<link>http://localhost:1313/all101lang/lt/announcement/</link>
+				<link>https://meolv.github.io/all101lang/lt/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/lt/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/lt/announcement/</guid>
 				<description>&lt;p&gt;„Gemini“ įrankis ir standartinis „Google“ dokumentų vertėjas leido man beveik akimirksniu ir minimaliomis sąnaudomis pritaikyti tekstus pasauliniu mastu. Dėl savo paties sukurto paketinio apdorojimo scenarijaus siūlau paslaugą, leidžiančią greitai išversti jūsų dokumentą į daugiau nei 100 kalbų be rankinio įsikišimo.&lt;br&gt;&#xA;Kodėl tai veikia:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Itin greitas: 101 kalba per 15 minučių (≈ 9 sekundės kiekvienai kalbai, jei dokumentas yra 48 000 žodžių).&lt;/li&gt;&#xA;&lt;li&gt;Mastelio keitimas: išsaugokite antraštes, sąrašus, lenteles ir vaizdus.&lt;/li&gt;&#xA;&lt;li&gt;Sutaupymai: knygos vertimas į 101 kalbą kainuoja tik apie 5 € / 6 USD.&lt;br&gt;&#xA;Žemiau rasite išsamias instrukcijas ir sąlygas, kaip užsisakyti 101-ąjį savo darbo vertimą.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

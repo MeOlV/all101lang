@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Dokumenty Google on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/sk/tags/dokumenty-google/</link>
+		<link>https://meolv.github.io/all101lang/sk/tags/dokumenty-google/</link>
 		<description>Recent content in Dokumenty Google on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sk</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/sk/tags/dokumenty-google/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/sk/tags/dokumenty-google/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ako preložiť vlastnú knihu do 101 jazykov za pár minút</title>
-				<link>http://localhost:1313/all101lang/sk/announcement/</link>
+				<link>https://meolv.github.io/all101lang/sk/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/sk/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/sk/announcement/</guid>
 				<description>&lt;p&gt;Nástroj Gemini a štandardný prekladač v Dokumentoch Google mi umožnili takmer okamžite a s minimálnymi nákladmi škálovať texty na globálnu úroveň. Vďaka môjmu vlastnému skriptu pre dávkové spracovanie ponúkam službu rýchleho prekladu vášho dokumentu do viac ako 100 jazykov bez manuálneho zásahu.&lt;br&gt;&#xA;Prečo to funguje:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultrarýchly: 101 jazykov za 15 minút (≈ 9 sekúnd na jazyk pre dokument s rozsahom 48 000 slov).&lt;/li&gt;&#xA;&lt;li&gt;Škálovateľnosť: Zachovanie nadpisov, zoznamov, tabuliek a obrázkov.&lt;/li&gt;&#xA;&lt;li&gt;Úspory: Cena za preklad knihy do 101 jazykov je len približne 5 € / 6 dolárov.&lt;br&gt;&#xA;Nižšie nájdete kompletné pokyny a podmienky pre objednanie 101. prekladu vášho diela.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

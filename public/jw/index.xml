@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/jw/</link>
+		<link>https://meolv.github.io/all101lang/jw/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>jw</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/jw/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/jw/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kepiye carane nerjemahake buku sampeyan dhewe menyang 101 basa sajrone sawetara menit</title>
-				<link>http://localhost:1313/all101lang/jw/announcement/</link>
+				<link>https://meolv.github.io/all101lang/jw/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/jw/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/jw/announcement/</guid>
 				<description>&lt;p&gt;Piranti Gemini lan penerjemah standar ing Google Docs wis ngidini aku ngowahi teks menyang tingkat global meh langsung lan kanthi biaya minimal. Amarga skrip pangolahan batchku dhewe, aku nawakake layanan kanggo nerjemahake dokumen sampeyan kanthi cepet menyang luwih saka 100 basa tanpa intervensi manual.&lt;br&gt;&#xA;Apa sebabe bisa digunakake:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cepet banget: 101 basa sajrone 15 menit (≈ 9 detik saben basa kanggo dokumen 48.000 tembung).&lt;/li&gt;&#xA;&lt;li&gt;Skalabilitas: Njaga judhul, dhaptar, tabel, lan gambar.&lt;/li&gt;&#xA;&lt;li&gt;Tabungan: Biaya nerjemahake buku menyang 101 basa mung udakara €5 / $6.&lt;br&gt;&#xA;Ing ngisor iki sampeyan bakal nemokake pandhuan lan syarat lengkap kanggo pesen terjemahan kaping 101 saka karya sampeyan.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

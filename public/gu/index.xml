@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/gu/</link>
+		<link>https://meolv.github.io/all101lang/gu/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>gu</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/gu/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/gu/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>તમારા પોતાના પુસ્તકનો મિનિટોમાં 101 ભાષાઓમાં અનુવાદ કેવી રીતે કરવો</title>
-				<link>http://localhost:1313/all101lang/gu/announcement/</link>
+				<link>https://meolv.github.io/all101lang/gu/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/gu/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/gu/announcement/</guid>
 				<description>&lt;p&gt;ગૂગલ ડોક્સમાં જેમિની ટૂલ અને સ્ટાન્ડર્ડ ટ્રાન્સલેટરથી મને ટેક્સ્ટને લગભગ તરત જ અને ન્યૂનતમ ખર્ચે વૈશ્વિક સ્તરે સ્કેલ કરવાની મંજૂરી મળી છે. મારી પોતાની બેચ પ્રોસેસિંગ સ્ક્રિપ્ટનો આભાર, હું મેન્યુઅલ હસ્તક્ષેપ વિના તમારા દસ્તાવેજને 100 થી વધુ ભાષાઓમાં ઝડપથી અનુવાદિત કરવાની સેવા પ્રદાન કરું છું.&lt;br&gt;&#xA;તે કેમ કામ કરે છે:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;અલ્ટ્રા-ફાસ્ટ: ૧૫ મિનિટમાં ૧૦૧ ભાષાઓ (૪૮,૦૦૦ શબ્દોના દસ્તાવેજ માટે પ્રતિ ભાષા ≈ ૯ સેકન્ડ).&lt;/li&gt;&#xA;&lt;li&gt;માપનીયતા: શીર્ષકો, યાદીઓ, કોષ્ટકો અને છબીઓ સાચવો.&lt;/li&gt;&#xA;&lt;li&gt;બચત: એક પુસ્તકનો 101 ભાષાઓમાં અનુવાદ કરવાનો ખર્ચ ફક્ત €5 / $6 છે.&lt;br&gt;&#xA;નીચે તમને તમારા કાર્યના 101મા અનુવાદનો ઓર્ડર આપવા માટેની સંપૂર્ણ સૂચનાઓ અને શરતો મળશે.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

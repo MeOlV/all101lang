@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Avtomatlaşdırma on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/az/tags/avtomatla%C5%9Fd%C4%B1rma/</link>
+		<link>https://meolv.github.io/all101lang/az/tags/avtomatla%C5%9Fd%C4%B1rma/</link>
 		<description>Recent content in Avtomatlaşdırma on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>az</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/az/tags/avtomatla%C5%9Fd%C4%B1rma/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/az/tags/avtomatla%C5%9Fd%C4%B1rma/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Öz kitabınızı dəqiqələrə 101 dilə necə tərcümə etmək olar</title>
-				<link>http://localhost:1313/all101lang/az/announcement/</link>
+				<link>https://meolv.github.io/all101lang/az/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/az/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/az/announcement/</guid>
 				<description>&lt;p&gt;Gemini aləti və Google Docs-dakı standart tərcüməçi mətnləri demək olar ki, dərhal və minimal xərclə qlobal səviyyəyə qaldırmağa imkan verdi. Öz toplu emal skriptim sayəsində sənədinizi əl ilə müdaxilə etmədən 100-dən çox dilə tez bir zamanda tərcümə etmək xidməti təklif edirəm.&lt;br&gt;&#xA;Niyə işləyir:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultra sürətli: 15 dəqiqədə 101 dil (48.000 sözlük sənəd üçün hər dil üçün ≈ 9 saniyə).&lt;/li&gt;&#xA;&lt;li&gt;Ölçülənə bilənlik: Başlıqları, siyahıları, cədvəlləri və şəkilləri qoruyun.&lt;/li&gt;&#xA;&lt;li&gt;Qənaət: Bir kitabın 101 dilə tərcüməsinin dəyəri cəmi 5 avro / 6 dollardır.&lt;br&gt;&#xA;Aşağıda işinizin 101-ci tərcüməsini sifariş etmək üçün tam təlimatlar və şərtlər tapa bilərsiniz.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/cs/tags/</link>
+		<link>https://meolv.github.io/all101lang/cs/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>cs</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/cs/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/cs/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Automatizace</title>
-				<link>http://localhost:1313/all101lang/cs/tags/automatizace/</link>
+				<link>https://meolv.github.io/all101lang/cs/tags/automatizace/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/cs/tags/automatizace/</guid>
+				<guid>https://meolv.github.io/all101lang/cs/tags/automatizace/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Docs</title>
-				<link>http://localhost:1313/all101lang/cs/tags/google-docs/</link>
+				<link>https://meolv.github.io/all101lang/cs/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/cs/tags/google-docs/</guid>
+				<guid>https://meolv.github.io/all101lang/cs/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Próza</title>
-				<link>http://localhost:1313/all101lang/cs/tags/pr%C3%B3za/</link>
+				<link>https://meolv.github.io/all101lang/cs/tags/pr%C3%B3za/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/cs/tags/pr%C3%B3za/</guid>
+				<guid>https://meolv.github.io/all101lang/cs/tags/pr%C3%B3za/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Překlady</title>
-				<link>http://localhost:1313/all101lang/cs/tags/p%C5%99eklady/</link>
+				<link>https://meolv.github.io/all101lang/cs/tags/p%C5%99eklady/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/cs/tags/p%C5%99eklady/</guid>
+				<guid>https://meolv.github.io/all101lang/cs/tags/p%C5%99eklady/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Psaní</title>
-				<link>http://localhost:1313/all101lang/cs/tags/psan%C3%AD/</link>
+				<link>https://meolv.github.io/all101lang/cs/tags/psan%C3%AD/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/cs/tags/psan%C3%AD/</guid>
+				<guid>https://meolv.github.io/all101lang/cs/tags/psan%C3%AD/</guid>
 				<description></description>
 			</item>
 	</channel>

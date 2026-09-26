@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Google Docs on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/da/tags/google-docs/</link>
+		<link>https://meolv.github.io/all101lang/da/tags/google-docs/</link>
 		<description>Recent content in Google Docs on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>da</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/da/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/da/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Sådan oversætter du din egen bog til 101 sprog på få minutter</title>
-				<link>http://localhost:1313/all101lang/da/announcement/</link>
+				<link>https://meolv.github.io/all101lang/da/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/da/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/da/announcement/</guid>
 				<description>&lt;p&gt;Gemini-værktøjet og standardoversætteren i Google Docs har gjort det muligt for mig at skalere tekster til et globalt niveau næsten øjeblikkeligt og til minimale omkostninger. Takket være mit eget batchbehandlingsscript tilbyder jeg en tjeneste til hurtigt at oversætte dit dokument til over 100 sprog uden manuel indgriben.&lt;br&gt;&#xA;Hvorfor det virker:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultrahurtig: 101 sprog på 15 minutter (≈ 9 sekunder pr. sprog for et dokument på 48.000 ord).&lt;/li&gt;&#xA;&lt;li&gt;Skalerbarhed: Bevar overskrifter, lister, tabeller og billeder.&lt;/li&gt;&#xA;&lt;li&gt;Besparelser: Omkostningerne ved at oversætte en bog til 101 sprog er kun omkring €5 / $6.&lt;br&gt;&#xA;Nedenfor finder du komplette instruktioner og vilkår for bestilling af den 101. oversættelse af dit værk.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

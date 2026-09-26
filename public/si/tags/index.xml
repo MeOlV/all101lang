@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/si/tags/</link>
+		<link>https://meolv.github.io/all101lang/si/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>si</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/si/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/si/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>ගද්‍ය</title>
-				<link>http://localhost:1313/all101lang/si/tags/%E0%B6%9C%E0%B6%AF%E0%B7%8A%E0%B6%BA/</link>
+				<link>https://meolv.github.io/all101lang/si/tags/%E0%B6%9C%E0%B6%AF%E0%B7%8A%E0%B6%BA/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/si/tags/%E0%B6%9C%E0%B6%AF%E0%B7%8A%E0%B6%BA/</guid>
+				<guid>https://meolv.github.io/all101lang/si/tags/%E0%B6%9C%E0%B6%AF%E0%B7%8A%E0%B6%BA/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ගූගල් ලියකියවිලි</title>
-				<link>http://localhost:1313/all101lang/si/tags/%E0%B6%9C%E0%B7%96%E0%B6%9C%E0%B6%BD%E0%B7%8A-%E0%B6%BD%E0%B7%92%E0%B6%BA%E0%B6%9A%E0%B7%92%E0%B6%BA%E0%B7%80%E0%B7%92%E0%B6%BD%E0%B7%92/</link>
+				<link>https://meolv.github.io/all101lang/si/tags/%E0%B6%9C%E0%B7%96%E0%B6%9C%E0%B6%BD%E0%B7%8A-%E0%B6%BD%E0%B7%92%E0%B6%BA%E0%B6%9A%E0%B7%92%E0%B6%BA%E0%B7%80%E0%B7%92%E0%B6%BD%E0%B7%92/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/si/tags/%E0%B6%9C%E0%B7%96%E0%B6%9C%E0%B6%BD%E0%B7%8A-%E0%B6%BD%E0%B7%92%E0%B6%BA%E0%B6%9A%E0%B7%92%E0%B6%BA%E0%B7%80%E0%B7%92%E0%B6%BD%E0%B7%92/</guid>
+				<guid>https://meolv.github.io/all101lang/si/tags/%E0%B6%9C%E0%B7%96%E0%B6%9C%E0%B6%BD%E0%B7%8A-%E0%B6%BD%E0%B7%92%E0%B6%BA%E0%B6%9A%E0%B7%92%E0%B6%BA%E0%B7%80%E0%B7%92%E0%B6%BD%E0%B7%92/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>පරිවර්තන</title>
-				<link>http://localhost:1313/all101lang/si/tags/%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%AD%E0%B6%B1/</link>
+				<link>https://meolv.github.io/all101lang/si/tags/%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%AD%E0%B6%B1/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/si/tags/%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%AD%E0%B6%B1/</guid>
+				<guid>https://meolv.github.io/all101lang/si/tags/%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%AD%E0%B6%B1/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ලිවීම</title>
-				<link>http://localhost:1313/all101lang/si/tags/%E0%B6%BD%E0%B7%92%E0%B7%80%E0%B7%93%E0%B6%B8/</link>
+				<link>https://meolv.github.io/all101lang/si/tags/%E0%B6%BD%E0%B7%92%E0%B7%80%E0%B7%93%E0%B6%B8/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/si/tags/%E0%B6%BD%E0%B7%92%E0%B7%80%E0%B7%93%E0%B6%B8/</guid>
+				<guid>https://meolv.github.io/all101lang/si/tags/%E0%B6%BD%E0%B7%92%E0%B7%80%E0%B7%93%E0%B6%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ස්වයංක්‍රීයකරණය</title>
-				<link>http://localhost:1313/all101lang/si/tags/%E0%B7%83%E0%B7%8A%E0%B7%80%E0%B6%BA%E0%B6%82%E0%B6%9A%E0%B7%8A%E0%B6%BB%E0%B7%93%E0%B6%BA%E0%B6%9A%E0%B6%BB%E0%B6%AB%E0%B6%BA/</link>
+				<link>https://meolv.github.io/all101lang/si/tags/%E0%B7%83%E0%B7%8A%E0%B7%80%E0%B6%BA%E0%B6%82%E0%B6%9A%E0%B7%8A%E0%B6%BB%E0%B7%93%E0%B6%BA%E0%B6%9A%E0%B6%BB%E0%B6%AB%E0%B6%BA/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/si/tags/%E0%B7%83%E0%B7%8A%E0%B7%80%E0%B6%BA%E0%B6%82%E0%B6%9A%E0%B7%8A%E0%B6%BB%E0%B7%93%E0%B6%BA%E0%B6%9A%E0%B6%BB%E0%B6%AB%E0%B6%BA/</guid>
+				<guid>https://meolv.github.io/all101lang/si/tags/%E0%B7%83%E0%B7%8A%E0%B7%80%E0%B6%BA%E0%B6%82%E0%B6%9A%E0%B7%8A%E0%B6%BB%E0%B7%93%E0%B6%BA%E0%B6%9A%E0%B6%BB%E0%B6%AB%E0%B6%BA/</guid>
 				<description></description>
 			</item>
 	</channel>

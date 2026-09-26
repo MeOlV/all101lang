@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Prose on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/en/tags/prose/</link>
+		<link>https://meolv.github.io/all101lang/en/tags/prose/</link>
 		<description>Recent content in Prose on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/en/tags/prose/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/en/tags/prose/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>How to translate your own book into 101 languages ​​in minutes</title>
-				<link>http://localhost:1313/all101lang/en/announcement/</link>
+				<link>https://meolv.github.io/all101lang/en/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/en/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/en/announcement/</guid>
 				<description>&lt;p&gt;The Gemini tool and the standard translator in Google Docs have allowed me to scale texts to a global level almost instantly and at minimal cost. Thanks to my own batch processing script, I offer a service to quickly translate your document into over 100 languages ​​without manual intervention.&lt;br&gt;&#xA;Why it works:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultra-fast: 101 languages ​​in 15 minutes (≈ 9 seconds per language for a 48,000-word document).&lt;/li&gt;&#xA;&lt;li&gt;Scalability: Preserve headings, lists, tables, and images.&lt;/li&gt;&#xA;&lt;li&gt;Savings: The cost of translating a book into 101 languages ​​is only about €5 / $6.&lt;br&gt;&#xA;Below you will find complete instructions and terms for ordering the 101st translation of your work.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

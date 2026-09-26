@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>‏نثر، نویسندگی، ترجمه‌ها، گوگل داکس، اتوماسیون on 101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/fa/tags/%D9%86%D8%AB%D8%B1-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%DB%8C-%D8%AA%D8%B1%D8%AC%D9%85%D9%87%D9%87%D8%A7-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%A7%DA%A9%D8%B3-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86/</link>
+		<link>https://meolv.github.io/all101lang/fa/tags/%D9%86%D8%AB%D8%B1-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%DB%8C-%D8%AA%D8%B1%D8%AC%D9%85%D9%87%D9%87%D8%A7-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%A7%DA%A9%D8%B3-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86/</link>
 		<description>Recent content in ‏نثر، نویسندگی، ترجمه‌ها، گوگل داکس، اتوماسیون on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>fa</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/fa/tags/%D9%86%D8%AB%D8%B1-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%DB%8C-%D8%AA%D8%B1%D8%AC%D9%85%D9%87%D9%87%D8%A7-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%A7%DA%A9%D8%B3-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/fa/tags/%D9%86%D8%AB%D8%B1-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%DB%8C-%D8%AA%D8%B1%D8%AC%D9%85%D9%87%D9%87%D8%A7-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%A7%DA%A9%D8%B3-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>چگونه کتاب خود را در عرض چند دقیقه به 101 زبان ترجمه کنید</title>
-				<link>http://localhost:1313/all101lang/fa/announcement/</link>
+				<link>https://meolv.github.io/all101lang/fa/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/fa/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/fa/announcement/</guid>
 				<description>&lt;p&gt;ابزار Gemini و مترجم استاندارد در Google Docs به من این امکان را داده‌اند که متون را تقریباً فوراً و با حداقل هزینه در سطح جهانی مقیاس‌بندی کنم. به لطف اسکریپت پردازش دسته‌ای خودم، خدماتی را ارائه می‌دهم که به سرعت سند شما را بدون دخالت دستی به بیش از ۱۰۰ زبان ترجمه می‌کند.&lt;br&gt;&#xA;چرا کار می‌کند:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;فوق‌العاده سریع: ۱۰۱ زبان در ۱۵ دقیقه (≈ ۹ ثانیه برای هر زبان برای یک سند ۴۸۰۰۰ کلمه‌ای).&lt;/li&gt;&#xA;&lt;li&gt;مقیاس‌پذیری: حفظ سرفصل‌ها، فهرست‌ها، جداول و تصاویر.&lt;/li&gt;&#xA;&lt;li&gt;صرفه‌جویی: هزینه ترجمه یک کتاب به ۱۰۱ زبان فقط حدود ۵ یورو / ۶ دلار است.&lt;br&gt;&#xA;در زیر دستورالعمل‌ها و شرایط کامل برای سفارش ترجمه شماره ۱۰۱ اثرتان را مشاهده خواهید کرد.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

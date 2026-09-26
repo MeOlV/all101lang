@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>http://localhost:1313/all101lang/zh-cn/</link>
+		<link>https://meolv.github.io/all101lang/zh-cn/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>zh-CN</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/all101lang/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://meolv.github.io/all101lang/zh-cn/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>如何在几分钟内将自己的书翻译成 101 种语言</title>
-				<link>http://localhost:1313/all101lang/zh-cn/announcement/</link>
+				<link>https://meolv.github.io/all101lang/zh-cn/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>http://localhost:1313/all101lang/zh-cn/announcement/</guid>
+				<guid>https://meolv.github.io/all101lang/zh-cn/announcement/</guid>
 				<description>&lt;p&gt;Gemini 工具和 Google Docs 的标准翻译功能让我能够以极低的成本，几乎瞬间将文本翻译成全球通用语言。凭借我自主开发的批量处理脚本，我可以提供无需人工干预，快速将您的文档翻译成 100 多种语言的服务。&lt;br&gt;&#xA;其原理：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;超快：15 分钟内翻译 101 种语言（对于 48,000 字的文档，每种语言约需 9 秒）。&lt;/li&gt;&#xA;&lt;li&gt;可扩展性：保留标题、列表、表格和图像。&lt;/li&gt;&#xA;&lt;li&gt;节省：将一本书翻译成 101 种语言的成本仅约为 5 欧元/6 美元。&lt;br&gt;&#xA;下面您将找到订购第 101 次翻译作品的完整说明和条款。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
