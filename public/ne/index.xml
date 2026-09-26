@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/ne/</link>
+		<description>Recent content on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>ne</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/ne/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>मिनेटमा १०१ भाषाहरूमा आफ्नो पुस्तक कसरी अनुवाद गर्ने</title>
+				<link>http://localhost:1313/all101lang/ne/announcement/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ne/announcement/</guid>
+				<description>&lt;p&gt;गुगल डक्समा रहेको जेमिनी उपकरण र मानक अनुवादकले मलाई लगभग तुरुन्तै र न्यूनतम लागतमा विश्वव्यापी स्तरमा पाठहरू मापन गर्न अनुमति दिएको छ। मेरो आफ्नै ब्याच प्रशोधन स्क्रिप्टको लागि धन्यवाद, म म्यानुअल हस्तक्षेप बिना तपाईंको कागजातलाई १०० भन्दा बढी भाषाहरूमा द्रुत रूपमा अनुवाद गर्ने सेवा प्रदान गर्दछु।&lt;br&gt;&#xA;यो किन काम गर्छ:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;अल्ट्रा-फास्ट: १५ मिनेटमा १०१ भाषाहरू (४८,००० शब्दको कागजातको लागि प्रति भाषा ≈ ९ सेकेन्ड)।&lt;/li&gt;&#xA;&lt;li&gt;स्केलेबिलिटी: शीर्षकहरू, सूचीहरू, तालिकाहरू, र छविहरू सुरक्षित गर्नुहोस्।&lt;/li&gt;&#xA;&lt;li&gt;बचत: १०१ भाषाहरूमा पुस्तक अनुवाद गर्ने लागत लगभग €५ / $६ मात्र छ।&lt;br&gt;&#xA;तल तपाईंले आफ्नो कृतिको १०१ औं अनुवाद अर्डर गर्ने पूर्ण निर्देशन र सर्तहरू पाउनुहुनेछ।&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/ka/tags/</link>
+		<description>Recent content in Tags on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>ka</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/ka/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Google Docs</title>
+				<link>http://localhost:1313/all101lang/ka/tags/google-docs/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ka/tags/google-docs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ავტომატიზაცია</title>
+				<link>http://localhost:1313/all101lang/ka/tags/%E1%83%90%E1%83%95%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ka/tags/%E1%83%90%E1%83%95%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>თარგმანები</title>
+				<link>http://localhost:1313/all101lang/ka/tags/%E1%83%97%E1%83%90%E1%83%A0%E1%83%92%E1%83%9B%E1%83%90%E1%83%9C%E1%83%94%E1%83%91%E1%83%98/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ka/tags/%E1%83%97%E1%83%90%E1%83%A0%E1%83%92%E1%83%9B%E1%83%90%E1%83%9C%E1%83%94%E1%83%91%E1%83%98/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>პროზა</title>
+				<link>http://localhost:1313/all101lang/ka/tags/%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%96%E1%83%90/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ka/tags/%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%96%E1%83%90/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>წერა</title>
+				<link>http://localhost:1313/all101lang/ka/tags/%E1%83%AC%E1%83%94%E1%83%A0%E1%83%90/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ka/tags/%E1%83%AC%E1%83%94%E1%83%A0%E1%83%90/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

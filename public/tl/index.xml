@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/tl/</link>
+		<description>Recent content on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>tl</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/tl/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Paano isalin ang sarili mong libro sa 101 na wika sa loob lamang ng ilang minuto</title>
+				<link>http://localhost:1313/all101lang/tl/announcement/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/tl/announcement/</guid>
+				<description>&lt;p&gt;Ang Gemini tool at ang standard translator sa Google Docs ay nagbigay-daan sa akin na i-scale ang mga teksto sa pandaigdigang antas halos agad-agad at sa pinakamababang gastos. Salamat sa sarili kong batch processing script, nag-aalok ako ng serbisyo para mabilis na isalin ang iyong dokumento sa mahigit 100 wika nang walang manu-manong interbensyon.&lt;br&gt;&#xA;Bakit ito gumagana:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Napakabilis: 101 wika sa loob ng 15 minuto (≈ 9 segundo bawat wika para sa isang dokumentong may 48,000 salita).&lt;/li&gt;&#xA;&lt;li&gt;Kakayahang Iskalahin: Panatilihin ang mga heading, listahan, talahanayan, at mga imahe.&lt;/li&gt;&#xA;&lt;li&gt;Mga Natitipid: Ang halaga ng pagsasalin ng isang libro sa 101 na wika ay humigit-kumulang €5 / $6 lamang.&lt;br&gt;&#xA;Sa ibaba makikita mo ang kumpletong mga tagubilin at mga tuntunin para sa pag-order ng ika-101 na pagsasalin ng iyong akda.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

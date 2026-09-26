@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/sr/</link>
+		<description>Recent content on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>sr</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/sr/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Како превести своју књигу на 101 језик за неколико минута</title>
+				<link>http://localhost:1313/all101lang/sr/announcement/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/sr/announcement/</guid>
+				<description>&lt;p&gt;Алат Gemini и стандардни преводилац у Google документима су ми омогућили да скоро тренутно и уз минималне трошкове скалирам текстове на глобални ниво. Захваљујући сопственом скрипту за групну обраду, нудим услугу брзог превођења вашег документа на преко 100 језика без ручне интервенције.&lt;br&gt;&#xA;Зашто функционише:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ултрабрзо: 101 језик за 15 минута (≈ 9 секунди по језику за документ од 48.000 речи).&lt;/li&gt;&#xA;&lt;li&gt;Скалабилност: Сачувајте наслове, листе, табеле и слике.&lt;/li&gt;&#xA;&lt;li&gt;Уштеда: Цена превођења књиге на 101 језик је само око 5 € / 6 $.&lt;br&gt;&#xA;У наставку ћете пронаћи комплетна упутства и услове за наручивање 101. превода вашег дела.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

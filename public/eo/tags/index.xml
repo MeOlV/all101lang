@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/eo/tags/</link>
+		<description>Recent content in Tags on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>eo</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/eo/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Aŭtomatigo</title>
+				<link>http://localhost:1313/all101lang/eo/tags/a%C5%ADtomatigo/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/eo/tags/a%C5%ADtomatigo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Google Docs</title>
+				<link>http://localhost:1313/all101lang/eo/tags/google-docs/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/eo/tags/google-docs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Prozo</title>
+				<link>http://localhost:1313/all101lang/eo/tags/prozo/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/eo/tags/prozo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tradukoj</title>
+				<link>http://localhost:1313/all101lang/eo/tags/tradukoj/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/eo/tags/tradukoj/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Verkado</title>
+				<link>http://localhost:1313/all101lang/eo/tags/verkado/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/eo/tags/verkado/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

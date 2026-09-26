@@ -10,15 +10,15 @@
 		
 		
 		
-			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/all101lang/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>How to translate your own book into 101 languages ​​in minutes</title>
 				<link>http://localhost:1313/all101lang/en/announcement/</link>
-				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
 				<guid>http://localhost:1313/all101lang/en/announcement/</guid>
-				<description>&lt;p&gt;The Gemini tool and the standard translator in Google Docs have allowed me to scale texts to a global level almost instantly and at minimal cost. Thanks to my own batch processing script, I offer a service to quickly translate your document into over 100 languages ​​without manual intervention.&#xA;Why it works:&#xA;⬧ Ultra-fast: 101 languages ​​in 15 minutes (≈ 9 seconds per language for a 48,000-word document).&#xA;⬧ Scalability: Preserve headings, lists, tables, and images.&#xA;⬧ Savings: The cost of translating a book into 101 languages ​​is only about €5 / $6.&#xA;Below you will find complete instructions and terms for ordering the 101st translation of your work.&lt;/p&gt;</description>
+				<description>&lt;p&gt;The Gemini tool and the standard translator in Google Docs have allowed me to scale texts to a global level almost instantly and at minimal cost. Thanks to my own batch processing script, I offer a service to quickly translate your document into over 100 languages ​​without manual intervention.&lt;br&gt;&#xA;Why it works:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultra-fast: 101 languages ​​in 15 minutes (≈ 9 seconds per language for a 48,000-word document).&lt;/li&gt;&#xA;&lt;li&gt;Scalability: Preserve headings, lists, tables, and images.&lt;/li&gt;&#xA;&lt;li&gt;Savings: The cost of translating a book into 101 languages ​​is only about €5 / $6.&lt;br&gt;&#xA;Below you will find complete instructions and terms for ordering the 101st translation of your work.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>

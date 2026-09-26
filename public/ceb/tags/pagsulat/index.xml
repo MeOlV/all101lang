@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pagsulat on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/ceb/tags/pagsulat/</link>
+		<description>Recent content in Pagsulat on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>ceb</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/ceb/tags/pagsulat/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Unsaon paghubad sa imong kaugalingong libro ngadto sa 101 ka pinulongan sulod sa pipila ka minuto</title>
+				<link>http://localhost:1313/all101lang/ceb/announcement/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ceb/announcement/</guid>
+				<description>&lt;p&gt;Ang Gemini tool ug ang standard translator sa Google Docs nagtugot kanako sa pag-scale sa mga teksto ngadto sa global nga lebel hapit dayon ug sa gamay nga gasto. Tungod sa akong kaugalingong batch processing script, nagtanyag ako og serbisyo aron dali nga mahubad ang imong dokumento ngadto sa kapin sa 100 ka mga pinulongan nga walay manual nga interbensyon.&lt;br&gt;&#xA;Ngano nga kini molihok:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultra-paspas: 101 ka pinulongan sulod sa 15 minutos (≈ 9 segundos matag pinulongan para sa 48,000 ka pulong nga dokumento).&lt;/li&gt;&#xA;&lt;li&gt;Kaarang sa Pag-eskala: Ipreserbar ang mga ulohan, lista, talaan, ug mga imahe.&lt;/li&gt;&#xA;&lt;li&gt;Tinipigan: Ang gasto sa paghubad sa usa ka libro ngadto sa 101 ka pinulongan mga €5 / $6 lang.&lt;br&gt;&#xA;Sa ubos makita nimo ang kompletong mga instruksyon ug mga termino para sa pag-order sa ika-101 nga hubad sa imong trabaho.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

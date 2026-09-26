@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Зохиол on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/mn/tags/%D0%B7%D0%BE%D1%85%D0%B8%D0%BE%D0%BB/</link>
+		<description>Recent content in Зохиол on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>mn</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/mn/tags/%D0%B7%D0%BE%D1%85%D0%B8%D0%BE%D0%BB/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Өөрийн номоо хэдхэн минутын дотор 101 хэл рүү хэрхэн орчуулах вэ</title>
+				<link>http://localhost:1313/all101lang/mn/announcement/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/mn/announcement/</guid>
+				<description>&lt;p&gt;Gemini хэрэгсэл болон Google Docs дахь стандарт орчуулагч нь надад текстийг бараг тэр даруй, хамгийн бага өртгөөр дэлхийн түвшинд хүргэх боломжийг олгосон. Миний багц боловсруулах скриптийн ачаар би таны баримт бичгийг гараар оролцоогүйгээр 100 гаруй хэл рүү хурдан орчуулах үйлчилгээг санал болгож байна.&lt;br&gt;&#xA;Яагаад ажилладаг вэ:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Хэт хурдан: 15 минутад 101 хэл (48,000 үгтэй баримт бичигт хэл тус бүрт ≈ 9 секунд).&lt;/li&gt;&#xA;&lt;li&gt;Өргөтгөх боломжтой байдал: Гарчиг, жагсаалт, хүснэгт болон зургийг хадгалах.&lt;/li&gt;&#xA;&lt;li&gt;Хэмнэлт: Номыг 101 хэл рүү орчуулах зардал ердөө €5 / $6 орчим байна.&lt;br&gt;&#xA;Доор та бүтээлийнхээ 101 дэх орчуулгыг захиалах бүрэн заавар, нөхцөлийг олох болно.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

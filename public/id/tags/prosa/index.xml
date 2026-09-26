@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Prosa on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/id/tags/prosa/</link>
+		<description>Recent content in Prosa on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>id</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/id/tags/prosa/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cara menerjemahkan buku Anda sendiri ke dalam 101 bahasa dalam hitungan menit.</title>
+				<link>http://localhost:1313/all101lang/id/announcement/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/id/announcement/</guid>
+				<description>&lt;p&gt;Alat Gemini dan penerjemah standar di Google Docs memungkinkan saya untuk menerjemahkan teks ke tingkat global hampir secara instan dan dengan biaya minimal. Berkat skrip pemrosesan batch saya sendiri, saya menawarkan layanan untuk menerjemahkan dokumen Anda dengan cepat ke lebih dari 100 bahasa tanpa intervensi manual.&lt;br&gt;&#xA;Mengapa ini berhasil:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sangat cepat: 101 bahasa dalam 15 menit (≈ 9 detik per bahasa untuk dokumen 48.000 kata).&lt;/li&gt;&#xA;&lt;li&gt;Skalabilitas: Mempertahankan judul, daftar, tabel, dan gambar.&lt;/li&gt;&#xA;&lt;li&gt;Penghematan: Biaya menerjemahkan sebuah buku ke dalam 101 bahasa hanya sekitar €5 / $6.&lt;br&gt;&#xA;Di bawah ini Anda akan menemukan petunjuk dan ketentuan lengkap untuk memesan terjemahan ke-101 dari karya Anda.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

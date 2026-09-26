@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/zh-tw/</link>
+		<description>Recent content on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>zh-TW</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>如何在幾分鐘內將自己的書翻譯成 101 種語言</title>
+				<link>http://localhost:1313/all101lang/zh-tw/announcement/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/zh-tw/announcement/</guid>
+				<description>&lt;p&gt;Gemini 工具和 Google Docs 的標準翻譯功能讓我能夠以極低的成本，幾乎瞬間將文字翻譯成全球通用語言。憑藉我自主開發的批量處理腳本，我可以提供無需人工幹預，快速將您的文件翻譯成 100 多種語言的服務。&lt;br&gt;&#xA;其原理：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;超快：15 分鐘內翻譯 101 種語言（對於 48,000 字的文檔，每種語言約 9 秒）。&lt;/li&gt;&#xA;&lt;li&gt;可擴展性：保留標題、清單、表格和圖像。&lt;/li&gt;&#xA;&lt;li&gt;節省：將一本書翻譯成 101 種語言的成本僅約為 5 歐元/6 美元。&lt;br&gt;&#xA;下面您將找到訂購第 101 次翻譯作品的完整說明和條款。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,18 @@
+<div class="mb3 pa3 bg-white br2 shadow-1">
+  <h1 class="f3 near-black lh-title mv1">
+    <a href="{{ .RelPermalink }}" class="link dim color-inherit">
+      {{ .Title }}
+    </a>
+  </h1>
+  <div class="f6 gray mv2">
+    {{ .Date.Format "02.01.2006" }}
+  </div>
+  <div class="f5 gray lh-copy mv2">
+    {{ .Summary }}
+  </div>
+  <p class="mv1">
+    <a href="{{ .RelPermalink }}" class="link blue hover-dark-blue fw6">
+      {{ i18n "readMore" }} →
+    </a>
+  </p>
+</div>

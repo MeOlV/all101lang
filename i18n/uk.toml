@@ -1,0 +1,61 @@
+[more]
+other = "Більше"
+
+[allTitle]
+other = "Усі {{ .Title }}"
+
+[recentTitle]
+other = "Останні {{ .Title }}"
+
+[readMore]
+other = "Читати далі"
+
+[by]
+other = "Автор:"
+
+[whatsInThis]
+other = "Що у цьому {{ .Type }}"
+
+[related]
+other = "Схожі матеріали"
+
+[yourName]
+other = "Ваше ім'я"
+
+[emailAddress]
+other = "Електронна пошта"
+
+[message]
+other = "Повідомлення"
+
+[emailRequiredNote]
+other = "Електронна пошта є обов'язковою."
+
+[send]
+other = "Надіслати"
+
+[editPage]
+other = "Вдосконалити цю сторінку на GitHub"
+
+[since]
+other = "З"
+
+[taxonomyPageList]
+other = "Нижче наведено сторінки, які використовують тег «{{ .Title }}»"
+
+[readingTime]
+one = "Одна хвилина читання"
+other = "{{ .Count }} хв читання"
+
+[wordCount]
+one = "Одне слово"
+other = "{{ .Count }} слів"
+
+[pageTitle]
+other = "Сторінка {{ .Name }}"
+
+[current_lang]
+other = "Поточна"
+
+[open_gdoc]
+other = "📄 Відкрити настанову в Google Docs"

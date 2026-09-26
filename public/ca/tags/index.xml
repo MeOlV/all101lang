@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/ca/tags/</link>
+		<description>Recent content in Tags on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>ca</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/ca/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Automatització</title>
+				<link>http://localhost:1313/all101lang/ca/tags/automatitzaci%C3%B3/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ca/tags/automatitzaci%C3%B3/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Escriptura</title>
+				<link>http://localhost:1313/all101lang/ca/tags/escriptura/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ca/tags/escriptura/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Google Docs</title>
+				<link>http://localhost:1313/all101lang/ca/tags/google-docs/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ca/tags/google-docs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Prosa</title>
+				<link>http://localhost:1313/all101lang/ca/tags/prosa/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ca/tags/prosa/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Traduccions</title>
+				<link>http://localhost:1313/all101lang/ca/tags/traduccions/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ca/tags/traduccions/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

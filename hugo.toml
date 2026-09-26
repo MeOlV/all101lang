@@ -1,29 +1,629 @@
-baseURL = 'https://meolv.github.io/all101lang/'
-languageCode = 'uk'
-title = '101 Languages Hub'
-theme = 'ananke'
+baseURL = "https://meolv.github.io/all101lang/"
+languageCode = "uk"
+title = "101-мовний осередок"
+theme = "ananke"
 
-defaultContentLanguage = 'uk'
+defaultContentLanguage = "uk"
 defaultContentLanguageInSubdir = false
 
 [params]
-  disable_language_toggle = false
+  disable_language_toggle = true
 
 [languages]
   [languages.uk]
-    languageCode = 'uk'
-    languageName = 'Українська'
-    label = 'uk'
+    languageCode = "uk"
+    languageName = "Українська"
+    title = "101-мовний осередок"
+    label = "Українська"
     weight = 1
-
-  [languages.en]
-    languageCode = 'en'
-    languageName = 'English'
-    label = 'en'
+  [languages."af"]
+    languageCode = "af"
+    languageName = "Afrikaans"
+    title = "101 Languages Hub"
+    label = "Afrikaans"
     weight = 2
-
-  [languages.pl]
-    languageCode = 'pl'
-    languageName = 'Polski'
-    label = 'pl'
+  [languages."am"]
+    languageCode = "am"
+    languageName = "አማርኛ"
+    title = "101 Languages Hub"
+    label = "አማርኛ"
     weight = 3
+  [languages."ar"]
+    languageCode = "ar"
+    languageName = "العربية"
+    title = "101 Languages Hub"
+    label = "العربية"
+    weight = 4
+  [languages."az"]
+    languageCode = "az"
+    languageName = "Azərbaycan"
+    title = "101 Languages Hub"
+    label = "Azərbaycan"
+    weight = 5
+  [languages."bg"]
+    languageCode = "bg"
+    languageName = "Български"
+    title = "101 Languages Hub"
+    label = "Български"
+    weight = 6
+  [languages."bn"]
+    languageCode = "bn"
+    languageName = "বাংলা"
+    title = "101 Languages Hub"
+    label = "বাংলা"
+    weight = 7
+  [languages."bs"]
+    languageCode = "bs"
+    languageName = "Bosanski"
+    title = "101 Languages Hub"
+    label = "Bosanski"
+    weight = 8
+  [languages."ca"]
+    languageCode = "ca"
+    languageName = "Català"
+    title = "101 Languages Hub"
+    label = "Català"
+    weight = 9
+  [languages."ceb"]
+    languageCode = "ceb"
+    languageName = "Cebuan"
+    title = "101 Languages Hub"
+    label = "Cebuan"
+    weight = 10
+  [languages."co"]
+    languageCode = "co"
+    languageName = "Corsu"
+    title = "101 Languages Hub"
+    label = "Corsu"
+    weight = 11
+  [languages."cs"]
+    languageCode = "cs"
+    languageName = "Čeština"
+    title = "101 Languages Hub"
+    label = "Čeština"
+    weight = 12
+  [languages."cy"]
+    languageCode = "cy"
+    languageName = "Cymraeg"
+    title = "101 Languages Hub"
+    label = "Cymraeg"
+    weight = 13
+  [languages."da"]
+    languageCode = "da"
+    languageName = "Dansk"
+    title = "101 Languages Hub"
+    label = "Dansk"
+    weight = 14
+  [languages."de"]
+    languageCode = "de"
+    languageName = "Deutsch"
+    title = "101 Languages Hub"
+    label = "Deutsch"
+    weight = 15
+  [languages."el"]
+    languageCode = "el"
+    languageName = "Ελληνικά"
+    title = "101 Languages Hub"
+    label = "Ελληνικά"
+    weight = 16
+  [languages."en"]
+    languageCode = "en"
+    languageName = "English"
+    title = "101 Languages Hub"
+    label = "English"
+    weight = 17
+  [languages."eo"]
+    languageCode = "eo"
+    languageName = "Esperanto"
+    title = "101 Languages Hub"
+    label = "Esperanto"
+    weight = 18
+  [languages."es"]
+    languageCode = "es"
+    languageName = "Español"
+    title = "101 Languages Hub"
+    label = "Español"
+    weight = 19
+  [languages."et"]
+    languageCode = "et"
+    languageName = "Eesti"
+    title = "101 Languages Hub"
+    label = "Eesti"
+    weight = 20
+  [languages."eu"]
+    languageCode = "eu"
+    languageName = "Euskara"
+    title = "101 Languages Hub"
+    label = "Euskara"
+    weight = 21
+  [languages."fa"]
+    languageCode = "fa"
+    languageName = "فارسی"
+    title = "101 Languages Hub"
+    label = "فارسی"
+    weight = 22
+  [languages."fi"]
+    languageCode = "fi"
+    languageName = "Suomi"
+    title = "101 Languages Hub"
+    label = "Suomi"
+    weight = 23
+  [languages."fr"]
+    languageCode = "fr"
+    languageName = "Français"
+    title = "101 Languages Hub"
+    label = "Français"
+    weight = 24
+  [languages."fy"]
+    languageCode = "fy"
+    languageName = "Frysk"
+    title = "101 Languages Hub"
+    label = "Frysk"
+    weight = 25
+  [languages."ga"]
+    languageCode = "ga"
+    languageName = "Gaeilge"
+    title = "101 Languages Hub"
+    label = "Gaeilge"
+    weight = 26
+  [languages."gd"]
+    languageCode = "gd"
+    languageName = "Gàidhlig"
+    title = "101 Languages Hub"
+    label = "Gàidhlig"
+    weight = 27
+  [languages."gl"]
+    languageCode = "gl"
+    languageName = "Galego"
+    title = "101 Languages Hub"
+    label = "Galego"
+    weight = 28
+  [languages."gu"]
+    languageCode = "gu"
+    languageName = "ગુજરાતી"
+    title = "101 Languages Hub"
+    label = "ગુજરાતી"
+    weight = 29
+  [languages."ha"]
+    languageCode = "ha"
+    languageName = "Hausa"
+    title = "101 Languages Hub"
+    label = "Hausa"
+    weight = 30
+  [languages."haw"]
+    languageCode = "haw"
+    languageName = "ʻŌlelo Hawaiʻi"
+    title = "101 Languages Hub"
+    label = "ʻŌlelo Hawaiʻi"
+    weight = 31
+  [languages."hi"]
+    languageCode = "hi"
+    languageName = "हिन्दी"
+    title = "101 Languages Hub"
+    label = "हिन्दी"
+    weight = 32
+  [languages."hmn"]
+    languageCode = "hmn"
+    languageName = "Hmoob"
+    title = "101 Languages Hub"
+    label = "Hmoob"
+    weight = 33
+  [languages."hr"]
+    languageCode = "hr"
+    languageName = "Hrvatski"
+    title = "101 Languages Hub"
+    label = "Hrvatski"
+    weight = 34
+  [languages."ht"]
+    languageCode = "ht"
+    languageName = "Kreyòl ayisyen"
+    title = "101 Languages Hub"
+    label = "Kreyòl ayisyen"
+    weight = 35
+  [languages."hu"]
+    languageCode = "hu"
+    languageName = "Magyar"
+    title = "101 Languages Hub"
+    label = "Magyar"
+    weight = 36
+  [languages."hy"]
+    languageCode = "hy"
+    languageName = "Հայերեն"
+    title = "101 Languages Hub"
+    label = "Հայերեն"
+    weight = 37
+  [languages."id"]
+    languageCode = "id"
+    languageName = "Bahasa Indonesia"
+    title = "101 Languages Hub"
+    label = "Bahasa Indonesia"
+    weight = 38
+  [languages."ig"]
+    languageCode = "ig"
+    languageName = "Asụsụ Igbo"
+    title = "101 Languages Hub"
+    label = "Asụsụ Igbo"
+    weight = 39
+  [languages."is"]
+    languageCode = "is"
+    languageName = "Íslenska"
+    title = "101 Languages Hub"
+    label = "Íslenska"
+    weight = 40
+  [languages."it"]
+    languageCode = "it"
+    languageName = "Italiano"
+    title = "101 Languages Hub"
+    label = "Italiano"
+    weight = 41
+  [languages."iw"]
+    languageCode = "iw"
+    languageName = "עברית"
+    title = "101 Languages Hub"
+    label = "עברית"
+    weight = 42
+  [languages."ja"]
+    languageCode = "ja"
+    languageName = "日本語"
+    title = "101 Languages Hub"
+    label = "日本語"
+    weight = 43
+  [languages."jw"]
+    languageCode = "jw"
+    languageName = "Basa Jawa"
+    title = "101 Languages Hub"
+    label = "Basa Jawa"
+    weight = 44
+  [languages."ka"]
+    languageCode = "ka"
+    languageName = "ქართული"
+    title = "101 Languages Hub"
+    label = "ქართული"
+    weight = 45
+  [languages."kk"]
+    languageCode = "kk"
+    languageName = "Қазақ тілі"
+    title = "101 Languages Hub"
+    label = "Қазақ тілі"
+    weight = 46
+  [languages."km"]
+    languageCode = "km"
+    languageName = "ភាសាខ្មែរ"
+    title = "101 Languages Hub"
+    label = "ភាសាខ្មែរ"
+    weight = 47
+  [languages."kn"]
+    languageCode = "kn"
+    languageName = "ಕನ್ನಡ"
+    title = "101 Languages Hub"
+    label = "ಕನ್ನಡ"
+    weight = 48
+  [languages."ko"]
+    languageCode = "ko"
+    languageName = "한국어"
+    title = "101 Languages Hub"
+    label = "한국어"
+    weight = 49
+  [languages."ku"]
+    languageCode = "ku"
+    languageName = "Kurdî"
+    title = "101 Languages Hub"
+    label = "Kurdî"
+    weight = 50
+  [languages."ky"]
+    languageCode = "ky"
+    languageName = "Kırgızça"
+    title = "101 Languages Hub"
+    label = "Kırgızça"
+    weight = 51
+  [languages."la"]
+    languageCode = "la"
+    languageName = "Latina"
+    title = "101 Languages Hub"
+    label = "Latina"
+    weight = 52
+  [languages."lb"]
+    languageCode = "lb"
+    languageName = "Lëtzebuergesch"
+    title = "101 Languages Hub"
+    label = "Lëtzebuergesch"
+    weight = 53
+  [languages."lo"]
+    languageCode = "lo"
+    languageName = "ພາສາລາວ"
+    title = "101 Languages Hub"
+    label = "ພາສາລາວ"
+    weight = 54
+  [languages."lt"]
+    languageCode = "lt"
+    languageName = "Lietuvių"
+    title = "101 Languages Hub"
+    label = "Lietuvių"
+    weight = 55
+  [languages."lv"]
+    languageCode = "lv"
+    languageName = "Latviešu"
+    title = "101 Languages Hub"
+    label = "Latviešu"
+    weight = 56
+  [languages."mg"]
+    languageCode = "mg"
+    languageName = "Malagasy"
+    title = "101 Languages Hub"
+    label = "Malagasy"
+    weight = 57
+  [languages."mi"]
+    languageCode = "mi"
+    languageName = "Māori"
+    title = "101 Languages Hub"
+    label = "Māori"
+    weight = 58
+  [languages."mk"]
+    languageCode = "mk"
+    languageName = "Македонски"
+    title = "101 Languages Hub"
+    label = "Македонски"
+    weight = 59
+  [languages."ml"]
+    languageCode = "ml"
+    languageName = "മലയാളം"
+    title = "101 Languages Hub"
+    label = "മലയാളം"
+    weight = 60
+  [languages."mn"]
+    languageCode = "mn"
+    languageName = "Монгол"
+    title = "101 Languages Hub"
+    label = "Монгол"
+    weight = 61
+  [languages."mr"]
+    languageCode = "mr"
+    languageName = "मराठी"
+    title = "101 Languages Hub"
+    label = "मराठी"
+    weight = 62
+  [languages."ms"]
+    languageCode = "ms"
+    languageName = "Bahasa Melayu"
+    title = "101 Languages Hub"
+    label = "Bahasa Melayu"
+    weight = 63
+  [languages."mt"]
+    languageCode = "mt"
+    languageName = "Malti"
+    title = "101 Languages Hub"
+    label = "Malti"
+    weight = 64
+  [languages."my"]
+    languageCode = "my"
+    languageName = "မြန်မာစာ"
+    title = "101 Languages Hub"
+    label = "မြန်မာစာ"
+    weight = 65
+  [languages."ne"]
+    languageCode = "ne"
+    languageName = "नेपाली"
+    title = "101 Languages Hub"
+    label = "नेपाली"
+    weight = 66
+  [languages."nl"]
+    languageCode = "nl"
+    languageName = "Nederlands"
+    title = "101 Languages Hub"
+    label = "Nederlands"
+    weight = 67
+  [languages."no"]
+    languageCode = "no"
+    languageName = "Norsk"
+    title = "101 Languages Hub"
+    label = "Norsk"
+    weight = 68
+  [languages."ny"]
+    languageCode = "ny"
+    languageName = "Chichewa"
+    title = "101 Languages Hub"
+    label = "Chichewa"
+    weight = 69
+  [languages."pa"]
+    languageCode = "pa"
+    languageName = "ਪੰਜਾਬੀ"
+    title = "101 Languages Hub"
+    label = "ਪੰਜਾਬੀ"
+    weight = 70
+  [languages."pl"]
+    languageCode = "pl"
+    languageName = "Polski"
+    title = "101 Languages Hub"
+    label = "Polski"
+    weight = 71
+  [languages."ps"]
+    languageCode = "ps"
+    languageName = "پښتو"
+    title = "101 Languages Hub"
+    label = "پښتو"
+    weight = 72
+  [languages."pt"]
+    languageCode = "pt"
+    languageName = "Português"
+    title = "101 Languages Hub"
+    label = "Português"
+    weight = 73
+  [languages."ro"]
+    languageCode = "ro"
+    languageName = "Română"
+    title = "101 Languages Hub"
+    label = "Română"
+    weight = 74
+  [languages."sd"]
+    languageCode = "sd"
+    languageName = "سنڌي"
+    title = "101 Languages Hub"
+    label = "سنڌي"
+    weight = 75
+  [languages."si"]
+    languageCode = "si"
+    languageName = "සිංහල"
+    title = "101 Languages Hub"
+    label = "සිංහල"
+    weight = 76
+  [languages."sk"]
+    languageCode = "sk"
+    languageName = "Slovenčina"
+    title = "101 Languages Hub"
+    label = "Slovenčina"
+    weight = 77
+  [languages."sl"]
+    languageCode = "sl"
+    languageName = "Slovenščina"
+    title = "101 Languages Hub"
+    label = "Slovenščina"
+    weight = 78
+  [languages."sm"]
+    languageCode = "sm"
+    languageName = "Gagana Sāmoa"
+    title = "101 Languages Hub"
+    label = "Gagana Sāmoa"
+    weight = 79
+  [languages."sn"]
+    languageCode = "sn"
+    languageName = "Chishona"
+    title = "101 Languages Hub"
+    label = "Chishona"
+    weight = 80
+  [languages."so"]
+    languageCode = "so"
+    languageName = "Soomaali"
+    title = "101 Languages Hub"
+    label = "Soomaali"
+    weight = 81
+  [languages."sq"]
+    languageCode = "sq"
+    languageName = "Shqip"
+    title = "101 Languages Hub"
+    label = "Shqip"
+    weight = 82
+  [languages."sr"]
+    languageCode = "sr"
+    languageName = "Српски"
+    title = "101 Languages Hub"
+    label = "Српски"
+    weight = 83
+  [languages."st"]
+    languageCode = "st"
+    languageName = "Sesotho"
+    title = "101 Languages Hub"
+    label = "Sesotho"
+    weight = 84
+  [languages."su"]
+    languageCode = "su"
+    languageName = "Basa Sunda"
+    title = "101 Languages Hub"
+    label = "Basa Sunda"
+    weight = 85
+  [languages."sv"]
+    languageCode = "sv"
+    languageName = "Svenska"
+    title = "101 Languages Hub"
+    label = "Svenska"
+    weight = 86
+  [languages."sw"]
+    languageCode = "sw"
+    languageName = "Kiswahili"
+    title = "101 Languages Hub"
+    label = "Kiswahili"
+    weight = 87
+  [languages."ta"]
+    languageCode = "ta"
+    languageName = "தமிழ்"
+    title = "101 Languages Hub"
+    label = "தமிழ்"
+    weight = 88
+  [languages."te"]
+    languageCode = "te"
+    languageName = "తెలుగు"
+    title = "101 Languages Hub"
+    label = "తెలుగు"
+    weight = 89
+  [languages."tg"]
+    languageCode = "tg"
+    languageName = "Тоҷикӣ"
+    title = "101 Languages Hub"
+    label = "Тоҷикӣ"
+    weight = 90
+  [languages."th"]
+    languageCode = "th"
+    languageName = "ไทย"
+    title = "101 Languages Hub"
+    label = "ไทย"
+    weight = 91
+  [languages."tl"]
+    languageCode = "tl"
+    languageName = "Tagalog"
+    title = "101 Languages Hub"
+    label = "Tagalog"
+    weight = 92
+  [languages."tr"]
+    languageCode = "tr"
+    languageName = "Türkçe"
+    title = "101 Languages Hub"
+    label = "Türkçe"
+    weight = 93
+  [languages."ur"]
+    languageCode = "ur"
+    languageName = "اردو"
+    title = "101 Languages Hub"
+    label = "اردو"
+    weight = 94
+  [languages."uz"]
+    languageCode = "uz"
+    languageName = "Oʻzbekcha"
+    title = "101 Languages Hub"
+    label = "Oʻzbekcha"
+    weight = 95
+  [languages."vi"]
+    languageCode = "vi"
+    languageName = "Tiếng Việt"
+    title = "101 Languages Hub"
+    label = "Tiếng Việt"
+    weight = 96
+  [languages."xh"]
+    languageCode = "xh"
+    languageName = "isiXhosa"
+    title = "101 Languages Hub"
+    label = "isiXhosa"
+    weight = 97
+  [languages."yi"]
+    languageCode = "yi"
+    languageName = "ייִדיש"
+    title = "101 Languages Hub"
+    label = "ייִדיש"
+    weight = 98
+  [languages."yo"]
+    languageCode = "yo"
+    languageName = "Èdè Yorùbá"
+    title = "101 Languages Hub"
+    label = "Èdè Yorùbá"
+    weight = 99
+  [languages."zh-CN"]
+    languageCode = "zh-CN"
+    languageName = "简体中文"
+    title = "101 Languages Hub"
+    label = "简体中文"
+    weight = 100
+  [languages."zh-TW"]
+    languageCode = "zh-TW"
+    languageName = "繁體中文"
+    title = "101 Languages Hub"
+    label = "繁體中文"
+    weight = 101
+  [languages."zu"]
+    languageCode = "zu"
+    languageName = "isiZulu"
+    title = "101 Languages Hub"
+    label = "isiZulu"
+    weight = 102
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

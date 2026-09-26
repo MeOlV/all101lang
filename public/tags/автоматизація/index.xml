@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Автоматизація on 101 Languages Hub</title>
+		<title>Автоматизація on 101-мовний осередок</title>
 		<link>http://localhost:1313/all101lang/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D1%96%D1%8F/</link>
-		<description>Recent content in Автоматизація on 101 Languages Hub</description>
+		<description>Recent content in Автоматизація on 101-мовний осередок</description>
 		<generator>Hugo</generator>
 		<language>uk</language>
 		
 		
 		
 		
-			<lastBuildDate>Thu, 24 Sep 2026 18:18:05 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/all101lang/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D1%96%D1%8F/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Як перекласти власну книгу на 101 мову за лічені хвилини</title>
 				<link>http://localhost:1313/all101lang/announcement/</link>
-				<pubDate>Thu, 24 Sep 2026 18:18:05 +0000</pubDate>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
 				<guid>http://localhost:1313/all101lang/announcement/</guid>
-				<description>&lt;p&gt;Інструмент Gemini та стандартний перекладач у Google Docs дозволили масштабувати тексти до глобального рівня майже миттєво і за мінімальні витрати. Завдяки власному скрипту пакетної обробки, я пропоную послугу швидкого перекладу вашого документа на понад 100 мов без ручного втручання.&#xA;Чому це працює:&#xA;⬧ Надшвидкість: 101 мова за 15 хвилин (≈ 9 секунд на мову документа з 48 000 слів).&#xA;⬧ Масштабованість: Збереження заголовків, списків, таблиць та зображень.&#xA;⬧ Економія: Вартість перекладу книги на 101 мову становить лише близько 5 € / 6 $.&#xA;Нижче ви знайдете повну настанову та умови замовлення 101-го перекладу вашого твору.&lt;/p&gt;</description>
+				<description>&lt;p&gt;Інструмент Gemini та стандартний перекладач у Google Docs дозволили масштабувати тексти до глобального рівня майже миттєво і за мінімальні витрати. Завдяки власному скрипту пакетної обробки, я пропоную послугу швидкого перекладу вашого документа на понад 100 мов без ручного втручання.&lt;br&gt;&#xA;Чому це працює:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Надшвидкість: 101 мова за 15 хвилин (≈ 9 секунд на мову документа з 48 000 слів).&lt;/li&gt;&#xA;&lt;li&gt;Масштабованість: Збереження заголовків, списків, таблиць та зображень.&lt;/li&gt;&#xA;&lt;li&gt;Економія: Вартість перекладу книги на 101 мову становить лише близько 5 € / 6 $.&lt;br&gt;&#xA;Нижче ви знайдете повну настанову та умови замовлення 101-го перекладу вашого твору.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>

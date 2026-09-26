@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/zu/tags/</link>
+		<description>Recent content in Tags on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>zu</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/zu/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I-Google Docs</title>
+				<link>http://localhost:1313/all101lang/zu/tags/i-google-docs/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/zu/tags/i-google-docs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Iphrozi</title>
+				<link>http://localhost:1313/all101lang/zu/tags/iphrozi/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/zu/tags/iphrozi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ukubhala</title>
+				<link>http://localhost:1313/all101lang/zu/tags/ukubhala/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/zu/tags/ukubhala/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ukuhumusha</title>
+				<link>http://localhost:1313/all101lang/zu/tags/ukuhumusha/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/zu/tags/ukuhumusha/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ukuzenzakalela</title>
+				<link>http://localhost:1313/all101lang/zu/tags/ukuzenzakalela/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/zu/tags/ukuzenzakalela/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

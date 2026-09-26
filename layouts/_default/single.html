@@ -1,0 +1,36 @@
+{{ define "main" }}
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <h1 class="f1 athelas mt3 mb1">
+        {{ .Title }}
+      </h1>
+      {{ if .Params.date }}
+        <time class="f6 mv2 dib ttu tracked gray" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{ .Date.Format "02.01.2006" }}
+        </time>
+      {{ end }}
+    </header>
+    
+    <div class="nested-copy-lineheight lh-copy serif f4 nested-links mid-gray pr4-l w-100">
+      {{ .Content }}
+    </div>
+
+    {{ with .Params.googledocurl }}
+      <div class="mt4 pv3 w-100">
+        <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="dib bg-blue white fw6 ph4 pv3 br2 link dim f5">
+          {{ i18n "open_gdoc" | default "📄 Open instructions in Google Docs ↗" }}
+        </a>
+      </div>
+    {{ end }}
+
+    {{ with .Params.tags }}
+      <div class="mt3 pt2 w-100">
+        {{ range . }}
+          <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}" class="dib ba b--blue blue br-pill ph3 pv2 mr2 mb2 link dim f6">
+            {{ . }}
+          </a>
+        {{ end }}
+      </div>
+    {{ end }}
+  </article>
+{{ end }}

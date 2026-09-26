@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Google Docs on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/es/tags/google-docs/</link>
+		<description>Recent content in Google Docs on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>es</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/es/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cómo traducir tu propio libro a 101 idiomas en minutos</title>
+				<link>http://localhost:1313/all101lang/es/announcement/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/es/announcement/</guid>
+				<description>&lt;p&gt;La herramienta Gemini y el traductor estándar de Google Docs me han permitido escalar textos a nivel global casi instantáneamente y a un costo mínimo. Gracias a mi propio script de procesamiento por lotes, ofrezco un servicio para traducir rápidamente su documento a más de 100 idiomas sin intervención manual.&lt;br&gt;&#xA;Por qué funciona:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultrarrápido: 101 idiomas en 15 minutos (≈ 9 segundos por idioma para un documento de 48.000 palabras).&lt;/li&gt;&#xA;&lt;li&gt;Escalabilidad: Conserva los encabezados, las listas, las tablas y las imágenes.&lt;/li&gt;&#xA;&lt;li&gt;Ahorro: El coste de traducir un libro a 101 idiomas es de tan solo unos 5 € / 6 $.&lt;br&gt;&#xA;A continuación encontrará las instrucciones y condiciones completas para solicitar la traducción número 101 de su obra.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

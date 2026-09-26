@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on 101 Languages Hub</title>
+		<link>http://localhost:1313/all101lang/ga/tags/</link>
+		<description>Recent content in Tags on 101 Languages Hub</description>
+		<generator>Hugo</generator>
+		<language>ga</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/all101lang/ga/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Aistriúcháin</title>
+				<link>http://localhost:1313/all101lang/ga/tags/aistri%C3%BAch%C3%A1in/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ga/tags/aistri%C3%BAch%C3%A1in/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Google Docs</title>
+				<link>http://localhost:1313/all101lang/ga/tags/google-docs/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ga/tags/google-docs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Prós</title>
+				<link>http://localhost:1313/all101lang/ga/tags/pr%C3%B3s/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ga/tags/pr%C3%B3s/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Scríbhneoireacht</title>
+				<link>http://localhost:1313/all101lang/ga/tags/scr%C3%ADbhneoireacht/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ga/tags/scr%C3%ADbhneoireacht/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Uathoibriú</title>
+				<link>http://localhost:1313/all101lang/ga/tags/uathoibri%C3%BA/</link>
+				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
+				<guid>http://localhost:1313/all101lang/ga/tags/uathoibri%C3%BA/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
