@@ -58,4 +58,4 @@ other = "{{ .Name }} page"
 other = "Current"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Open manual in Google Docs"

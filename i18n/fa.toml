@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "بیشتر"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "همه {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "{{ .Title }}‌های اخیر"
 
 [readMore]
-other = "Read more"
+other = "بیشتر بخوانید"
 
 [by]
-other = "By"
+other = "توسط"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "محتوای این {{ .Type }} چیست؟"
 
 [related]
-other = "Related"
+other = "مرتبط"
 
 [yourName]
-other = "Your Name"
+other = "نام شما"
 
 [emailAddress]
-other = "Email Address"
+other = "آدرس ایمیل"
 
 [message]
-other = "Message"
+other = "پیام"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "آدرس ایمیل الزامی است."
 
 [send]
-other = "Send"
+other = "ارسال"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "این صفحه را در گیت‌هاب بهبود بخشید"
 
 [since]
-other = "Since"
+other = "از"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "در ادامه صفحاتی را مشاهده می‌کنید که از عبارت دسته‌بندی «{{ .Title }}» استفاده کرده‌اند."
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "مطالعه: یک دقیقه"
+other = "مطالعه: {{ .Count }} دقیقه"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "یک کلمه"
+other = "{{ .Count }} کلمه"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "صفحه {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "فعلی"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 باز کردن راهنما در Google Docs"

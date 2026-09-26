@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Më shumë"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Të gjitha {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Më të fundit {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Lexo më shumë"
 
 [by]
-other = "By"
+other = "Nga"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Çfarë ka në këtë {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Të ngjashme"
 
 [yourName]
-other = "Your Name"
+other = "Emri juaj"
 
 [emailAddress]
-other = "Email Address"
+other = "Adresa e emailit"
 
 [message]
-other = "Message"
+other = "Mesazhi"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Kërkohet një adresë emaili."
 
 [send]
-other = "Send"
+other = "Dërgo"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Përmirëso këtë faqe në GitHub"
 
 [since]
-other = "Since"
+other = "Që nga"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Më poshtë do të gjeni faqe që përdorin termin e taksonomisë “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Një minutë lexim"
+other = "{{ .Count }} minuta lexim"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Një fjalë"
+other = "{{ .Count }} fjalë"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Faqja {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Aktuale"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Hapni udhëzuesin në Google Docs"

@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Zvimwe"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Zvose {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Zvazvino {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Verenga zvimwe"
 
 [by]
-other = "By"
+other = "Na"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Chii chiri mune ino {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Zvakabatana"
 
 [yourName]
-other = "Your Name"
+other = "Zita rako"
 
 [emailAddress]
-other = "Email Address"
+other = "Kero yeemail"
 
 [message]
-other = "Message"
+other = "Meseji"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Kero yeemail inodiwa."
 
 [send]
-other = "Send"
+other = "Tumira"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Vandudza peji rino paGitHub"
 
 [since]
-other = "Since"
+other = "Kubva"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Pazasi uchawana mapeji anoshandisa izwi re taxonomy re “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Verenga kweminiti imwe"
+other = "Verenga kwemaminitsi {{ .Count }}"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Izwi rimwe"
+other = "Mazwi {{ .Count }}"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Peji ra {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Razvino"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Vhura gwara muGoogle Docs"

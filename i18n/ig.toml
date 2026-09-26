@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Ọzọ"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Niile {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Nke na-adịbeghị anya {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Gụọ ihe ọzọ"
 
 [by]
-other = "By"
+other = "Site n'aka"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Kedu ihe dị na {{ .Type }} a?"
 
 [related]
-other = "Related"
+other = "Nke metụtara"
 
 [yourName]
-other = "Your Name"
+other = "Aha gị"
 
 [emailAddress]
-other = "Email Address"
+other = "Adreesị Imeelụ"
 
 [message]
-other = "Message"
+other = "Ozi"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Achọrọ adreesị Imeelụ."
 
 [send]
-other = "Send"
+other = "Ziga"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Meziwanye ibe a na GitHub"
 
 [since]
-other = "Since"
+other = "Kemgbe"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "N'okpuru ebe a, ị ga-ahụ ibe ndị na-eji okwu nhazi “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Otu nkeji ọgụgụ"
+other = "{{ .Count }} nkeji ọgụgụ"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Otu okwu"
+other = "{{ .Count }} okwu"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Ibe {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Nke Ugbu a"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Mepee akwụkwọ ntụzịaka na Google Docs"

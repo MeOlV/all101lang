@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Περισσότερα"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Όλα τα {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Πρόσφατα {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Διαβάστε περισσότερα"
 
 [by]
-other = "By"
+other = "Από"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Τι περιλαμβάνει αυτό το {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Σχετικά"
 
 [yourName]
-other = "Your Name"
+other = "Το όνομά σας"
 
 [emailAddress]
-other = "Email Address"
+other = "Διεύθυνση email"
 
 [message]
-other = "Message"
+other = "Μήνυμα"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Απαιτείται διεύθυνση email."
 
 [send]
-other = "Send"
+other = "Αποστολή"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Βελτιώστε αυτή τη σελίδα στο GitHub"
 
 [since]
-other = "Since"
+other = "Από"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Παρακάτω θα βρείτε σελίδες που χρησιμοποιούν τον όρο ταξινόμησης «{{ .Title }}»"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Ανάγνωση ενός λεπτού"
+other = "Ανάγνωση {{ .Count }} λεπτών"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Μία λέξη"
+other = "{{ .Count }} λέξεις"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Σελίδα {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Τρέχουσα"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Άνοιγμα εγχειριδίου στα Έγγραφα Google"

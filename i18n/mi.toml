@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Ētahi atu"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Ngā {{ .Title }} Katoa"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Ngā {{ .Title }} Hou"
 
 [readMore]
-other = "Read more"
+other = "Pānuitia anō"
 
 [by]
-other = "By"
+other = "Nā"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "He aha kei roto i tēnei {{ .Type }}"
 
 [related]
-other = "Related"
+other = "E pā ana"
 
 [yourName]
-other = "Your Name"
+other = "Tōu Ingoa"
 
 [emailAddress]
-other = "Email Address"
+other = "Wāhitau Īmēra"
 
 [message]
-other = "Message"
+other = "Karere"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "E hiahiatia ana tētahi wāhitau īmēra."
 
 [send]
-other = "Send"
+other = "Tukuna"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Whakatikatika i tēnei whārangi ki GitHub"
 
 [since]
-other = "Since"
+other = "Mai i"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Kei raro iho ka kitea e koe ngā whārangi e whakamahi ana i te kupu whakatakoto “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Kotahi meneti pānui"
+other = "{{ .Count }} meneti pānui"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Kotahi kupu"
+other = "{{ .Count }} kupu"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Whārangi {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "O nāianei"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Whakatuwheratia te pukapuka tohutohu ki Google Docs"

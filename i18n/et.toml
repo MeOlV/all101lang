@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Rohkem"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Kõik {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Viimased {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Loe edasi"
 
 [by]
-other = "By"
+other = "Autor:"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Mida see {{ .Type }} sisaldab?"
 
 [related]
-other = "Related"
+other = "Seotud"
 
 [yourName]
-other = "Your Name"
+other = "Sinu nimi"
 
 [emailAddress]
-other = "Email Address"
+other = "E-posti aadress"
 
 [message]
-other = "Message"
+other = "Sõnum"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "E-posti aadress on kohustuslik."
 
 [send]
-other = "Send"
+other = "Saada"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Täiusta seda lehte GitHubis"
 
 [since]
-other = "Since"
+other = "Alates"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Allpool leiate leheküljed, mis kasutavad taksonoomia terminit „{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Ühe minuti lugemine"
+other = "{{ .Count }} minuti lugemist"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Üks sõna"
+other = "{{ .Count }} sõna"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} leht"
 
 [current_lang]
-other = "Current"
+other = "Praegune"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Ava juhend Google Docsis"

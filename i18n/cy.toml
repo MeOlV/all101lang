@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Mwy"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Pob {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Diweddar {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Darllen mwy"
 
 [by]
-other = "By"
+other = "Gan"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Beth sydd yn y {{ .Type }} hwn?"
 
 [related]
-other = "Related"
+other = "Cysylltiedig"
 
 [yourName]
-other = "Your Name"
+other = "Eich Enw"
 
 [emailAddress]
-other = "Email Address"
+other = "Cyfeiriad E-bost"
 
 [message]
-other = "Message"
+other = "Neges"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Mae angen cyfeiriad e-bost."
 
 [send]
-other = "Send"
+other = "Anfon"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Gwella'r dudalen hon ar GitHub"
 
 [since]
-other = "Since"
+other = "Ers"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Isod fe welwch dudalennau sy'n defnyddio'r term tacsonomeg “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Darlleniad un funud"
+other = "Darlleniad {{ .Count }} munud"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Un gair"
+other = "{{ .Count }} gair"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Tudalen {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Cyfredol"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Agor y canllaw yn Google Docs"

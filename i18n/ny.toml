@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Zambiri"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Zonse {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Zaposachedwapa {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Werengani zambiri"
 
 [by]
-other = "By"
+other = "Ndi"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Chiyani chili mu {{ .Type }} ichi"
 
 [related]
-other = "Related"
+other = "Zokhudzana"
 
 [yourName]
-other = "Your Name"
+other = "Dzina lanu"
 
 [emailAddress]
-other = "Email Address"
+other = "Adilesi ya imelo"
 
 [message]
-other = "Message"
+other = "Uthenga"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Adilesi ya imelo ikufunika."
 
 [send]
-other = "Send"
+other = "Tumiza"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Konzani tsamba ili pa GitHub"
 
 [since]
-other = "Since"
+other = "Kuyambira"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Pansipa mupeza masamba omwe akugwiritsa ntchito mawu a taxonomy “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Kuwerenga kwa mphindi imodzi"
+other = "Kuwerenga kwa mphindi {{ .Count }}"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Mawu amodzi"
+other = "Mawu {{ .Count }}"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Tsamba la {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Lopano"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Tsegulani kalozera mu Google Docs"

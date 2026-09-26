@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "更多"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "所有{{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "最新{{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "阅读更多"
 
 [by]
-other = "By"
+other = "作者"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "此{{ .Type }}中包含什么"
 
 [related]
-other = "Related"
+other = "相关"
 
 [yourName]
-other = "Your Name"
+other = "您的姓名"
 
 [emailAddress]
-other = "Email Address"
+other = "电子邮件地址"
 
 [message]
-other = "Message"
+other = "消息"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "需要电子邮件地址。"
 
 [send]
-other = "Send"
+other = "发送"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "在 GitHub 上改进此页面"
 
 [since]
-other = "Since"
+other = "自"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "下面您将找到使用分类术语“{{ .Title }}”的页面"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "阅读一分钟"
+other = "阅读{{ .Count }}分钟"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "一个词"
+other = "{{ .Count }}个词"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }}页面"
 
 [current_lang]
-other = "Current"
+other = "当前"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 在 Google 文档中打开手册"

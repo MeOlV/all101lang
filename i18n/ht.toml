@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Plis"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Tout {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Dènye {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Li plis"
 
 [by]
-other = "By"
+other = "Pa"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Ki sa ki genyen nan {{ .Type }} sa a"
 
 [related]
-other = "Related"
+other = "Ki gen rapò"
 
 [yourName]
-other = "Your Name"
+other = "Non ou"
 
 [emailAddress]
-other = "Email Address"
+other = "Adrès imèl"
 
 [message]
-other = "Message"
+other = "Mesaj"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Yon adrès imèl obligatwa."
 
 [send]
-other = "Send"
+other = "Voye"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Amelyore paj sa a sou GitHub"
 
 [since]
-other = "Since"
+other = "Depi"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Anba a w ap jwenn paj ki itilize tèm taksonomi a “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Yon minit pou li"
+other = "{{ .Count }} minit pou li"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Yon mo"
+other = "{{ .Count }} mo"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Paj {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Aktyèl"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Louvri manyèl la nan Google Docs"

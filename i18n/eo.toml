@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Pli"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Ĉiuj {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Lastatempaj {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Legu pli"
 
 [by]
-other = "By"
+other = "De"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Kio estas en ĉi tiu {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Rilataj"
 
 [yourName]
-other = "Your Name"
+other = "Via Nomo"
 
 [emailAddress]
-other = "Email Address"
+other = "Retpoŝta Adreso"
 
 [message]
-other = "Message"
+other = "Mesaĝo"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Retpoŝta adreso estas postulata."
 
 [send]
-other = "Send"
+other = "Sendi"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Plibonigu ĉi tiun paĝon en GitHub"
 
 [since]
-other = "Since"
+other = "Ekde"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Malsupre vi trovos paĝojn, kiuj utiligas la taksonomian terminon “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Unu-minuta legado"
+other = "{{ .Count }} minutoj da legado"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Unu vorto"
+other = "{{ .Count }} vortoj"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Paĝo de {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Nuna"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Malfermi gvidilon en Google Docs"

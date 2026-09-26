@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "نور"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "ټول {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "تازه {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "نور ولولئ"
 
 [by]
-other = "By"
+other = "لخوا"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "په دې {{ .Type }} کې څه دي؟"
 
 [related]
-other = "Related"
+other = "اړوند"
 
 [yourName]
-other = "Your Name"
+other = "ستاسو نوم"
 
 [emailAddress]
-other = "Email Address"
+other = "برېښنالیک پته"
 
 [message]
-other = "Message"
+other = "پیغام"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "برېښنالیک پته اړینه ده."
 
 [send]
-other = "Send"
+other = "ولیږئ"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "دا پاڼه په GitHub کې ښه کړئ"
 
 [since]
-other = "Since"
+other = "څخه"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "لاندې به هغه پاڼې ومومئ چې د "{{ .Title }}" ډلبندۍ اصطلاح کاروي"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "یوه دقیقه لوستل"
+other = "{{ .Count }} دقیقې لوستل"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "یوه کلمه"
+other = "{{ .Count }} کلمې"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} پاڼه"
 
 [current_lang]
-other = "Current"
+other = "اوسنۍ"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 لارښود د ګوګل ډاکس کې خلاص کړئ"

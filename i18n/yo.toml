@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Siwaju si"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Gbogbo {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Awọn {{ .Title }} Láìpẹ́"
 
 [readMore]
-other = "Read more"
+other = "Ka siwaju"
 
 [by]
-other = "By"
+other = "Nipasẹ"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Kí ló wà nínú {{ .Type }} yìí"
 
 [related]
-other = "Related"
+other = "Awọn tó jọra"
 
 [yourName]
-other = "Your Name"
+other = "Orúkọ rẹ"
 
 [emailAddress]
-other = "Email Address"
+other = "Adirẹsi Imeeli"
 
 [message]
-other = "Message"
+other = "Ifiranṣẹ"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "A nilo àdirẹsi imeeli."
 
 [send]
-other = "Send"
+other = "Firanṣẹ"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Mú ojúewé yìí sunwọ̀n si lórí GitHub"
 
 [since]
-other = "Since"
+other = "Láti ìgbà"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Ní isàlẹ̀ o máa rí àwọn ojúewé tó lo orúkọ ìsọ̀rí “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Ìwé kíkà ìṣẹ́jú kan"
+other = "Ìwé kíkà ìṣẹ́jú {{ .Count }}"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Ọrọ kan"
+other = "Ọrọ́ {{ .Count }}"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Ojúewé {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Lọ́wọ́lọ́wọ́"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Ṣi ìwé ìtọ́ni ní Google Docs"

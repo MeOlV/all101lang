@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "ಇನ್ನಷ್ಟು"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "ಎಲ್ಲಾ {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "ಇತ್ತೀಚಿನ {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "ಮುಂದೆ ಓದಿ"
 
 [by]
-other = "By"
+other = "ಇವರಿಂದ"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "ಈ {{ .Type }} ನಲ್ಲಿ ಏನಿದೆ?"
 
 [related]
-other = "Related"
+other = "ಸಂಬಂಧಿತ"
 
 [yourName]
-other = "Your Name"
+other = "ನಿಮ್ಮ ಹೆಸರು"
 
 [emailAddress]
-other = "Email Address"
+other = "ಇಮೇಲ್ ವಿಳಾಸ"
 
 [message]
-other = "Message"
+other = "ಸಂದೇಶ"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "ಇಮೇಲ್ ವಿಳಾಸ ಅಗತ್ಯವಿದೆ."
 
 [send]
-other = "Send"
+other = "ಕಳುಹಿಸಿ"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "GitHub ನಲ್ಲಿ ಈ ಪುಟವನ್ನು ಸುಧಾರಿಸಿ"
 
 [since]
-other = "Since"
+other = "ರಿಂದ"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "ಕೆಳಗೆ ನೀವು “{{ .Title }}” ಎಂಬ ವರ್ಗೀಕರಣ ಪದವನ್ನು ಬಳಸುವ ಪುಟಗಳನ್ನು ಕಾಣುವಿರಿ"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "ಒಂದು ನಿಮಿಷ ಓದುವಿಕೆ"
+other = "{{ .Count }} ನಿಮಿಷಗಳ ಓದುವಿಕೆ"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "ಒಂದು ಪದ"
+other = "{{ .Count }} ಪದಗಳು"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} ಪುಟ"
 
 [current_lang]
-other = "Current"
+other = "ಪ್ರಸ್ತುತ"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Google Docs ನಲ್ಲಿ ಕೈಪಿಡಿಯನ್ನು ತೆರೆಯಿರಿ"

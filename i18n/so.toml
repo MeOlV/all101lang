@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "In ka badan"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Dhammaan {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "{{ .Title }} ugu dambeeyay"
 
 [readMore]
-other = "Read more"
+other = "Akhri wax dheeraad ah"
 
 [by]
-other = "By"
+other = "Qoray"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Maxaa ku jira {{ .Type }} kan?"
 
 [related]
-other = "Related"
+other = "La xidhiidha"
 
 [yourName]
-other = "Your Name"
+other = "Magacaaga"
 
 [emailAddress]
-other = "Email Address"
+other = "Cinwaanka Iimaylka"
 
 [message]
-other = "Message"
+other = "Fariin"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Cinwaan iimayl ah ayaa loo baahan yahay."
 
 [send]
-other = "Send"
+other = "Dir"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Hagaaji boggan GitHub"
 
 [since]
-other = "Since"
+other = "Tan iyo"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Hoos waxaad ka heli doontaa bogagga isticmaala ereyga taksoonoomiga ah “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Akhris hal daqiiqo ah"
+other = "{{ .Count }} daqiiqo akhris ah"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Hal erey"
+other = "{{ .Count }} ereyo"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Bogga {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Hadda"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Fur hagaha Google Docs"

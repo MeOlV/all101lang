@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Több"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Összes {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Legutóbbi {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Tovább olvasom"
 
 [by]
-other = "By"
+other = "Szerző"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Mi van ebben a(z) {{ .Type }}-ben?"
 
 [related]
-other = "Related"
+other = "Kapcsolódó"
 
 [yourName]
-other = "Your Name"
+other = "Az Ön neve"
 
 [emailAddress]
-other = "Email Address"
+other = "E-mail cím"
 
 [message]
-other = "Message"
+other = "Üzenet"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "E-mail cím megadása kötelező."
 
 [send]
-other = "Send"
+other = "Küldés"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Javítsa ezt az oldalt a GitHubon"
 
 [since]
-other = "Since"
+other = "Mióta"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Az alábbiakban azokat az oldalakat találja, amelyek a(z) „{{ .Title }}” taxonómiai kifejezést használják."
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "1 perc olvasás"
+other = "{{ .Count }} perc olvasás"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Egy szó"
+other = "{{ .Count }} szó"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} oldal"
 
 [current_lang]
-other = "Current"
+other = "Jelenlegi"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Kézikönyv megnyitása Google Docsban"

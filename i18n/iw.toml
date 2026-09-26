@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "עוד"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "כל ה-{{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "האחרונים ב-{{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "קרא עוד"
 
 [by]
-other = "By"
+other = "מאת"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "מה יש ב-{{ .Type }} זה"
 
 [related]
-other = "Related"
+other = "קשור"
 
 [yourName]
-other = "Your Name"
+other = "השם שלך"
 
 [emailAddress]
-other = "Email Address"
+other = "כתובת אימייל"
 
 [message]
-other = "Message"
+other = "הודעה"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "נדרשת כתובת אימייל."
 
 [send]
-other = "Send"
+other = "שלח"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "שפר דף זה ב-GitHub"
 
 [since]
-other = "Since"
+other = "מאז"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "להלן תמצא דפים המשתמשים במונח הטקסונומי "{{ .Title }}""
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "קריאה של דקה אחת"
+other = "קריאה של {{ .Count }} דקות"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "מילה אחת"
+other = "{{ .Count }} מילים"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "דף {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "נוכחית"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 פתח מדריך ב-Google Docs"

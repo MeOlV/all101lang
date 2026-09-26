@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "আরও"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "সমস্ত {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "সাম্প্রতিক {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "আরও পড়ুন"
 
 [by]
-other = "By"
+other = "দ্বারা"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "এই {{ .Type }} এ কি আছে?"
 
 [related]
-other = "Related"
+other = "সম্পর্কিত"
 
 [yourName]
-other = "Your Name"
+other = "আপনার নাম"
 
 [emailAddress]
-other = "Email Address"
+other = "ইমেল ঠিকানা"
 
 [message]
-other = "Message"
+other = "বার্তা"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "একটি ইমেল ঠিকানা আবশ্যক।"
 
 [send]
-other = "Send"
+other = "প্রেরণ করুন"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "গিটহাবে এই পৃষ্ঠাটি উন্নত করুন"
 
 [since]
-other = "Since"
+other = "থেকে"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "নীচে আপনি সেই পৃষ্ঠাগুলি পাবেন যা ট্যাক্সোনমি শব্দ “{{ .Title }}” ব্যবহার করে"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "এক মিনিটের পড়া"
+other = "{{ .Count }} মিনিটের পড়া"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "একটি শব্দ"
+other = "{{ .Count }} টি শব্দ"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} পৃষ্ঠা"
 
 [current_lang]
-other = "Current"
+other = "বর্তমান"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 গুগল ডক্সে ম্যানুয়ালটি খুলুন"

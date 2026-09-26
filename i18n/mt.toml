@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Aktar"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Kollha {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Riċenti {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Aqra aktar"
 
 [by]
-other = "By"
+other = "Minn"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "X'hemm f'dan {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Relatati"
 
 [yourName]
-other = "Your Name"
+other = "Ismek"
 
 [emailAddress]
-other = "Email Address"
+other = "Indirizz tal-email"
 
 [message]
-other = "Message"
+other = "Messaġġ"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Indirizz tal-email huwa meħtieġ."
 
 [send]
-other = "Send"
+other = "Ibgħat"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Ittejjeb din il-paġna fuq GitHub"
 
 [since]
-other = "Since"
+other = "Minn"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Hawn taħt issib paġni li jużaw it-terminu tat-tassonomija “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Minuta qari"
+other = "{{ .Count }} minuti qari"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Kelma waħda"
+other = "{{ .Count }} kliem"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Paġna ta' {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Kurrenti"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Iftaħ il-manwal fil-Google Docs"

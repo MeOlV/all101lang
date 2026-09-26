@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Ավելին"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Բոլոր {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Վերջին {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Կարդալ ավելին"
 
 [by]
-other = "By"
+other = "Կողմից"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Ի՞նչ կա այս {{ .Type }}ում"
 
 [related]
-other = "Related"
+other = "Առնչվող"
 
 [yourName]
-other = "Your Name"
+other = "Ձեր անունը"
 
 [emailAddress]
-other = "Email Address"
+other = "Էլ. հասցե"
 
 [message]
-other = "Message"
+other = "Հաղորդագրություն"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Էլ. հասցեի մուտքագրումը պարտադիր է։"
 
 [send]
-other = "Send"
+other = "Ուղարկել"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Բարելավել այս էջը GitHub-ում"
 
 [since]
-other = "Since"
+other = "Սկսած"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Ստորև կգտնեք էջեր, որոնք օգտագործում են «{{ .Title }}» դասակարգման տերմինը։"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Մեկ րոպե ընթերցանություն"
+other = "{{ .Count }} րոպե ընթերցանություն"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Մեկ բառ"
+other = "{{ .Count }} բառ"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} էջ"
 
 [current_lang]
-other = "Current"
+other = "Ընթացիկ"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Բացել ձեռնարկը Google Docs-ում"

@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Bebe kokoa"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Rehetra {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Vao haingana {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Vakio bebe kokoa"
 
 [by]
-other = "By"
+other = "Nataon'i"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Inona no ao anatin'ity {{ .Type }} ity"
 
 [related]
-other = "Related"
+other = "Mifandraika"
 
 [yourName]
-other = "Your Name"
+other = "Ny Anaranao"
 
 [emailAddress]
-other = "Email Address"
+other = "Adiresy mailaka"
 
 [message]
-other = "Message"
+other = "Hafatra"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Ilaina ny adiresy mailaka."
 
 [send]
-other = "Send"
+other = "Alefaso"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Hatsarao ity pejy ity ao amin'ny GitHub"
 
 [since]
-other = "Since"
+other = "Hatramin'ny"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Eo ambany ianao dia hahita pejy mampiasa ny teny fanasokajiana “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Vakiana iray minitra"
+other = "Vakiana {{ .Count }} minitra"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Teny iray"
+other = "Teny {{ .Count }}"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Pejy {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Ankehitriny"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Sokafy ny torolalana ao amin'ny Google Docs"

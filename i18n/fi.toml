@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Lisää"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Kaikki {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Uusimmat {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Lue lisää"
 
 [by]
-other = "By"
+other = "Kirjoittanut"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Mitä tämä {{ .Type }} sisältää?"
 
 [related]
-other = "Related"
+other = "Liittyvät"
 
 [yourName]
-other = "Your Name"
+other = "Nimesi"
 
 [emailAddress]
-other = "Email Address"
+other = "Sähköpostiosoite"
 
 [message]
-other = "Message"
+other = "Viesti"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Sähköpostiosoite on pakollinen."
 
 [send]
-other = "Send"
+other = "Lähetä"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Paranna tätä sivua GitHubissa"
 
 [since]
-other = "Since"
+other = "alkaen"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Alla on sivuja, jotka käyttävät taksonomiatermiä “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Yhden minuutin luku"
+other = "{{ .Count }} minuutin luku"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Yksi sana"
+other = "{{ .Count }} sanaa"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} -sivu"
 
 [current_lang]
-other = "Current"
+other = "Nykyinen"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Avaa opas Google Docsissa"

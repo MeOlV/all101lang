@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Tuilleadh"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Na h-uile {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "{{ .Title }} o chionn ghoirid"
 
 [readMore]
-other = "Read more"
+other = "Leugh tuilleadh"
 
 [by]
-other = "By"
+other = "Le"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Dè th' anns an {{ .Type }} seo?"
 
 [related]
-other = "Related"
+other = "Co-cheangailte"
 
 [yourName]
-other = "Your Name"
+other = "D' ainm"
 
 [emailAddress]
-other = "Email Address"
+other = "Seòladh puist-d"
 
 [message]
-other = "Message"
+other = "Teachdaireachd"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Feumar seòladh puist-d."
 
 [send]
-other = "Send"
+other = "Cuir"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Leasaich an duilleag seo air GitHub"
 
 [since]
-other = "Since"
+other = "Bho"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Gu h-ìosal gheibh sibh duilleagan a chleachdas an teirm tacsonamaidh “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Leughadh aon mhionaid"
+other = "Leughadh {{ .Count }} mionaidean"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Aon fhacal"
+other = "{{ .Count }} faclan"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Duilleag {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Gnàthach"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Fosgail an leabhar-làimhe ann an Google Docs"

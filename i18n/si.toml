@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "තවත්"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "සියලු {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "නවතම {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "වැඩිදුර කියවන්න"
 
 [by]
-other = "By"
+other = "විසින්"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "මෙම {{ .Type }} හි ඇත්තේ කුමක්ද?"
 
 [related]
-other = "Related"
+other = "සම්බන්ධිත"
 
 [yourName]
-other = "Your Name"
+other = "ඔබේ නම"
 
 [emailAddress]
-other = "Email Address"
+other = "විද්‍යුත් තැපැල් ලිපිනය"
 
 [message]
-other = "Message"
+other = "පණිවිඩය"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "විද්‍යුත් තැපැල් ලිපිනයක් අවශ්‍ය වේ."
 
 [send]
-other = "Send"
+other = "යවන්න"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "මෙම පිටුව GitHub හි වැඩි දියුණු කරන්න"
 
 [since]
-other = "Since"
+other = "සිට"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "පහතින් ඔබට “{{ .Title }}” වර්ගීකරණ පදය භාවිත කරන පිටු සොයාගත හැක."
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "එක් මිනිත්තුවක කියවීමක්"
+other = "{{ .Count }} මිනිත්තු කියවීමක්"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "එක් වචනයක්"
+other = "{{ .Count }} වචන"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} පිටුව"
 
 [current_lang]
-other = "Current"
+other = "වර්තමාන"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Google Docs හි අත්පොත විවෘත කරන්න"

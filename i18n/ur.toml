@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "مزید"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "تمام {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "حالیہ {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "مزید پڑھیں"
 
 [by]
-other = "By"
+other = "بذریعہ"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "اس {{ .Type }} میں کیا ہے؟"
 
 [related]
-other = "Related"
+other = "متعلقہ"
 
 [yourName]
-other = "Your Name"
+other = "آپ کا نام"
 
 [emailAddress]
-other = "Email Address"
+other = "ای میل ایڈریس"
 
 [message]
-other = "Message"
+other = "پیغام"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "ای میل ایڈریس درکار ہے۔"
 
 [send]
-other = "Send"
+other = "بھیجیں"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "اس صفحے کو گٹ ہب پر بہتر بنائیں"
 
 [since]
-other = "Since"
+other = "از"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "نیچے آپ کو ایسے صفحات ملیں گے جو درجہ بندی کی اصطلاح ”{{ .Title }}“ کا استعمال کرتے ہیں۔"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "ایک منٹ کا مطالعہ"
+other = "{{ .Count }} منٹ کا مطالعہ"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "ایک لفظ"
+other = "{{ .Count }} الفاظ"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} صفحہ"
 
 [current_lang]
-other = "Current"
+other = "موجودہ"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 گُوگل ڈاکس میں دستی کھولیں"

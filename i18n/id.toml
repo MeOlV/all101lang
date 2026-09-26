@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Selengkapnya"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Semua {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Terbaru {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Baca selengkapnya"
 
 [by]
-other = "By"
+other = "Oleh"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Apa yang ada di {{ .Type }} ini"
 
 [related]
-other = "Related"
+other = "Terkait"
 
 [yourName]
-other = "Your Name"
+other = "Nama Anda"
 
 [emailAddress]
-other = "Email Address"
+other = "Alamat Email"
 
 [message]
-other = "Message"
+other = "Pesan"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Alamat email diperlukan."
 
 [send]
-other = "Send"
+other = "Kirim"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Sempurnakan halaman ini di GitHub"
 
 [since]
-other = "Since"
+other = "Sejak"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Di bawah ini Anda akan menemukan halaman-halaman yang menggunakan istilah taksonomi “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Satu menit baca"
+other = "{{ .Count }} menit baca"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Satu kata"
+other = "{{ .Count }} kata"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Halaman {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Saat Ini"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Buka panduan di Google Docs"

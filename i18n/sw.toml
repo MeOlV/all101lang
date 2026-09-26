@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Zaidi"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Zote {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Karibuni {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Soma zaidi"
 
 [by]
-other = "By"
+other = "Na"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Kuna nini katika {{ .Type }} hii?"
 
 [related]
-other = "Related"
+other = "Zinazohusiana"
 
 [yourName]
-other = "Your Name"
+other = "Jina Lako"
 
 [emailAddress]
-other = "Email Address"
+other = "Barua pepe"
 
 [message]
-other = "Message"
+other = "Ujumbe"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Barua pepe inahitajika."
 
 [send]
-other = "Send"
+other = "Tuma"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Boresha ukurasa huu kwenye GitHub"
 
 [since]
-other = "Since"
+other = "Tangu"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Hapo chini utapata kurasa zinazotumia neno la kategoria “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Dakika moja ya kusoma"
+other = "Dakika {{ .Count }} za kusoma"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Neno moja"
+other = "Maneno {{ .Count }}"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Ukurasa wa {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Ya Sasa"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Fungua mwongozo katika Google Docs"

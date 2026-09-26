@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Vairāk"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Visi {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Jaunākie {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Lasīt vairāk"
 
 [by]
-other = "By"
+other = "Autors"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Kas ir šajā {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Saistītie"
 
 [yourName]
-other = "Your Name"
+other = "Jūsu vārds"
 
 [emailAddress]
-other = "Email Address"
+other = "E-pasta adrese"
 
 [message]
-other = "Message"
+other = "Ziņojums"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "E-pasta adrese ir obligāta."
 
 [send]
-other = "Send"
+other = "Sūtīt"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Uzlabot šo lapu GitHub vietnē"
 
 [since]
-other = "Since"
+other = "Kopš"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Zemāk atradīsiet lapas, kas izmanto taksonomijas terminu “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Viena minūte lasīšanai"
+other = "{{ .Count }} minūtes lasīšanai"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Viens vārds"
+other = "{{ .Count }} vārdi"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} lapa"
 
 [current_lang]
-other = "Current"
+other = "Pašreizējā"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Atvērt rokasgrāmatu Google Docs"

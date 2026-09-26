@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Бусад"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Бүх {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Сүүлийн үеийн {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Дэлгэрэнгүй унших"
 
 [by]
-other = "By"
+other = "Бичсэн:"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Энэ {{ .Type }}-д юу байгаа вэ?"
 
 [related]
-other = "Related"
+other = "Холбоотой"
 
 [yourName]
-other = "Your Name"
+other = "Таны нэр"
 
 [emailAddress]
-other = "Email Address"
+other = "Имэйл хаяг"
 
 [message]
-other = "Message"
+other = "Зурвас"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Имэйл хаяг шаардлагатай."
 
 [send]
-other = "Send"
+other = "Илгээх"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Энэ хуудсыг GitHub дээр сайжруулах"
 
 [since]
-other = "Since"
+other = "Эхлэн"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Доор та “{{ .Title }}” нэр томъёог ашигласан хуудсуудыг олох болно"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Нэг минутын уншлага"
+other = "{{ .Count }} минутын уншлага"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Нэг үг"
+other = "{{ .Count }} үг"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} хуудас"
 
 [current_lang]
-other = "Current"
+other = "Одоогийн"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Гарын авлагыг Google Docs-оор нээх"

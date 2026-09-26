@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Batafsil"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Barcha {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "So'nggi {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Ko'proq o'qish"
 
 [by]
-other = "By"
+other = "Muallif"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Ushbu {{ .Type }}da nimalar bor?"
 
 [related]
-other = "Related"
+other = "Tegishli"
 
 [yourName]
-other = "Your Name"
+other = "Ismingiz"
 
 [emailAddress]
-other = "Email Address"
+other = "E-pochta manzili"
 
 [message]
-other = "Message"
+other = "Xabar"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "E-pochta manzili talab qilinadi."
 
 [send]
-other = "Send"
+other = "Yuborish"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Ushbu sahifani GitHub'da yaxshilash"
 
 [since]
-other = "Since"
+other = "Dan beri"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Quyida “{{ .Title }}” taksonomiya atamasidan foydalanilgan sahifalarni topishingiz mumkin."
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Bir daqiqalik o'qish"
+other = "{{ .Count }} daqiqalik o'qish"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Bir so'z"
+other = "{{ .Count }} so'z"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} sahifasi"
 
 [current_lang]
-other = "Current"
+other = "Joriy"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Qo'llanmani Google Docs'da ochish"

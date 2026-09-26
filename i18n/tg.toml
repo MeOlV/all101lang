@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Бештар"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Ҳамаи {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Охирин {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Бештар хонед"
 
 [by]
-other = "By"
+other = "Аз ҷониби"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Дар ин {{ .Type }} чӣ ҳаст?"
 
 [related]
-other = "Related"
+other = "Марбут"
 
 [yourName]
-other = "Your Name"
+other = "Номи шумо"
 
 [emailAddress]
-other = "Email Address"
+other = "Суроғаи почтаи электронӣ"
 
 [message]
-other = "Message"
+other = "Паём"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Суроғаи почтаи электронӣ ҳатмист."
 
 [send]
-other = "Send"
+other = "Фиристодан"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Ин саҳифаро дар GitHub такмил диҳед"
 
 [since]
-other = "Since"
+other = "Аз"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Дар зер саҳифаҳоеро хоҳед ёфт, ки истилоҳи таксономии “{{ .Title }}”-ро истифода мебаранд."
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Як дақиқа хондан"
+other = "{{ .Count }} дақиқа хондан"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Як калима"
+other = "{{ .Count }} калима"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Саҳифаи {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Ҷорӣ"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Дастурро дар Google Docs кушоед"

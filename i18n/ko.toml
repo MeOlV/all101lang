@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "더 보기"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "모든 {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "최신 {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "자세히 보기"
 
 [by]
-other = "By"
+other = "작성자"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "이 {{ .Type }}에는 무엇이 있나요?"
 
 [related]
-other = "Related"
+other = "관련"
 
 [yourName]
-other = "Your Name"
+other = "이름"
 
 [emailAddress]
-other = "Email Address"
+other = "이메일"
 
 [message]
-other = "Message"
+other = "메시지"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "이메일 주소는 필수 입력 사항입니다."
 
 [send]
-other = "Send"
+other = "보내기"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "GitHub에서 이 페이지 개선하기"
 
 [since]
-other = "Since"
+other = "이후"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "아래에서는 분류 항목 “{{ .Title }}”을(를) 사용하는 페이지를 찾을 수 있습니다."
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "1분 읽기"
+other = "{{ .Count }}분 읽기"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "단어 1개"
+other = "단어 {{ .Count }}개"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} 페이지"
 
 [current_lang]
-other = "Current"
+other = "현재"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Google Docs에서 안내서 열기"

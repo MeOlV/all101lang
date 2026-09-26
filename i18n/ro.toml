@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Mai mult"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Toate {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Recente {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Citește mai mult"
 
 [by]
-other = "By"
+other = "De"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Ce conține acest {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Similare"
 
 [yourName]
-other = "Your Name"
+other = "Numele tău"
 
 [emailAddress]
-other = "Email Address"
+other = "Adresă de email"
 
 [message]
-other = "Message"
+other = "Mesaj"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Este necesară o adresă de email."
 
 [send]
-other = "Send"
+other = "Trimite"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Îmbunătățește această pagină pe GitHub"
 
 [since]
-other = "Since"
+other = "De la"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Mai jos veți găsi pagini care utilizează termenul de taxonomie „{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Un minut de citit"
+other = "{{ .Count }} minute de citit"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Un cuvânt"
+other = "{{ .Count }} cuvinte"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Pagina {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Actuală"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Deschide ghidul în Google Docs"

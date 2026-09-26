@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Marami pa"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Lahat ng {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Kamakailang {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Basahin pa"
 
 [by]
-other = "By"
+other = "Ni"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Ano ang nasa {{ .Type }} na ito?"
 
 [related]
-other = "Related"
+other = "Kaugnay"
 
 [yourName]
-other = "Your Name"
+other = "Pangalan Mo"
 
 [emailAddress]
 other = "Email Address"
 
 [message]
-other = "Message"
+other = "Mensahe"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Kailangan ng email address."
 
 [send]
-other = "Send"
+other = "Ipadala"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Pagbutihin ang pahinang ito sa GitHub"
 
 [since]
-other = "Since"
+other = "Simula"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Sa ibaba makikita mo ang mga pahinang gumagamit ng termino ng taksonomiya na “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Isang minutong babasahin"
+other = "{{ .Count }} minutong babasahin"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Isang salita"
+other = "{{ .Count }} salita"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Pahina ng {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Kasalukuyan"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Buksan ang gabay sa Google Docs"

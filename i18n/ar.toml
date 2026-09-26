@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "المزيد"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "جميع {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "أحدث {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "اقرأ المزيد"
 
 [by]
-other = "By"
+other = "بواسطة"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "ماذا يوجد في هذا {{ .Type }}"
 
 [related]
-other = "Related"
+other = "ذات صلة"
 
 [yourName]
-other = "Your Name"
+other = "اسمك"
 
 [emailAddress]
-other = "Email Address"
+other = "عنوان البريد الإلكتروني"
 
 [message]
-other = "Message"
+other = "الرسالة"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "عنوان البريد الإلكتروني مطلوب."
 
 [send]
-other = "Send"
+other = "إرسال"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "تحسين هذه الصفحة على GitHub"
 
 [since]
-other = "Since"
+other = "منذ"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "ستجد أدناه صفحات تستخدم مصطلح التصنيف "{{ .Title }}""
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "دقيقة واحدة للقراءة"
+other = "{{ .Count }} دقائق للقراءة"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "كلمة واحدة"
+other = "{{ .Count }} كلمات"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "صفحة {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "الحالية"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 فتح الدليل في مستندات Google"

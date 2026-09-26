@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Повеќе"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Сите {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Најнови {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Прочитај повеќе"
 
 [by]
-other = "By"
+other = "Од"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Што има во ова {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Поврзано"
 
 [yourName]
-other = "Your Name"
+other = "Вашето име"
 
 [emailAddress]
-other = "Email Address"
+other = "Е-пошта адреса"
 
 [message]
-other = "Message"
+other = "Порака"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Потребна е е-пошта адреса."
 
 [send]
-other = "Send"
+other = "Испрати"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Подобри ја страницава на GitHub"
 
 [since]
-other = "Since"
+other = "Од"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Подолу ќе најдете страници кои го користат таксономскиот термин „{{ .Title }}“"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Една минута читање"
+other = "{{ .Count }} минути читање"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Еден збор"
+other = "{{ .Count }} зборови"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Страница {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Тековен"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Отвори упатство во Google Docs"

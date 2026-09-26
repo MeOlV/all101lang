@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Deui"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Sadaya {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Panganyarna {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Maca deui"
 
 [by]
-other = "By"
+other = "Ku"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Naon nu aya dina {{ .Type }} ieu?"
 
 [related]
-other = "Related"
+other = "Patali"
 
 [yourName]
-other = "Your Name"
+other = "Nami anjeun"
 
 [emailAddress]
-other = "Email Address"
+other = "Alamat surélék"
 
 [message]
-other = "Message"
+other = "Pesen"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Alamat surélék diwajibkeun."
 
 [send]
-other = "Send"
+other = "Kirim"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Hadéan kaca ieu dina GitHub"
 
 [since]
-other = "Since"
+other = "Ti"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Di handap ieu anjeun bakal manggihan kaca-kaca anu ngagunakeun istilah taksonomi “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Samenit macana"
+other = "{{ .Count }} menit macana"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Sakata"
+other = "{{ .Count }} kecap"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Kaca {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Ayeuna"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Buka pituduh dina Google Docs"

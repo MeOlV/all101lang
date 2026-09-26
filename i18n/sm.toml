@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Atili"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Uma {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Fou {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Faitau atili"
 
 [by]
-other = "By"
+other = "E"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "O le a le mea o i totonu o lenei {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Fesoʻotaʻi"
 
 [yourName]
-other = "Your Name"
+other = "Lou Igoa"
 
 [emailAddress]
-other = "Email Address"
+other = "Tuatusi Imeli"
 
 [message]
-other = "Message"
+other = "Feʻau"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "E manaʻomia se tuatusi imeli."
 
 [send]
-other = "Send"
+other = "Auina"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Faʻaleleia lenei itulau i le GitHub"
 
 [since]
-other = "Since"
+other = "Talu mai"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "O le a e maua i lalo itulau e faʻaaogaina le upu faʻavasega “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Faitau mo le tasi minute"
+other = "Faitau mo le {{ .Count }} minute"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Tasi le upu"
+other = "{{ .Count }} upu"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Itulau o le {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Lenei"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Tatala le tusi taʻiala i le Google Docs"

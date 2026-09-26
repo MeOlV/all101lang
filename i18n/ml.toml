@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "കൂടുതൽ"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "എല്ലാ {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "സമീപകാല {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "കൂടുതൽ വായിക്കുക"
 
 [by]
-other = "By"
+other = "എഴുതിയത്"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "ഈ {{ .Type }} -ൽ എന്താണ് ഉള്ളത്?"
 
 [related]
-other = "Related"
+other = "ബന്ധപ്പെട്ടവ"
 
 [yourName]
-other = "Your Name"
+other = "നിങ്ങളുടെ പേര്"
 
 [emailAddress]
-other = "Email Address"
+other = "ഇമെയിൽ വിലാസം"
 
 [message]
-other = "Message"
+other = "സന്ദേശം"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "ഒരു ഇമെയിൽ വിലാസം ആവശ്യമാണ്."
 
 [send]
-other = "Send"
+other = "അയക്കുക"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "ഈ പേജ് GitHub-ൽ മെച്ചപ്പെടുത്തുക"
 
 [since]
-other = "Since"
+other = "മുതൽ"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "താഴെക്കൊടുത്തിരിക്കുന്ന പേജുകൾ “{{ .Title }}” എന്ന ടാക്സോണമി പദം ഉപയോഗിക്കുന്നു."
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "ഒരു മിനിറ്റ് വായന"
+other = "{{ .Count }} മിനിറ്റ് വായന"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "ഒരു വാക്ക്"
+other = "{{ .Count }} വാക്കുകൾ"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} പേജ്"
 
 [current_lang]
-other = "Current"
+other = "നിലവിലെ"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 ഗൂഗിൾ ഡോക്സിൽ (Google Docs) സഹായരേഖ തുറക്കുക"

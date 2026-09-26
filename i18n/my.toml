@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "နောက်ထပ်"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "{{ .Title }} အားလုံး"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "မကြာသေးမီက {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "ဆက်ဖတ်ရန်"
 
 [by]
-other = "By"
+other = "မှ"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "ဤ {{ .Type }} တွင် ဘာတွေပါဝင်သလဲ"
 
 [related]
-other = "Related"
+other = "ဆက်စပ်"
 
 [yourName]
-other = "Your Name"
+other = "သင့်အမည်"
 
 [emailAddress]
-other = "Email Address"
+other = "အီးမေးလ်လိပ်စာ"
 
 [message]
-other = "Message"
+other = "မက်ဆေ့ချ်"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "အီးမေးလ်လိပ်စာ လိုအပ်ပါသည်။"
 
 [send]
-other = "Send"
+other = "ပို့ရန်"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "ဤစာမျက်နှာကို GitHub တွင် တိုးတက်အောင်လုပ်ပါ"
 
 [since]
-other = "Since"
+other = "မှစ၍"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "အောက်တွင် “{{ .Title }}” ဟူသော အမျိုးအစားခွဲခြားမှုကို အသုံးပြုထားသော စာမျက်နှာများကို တွေ့ရှိရပါမည်။"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "တစ်မိနစ်စာ ဖတ်ရှုရန်"
+other = "{{ .Count }} မိနစ်စာ ဖတ်ရှုရန်"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "စကားလုံး တစ်လုံး"
+other = "စကားလုံး {{ .Count }} လုံး"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} စာမျက်နှာ"
 
 [current_lang]
-other = "Current"
+other = "လက်ရှိ"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 လမ်းညွှန်ကို Google Docs ဖြင့် ဖွင့်ပါ"

@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "ተጨማሪ"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "ሁሉም {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "የቅርብ ጊዜ {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "ተጨማሪ ያንብቡ"
 
 [by]
-other = "By"
+other = "በ"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "በዚህ {{ .Type }} ውስጥ ያለው ምንድን ነው?"
 
 [related]
-other = "Related"
+other = "ተዛማጅ"
 
 [yourName]
-other = "Your Name"
+other = "የእርስዎ ስም"
 
 [emailAddress]
-other = "Email Address"
+other = "ኢሜይል አድራሻ"
 
 [message]
-other = "Message"
+other = "መልዕክት"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "የኢሜይል አድራሻ ያስፈልጋል፡፡"
 
 [send]
-other = "Send"
+other = "ላክ"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "ይህን ገጽ በ GitHub ላይ ያሻሽሉ"
 
 [since]
-other = "Since"
+other = "ከ"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "ከታች የ“{{ .Title }}”ን የሥርዓተ ምድብ ቃል የሚጠቀሙ ገጾችን ያገኛሉ"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "አንድ ደቂቃ ንባብ"
+other = "{{ .Count }} ደቂቃ ንባብ"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "አንድ ቃል"
+other = "{{ .Count }} ቃላት"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} ገጽ"
 
 [current_lang]
-other = "Current"
+other = "የአሁን"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 መመሪያውን በ Google Docs ይክፈቱ"

@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Daugiau"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Visi {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Naujausi {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Skaityti daugiau"
 
 [by]
-other = "By"
+other = "Autorius"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Kas yra šiame {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Susiję"
 
 [yourName]
-other = "Your Name"
+other = "Jūsų vardas"
 
 [emailAddress]
-other = "Email Address"
+other = "El. pašto adresas"
 
 [message]
-other = "Message"
+other = "Žinutė"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Būtinas el. pašto adresas."
 
 [send]
-other = "Send"
+other = "Siųsti"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Patobulinkite šį puslapį GitHub'e"
 
 [since]
-other = "Since"
+other = "Nuo"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Žemiau rasite puslapių, kurie naudoja taksonomijos terminą „{{ .Title }}“"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Skaitymas trunka minutę"
+other = "Skaitymas trunka {{ .Count }} minučių"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Vienas žodis"
+other = "{{ .Count }} žodžių"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} puslapis"
 
 [current_lang]
-other = "Current"
+other = "Dabartinė"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Atidaryti vadovą „Google Docs“"

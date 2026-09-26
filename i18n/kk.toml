@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Көбірек"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Барлық {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Соңғы {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Толығырақ оқу"
 
 [by]
-other = "By"
+other = "Авторы"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Бұл {{ .Type }} ішінде не бар?"
 
 [related]
-other = "Related"
+other = "Қатысты"
 
 [yourName]
-other = "Your Name"
+other = "Атыңыз"
 
 [emailAddress]
-other = "Email Address"
+other = "Электрондық пошта мекенжайы"
 
 [message]
-other = "Message"
+other = "Хабарлама"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Электрондық пошта мекенжайы қажет."
 
 [send]
-other = "Send"
+other = "Жіберу"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Бұл бетті GitHub-та жақсарту"
 
 [since]
-other = "Since"
+other = "Бері"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Төменде «{{ .Title }}» таксономиялық терминін қолданатын беттерді табасыз."
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Бір минут оқу"
+other = "{{ .Count }} минут оқу"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Бір сөз"
+other = "{{ .Count }} сөз"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} беті"
 
 [current_lang]
-other = "Current"
+other = "Ағымдағы"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Нұсқаулықты Google Docs-та ашу"

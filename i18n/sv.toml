@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Mer"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Alla {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Senaste {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Läs mer"
 
 [by]
-other = "By"
+other = "Av"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Vad finns i denna {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Relaterat"
 
 [yourName]
-other = "Your Name"
+other = "Ditt namn"
 
 [emailAddress]
-other = "Email Address"
+other = "E-postadress"
 
 [message]
-other = "Message"
+other = "Meddelande"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "En e-postadress krävs."
 
 [send]
-other = "Send"
+other = "Skicka"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Förbättra denna sida på GitHub"
 
 [since]
-other = "Since"
+other = "Sedan"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Nedan hittar du sidor som använder taxonomitermen ”{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "En minuts läsning"
+other = "{{ .Count }} minuters läsning"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Ett ord"
+other = "{{ .Count }} ord"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }}-sida"
 
 [current_lang]
-other = "Current"
+other = "Nuvarande"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Öppna manualen i Google Docs"

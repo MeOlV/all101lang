@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "მეტი"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "ყველა {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "ბოლო {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "ვრცლად"
 
 [by]
-other = "By"
+other = "მიერ"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "რა არის ამ {{ .Type }}-ში"
 
 [related]
-other = "Related"
+other = "დაკავშირებული"
 
 [yourName]
-other = "Your Name"
+other = "თქვენი სახელი"
 
 [emailAddress]
-other = "Email Address"
+other = "ელფოსტის მისამართი"
 
 [message]
-other = "Message"
+other = "შეტყობინება"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "ელფოსტის მისამართი სავალდებულოა."
 
 [send]
-other = "Send"
+other = "გაგზავნა"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "გააუმჯობესეთ ეს გვერდი GitHub-ზე"
 
 [since]
-other = "Since"
+other = "დან"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "ქვემოთ იპოვით გვერდებს, რომლებიც იყენებენ ტაქსონომიის ტერმინს „{{ .Title }}“"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "ერთი წუთის წასაკითხი"
+other = "{{ .Count }} წუთის წასაკითხი"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "ერთი სიტყვა"
+other = "{{ .Count }} სიტყვა"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} გვერდი"
 
 [current_lang]
-other = "Current"
+other = "მიმდინარე"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 გახსენით სახელმძღვანელო Google Docs-ში"

@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Ntau dua"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Tag nrho {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Cov {{ .Title }} tshiab"
 
 [readMore]
-other = "Read more"
+other = "Nyeem ntxiv"
 
 [by]
-other = "By"
+other = "Los ntawm"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Dab tsi nyob hauv {{ .Type }} no"
 
 [related]
-other = "Related"
+other = "Yam muaj feem"
 
 [yourName]
-other = "Your Name"
+other = "Koj Lub Npe"
 
 [emailAddress]
-other = "Email Address"
+other = "Chaw Nyob Email"
 
 [message]
-other = "Message"
+other = "Lus"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Yuav tsum muaj chaw nyob email."
 
 [send]
-other = "Send"
+other = "Xa"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Kho daim ntawv no kom zoo dua ntawm GitHub"
 
 [since]
-other = "Since"
+other = "Txij thaum"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Hauv qab no koj yuav pom nplooj ntawv uas siv lo lus txheej txheem “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Nyeem ib feeb"
+other = "Nyeem {{ .Count }} feeb"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Ib lo lus"
+other = "{{ .Count }} lo lus"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Nplooj ntawv {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Tam sim no"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Qhib phau ntawv qhia hauv Google Docs"

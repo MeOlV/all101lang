@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Okuningi"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Konke {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Okwasanda {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Funda kabanzi"
 
 [by]
-other = "By"
+other = "Ngu"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Yini ekukulo {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Okuhlobene"
 
 [yourName]
-other = "Your Name"
+other = "Igama Lakho"
 
 [emailAddress]
-other = "Email Address"
+other = "Ikheli le-imeyili"
 
 [message]
-other = "Message"
+other = "Umlayezo"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Kudingeka ikheli le-imeyili."
 
 [send]
-other = "Send"
+other = "Thumela"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Thuthukisa leli khasi ku-GitHub"
 
 [since]
-other = "Since"
+other = "Kusukela"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Ngezansi uzothola amakhasi asebenzisa igama lokuhlukanisa elithi “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Ukufunda komzuzu owodwa"
+other = "Ukufunda kwemizuzu engu-{{ .Count }}"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Igama elilodwa"
+other = "Amagama angu-{{ .Count }}"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Ikhasi lika-{{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Okwamanje"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Vula umhlahlandlela ku-Google Docs"

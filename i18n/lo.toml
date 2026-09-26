@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "ເພີ່ມເຕີມ"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "ທັງໝົດ {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "{{ .Title }} ລ່າສຸດ"
 
 [readMore]
-other = "Read more"
+other = "ອ່ານເພີ່ມເຕີມ"
 
 [by]
-other = "By"
+other = "ໂດຍ"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "ມີຫຍັງຢູ່ໃນ {{ .Type }} ນີ້?"
 
 [related]
-other = "Related"
+other = "ທີ່ກ່ຽວຂ້ອງ"
 
 [yourName]
-other = "Your Name"
+other = "ຊື່ຂອງທ່ານ"
 
 [emailAddress]
-other = "Email Address"
+other = "ທີ່ຢູ່ອີເມວ"
 
 [message]
-other = "Message"
+other = "ຂໍ້ຄວາມ"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "ຕ້ອງລະບຸທີ່ຢູ່ອີເມວ."
 
 [send]
-other = "Send"
+other = "ສົ່ງ"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "ປັບປຸງໜ້ານີ້ໃນ GitHub"
 
 [since]
-other = "Since"
+other = "ຕັ້ງແຕ່"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "ຂ້າງລຸ່ມນີ້ທ່ານຈະພົບເຫັນໜ້າຕ່າງໆທີ່ໃຊ້ຄຳສັບທາງດ້ານສັບພະວິຊາ “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "ໃຊ້ເວລາອ່ານໜຶ່ງນາທີ"
+other = "ໃຊ້ເວລາອ່ານ {{ .Count }} ນາທີ"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "ໜຶ່ງຄຳ"
+other = "{{ .Count }} ຄຳ"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "ໜ້າ {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "ປັດຈຸບັນ"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 ເປີດຄູ່ມືໃນ Google Docs"

@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "เพิ่มเติม"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "ทั้งหมด {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "{{ .Title }} ล่าสุด"
 
 [readMore]
-other = "Read more"
+other = "อ่านเพิ่มเติม"
 
 [by]
-other = "By"
+other = "โดย"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "มีอะไรใน {{ .Type }} นี้"
 
 [related]
-other = "Related"
+other = "ที่เกี่ยวข้อง"
 
 [yourName]
-other = "Your Name"
+other = "ชื่อของคุณ"
 
 [emailAddress]
-other = "Email Address"
+other = "ที่อยู่อีเมล"
 
 [message]
-other = "Message"
+other = "ข้อความ"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "จำเป็นต้องระบุที่อยู่อีเมล"
 
 [send]
-other = "Send"
+other = "ส่ง"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "ปรับปรุงหน้านี้บน GitHub"
 
 [since]
-other = "Since"
+other = "ตั้งแต่"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "ด้านล่างนี้คือหน้าที่ใช้คำศัพท์หมวดหมู่ “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "อ่าน 1 นาที"
+other = "อ่าน {{ .Count }} นาที"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "1 คำ"
+other = "{{ .Count }} คำ"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "หน้า {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "ปัจจุบัน"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 เปิดคู่มือใน Google Docs"

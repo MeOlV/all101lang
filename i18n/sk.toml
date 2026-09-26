@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Viac"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Všetky {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Najnovšie {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Čítať viac"
 
 [by]
-other = "By"
+other = "Autor"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Čo je v tomto {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Súvisiace"
 
 [yourName]
-other = "Your Name"
+other = "Vaše meno"
 
 [emailAddress]
-other = "Email Address"
+other = "E-mailová adresa"
 
 [message]
-other = "Message"
+other = "Správa"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "E-mailová adresa je povinná."
 
 [send]
-other = "Send"
+other = "Odoslať"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Vylepšiť túto stránku na GitHub-e"
 
 [since]
-other = "Since"
+other = "Od"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Nižšie nájdete stránky, ktoré využívajú taxonomický termín „{{ .Title }}“"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Jedna minúta čítania"
+other = "{{ .Count }} minút čítania"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Jedno slovo"
+other = "{{ .Count }} slov"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Stránka {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Aktuálny"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Otvoriť príručku v Dokumentoch Google"

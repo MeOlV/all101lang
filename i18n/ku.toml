@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "زیاتر"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "هەموو {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "نوێترین {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "زیاتر بخوێنەوە"
 
 [by]
-other = "By"
+other = "لەلایەن"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "ناوەڕۆکی ئەم {{ .Type }} چییە؟"
 
 [related]
-other = "Related"
+other = "پەیوەندیدار"
 
 [yourName]
-other = "Your Name"
+other = "ناوت"
 
 [emailAddress]
-other = "Email Address"
+other = "ناونیشانی ئیمەیڵ"
 
 [message]
-other = "Message"
+other = "پەیام"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "ناونیشانێکی ئیمەیڵ پێویستە."
 
 [send]
-other = "Send"
+other = "ناردن"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "ئەم لاپەڕەیە لە گیتھەب باشتر بکە"
 
 [since]
-other = "Since"
+other = "لەوەتەی"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "لەم خوارەوە ئەو لاپەڕانە دەبینیت کە زاراوەی پۆلێنکردنی «{{ .Title }}» بەکاردەهێنن"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "خوێندنەوەی یەک خولەک"
+other = "خوێندنەوەی {{ .Count }} خولەک"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "یەک وشە"
+other = "{{ .Count }} وشە"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "لاپەڕەی {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "هەنووکەیی"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 ڕێبەرەکە لە گووگڵ دۆکس بکەرەوە"

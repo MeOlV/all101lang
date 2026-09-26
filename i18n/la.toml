@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Plus"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Omnia {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Recentia {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Legere plus"
 
 [by]
-other = "By"
+other = "Ab"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Quid in hoc {{ .Type }} continetur?"
 
 [related]
-other = "Related"
+other = "Coniuncta"
 
 [yourName]
-other = "Your Name"
+other = "Nomen tuum"
 
 [emailAddress]
-other = "Email Address"
+other = "Inscriptio electronica"
 
 [message]
-other = "Message"
+other = "Nuntius"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Inscriptio electronica necessaria est."
 
 [send]
-other = "Send"
+other = "Mitte"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Hanc paginam in GitHub emenda"
 
 [since]
-other = "Since"
+other = "Ab"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Infra invenies paginas quae vocabulo taxonomico “{{ .Title }}” utuntur."
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Unius minutae lectio"
+other = "{{ .Count }} minutarum lectio"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Unum verbum"
+other = "{{ .Count }} verba"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Pagina {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Praesens"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Aperire manuale in Google Docs"

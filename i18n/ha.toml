@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Ƙari"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Duk {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Sabbin {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Kara karantawa"
 
 [by]
-other = "By"
+other = "Daga"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Menene a cikin wannan {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Masu dangantaka"
 
 [yourName]
-other = "Your Name"
+other = "Sunanka"
 
 [emailAddress]
-other = "Email Address"
+other = "Adireshin Imel"
 
 [message]
-other = "Message"
+other = "Saƙo"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Ana buƙatar adireshin imel."
 
 [send]
-other = "Send"
+other = "Aika"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Inganta wannan shafin a GitHub"
 
 [since]
-other = "Since"
+other = "Tun daga"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "A ƙasa zaka ga shafuka masu amfani da kalmar taxonomy “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Minti ɗaya na karantawa"
+other = "Minti {{ .Count }} na karantawa"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Kalma ɗaya"
+other = "Kalmomi {{ .Count }}"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Shafin {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Na yanzu"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Buɗe littafin jagora a Google Docs"

@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "ਹੋਰ"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "ਸਾਰੇ {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "ਤਾਜ਼ਾ {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "ਹੋਰ ਪੜ੍ਹੋ"
 
 [by]
-other = "By"
+other = "ਦੁਆਰਾ"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "ਇਸ {{ .Type }} ਵਿੱਚ ਕੀ ਹੈ?"
 
 [related]
-other = "Related"
+other = "ਸੰਬੰਧਿਤ"
 
 [yourName]
-other = "Your Name"
+other = "ਤੁਹਾਡਾ ਨਾਮ"
 
 [emailAddress]
-other = "Email Address"
+other = "ਈਮੇਲ ਪਤਾ"
 
 [message]
-other = "Message"
+other = "ਸੁਨੇਹਾ"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "ਇੱਕ ਈਮੇਲ ਪਤੇ ਦੀ ਲੋੜ ਹੈ।"
 
 [send]
-other = "Send"
+other = "ਭੇਜੋ"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "ਇਸ ਪੰਨੇ ਨੂੰ GitHub 'ਤੇ ਸੁਧਾਰੋ"
 
 [since]
-other = "Since"
+other = "ਤੋਂ"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "ਹੇਠਾਂ ਤੁਹਾਨੂੰ ਉਹ ਪੰਨੇ ਮਿਲਣਗੇ ਜੋ ਸ਼੍ਰੇਣੀ ਸ਼ਬਦ “{{ .Title }}” ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਨ"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "ਇੱਕ ਮਿੰਟ ਪੜ੍ਹੋ"
+other = "{{ .Count }} ਮਿੰਟ ਪੜ੍ਹੋ"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "ਇੱਕ ਸ਼ਬਦ"
+other = "{{ .Count }} ਸ਼ਬਦ"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} ਪੰਨਾ"
 
 [current_lang]
-other = "Current"
+other = "ਮੌਜੂਦਾ"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 ਗੂਗਲ ਡੌਕਸ ਵਿੱਚ ਮਾਰਗਦਰਸ਼ਕ ਖੋਲ੍ਹੋ"

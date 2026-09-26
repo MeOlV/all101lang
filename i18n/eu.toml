@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Gehiago"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "{{ .Title }} guztiak"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Azken {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Gehiago irakurri"
 
 [by]
-other = "By"
+other = "Egilea:"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Zer dago {{ .Type }} honetan?"
 
 [related]
-other = "Related"
+other = "Erlazionatuta"
 
 [yourName]
-other = "Your Name"
+other = "Zure izena"
 
 [emailAddress]
-other = "Email Address"
+other = "Helbide elektronikoa"
 
 [message]
-other = "Message"
+other = "Mezua"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Helbide elektronikoa derrigorrezkoa da."
 
 [send]
-other = "Send"
+other = "Bidali"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Hobetu orri hau GitHuben"
 
 [since]
-other = "Since"
+other = "Noiztik"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Jarraian, “{{ .Title }}” taxonomia terminoa erabiltzen duten orriak aurkituko dituzu"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Minutu bateko irakurketa"
+other = "{{ .Count }} minutuko irakurketa"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Hitz bat"
+other = "{{ .Count }} hitz"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} orria"
 
 [current_lang]
-other = "Current"
+other = "Oraingoa"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Ireki gidaliburua Google Docs-en"

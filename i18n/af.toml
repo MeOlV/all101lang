@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Meer"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Alle {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Onlangse {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Lees meer"
 
 [by]
-other = "By"
+other = "Deur"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Wat is hierin {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Verwant"
 
 [yourName]
-other = "Your Name"
+other = "Jou Naam"
 
 [emailAddress]
-other = "Email Address"
+other = "E-posadres"
 
 [message]
-other = "Message"
+other = "Boodskap"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "'n E-posadres word vereis."
 
 [send]
-other = "Send"
+other = "Stuur"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Verbeter hierdie bladsy op GitHub"
 
 [since]
-other = "Since"
+other = "Sedert"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Hieronder sal u bladsye vind wat die taksonomieterm “{{ .Title }}” gebruik"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "'n Minuut lees"
+other = "{{ .Count }} minute lees"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Een woord"
+other = "{{ .Count }} woorde"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} bladsy"
 
 [current_lang]
-other = "Current"
+other = "Huidige"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Maak handleiding in Google Docs oop"

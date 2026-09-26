@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Tse ling"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "{{ .Title }} tsohle"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "{{ .Title }} tsa morao tjena"
 
 [readMore]
-other = "Read more"
+other = "Bala haholoanyane"
 
 [by]
-other = "By"
+other = "Ke"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Ho na le eng ho {{ .Type }} ena?"
 
 [related]
-other = "Related"
+other = "Tse amanang"
 
 [yourName]
-other = "Your Name"
+other = "Lebitso la hao"
 
 [emailAddress]
-other = "Email Address"
+other = "Aterese ea imeile"
 
 [message]
-other = "Message"
+other = "Molaetsa"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Aterese ea imeile e ea hlokahala."
 
 [send]
-other = "Send"
+other = "Romela"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Ntlafatsa leqephe lena ho GitHub"
 
 [since]
-other = "Since"
+other = "Ho tloha"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Ka tlase u tla fumana maqephe a sebelisang lentsoe la taxonomy “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Ho bala motsotso o le mong"
+other = "Ho bala metsotso e {{ .Count }}"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Lentsoe le le leng"
+other = "Mantsoe a {{ .Count }}"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Leqephe la {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Jwale"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Bula tataiso ho Google Docs"

@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "מער"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "אַלע {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "לעצטע {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "לייען מער"
 
 [by]
-other = "By"
+other = "פֿון"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "וואָס איז אין דעם {{ .Type }}"
 
 [related]
-other = "Related"
+other = "פֿאַרבונדן"
 
 [yourName]
-other = "Your Name"
+other = "דיין נאָמען"
 
 [emailAddress]
-other = "Email Address"
+other = "בליצפּאָסט אַדרעס"
 
 [message]
-other = "Message"
+other = "מעלדונג"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "א בליצפּאָסט אַדרעס איז פֿאָדערט."
 
 [send]
-other = "Send"
+other = "שיקן"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "פֿאַרבעסער דעם בלאַט אויף GitHub"
 
 [since]
-other = "Since"
+other = "זינט"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "אונטן געפֿינט איר בלעטער וואָס ניצן דעם טאַקסאָנאָמיע טערמין "{{ .Title }}""
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "איין מינוט לייענען"
+other = "{{ .Count }} מינוטן לייענען"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "איין וואָרט"
+other = "{{ .Count }} ווערטער"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} בלאַט"
 
 [current_lang]
-other = "Current"
+other = "איצטיקער"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 עפֿן מאַנואַל אין Google דאָקס"

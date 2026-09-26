@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Thêm"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Tất cả {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "{{ .Title }} gần đây"
 
 [readMore]
-other = "Read more"
+other = "Đọc thêm"
 
 [by]
-other = "By"
+other = "Bởi"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Có gì trong {{ .Type }} này"
 
 [related]
-other = "Related"
+other = "Liên quan"
 
 [yourName]
-other = "Your Name"
+other = "Tên của bạn"
 
 [emailAddress]
-other = "Email Address"
+other = "Địa chỉ email"
 
 [message]
-other = "Message"
+other = "Tin nhắn"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Cần có địa chỉ email."
 
 [send]
-other = "Send"
+other = "Gửi"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Cải thiện trang này trên GitHub"
 
 [since]
-other = "Since"
+other = "Từ"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Bên dưới bạn sẽ tìm thấy các trang sử dụng thuật ngữ phân loại “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Đọc trong một phút"
+other = "Đọc trong {{ .Count }} phút"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Một từ"
+other = "{{ .Count }} từ"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Trang {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Hiện tại"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Mở hướng dẫn trong Google Docs"

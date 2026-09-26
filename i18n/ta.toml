@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "மேலும்"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "அனைத்து {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "சமீபத்திய {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "மேலும் படிக்க"
 
 [by]
-other = "By"
+other = "மூலம்"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "இந்த {{ .Type }} இல் என்ன இருக்கிறது"
 
 [related]
-other = "Related"
+other = "தொடர்புடையவை"
 
 [yourName]
-other = "Your Name"
+other = "உங்கள் பெயர்"
 
 [emailAddress]
-other = "Email Address"
+other = "மின்னஞ்சல் முகவரி"
 
 [message]
-other = "Message"
+other = "செய்தி"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "மின்னஞ்சல் முகவரி அவசியம்."
 
 [send]
-other = "Send"
+other = "அனுப்பு"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "இந்த பக்கத்தை GitHub இல் மேம்படுத்தவும்"
 
 [since]
-other = "Since"
+other = "முதல்"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "கீழே, '{{ .Title }}' என்ற வகைப்பாடு சொல்லைப் பயன்படுத்தும் பக்கங்களை நீங்கள் காணலாம்"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "ஒரு நிமிட வாசிப்பு"
+other = "{{ .Count }} நிமிட வாசிப்பு"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "ஒரு சொல்"
+other = "{{ .Count }} சொற்கள்"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "{{ .Name }} பக்கம்"
 
 [current_lang]
-other = "Current"
+other = "தற்போதைய"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Google Docs இல் கையேட்டைத் திறக்கவும்"

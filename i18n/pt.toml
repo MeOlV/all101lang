@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Mais"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Todos os {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Recentes {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Ler mais"
 
 [by]
-other = "By"
+other = "Por"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "O que há neste {{ .Type }}"
 
 [related]
-other = "Related"
+other = "Relacionado"
 
 [yourName]
-other = "Your Name"
+other = "Seu Nome"
 
 [emailAddress]
-other = "Email Address"
+other = "Endereço de Email"
 
 [message]
-other = "Message"
+other = "Mensagem"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Um endereço de email é obrigatório."
 
 [send]
-other = "Send"
+other = "Enviar"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Melhore esta página no GitHub"
 
 [since]
-other = "Since"
+other = "Desde"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Abaixo você encontrará páginas que utilizam o termo de taxonomia “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Um minuto de leitura"
+other = "{{ .Count }} minutos de leitura"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Uma palavra"
+other = "{{ .Count }} palavras"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Página {{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Atual"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Abrir manual no Google Docs"

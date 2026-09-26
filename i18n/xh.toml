@@ -1,61 +1,61 @@
 [more]
-other = "More"
+other = "Okunye"
 
 [allTitle]
-other = "All {{ .Title }}"
+other = "Zonke {{ .Title }}"
 
 [recentTitle]
-other = "Recent {{ .Title }}"
+other = "Zamva nje {{ .Title }}"
 
 [readMore]
-other = "Read more"
+other = "Funda ngaphezulu"
 
 [by]
-other = "By"
+other = "Ngu"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Yintoni ekule {{ .Type }}?"
 
 [related]
-other = "Related"
+other = "Ezinxulumene"
 
 [yourName]
-other = "Your Name"
+other = "Igama lakho"
 
 [emailAddress]
-other = "Email Address"
+other = "Idilesi ye-imeyile"
 
 [message]
-other = "Message"
+other = "Umyalezo"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Kufuneka idilesi ye-imeyile."
 
 [send]
-other = "Send"
+other = "Thumela"
 
 [editPage]
-other = "Improve this page on GitHub"
+other = "Phucula eli phepha kwiGitHub"
 
 [since]
-other = "Since"
+other = "Ukususela"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Apha ngezantsi uya kufumana amaphepha asebenzisa igama le-taxonomy elithi “{{ .Title }}”"
 
 [readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"
+one = "Umzuzu omnye wokufunda"
+other = "Imizuzu eli-{{ .Count }} yokufunda"
 
 [wordCount]
-one = "One word"
-other = "{{ .Count }} words"
+one = "Igama elinye"
+other = "Amagama ali-{{ .Count }}"
 
 [pageTitle]
-other = "{{ .Name }} page"
+other = "Iphepha lika-{{ .Name }}"
 
 [current_lang]
-other = "Current"
+other = "Yangoku"
 
 [open_gdoc]
-other = "📄 Open instructions in Google Docs"
+other = "📄 Vula incwadi yesikhokelo kwiGoogle Docs"
