@@ -1,13 +1,8 @@
 {{ define "main" }}
 <article class="cf ph3 ph5-l pv2 pv3-l f4 center lh-copy nested-links {{ $.Param "text_color" | default "mid-gray" }}">
   
-  <!-- Компактний блок вітання -->
-  <div class="mw8 center tr mb3">
-    <h1 class="f4 f3-l fw3 mb1 lh-title" style="color: #2c2c2c;">{{ i18n "hero_welcome" }}</h1>
-    <p class="f6 f5-l i fw1 mt0 lh-copy" style="color: #666;">{{ i18n "hero_subtitle" }}</p>
-  </div>
+  {{ partial "hero.html" . }}
 
-  <!-- Блок списку анонсів (картки) -->
   <div class="mw8 center">
     <section class="flex-ns flex-wrap justify-between">
       {{ range .Site.RegularPages }}
