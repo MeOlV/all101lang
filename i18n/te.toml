@@ -1,5 +1,5 @@
 [more]
-other = "మరింత"
+other = "ఇంకా"
 
 [allTitle]
 other = "అన్ని {{ .Title }}"
@@ -14,7 +14,7 @@ other = "మరింత చదవండి"
 other = "ద్వారా"
 
 [whatsInThis]
-other = "ఈ {{ .Type }}లో ఏముంది?"
+other = "ఈ {{ .Type }} లో ఏముంది"
 
 [related]
 other = "సంబంధిత"
@@ -29,23 +29,23 @@ other = "ఇమెయిల్ చిరునామా"
 other = "సందేశం"
 
 [emailRequiredNote]
-other = "ఇమెయిల్ చిరునామా అవసరం."
+other = "ఇమెయిల్ చిరునామా తప్పనిసరి."
 
 [send]
-other = "పంపించు"
+other = "పంపండి"
 
 [editPage]
-other = "ఈ పేజీని గిట్‌హబ్‌లో మెరుగుపరచండి"
+other = "ఈ పేజీని GitHub లో మెరుగుపరచండి"
 
 [since]
 other = "నుండి"
 
 [taxonomyPageList]
-other = "కింద మీరు '{{ .Title }}' అనే వర్గీకరణ పదాన్ని ఉపయోగించే పేజీలను కనుగొంటారు"
+other = "దిగువన మీరు '{{ .Title }}' అనే వర్గీకరణ పదాన్ని ఉపయోగించే పేజీలను కనుగొంటారు"
 
 [readingTime]
-one = "ఒక నిమిషం చదవడానికి"
-other = "{{ .Count }} నిమిషాలు చదవడానికి"
+one = "ఒక నిమిషం పఠనం"
+other = "{{ .Count }} నిమిషాల పఠనం"
 
 [wordCount]
 one = "ఒక పదం"
@@ -58,12 +58,22 @@ other = "{{ .Name }} పేజీ"
 other = "ప్రస్తుత"
 
 [open_gdoc]
-other = "📄 గూగుల్ డాక్స్ లో మాన్యువల్ తెరవండి"
+other = "📄 Google Docs లో మార్గదర్శిని తెరవండి"
+
 [site_hub_title]
-other = "101 భాషల వేదిక"
+other = "101 భాషల కేంద్రం"
 
 [hero_welcome]
-other = "101 భాషల కృత్రిమ మేధ సహాయక పబ్లిషింగ్ వేదికకు స్వాగతం!"
+other = "101 భాషల సెమీ-ఏఐ ప్రచురణా కేంద్రానికి స్వాగతం!"
 
 [hero_subtitle]
-other = "కృత్రిమ మేధ భాషా అడ్డంకులను తొలగించడంలో సహాయపడుతుంది!"
+other = "కృత్రిమ మేధస్సు భాషా అవరోధాలను తొలగించడానికి సహాయపడుతుంది!"
+
+[embedded_gdoc_title]
+other = "పొందుపరచిన Google Docs పత్రం"
+
+[toggle_embed_hint]
+other = "కుదించడానికి/విస్తరించడానికి నొక్కండి"
+
+[open_gdoc_external]
+other = "కొత్త విండోలో తెరవండి"

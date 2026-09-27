@@ -5,7 +5,7 @@ other = "Mwy"
 other = "Pob {{ .Title }}"
 
 [recentTitle]
-other = "Diweddar {{ .Title }}"
+other = "{{ .Title }} diweddar"
 
 [readMore]
 other = "Darllen mwy"
@@ -44,8 +44,8 @@ other = "Ers"
 other = "Isod fe welwch dudalennau sy'n defnyddio'r term tacsonomeg '{{ .Title }}'"
 
 [readingTime]
-one = "Un funud o ddarllen"
-other = "{{ .Count }} munud o ddarllen"
+one = "Darllen am un funud"
+other = "Darllen am {{ .Count }} munud"
 
 [wordCount]
 one = "Un gair"
@@ -59,11 +59,21 @@ other = "Cyfredol"
 
 [open_gdoc]
 other = "📄 Agor llawlyfr yn Google Docs"
+
 [site_hub_title]
-other = "Porth 101 Iaith"
+other = "Hyb 101 Iaith"
 
 [hero_welcome]
-other = "Croeso i Borth Cyhoeddi 101 Iaith â Chymorth AI!"
+other = "Croeso i'r Hyb Cyhoeddi Lled-AI 101 Iaith!"
 
 [hero_subtitle]
-other = "Mae Deallusrwydd Artiffisial yn helpu torri rhwystrau iaith!"
+other = "Mae Deallusrwydd Artiffisial yn helpu i dorri rhwystrau iaith!"
+
+[embedded_gdoc_title]
+other = "Dogfen Google Docs wedi'i mewnosod"
+
+[toggle_embed_hint]
+other = "cliciwch i gwympo/ehangu"
+
+[open_gdoc_external]
+other = "Agor mewn ffenestr newydd"

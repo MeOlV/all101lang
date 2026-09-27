@@ -1,69 +1,79 @@
 [more]
-other = "Nui aʻe"
+other = "Hou aʻe"
 
 [allTitle]
-other = "Nā mea a pau o {{ .Title }}"
+other = "Nā mea āpau {{ .Title }}"
 
 [recentTitle]
-other = "Nā mea hou o {{ .Title }}"
+other = "Nā mea hou {{ .Title }}"
 
 [readMore]
-other = "E heluhelu hou"
+other = "Heluhelu hou aku"
 
 [by]
 other = "Na"
 
 [whatsInThis]
-other = "He aha ka mea i loko o kēia {{ .Type }}?"
+other = "He aha i loko o kēia {{ .Type }}"
 
 [related]
-other = "Nā mea pili"
+other = "Pili"
 
 [yourName]
-other = "Kou Inoa"
+other = "Kou inoa"
 
 [emailAddress]
-other = "Helu Leka Uila"
+other = "Leka uila"
 
 [message]
-other = "Memo"
+other = "Leona"
 
 [emailRequiredNote]
-other = "Pono ka helu leka uila."
+other = "Pono ka leka uila."
 
 [send]
 other = "Hoʻouna"
 
 [editPage]
-other = "E hoʻomaikaʻi i kēia ʻaoʻao ma GitHub"
+other = "Hoʻomaikaʻi i kēia ʻaoʻao ma GitHub"
 
 [since]
 other = "Mai"
 
 [taxonomyPageList]
-other = "Ma lalo nei e loaʻa ai iā ʻoe nā ʻaoʻao e hoʻohana ana i ka huaʻōlelo taxonomy '{{ .Title }}'"
+other = "Ma lalo iho e ʻike ai ʻoe i nā ʻaoʻao e hoʻohana ana i ka huaʻōlelo māhele '{{ .Title }}'"
 
 [readingTime]
-one = "He minuke hoʻokahi e heluhelu ai"
-other = "{{ .Count }} minuke e heluhelu ai"
+one = "Hoʻokahi minuke heluhelu"
+other = "{{ .Count }} mau minuke heluhelu"
 
 [wordCount]
-one = "He huaʻōlelo hoʻokahi"
-other = "{{ .Count }} huaʻōlelo"
+one = "Hoʻokahi huaʻōlelo"
+other = "{{ .Count }} mau huaʻōlelo"
 
 [pageTitle]
-other = "Ka ʻaoʻao ʻo {{ .Name }}"
+other = "ʻaoʻao ʻo {{ .Name }}"
 
 [current_lang]
-other = "Ke Kū nei"
+other = "O kēia"
 
 [open_gdoc]
-other = "📄 E wehe i ka puke aʻo ma Google Docs"
+other = "📄 Wehe i ka puke aʻo ma Google Docs"
+
 [site_hub_title]
-other = "Kikowaena ʻŌlelo 101"
+other = "Kikowaena ʻōlelo 101"
 
 [hero_welcome]
-other = "Aloha mai i ka Kikowaena Hoʻopukapuka ʻŌlelo 101 Kōkua AI!"
+other = "Aloha mai i ke Kikowaena Paʻi Puke ʻōlelo 101 Semi-Naʻauao Hana!"
 
 [hero_subtitle]
-other = "Kōkua ka ʻenehana ʻimi naʻauao i ka wāwahi ʻana i nā pāpā ʻōlelo!"
+other = "Kōkua ka Naʻauao Hana i ka wāwahi ʻana i nā paepae ʻōlelo!"
+
+[embedded_gdoc_title]
+other = "Palapala Google Docs i hoʻokomo ʻia"
+
+[toggle_embed_hint]
+other = "Kaomi e hoʻopōkole/hoʻonui"
+
+[open_gdoc_external]
+other = "Wehe i ka puka aniani hou"

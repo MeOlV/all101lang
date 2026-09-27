@@ -5,16 +5,16 @@ other = "Więcej"
 other = "Wszystkie {{ .Title }}"
 
 [recentTitle]
-other = "Ostatnie {{ .Title }}"
+other = "Najnowsze {{ .Title }}"
 
 [readMore]
 other = "Czytaj więcej"
 
 [by]
-other = "Autor:"
+other = "Przez"
 
 [whatsInThis]
-other = "Co w tym {{ .Type }}"
+other = "Co znajduje się w tym {{ .Type }}"
 
 [related]
 other = "Powiązane"
@@ -41,29 +41,39 @@ other = "Popraw tę stronę na GitHubie"
 other = "Od"
 
 [taxonomyPageList]
-other = "Poniżej znajdziesz strony, które wykorzystują termin taksonomiczny '{{ .Title }}"
+other = "Poniżej znajdziesz strony wykorzystujące termin taksonomii '{{ .Title }}'"
 
 [readingTime]
 one = "Jedna minuta czytania"
-other = "{{ .Count }} minuty czytania" # Polish plural rules for 2-4 minutes vs 5+ minutes are complex. Sticking to simple "minuty" for all "other" for Hugo's simpler pluralization.
+other = "{{ .Count }} minut czytania"
 
 [wordCount]
 one = "Jedno słowo"
-other = "{{ .Count }} słowa" # Similar to reading time, for numbers ending in 2-4 it would be "słowa", for 1 "słowo", for 5+ "słów". Sticking to "słowa" for "other".
+other = "{{ .Count }} słów"
 
 [pageTitle]
 other = "Strona {{ .Name }}"
 
 [current_lang]
-other = "Aktualny"
+other = "Obecny"
 
 [open_gdoc]
-other = "📄 Otwórz podręcznik w Google Docs"
+other = "📄 Otwórz instrukcję w Google Docs"
+
 [site_hub_title]
 other = "Centrum 101 Języków"
 
 [hero_welcome]
-other = "Witamy w 101-językowym Centrum Wydawniczym wspomaganym AI!"
+other = "Witaj w Centrum Publikacji Pół-AI 101 Języków!"
 
 [hero_subtitle]
 other = "Sztuczna Inteligencja pomaga przełamywać bariery językowe!"
+
+[embedded_gdoc_title]
+other = "Osadzony dokument Google Docs"
+
+[toggle_embed_hint]
+other = "kliknij, aby zwinąć/rozwinąć"
+
+[open_gdoc_external]
+other = "Otwórz w nowym oknie"

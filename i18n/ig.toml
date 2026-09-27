@@ -2,34 +2,34 @@
 other = "Ọzọ"
 
 [allTitle]
-other = "Niile {{ .Title }}"
+other = "Ihe niile {{ .Title }}"
 
 [recentTitle]
-other = "Ọhụrụ {{ .Title }}"
+other = "{{ .Title }} ndị ọhụrụ"
 
 [readMore]
-other = "Gụọkwuo"
+other = "Gụọ ọzọ"
 
 [by]
-other = "Nke"
+other = "Site n'aka"
 
 [whatsInThis]
-other = "Gịnị dị n'ime {{ .Type }} a"
+other = "Gịnị dị na {{ .Type }} a?"
 
 [related]
-other = "Njikọ"
+other = "Ndị metụtara ya"
 
 [yourName]
 other = "Aha gị"
 
 [emailAddress]
-other = "Adreesị Imeelụ"
+other = "Adreesị email"
 
 [message]
 other = "Ozi"
 
 [emailRequiredNote]
-other = "A chọrọ adreesị Imeelụ."
+other = "Adreesị email dị mkpa."
 
 [send]
 other = "Zipụ"
@@ -41,7 +41,7 @@ other = "Meziwanye ibe a na GitHub"
 other = "Kemgbe"
 
 [taxonomyPageList]
-other = "N'okpuru ị ga-ahụ ibe ndị na-eji okwu usoro nchịkọta '{{ .Title }}'"
+other = "N'okpuru ebe a, ị ga-ahụ ibe ndị na-eji okwu taxonomy '{{ .Title }}'"
 
 [readingTime]
 one = "Otu nkeji ịgụ"
@@ -49,7 +49,7 @@ other = "{{ .Count }} nkeji ịgụ"
 
 [wordCount]
 one = "Otu okwu"
-other = "Okwu {{ .Count }}"
+other = "{{ .Count }} okwu"
 
 [pageTitle]
 other = "Ibe {{ .Name }}"
@@ -58,12 +58,22 @@ other = "Ibe {{ .Name }}"
 other = "Ugbu a"
 
 [open_gdoc]
-other = "📄 Mepee akwụkwọ ntuziaka na Google Docs"
+other = "📄 Mepee akwụkwọ nduzi na Google Docs"
+
 [site_hub_title]
-other = "Ebe Asụsụ 101"
+other = "101 Asụsụ Ebe Agbakọtara"
 
 [hero_welcome]
-other = "Nnọọ na Ebe Mbipụta Asụsụ 101 nke AI na-enyere aka!"
+other = "Nnọọ na 101-Asụsụ Ọkara-AI Ebe Mbipụta!"
 
 [hero_subtitle]
-other = "Ọgụgụ Isi Mmebere na-enyere aka ịkwatu ihe mgbochi asụsụ!"
+other = "Ọgụgụ Isi Echiche Na-enyere Aka Ikpochapụ Ihe Mgbochi Asụsụ!"
+
+[embedded_gdoc_title]
+other = "Akwụkwọ Google Docs etinyere n'ime"
+
+[toggle_embed_hint]
+other = "pịa iji tụnye/gbasaa"
+
+[open_gdoc_external]
+other = "Mepee na windo ọhụrụ"

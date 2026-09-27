@@ -5,10 +5,10 @@ other = "Tuilleadh"
 other = "A h-uile {{ .Title }}"
 
 [recentTitle]
-other = "{{ .Title }} as Ùire"
+other = "O chionn ghoirid {{ .Title }}"
 
 [readMore]
-other = "Leugh Tuilleadh"
+other = "Leugh tuilleadh"
 
 [by]
 other = "Le"
@@ -20,16 +20,16 @@ other = "Dè tha anns an {{ .Type }} seo?"
 other = "Co-cheangailte"
 
 [yourName]
-other = "D' Ainm"
+other = "D' ainm"
 
 [emailAddress]
-other = "Seòladh Post-d"
+other = "Seòladh post-d"
 
 [message]
 other = "Teachdaireachd"
 
 [emailRequiredNote]
-other = "Tha seòladh post-d a dhìth."
+other = "Feumar seòladh post-d."
 
 [send]
 other = "Cuir"
@@ -41,15 +41,15 @@ other = "Leasaich an duilleag seo air GitHub"
 other = "Bhon"
 
 [taxonomyPageList]
-other = "Gu h-ìosal gheibh thu duilleagan a chleachdas an teirm tacsonomaidh '{{ .Title }}'"
+other = "Gu h-ìosal gheibh thu duilleagan a bhios a' cleachdadh an teirm tacsonomaidh '{{ .Title }}'"
 
 [readingTime]
 one = "Leughadh aon mhionaid"
-other = "Leughadh {{ .Count }} mionaid"
+other = "Leughadh {{ .Count }} mionaidean"
 
 [wordCount]
 one = "Aon fhacal"
-other = "{{ .Count }} facal"
+other = "{{ .Count }} faclan"
 
 [pageTitle]
 other = "Duilleag {{ .Name }}"
@@ -58,12 +58,22 @@ other = "Duilleag {{ .Name }}"
 other = "Gnàthach"
 
 [open_gdoc]
-other = "📄 Fosgail an leabhar-làimhe ann an Google Docs"
+other = "📄 Fosgail an stiùireadh ann an Google Docs"
+
 [site_hub_title]
-other = "Ionad 101 Cànanan"
+other = "Mol 101 Cànan"
 
 [hero_welcome]
-other = "Fàilte gu Ionad Foillseachaidh nan 101 Cànanan le Taic AI!"
+other = "Fàilte gu Mol Foillseachaidh Leth-AI 101-Cànanach!"
 
 [hero_subtitle]
-other = "Cuidichidh Inntleachd Fhuadain gus cnapan-starra cànain a bhriseadh!"
+other = "Bidh Inntleachd Shaorgaidheach a' cuideachadh le briseadh cnapan-starra cànain!"
+
+[embedded_gdoc_title]
+other = "Sgrìobhainn Google Docs freumhaichte"
+
+[toggle_embed_hint]
+other = "cliog gus tuiteam/leudachadh"
+
+[open_gdoc_external]
+other = "Fosgail ann an uinneag ùr"

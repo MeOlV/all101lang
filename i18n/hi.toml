@@ -1,5 +1,5 @@
 [more]
-other = "अधिक"
+other = "और"
 
 [allTitle]
 other = "सभी {{ .Title }}"
@@ -14,7 +14,7 @@ other = "और पढ़ें"
 other = "द्वारा"
 
 [whatsInThis]
-other = "इस {{ .Type }} में क्या है?"
+other = "इस {{ .Type }} में क्या है"
 
 [related]
 other = "संबंधित"
@@ -41,11 +41,11 @@ other = "GitHub पर इस पृष्ठ को बेहतर बना�
 other = "से"
 
 [taxonomyPageList]
-other = "नीचे आपको वे पृष्ठ मिलेंगे जो वर्गीकरण शब्द '{{ .Title }}' का उपयोग करते हैं।"
+other = "नीचे आपको वे पृष्ठ मिलेंगे जो '{{ .Title }}' वर्गीकरण शब्द का उपयोग करते हैं"
 
 [readingTime]
-one = "एक मिनट का पाठ"
-other = "{{ .Count }} मिनट का पाठ"
+one = "एक मिनट का पठन"
+other = "{{ .Count }} मिनट का पठन"
 
 [wordCount]
 one = "एक शब्द"
@@ -58,12 +58,22 @@ other = "{{ .Name }} पृष्ठ"
 other = "वर्तमान"
 
 [open_gdoc]
-other = "📄 Google Docs में मैनुअल खोलें"
+other = "📄 Google Docs में मार्गदर्शिका खोलें"
+
 [site_hub_title]
 other = "101 भाषा हब"
 
 [hero_welcome]
-other = "101 भाषाओं के एआई-सहायता प्राप्त प्रकाशन हब में आपका स्वागत है!"
+other = "101-भाषा सेमी-एआई पब्लिशिंग हब में आपका स्वागत है!"
 
 [hero_subtitle]
-other = "कृत्रिम बुद्धिमत्ता भाषा की बाधाओं को दूर करने में मदद करती है!"
+other = "कृत्रिम बुद्धिमत्ता भाषाई बाधाओं को तोड़ने में मदद करती है!"
+
+[embedded_gdoc_title]
+other = "एम्बेडेड Google Docs दस्तावेज़"
+
+[toggle_embed_hint]
+other = "सहेजने/विस्तारित करने के लिए क्लिक करें"
+
+[open_gdoc_external]
+other = "एक नई विंडो में खोलें"

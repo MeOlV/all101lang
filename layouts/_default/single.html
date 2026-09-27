@@ -10,21 +10,43 @@
         </time>
       {{ end }}
     </header>
-    
+
+    {{/* Основний текст допису */}}
     <div class="nested-copy-lineheight lh-copy serif f4 nested-links mid-gray pr4-l w-100">
       {{ .Content }}
     </div>
 
-    {{ with .Params.googledocurl }}
-      <div class="mt4 pv3 w-100">
-        <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="dib bg-blue white fw6 ph4 pv3 br2 link dim f5">
-          {{ i18n "open_gdoc" | default "📄 Open instructions in Google Docs ↗" }}
-        </a>
+    {{/* Отримуємо URL документа */}}
+    {{ $gdoc := .Params.googleDocUrl }}
+
+    {{ if $gdoc }}
+      {{/* Перетворюємо посилання для роботи в iframe */}}
+      {{ $embedUrl := replace $gdoc "/edit" "/preview" }}
+      {{ $embedUrl := replace $embedUrl "/view" "/preview" }}
+
+      <div class="mt4 w-100">
+        <details class="bg-near-white ba b--black-10 br2 pa3" open>
+          <summary class="fw6 f5 pointer dim noselect flex items-center justify-between blue">
+            <span>📄 {{ i18n "embedded_gdoc_title" }}</span>
+            <span class="f6 gray fw4">({{ i18n "toggle_embed_hint" }})</span>
+          </summary>
+
+          <div class="mt3 w-100 ba b--light-gray br1 overflow-hidden" style="height: 650px;">
+            <iframe src="{{ $embedUrl }}" class="w-100 h-100 bn" loading="lazy" allowfullscreen></iframe>
+          </div>
+
+          <div class="mt3 tr">
+            <a href="{{ $gdoc }}" target="_blank" rel="noopener noreferrer" class="dib bg-blue white fw6 ph3 pv2 br2 link dim f6">
+              {{ i18n "open_gdoc_external" }} ↗
+            </a>
+          </div>
+        </details>
       </div>
     {{ end }}
 
+    {{/* Теги */}}
     {{ with .Params.tags }}
-      <div class="mt3 pt2 w-100">
+      <div class="mt4 pt2 w-100">
         {{ range . }}
           <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}" class="dib ba b--blue blue br-pill ph3 pv2 mr2 mb2 link dim f6">
             {{ . }}

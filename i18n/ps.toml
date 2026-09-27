@@ -14,7 +14,7 @@ other = "نور ولولئ"
 other = "لخوا"
 
 [whatsInThis]
-other = "په دې {{ .Type }} کې څه دي؟"
+other = "پدې {{ .Type }} کې څه دي؟"
 
 [related]
 other = "اړوند"
@@ -23,16 +23,16 @@ other = "اړوند"
 other = "ستاسو نوم"
 
 [emailAddress]
-other = "بریښنالیک پته"
+other = "برېښنالیک پته"
 
 [message]
 other = "پیغام"
 
 [emailRequiredNote]
-other = "بریښنالیک پته اړینه ده."
+other = "د برېښنالیک پته اړینه ده."
 
 [send]
-other = "استول"
+other = "ولېږئ"
 
 [editPage]
 other = "دا پاڼه په GitHub کې ښه کړئ"
@@ -41,29 +41,39 @@ other = "دا پاڼه په GitHub کې ښه کړئ"
 other = "له"
 
 [taxonomyPageList]
-other = "لاندې به هغه پاڼې ومومئ چې د 'ټیکسنامي اصطلاح' '{{ .Title }}' څخه ګټه اخلي"
+other = "لاندې به تاسو هغه پاڼې ومومئ چې د '{{ .Title }}' د ټکسونومي اصطلاح کاروي."
 
 [readingTime]
-one = "یوه دقیقه لوستل"
-other = "{{ .Count }} دقیقې لوستل"
+one = "یوې دقیقې لوستل"
+other = "{{ .Count }} دقیقو لوستل"
 
 [wordCount]
 one = "یوه کلمه"
 other = "{{ .Count }} کلمې"
 
 [pageTitle]
-other = "د {{ .Name }} پاڼه"
+other = "{{ .Name }} پاڼه"
 
 [current_lang]
 other = "اوسنۍ"
 
 [open_gdoc]
 other = "📄 لارښود په ګوګل ډاکس کې پرانیزئ"
+
 [site_hub_title]
-other = "101 ਭਾਸ਼ਾਵਾਂ ਕੇਂਦਰ"
+other = "۱۰۱ ژبو مرکز"
 
 [hero_welcome]
-other = "101 ਭਾਸ਼ਾਈ AI ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ ਪ੍ਰਕਾਸ਼ਨ ਕੇਂਦਰ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ!"
+other = "د ۱۰۱ ژبو نیمه مصنوعي استخباراتو خپرولو مرکز ته ښه راغلاست!"
 
 [hero_subtitle]
-other = "ਨਕਲੀ ਬੁੱਧੀ ਭਾਸ਼ਾ ਦੀਆਂ ਰੁਕਾਵਟਾਂ ਨੂੰ ਦੂਰ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ!"
+other = "مصنوعي استخبارات د ژبنیو خنډونو ماتولو کې مرسته کوي!"
+
+[embedded_gdoc_title]
+other = "شامل شوی ګوګل ډاکس سند"
+
+[toggle_embed_hint]
+other = "د پټولو/ښکاره کولو لپاره کلیک وکړئ"
+
+[open_gdoc_external]
+other = "په نوې کړکۍ کې پرانیزئ"

@@ -1,5 +1,5 @@
 [more]
-other = "ಇನ್ನಷ್ಟು"
+other = "ಹೆಚ್ಚು"
 
 [allTitle]
 other = "ಎಲ್ಲಾ {{ .Title }}"
@@ -8,10 +8,10 @@ other = "ಎಲ್ಲಾ {{ .Title }}"
 other = "ಇತ್ತೀಚಿನ {{ .Title }}"
 
 [readMore]
-other = "ಇನ್ನಷ್ಟು ಓದಿ"
+other = "ಮುಂದೆ ಓದಿ"
 
 [by]
-other = "ಇವರಿಂದ"
+other = "ನಿಂದ"
 
 [whatsInThis]
 other = "ಈ {{ .Type }} ನಲ್ಲಿ ಏನಿದೆ?"
@@ -38,13 +38,13 @@ other = "ಕಳುಹಿಸು"
 other = "GitHub ನಲ್ಲಿ ಈ ಪುಟವನ್ನು ಸುಧಾರಿಸಿ"
 
 [since]
-other = "ರಿಂದ"
+other = "ಇಂದ"
 
 [taxonomyPageList]
-other = "ಕೆಳಗೆ ನೀವು '{{ .Title }}' ಎಂಬ ವರ್ಗೀಕರಣ ಪದವನ್ನು ಬಳಸುವ ಪುಟಗಳನ್ನು ಕಾಣುವಿರಿ"
+other = "ಕೆಳಗೆ '{{ .Title }}' ಎಂಬ ವರ್ಗೀಕರಣ ಪದವನ್ನು ಬಳಸುವ ಪುಟಗಳನ್ನು ನೀವು ಕಾಣುವಿರಿ."
 
 [readingTime]
-one = "ಒಂದು ನಿಮಿಷ ಓದು"
+one = "ಒಂದು ನಿಮಿಷದ ಓದು"
 other = "{{ .Count }} ನಿಮಿಷಗಳ ಓದು"
 
 [wordCount]
@@ -58,12 +58,22 @@ other = "{{ .Name }} ಪುಟ"
 other = "ಪ್ರಸ್ತುತ"
 
 [open_gdoc]
-other = "📄 Google Docs ನಲ್ಲಿ ಕೈಪಿಡಿಯನ್ನು ತೆರೆಯಿರಿ"
+other = "📄 Google Docs ನಲ್ಲಿ ಕೈಪಿಡಿ ತೆರೆಯಿರಿ"
+
 [site_hub_title]
-other = "101 ಭಾಷೆಗಳ ಕೇಂದ್ರ"
+other = "101 ಭಾಷೆಗಳ ಹಬ್"
 
 [hero_welcome]
-other = "101 ಭಾಷೆಯ ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ-ಸಹಾಯಿತ ಪ್ರಕಾಶನ ಕೇಂದ್ರಕ್ಕೆ ಸ್ವಾಗತ!"
+other = "101 ಭಾಷೆಗಳ ಅರೆ-ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ಪ್ರಕಾಶನ ಹಬ್‌ಗೆ ಸ್ವಾಗತ!"
 
 [hero_subtitle]
-other = "ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯು ಭಾಷಾ ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ!"
+other = "ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ ಭಾಷಾ ಅಡೆತಡೆಗಳನ್ನು ಭೇದಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ!"
+
+[embedded_gdoc_title]
+other = "ಅಂತರ್ಗತ Google Docs ಡಾಕ್ಯುಮೆಂಟ್"
+
+[toggle_embed_hint]
+other = "ಸಂಕೋಚಿಸಲು/ವಿಸ್ತರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+
+[open_gdoc_external]
+other = "ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ತೆರೆಯಿರಿ"

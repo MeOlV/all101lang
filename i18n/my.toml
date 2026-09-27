@@ -1,69 +1,79 @@
 [more]
-other = "Lagi"
+other = "နောက်ထပ်"
 
 [allTitle]
-other = "Semua {{ .Title }}"
+other = "{{ .Title }} အားလုံး"
 
 [recentTitle]
-other = "Terbaru {{ .Title }}"
+other = "မကြာသေးမီက {{ .Title }}"
 
 [readMore]
-other = "Baca selanjutnya"
+other = "ဆက်ဖတ်ရန်"
 
 [by]
-other = "Oleh"
+other = "မှ"
 
 [whatsInThis]
-other = "Apa dalam {{ .Type }} ini"
+other = "ဤ {{ .Type }} တွင် ဘာများပါလဲ"
 
 [related]
-other = "Berkaitan"
+other = "ဆက်စပ်"
 
 [yourName]
-other = "Nama Anda"
+other = "သင့်အမည်"
 
 [emailAddress]
-other = "Alamat Emel"
+other = "အီးမေးလ်လိပ်စာ"
 
 [message]
-other = "Mesej"
+other = "မက်ဆေ့ချ်"
 
 [emailRequiredNote]
-other = "Alamat emel diperlukan."
+other = "အီးမေးလ်လိပ်စာ လိုအပ်ပါသည်။"
 
 [send]
-other = "Hantar"
+other = "ပို့ရန်"
 
 [editPage]
-other = "Perbaiki halaman ini di GitHub"
+other = "ဤစာမျက်နှာကို GitHub တွင် ပြင်ဆင်ပါ"
 
 [since]
-other = "Sejak"
+other = "မှစ၍"
 
 [taxonomyPageList]
-other = "Di bawah anda akan dapati halaman-halaman yang menggunakan istilah taksonomi '{{ .Title }}'"
+other = "အောက်တွင် '{{ .Title }}' အသုံးအနှုန်းကို အသုံးပြုထားသော စာမျက်နှာများကို တွေ့ရှိရမည်ဖြစ်သည်။"
 
 [readingTime]
-one = "Bacaan satu minit"
-other = "Bacaan {{ .Count }} minit"
+one = "တစ်မိနစ်စာဖတ်ချိန်"
+other = "{{ .Count }} မိနစ်စာဖတ်ချိန်"
 
 [wordCount]
-one = "Satu perkataan"
-other = "{{ .Count }} perkataan"
+one = "စကားလုံးတစ်လုံး"
+other = "စကားလုံး {{ .Count }} လုံး"
 
 [pageTitle]
-other = "Halaman {{ .Name }}"
+other = "{{ .Name }} စာမျက်နှာ"
 
 [current_lang]
-other = "Semasa"
+other = "လက်ရှိ"
 
 [open_gdoc]
-other = "📄 Buka manual dalam Google Docs"
+other = "📄 Google Docs တွင် လမ်းညွှန်ချက်ကို ဖွင့်ပါ"
+
 [site_hub_title]
-other = "Pusat 101 Bahasa"
+other = "ဘာသာစကား ၁၀၁ ခု ဗဟို"
 
 [hero_welcome]
-other = "Selamat datang ke Pusat Penerbitan Berbantukan AI 101 Bahasa!"
+other = "ဘာသာစကား ၁၀၁ ခု ဆီမီး-AI ထုတ်ဝေမှု ဗဟိုသို့ ကြိုဆိုပါ၏။"
 
 [hero_subtitle]
-other = "Kecerdasan Buatan membantu mengatasi halangan bahasa!"
+other = "ဉာဏ်ရည်တုသည် ဘာသာစကားဆိုင်ရာ အတားအဆီးများကို ကျော်လွှားနိုင်ရန် ကူညီပေးပါသည်။"
+
+[embedded_gdoc_title]
+other = "ထည့်သွင်းထားသော Google Docs စာရွက်စာတမ်း"
+
+[toggle_embed_hint]
+other = "ချုံ့ရန်/ချဲ့ရန် နှိပ်ပါ"
+
+[open_gdoc_external]
+other = "ဝင်းဒိုးအသစ်တွင် ဖွင့်ပါ"

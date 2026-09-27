@@ -5,7 +5,7 @@ other = "Sili atu"
 other = "Uma {{ .Title }}"
 
 [recentTitle]
-other = "Talu ai nei {{ .Title }}"
+other = "Taluai Nei {{ .Title }}"
 
 [readMore]
 other = "Faitau atili"
@@ -14,10 +14,10 @@ other = "Faitau atili"
 other = "Saunia e"
 
 [whatsInThis]
-other = "O le a le mea o i totonu o lenei {{ .Type }}"
+other = "O le a le mea o lo'o i totonu o lenei {{ .Type }}"
 
 [related]
-other = "Fa'atatau"
+other = "Feso'ota'i"
 
 [yourName]
 other = "Lou Igoa"
@@ -32,7 +32,7 @@ other = "Fe'au"
 other = "E mana'omia se tuatusi imeli."
 
 [send]
-other = "Auina atu"
+other = "Lafo"
 
 [editPage]
 other = "Fa'aleleia lenei itulau ile GitHub"
@@ -41,11 +41,11 @@ other = "Fa'aleleia lenei itulau ile GitHub"
 other = "Talu mai"
 
 [taxonomyPageList]
-other = "O lo'o i lalo o le a e maua ai itulau e fa'aaoga ai le upu fa'avasega '{{ .Title }}'"
+other = "I lalo o le a e maua ai itulau o lo'o fa'aaogaina le upu taxonomy '{{ .Title }}'"
 
 [readingTime]
-one = "Tasi le minute e faitau ai"
-other = "{{ .Count }} minute e faitau ai"
+one = "Tasi le minute faitau"
+other = "{{ .Count }} minute faitau"
 
 [wordCount]
 one = "Tasi le upu"
@@ -55,15 +55,25 @@ other = "{{ .Count }} upu"
 other = "Itulau {{ .Name }}"
 
 [current_lang]
-other = "Taimi nei"
+other = "O lo'o iai nei"
 
 [open_gdoc]
-other = "📄 Tatala le tusi lesona ile Google Docs"
+other = "📄 Tatala le tusi ta'iala ile Google Docs"
+
 [site_hub_title]
-other = "Nofoaga Tutotonu o Gagana e 101"
+other = "Nofoaga Autu Gagana e 101"
 
 [hero_welcome]
-other = "Afio Mai i le Nofoaga Tutotonu Lomitusi Fesoasoani Atamai Fausia o Gagana e 101!"
+other = "Afio mai ile Nofoaga Autu Fa'asalalau Fa'a-AI Vaega mo Gagana e 101!"
 
 [hero_subtitle]
-other = "E fesoasoani le Atamai Fausia e tatala pa pupuni o gagana!"
+other = "E fesoasoani le Atamai Fa'akomepiuta e fa'ate'aina pa puipui gagana!"
+
+[embedded_gdoc_title]
+other = "Pepa Google Docs Fa'aofia"
+
+[toggle_embed_hint]
+other = "kiliki e fa'apipi'i/tatala"
+
+[open_gdoc_external]
+other = "Tatala i se fa'amalama fou"

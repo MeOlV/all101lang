@@ -8,13 +8,13 @@ other = "Tüm {{ .Title }}"
 other = "Son {{ .Title }}"
 
 [readMore]
-other = "Devamını oku"
+other = "Daha fazla oku"
 
 [by]
 other = "Yazan"
 
 [whatsInThis]
-other = "Bu {{ .Type }} içinde ne var?"
+other = "Bu {{ .Type }} içinde neler var?"
 
 [related]
 other = "İlgili"
@@ -23,29 +23,29 @@ other = "İlgili"
 other = "Adınız"
 
 [emailAddress]
-other = "E-posta Adresi"
+other = "E-posta Adresiniz"
 
 [message]
 other = "Mesaj"
 
 [emailRequiredNote]
-other = "Bir e-posta adresi gereklidir."
+other = "E-posta adresi gereklidir."
 
 [send]
 other = "Gönder"
 
 [editPage]
-other = "Bu sayfayı GitHub'da geliştir"
+other = "Bu sayfayı GitHub'da geliştirin"
 
 [since]
-other = "İtibaren"
+other = "Şu tarihten beri"
 
 [taxonomyPageList]
-other = "Aşağıda '{{ .Title }}' taksonomi terimini kullanan sayfaları bulacaksınız"
+other = "Aşağıda '{{ .Title }}' taksonomi terimini kullanan sayfaları bulabilirsiniz."
 
 [readingTime]
 one = "Bir dakikalık okuma"
-other = "{{ .Count }} dakikalık okuma"
+other = "{{ .Count }} dakika okuma"
 
 [wordCount]
 one = "Bir kelime"
@@ -58,12 +58,22 @@ other = "{{ .Name }} sayfası"
 other = "Mevcut"
 
 [open_gdoc]
-other = "📄 Kılavuzu Google Dokümanlar'da aç"
+other = "📄 Kılavuzu Google Docs'ta aç"
+
 [site_hub_title]
 other = "101 Dil Merkezi"
 
 [hero_welcome]
-other = "101 Dil Yapay Zeka Destekli Yayıncılık Merkezi'ne Hoş Geldiniz!"
+other = "101 Dil Yarı Yapay Zeka Yayın Merkezi'ne hoş geldiniz!"
 
 [hero_subtitle]
-other = "Yapay Zeka, dil engellerini aşmaya yardımcı olur!"
+other = "Yapay Zeka dil engellerini aşmaya yardımcı oluyor!"
+
+[embedded_gdoc_title]
+other = "Gömülü Google Docs belgesi"
+
+[toggle_embed_hint]
+other = "daraltmak/genişletmek için tıklayın"
+
+[open_gdoc_external]
+other = "Yeni pencerede aç"

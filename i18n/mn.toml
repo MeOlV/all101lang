@@ -1,5 +1,5 @@
 [more]
-other = "Илүү"
+other = "Дэлгэрэнгүй"
 
 [allTitle]
 other = "Бүх {{ .Title }}"
@@ -11,10 +11,10 @@ other = "Сүүлийн үеийн {{ .Title }}"
 other = "Цааш унших"
 
 [by]
-other = "Зохиогч"
+other = "Бичсэн"
 
 [whatsInThis]
-other = "Энэ {{ .Type }}-д юу байгаа вэ?"
+other = "Энэ {{ .Type }}-д юу байна вэ?"
 
 [related]
 other = "Холбоотой"
@@ -23,13 +23,13 @@ other = "Холбоотой"
 other = "Таны нэр"
 
 [emailAddress]
-other = "И-мэйл хаяг"
+other = "Имэйл хаяг"
 
 [message]
 other = "Зурвас"
 
 [emailRequiredNote]
-other = "И-мэйл хаяг шаардлагатай."
+other = "Имэйл хаяг заавал шаардлагатай."
 
 [send]
 other = "Илгээх"
@@ -38,10 +38,10 @@ other = "Илгээх"
 other = "Энэ хуудсыг GitHub дээр сайжруулах"
 
 [since]
-other = "Оноос хойш"
+other = "Эхлэн"
 
 [taxonomyPageList]
-other = "Доор та '{{ .Title }}' ангиллын нэр томъёог ашигласан хуудсуудыг олох болно"
+other = "Доор та '{{ .Title }}' таксономийн нэр томъёог ашигласан хуудсуудыг олох болно."
 
 [readingTime]
 one = "Нэг минутын уншлага"
@@ -58,12 +58,22 @@ other = "{{ .Name }} хуудас"
 other = "Одоогийн"
 
 [open_gdoc]
-other = "📄 Гарын авлагыг Google Docs-оор нээх"
+other = "📄 Google Docs дээр гарын авлагыг нээх"
+
 [site_hub_title]
 other = "101 Хэлний Төв"
 
 [hero_welcome]
-other = "101 хэлний хиймэл оюун ухааны тусламжтай нийтлэлийн төвд тавтай морилно уу!"
+other = "101 Хэлний Хагас Хиймэл Оюун Ухаант Хэвлэлийн Төвд тавтай морилно уу!"
 
 [hero_subtitle]
-other = "Хиймэл оюун ухаан хэлний саад тотгорыг даван туулахад тусална."
+other = "Хиймэл оюун ухаан хэлний саадыг давахад тусална!"
+
+[embedded_gdoc_title]
+other = "Суулгагдсан Google Docs баримт бичиг"
+
+[toggle_embed_hint]
+other = "хураах/дэлгэхийн тулд дарна уу"
+
+[open_gdoc_external]
+other = "Шинэ цонхонд нээх"

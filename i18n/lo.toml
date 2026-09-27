@@ -29,7 +29,7 @@ other = "ທີ່ຢູ່ອີເມວ"
 other = "ຂໍ້ຄວາມ"
 
 [emailRequiredNote]
-other = "ຕ້ອງການທີ່ຢູ່ອີເມວ."
+other = "ຈຳເປັນຕ້ອງມີທີ່ຢູ່ອີເມວ."
 
 [send]
 other = "ສົ່ງ"
@@ -41,11 +41,11 @@ other = "ປັບປຸງໜ້ານີ້ໃນ GitHub"
 other = "ຕັ້ງແຕ່"
 
 [taxonomyPageList]
-other = "ຂ້າງລຸ່ມນີ້ແມ່ນໜ້າຕ່າງໆທີ່ໃຊ້ຄຳສັບທາງພາສີ '{{ .Title }}'"
+other = "ຂ້າງລຸ່ມນີ້ທ່ານຈະພົບເຫັນໜ້າຕ່າງໆທີ່ນຳໃຊ້ຄຳສັບ taxonomy '{{ .Title }}'"
 
 [readingTime]
-one = "ອ່ານ 1 ນາທີ"
-other = "ອ່ານ {{ .Count }} ນາທີ"
+one = "ໃຊ້ເວລາອ່ານ 1 ນາທີ"
+other = "ໃຊ້ເວລາອ່ານ {{ .Count }} ນາທີ"
 
 [wordCount]
 one = "ໜຶ່ງຄຳ"
@@ -59,11 +59,21 @@ other = "ປັດຈຸບັນ"
 
 [open_gdoc]
 other = "📄 ເປີດຄູ່ມືໃນ Google Docs"
+
 [site_hub_title]
-other = "ສູນ 101 ພາສາ"
+other = "ສູນກາງ 101 ພາສາ"
 
 [hero_welcome]
-other = "ຍິນດີຕ້ອນຮັບສູ່ ສູນຈັດພິມ 101 ພາສາ ແບບ AI ຊ່ວຍ!"
+other = "ຍິນດີຕ້ອນຮັບສູ່ສູນເຜີຍແຜ່ແບບເຄິ່ງ AI 101 ພາສາ!"
 
 [hero_subtitle]
-other = "ປັນຍາປະດິດ ຊ່ວຍທໍາລາຍກໍາແພງພາສາ!"
+other = "ປັນຍາປະດິດຊ່ວຍທຳລາຍກຳແພງພາສາ!"
+
+[embedded_gdoc_title]
+other = "ເອກະສານ Google Docs ທີ່ຝັງໄວ້"
+
+[toggle_embed_hint]
+other = "ຄລິກເພື່ອພັບ/ຂະຫຍາຍ"
+
+[open_gdoc_external]
+other = "ເປີດໃນໜ້າຕ່າງໃໝ່"

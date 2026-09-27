@@ -2,10 +2,10 @@
 other = "Več"
 
 [allTitle]
-other = "Vse {{ .Title }}"
+other = "Vsi {{ .Title }}"
 
 [recentTitle]
-other = "Zadnje {{ .Title }}"
+other = "Najnovejši {{ .Title }}"
 
 [readMore]
 other = "Preberi več"
@@ -59,11 +59,21 @@ other = "Trenutni"
 
 [open_gdoc]
 other = "📄 Odpri priročnik v Google Dokumentih"
+
 [site_hub_title]
-other = "Jezikovno Središče 101"
+other = "Središče 101 jezikov"
 
 [hero_welcome]
-other = "Dobrodošli v 101-jezikovnem založniškem središču, podprtem z umetno inteligenco!"
+other = "Dobrodošli v pol-umetnointeligenčnem založniškem središču 101 jezikov!"
 
 [hero_subtitle]
-other = "Umetna inteligenca pomaga odpravljati jezikovne ovire!"
+other = "Umetna inteligenca pomaga rušiti jezikovne ovire!"
+
+[embedded_gdoc_title]
+other = "Vdelan dokument Google Dokumentov"
+
+[toggle_embed_hint]
+other = "kliknite za strnitev/razširitev"
+
+[open_gdoc_external]
+other = "Odpri v novem oknu"

@@ -8,13 +8,13 @@ other = "Barcha {{ .Title }}"
 other = "So'nggi {{ .Title }}"
 
 [readMore]
-other = "Batafsil o'qish"
+other = "Ko'proq o'qish"
 
 [by]
 other = "Muallif:"
 
 [whatsInThis]
-other = "Ushbu {{ .Type }}da nimalar bor?"
+other = "Ushbu {{ .Type }} da nimalar bor?"
 
 [related]
 other = "Tegishli"
@@ -35,17 +35,17 @@ other = "Elektron pochta manzili talab qilinadi."
 other = "Yuborish"
 
 [editPage]
-other = "Ushbu sahifani GitHubda yaxshilang"
+other = "Ushbu sahifani GitHub'da yaxshilang"
 
 [since]
-other = "Dan beri"
+other = "Boshlab"
 
 [taxonomyPageList]
-other = "Quyida '{{ .Title }}' taksonomiya atamasidan foydalanadigan sahifalar topasiz"
+other = "Quyida '{{ .Title }}' taksonomiya atamasidan foydalanadigan sahifalar joylashgan."
 
 [readingTime]
-one = "Bir daqiqalik o'qish"
-other = "{{ .Count }} daqiqalik o'qish"
+one = "Bir daqiqa o'qish"
+other = "{{ .Count }} daqiqa o'qish"
 
 [wordCount]
 one = "Bir so'z"
@@ -58,12 +58,22 @@ other = "{{ .Name }} sahifasi"
 other = "Joriy"
 
 [open_gdoc]
-other = "📄 Qo'llanmani Google Docsda ochish"
+other = "📄 Qo'llanmani Google Docs'da ochish"
+
 [site_hub_title]
 other = "101 Til Markazi"
 
 [hero_welcome]
-other = "101 tilli Sun'iy intellekt qo'llab-quvvatlaydigan Nashriyot Markaziga xush kelibsiz!"
+other = "101 Til Yarim Sun'iy Intellekt Nashr Markaziga xush kelibsiz!"
 
 [hero_subtitle]
-other = "Sun'iy intellekt til to'siqlarini bartaraf etishga yordam beradi!"
+other = "Sun'iy intellekt til to'siqlarini yengishga yordam beradi!"
+
+[embedded_gdoc_title]
+other = "O'rnatilgan Google Docs hujjati"
+
+[toggle_embed_hint]
+other = "yopish/kengaytirish uchun bosing"
+
+[open_gdoc_external]
+other = "Yangi oynada ochish"

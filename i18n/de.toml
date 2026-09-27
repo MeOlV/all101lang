@@ -5,7 +5,7 @@ other = "Mehr"
 other = "Alle {{ .Title }}"
 
 [recentTitle]
-other = "Aktuelle {{ .Title }}"
+other = "Neueste {{ .Title }}"
 
 [readMore]
 other = "Weiterlesen"
@@ -52,18 +52,28 @@ one = "Ein Wort"
 other = "{{ .Count }} Wörter"
 
 [pageTitle]
-other = "{{ .Name }} Seite"
+other = "{{ .Name }}-Seite"
 
 [current_lang]
 other = "Aktuell"
 
 [open_gdoc]
 other = "📄 Handbuch in Google Docs öffnen"
+
 [site_hub_title]
-other = "101 Sprachen-Portal"
+other = "101 Sprachen Hub"
 
 [hero_welcome]
-other = "Willkommen im 101-Sprachen KI-unterstützten Publikations-Portal!"
+other = "Willkommen beim 101-Sprachen Semi-KI-Veröffentlichungs-Hub!"
 
 [hero_subtitle]
-other = "Künstliche Intelligenz hilft, Sprachbarrieren zu durchbrechen!"
+other = "Künstliche Intelligenz hilft Sprachbarrieren zu überwinden!"
+
+[embedded_gdoc_title]
+other = "Eingebettetes Google Docs Dokument"
+
+[toggle_embed_hint]
+other = "Zum Ein-/Ausklappen klicken"
+
+[open_gdoc_external]
+other = "In neuem Fenster öffnen"

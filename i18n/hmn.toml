@@ -1,11 +1,11 @@
 [more]
-other = "Ntxiv"
+other = "Ntau dua"
 
 [allTitle]
-other = "Tag nrho {{ .Title }}"
+other = "Tag nrho cov {{ .Title }}"
 
 [recentTitle]
-other = "Tshiab {{ .Title }}"
+other = "Cov {{ .Title }} tsis ntev los no"
 
 [readMore]
 other = "Nyeem ntxiv"
@@ -14,10 +14,10 @@ other = "Nyeem ntxiv"
 other = "Los ntawm"
 
 [whatsInThis]
-other = "Dab tsi nyob hauv {{ .Type }} no?"
+other = "Dab tsi nyob hauv {{ .Type }} no"
 
 [related]
-other = "Txuam nrog"
+other = "Txuas nrog"
 
 [yourName]
 other = "Koj Lub Npe"
@@ -35,13 +35,13 @@ other = "Yuav tsum muaj email chaw nyob."
 other = "Xa"
 
 [editPage]
-other = "Txhim kho nplooj ntawv no hauv GitHub"
+other = "Kho kho qhov nplooj ntawv no hauv GitHub"
 
 [since]
-other = "Txij li"
+other = "Txij thaum"
 
 [taxonomyPageList]
-other = "Hauv qab no koj yuav pom cov nplooj ntawv uas siv lub ntsiab lus taxonomy '{{ .Title }}'"
+other = "Hauv qab no koj yuav pom nplooj ntawv uas siv lo lus txheej txheem '{{ .Title }}'"
 
 [readingTime]
 one = "Nyeem ib feeb"
@@ -59,11 +59,21 @@ other = "Tam sim no"
 
 [open_gdoc]
 other = "📄 Qhib phau ntawv qhia hauv Google Docs"
+
 [site_hub_title]
-other = "Chaw 101 Hom Lus"
+other = "101 Yam Lus Chaw Sib Koom"
 
 [hero_welcome]
-other = "Txais tos rau Chaw Luam Ntawv Tshuab Ntse pab-ua cov lus 101 hom!"
+other = "Zoo siab txais tos rau 101-Yam Lus Chaw Sib Koom Luam Tawm Ib Ntu-AI!"
 
 [hero_subtitle]
-other = "Tshuab Ntse pab tsoo cov kev txwv lus!"
+other = "Kev Txawj Ntse Dag Zog Pab Rhuav Tshem Teeb Meem Lus!"
+
+[embedded_gdoc_title]
+other = "Ntaub ntawv Google Docs uas tau muab tso rau hauv"
+
+[toggle_embed_hint]
+other = "nias kom kaw/qhib"
+
+[open_gdoc_external]
+other = "Qhib hauv lub qhov rais tshiab"

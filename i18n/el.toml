@@ -14,7 +14,7 @@ other = "Διαβάστε περισσότερα"
 other = "Από"
 
 [whatsInThis]
-other = "Τι περιέχει αυτό το {{ .Type }}"
+other = "Τι υπάρχει σε αυτό το {{ .Type }}"
 
 [related]
 other = "Σχετικά"
@@ -23,13 +23,13 @@ other = "Σχετικά"
 other = "Το Όνομά σας"
 
 [emailAddress]
-other = "Διεύθυνση email"
+other = "Διεύθυνση Email"
 
 [message]
 other = "Μήνυμα"
 
 [emailRequiredNote]
-other = "Απαιτείται διεύθυνση email."
+other = "Απαιτείται μια διεύθυνση email."
 
 [send]
 other = "Αποστολή"
@@ -58,12 +58,22 @@ other = "Σελίδα {{ .Name }}"
 other = "Τρέχουσα"
 
 [open_gdoc]
-other = "📄 Άνοιγμα εγχειριδίου στα Έγγραφα Google"
+other = "📄 Άνοιγμα εγχειριδίου στο Google Docs"
+
 [site_hub_title]
-other = "Κέντρο 101 Γλωσσών"
+other = "Κόμβος 101 Γλωσσών"
 
 [hero_welcome]
-other = "Καλώς ήρθατε στον Εκδοτικό Κόμβο 101 Γλωσσών με υποβοήθηση Τεχνητής Νοημοσύνης!"
+other = "Καλώς ήρθατε στον Κόμβο Δημοσιεύσεων Ημι-Τεχνητής Νοημοσύνης 101 Γλωσσών!"
 
 [hero_subtitle]
-other = "Η Τεχνητή Νοημοσύνη βοηθά να ξεπεραστούν τα γλωσσικά εμπόδια!"
+other = "Η Τεχνητή Νοημοσύνη βοηθά να σπάσουν τα γλωσσικά εμπόδια!"
+
+[embedded_gdoc_title]
+other = "Ενσωματωμένο έγγραφο Google Docs"
+
+[toggle_embed_hint]
+other = "κλικ για σύμπτυξη/ανάπτυξη"
+
+[open_gdoc_external]
+other = "Άνοιγμα σε νέο παράθυρο"

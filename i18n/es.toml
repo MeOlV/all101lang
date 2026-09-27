@@ -5,7 +5,7 @@ other = "Más"
 other = "Todo {{ .Title }}"
 
 [recentTitle]
-other = "Recientes {{ .Title }}"
+other = "Reciente {{ .Title }}"
 
 [readMore]
 other = "Leer más"
@@ -59,11 +59,21 @@ other = "Actual"
 
 [open_gdoc]
 other = "📄 Abrir manual en Google Docs"
+
 [site_hub_title]
 other = "Centro de 101 Idiomas"
 
 [hero_welcome]
-other = "¡Bienvenido al Centro de Publicación de 101 Idiomas Asistido por IA!"
+other = "¡Bienvenido al Centro de Publicación Semi-IA en 101 Idiomas!"
 
 [hero_subtitle]
 other = "¡La Inteligencia Artificial ayuda a romper las barreras del idioma!"
+
+[embedded_gdoc_title]
+other = "Documento de Google Docs incrustado"
+
+[toggle_embed_hint]
+other = "clic para contraer/expandir"
+
+[open_gdoc_external]
+other = "Abrir en una ventana nueva"

@@ -1,5 +1,5 @@
 [more]
-other = "Selengkapnya"
+other = "Lainnya"
 
 [allTitle]
 other = "Semua {{ .Title }}"
@@ -14,7 +14,7 @@ other = "Baca selengkapnya"
 other = "Oleh"
 
 [whatsInThis]
-other = "Apa saja yang ada di {{ .Type }} ini"
+other = "Isi {{ .Type }} ini"
 
 [related]
 other = "Terkait"
@@ -41,11 +41,11 @@ other = "Perbaiki halaman ini di GitHub"
 other = "Sejak"
 
 [taxonomyPageList]
-other = "Di bawah ini Anda akan menemukan halaman-halaman yang menggunakan istilah taksonomi '{{ .Title }}'"
+other = "Di bawah ini Anda akan menemukan halaman yang menggunakan istilah taksonomi '{{ .Title }}'"
 
 [readingTime]
-one = "Satu menit membaca"
-other = "{{ .Count }} menit membaca"
+one = "Dibaca satu menit"
+other = "Dibaca {{ .Count }} menit"
 
 [wordCount]
 one = "Satu kata"
@@ -55,15 +55,25 @@ other = "{{ .Count }} kata"
 other = "Halaman {{ .Name }}"
 
 [current_lang]
-other = "Saat ini"
+other = "Saat Ini"
 
 [open_gdoc]
-other = "📄 Buka manual di Google Docs"
+other = "📄 Buka panduan di Google Docs"
+
 [site_hub_title]
 other = "Pusat 101 Bahasa"
 
 [hero_welcome]
-other = "Selamat datang di Pusat Penerbitan 101 Bahasa Berbantuan AI!"
+other = "Selamat datang di Pusat Penerbitan Semi-AI 101 Bahasa!"
 
 [hero_subtitle]
-other = "Kecerdasan Buatan membantu menghilangkan hambatan bahasa!"
+other = "Kecerdasan Buatan membantu mendobrak batasan bahasa!"
+
+[embedded_gdoc_title]
+other = "Dokumen Google Docs Tertanam"
+
+[toggle_embed_hint]
+other = "klik untuk ciutkan/perluas"
+
+[open_gdoc_external]
+other = "Buka di jendela baru"

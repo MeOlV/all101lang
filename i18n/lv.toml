@@ -17,7 +17,7 @@ other = "Autors"
 other = "Kas ir šajā {{ .Type }}"
 
 [related]
-other = "Saistītie"
+other = "Saistītais"
 
 [yourName]
 other = "Jūsu vārds"
@@ -29,13 +29,13 @@ other = "E-pasta adrese"
 other = "Ziņojums"
 
 [emailRequiredNote]
-other = "E-pasta adrese ir obligāta."
+other = "Nepieciešama e-pasta adrese."
 
 [send]
 other = "Sūtīt"
 
 [editPage]
-other = "Uzlabot šo lapu GitHub vietnē"
+other = "Uzlabot šo lapu vietnē GitHub"
 
 [since]
 other = "Kopš"
@@ -44,8 +44,8 @@ other = "Kopš"
 other = "Zemāk atradīsiet lapas, kas izmanto taksonomijas terminu '{{ .Title }}'"
 
 [readingTime]
-one = "Lasāms vienā minūtē"
-other = "Lasāms {{ .Count }} minūtēs"
+one = "Vienas minūtes lasāmviela"
+other = "{{ .Count }} minūšu lasāmviela"
 
 [wordCount]
 one = "Viens vārds"
@@ -58,12 +58,22 @@ other = "{{ .Name }} lapa"
 other = "Pašreizējā"
 
 [open_gdoc]
-other = "📄 Atvērt rokasgrāmatu Google Docs"
+other = "📄 Atvērt rokasgrāmatu pakalpojumā Google Docs"
+
 [site_hub_title]
-other = "101 Valodu Portāls"
+other = "101 valodu centrs"
 
 [hero_welcome]
-other = "Laipni lūgti 101 valodu mākslīgā intelekta atbalstītā publicēšanas portālā!"
+other = "Laipni lūgti 101 valodu pus-AI publicēšanas centrā!"
 
 [hero_subtitle]
 other = "Mākslīgais intelekts palīdz pārvarēt valodu barjeras!"
+
+[embedded_gdoc_title]
+other = "Iegults Google Docs dokuments"
+
+[toggle_embed_hint]
+other = "noklikšķiniet, lai sakļautu/izvērstu"
+
+[open_gdoc_external]
+other = "Atvērt jaunā logā"

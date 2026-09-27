@@ -1,11 +1,11 @@
 [more]
-other = "Níos mó"
+other = "Tuilleadh"
 
 [allTitle]
 other = "Gach {{ .Title }}"
 
 [recentTitle]
-other = "Le déanaí {{ .Title }}"
+other = "{{ .Title }} le Déanaí"
 
 [readMore]
 other = "Léigh tuilleadh"
@@ -20,7 +20,7 @@ other = "Cad atá sa {{ .Type }} seo"
 other = "Gaolmhar"
 
 [yourName]
-other = "D'ainm"
+other = "D'Ainm"
 
 [emailAddress]
 other = "Seoladh Ríomhphoist"
@@ -44,7 +44,7 @@ other = "Ó"
 other = "Anseo thíos gheobhaidh tú leathanaigh a úsáideann an téarma tacsanomaíochta '{{ .Title }}'"
 
 [readingTime]
-one = "Léamh aon nóiméad amháin"
+one = "Léamh nóiméad amháin"
 other = "Léamh {{ .Count }} nóiméad"
 
 [wordCount]
@@ -59,11 +59,21 @@ other = "Reatha"
 
 [open_gdoc]
 other = "📄 Oscail an lámhleabhar i Google Docs"
+
 [site_hub_title]
-other = "Mol na 101 Teanga"
+other = "Mol 101 Teanga"
 
 [hero_welcome]
-other = "Fáilte chuig an Mol Foilsitheoireachta 101 Teanga Faoi Chúnamh Intleachta Saorga!"
+other = "Fáilte chuig an Mol Foilsitheoireachta Leath-Intleachtúil Saorga 101 Teanga!"
 
 [hero_subtitle]
-other = "Cabhraíonn an Intleacht Shaorga le bacainní teanga a bhriseadh!"
+other = "Cuidíonn an Intleacht Shaorga le bacainní teanga a bhriseadh!"
+
+[embedded_gdoc_title]
+other = "Doiciméad Google Docs leabaithe"
+
+[toggle_embed_hint]
+other = "cliceáil chun titim/leathnú"
+
+[open_gdoc_external]
+other = "Oscail i bhfuinneog nua"

@@ -1,69 +1,79 @@
 [more]
-other = "Lainnya"
+other = "Meira"
 
 [allTitle]
-other = "Semua {{ .Title }}"
+other = "Öll {{ .Title }}"
 
 [recentTitle]
-other = "{{ .Title }} Terbaru"
+other = "Nýleg {{ .Title }}"
 
 [readMore]
-other = "Baca selengkapnya"
+other = "Lesa meira"
 
 [by]
-other = "Oleh"
+other = "Eftir"
 
 [whatsInThis]
-other = "Apa saja di {{ .Type }} ini"
+other = "Hvað er í þessu {{ .Type }}"
 
 [related]
-other = "Terkait"
+other = "Tengt"
 
 [yourName]
-other = "Nama Anda"
+other = "Nafnið þitt"
 
 [emailAddress]
-other = "Alamat Email"
+other = "Netfang"
 
 [message]
-other = "Pesan"
+other = "Skilaboð"
 
 [emailRequiredNote]
-other = "Alamat email wajib diisi."
+other = "Netfang er nauðsynlegt."
 
 [send]
-other = "Kirim"
+other = "Senda"
 
 [editPage]
-other = "Sempurnakan halaman ini di GitHub"
+other = "Bæta þessa síðu á GitHub"
 
 [since]
-other = "Sejak"
+other = "Síðan"
 
 [taxonomyPageList]
-other = "Di bawah ini Anda akan menemukan halaman-halaman yang menggunakan istilah taksonomi '{{ .Title }}'"
+other = "Hér fyrir neðan má finna síður sem nota flokkunarheitið '{{ .Title }}'"
 
 [readingTime]
-one = "Satu menit membaca"
-other = "{{ .Count }} menit membaca"
+one = "Ein mínúta í lestur"
+other = "{{ .Count }} mínútur í lestur"
 
 [wordCount]
-one = "Satu kata"
-other = "{{ .Count }} kata"
+one = "Eitt orð"
+other = "{{ .Count }} orð"
 
 [pageTitle]
-other = "Halaman {{ .Name }}"
+other = "{{ .Name }} síða"
 
 [current_lang]
-other = "Saat ini"
+other = "Núverandi"
 
 [open_gdoc]
-other = "📄 Buka manual di Google Docs"
+other = "📄 Opna handbók í Google Docs"
+
 [site_hub_title]
-other = "Pusat Bahasa 101"
+other = "101 tungumála miðstöð"
 
 [hero_welcome]
-other = "Selamat datang di Pusat Penerbitan 101 Bahasa yang Dibantu AI!"
+other = "Velkomin í 101-tungumála útgáfumiðstöð með gervigreindaraðstoð!"
 
 [hero_subtitle]
-other = "Kecerdasan Buatan membantu menghilangkan hambatan bahasa!"
+other = "Gervigreind hjálpar til við að brjóta niður tungumálahindranir!"
+
+[embedded_gdoc_title]
+other = "Innbyggt Google Docs skjal"
+
+[toggle_embed_hint]
+other = "smelltu til að fela/sýna"
+
+[open_gdoc_external]
+other = "Opna í nýjum glugga"

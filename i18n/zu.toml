@@ -5,7 +5,7 @@ other = "Okuningi"
 other = "Konke {{ .Title }}"
 
 [recentTitle]
-other = "Okwakamuva {{ .Title }}"
+other = "Yakamuva {{ .Title }}"
 
 [readMore]
 other = "Funda okwengeziwe"
@@ -20,13 +20,13 @@ other = "Yini ekule {{ .Type }}?"
 other = "Okuhlobene"
 
 [yourName]
-other = "Igama Lakho"
+other = "Igama lakho"
 
 [emailAddress]
-other = "Ikheli Le-imeyili"
+other = "Ikheli le-imeyili"
 
 [message]
-other = "Umlayezo"
+other = "Umyalezo"
 
 [emailRequiredNote]
 other = "Ikheli le-imeyili liyadingeka."
@@ -44,26 +44,36 @@ other = "Kusukela"
 other = "Ngezansi uzothola amakhasi asebenzisa igama le-taxonomy elithi '{{ .Title }}'"
 
 [readingTime]
-one = "Ukufunda okungeminithi elilodwa"
-other = "Ukufunda okwemizuzu engu-{{ .Count }}"
+one = "Ukufunda kweminithi elilodwa"
+other = "Ukufunda kwamaminithi angu-{{ .Count }}"
 
 [wordCount]
 one = "Igama elilodwa"
 other = "Amagama angu-{{ .Count }}"
 
 [pageTitle]
-other = "Ikhasi le-{{ .Name }}"
+other = "Ikhasi lika-{{ .Name }}"
 
 [current_lang]
 other = "Okwamanje"
 
 [open_gdoc]
-other = "📄 Vula incwadi yomhlahlandlela ku-Google Docs"
+other = "📄 Vula umhlahlandlela ku-Google Docs"
+
 [site_hub_title]
-other = "Isikhungo Sezilimi Eziyi-101"
+other = "Isikhungo Sezilimi eziyi-101"
 
 [hero_welcome]
-other = "Siyakwamukela kuSikhungo Sokushicilela sezilimi eziyi-101 esisekelwa yi-AI!"
+other = "Siyakwamukela Esikhungweni Sokushicilela Sezilimi Eziyi-101 Esine-AI Ephakathi!"
 
 [hero_subtitle]
-other = "Ubuhlakani Bokwenziwa busiza ekuqedeni izithiyo zolimi!"
+other = "Ubuhlakani Bokwenziwa busiza ukuphula izithiyo zolimi!"
+
+[embedded_gdoc_title]
+other = "Idokhumenti ye-Google Docs efakwe ngaphakathi"
+
+[toggle_embed_hint]
+other = "chofoza ukuze ugoqe/unwebe"
+
+[open_gdoc_external]
+other = "Vula efasiteleni elisha"

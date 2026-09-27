@@ -1,20 +1,20 @@
 [more]
-other = "Deui"
+other = "Salengkepna"
 
 [allTitle]
-other = "Sadaya {{ .Title }}"
+other = "Sadayana {{ .Title }}"
 
 [recentTitle]
-other = "{{ .Title }} nu Anyar"
+other = "Panganyarna {{ .Title }}"
 
 [readMore]
-other = "Baca deui"
+other = "Baca salengkepna"
 
 [by]
 other = "Ku"
 
 [whatsInThis]
-other = "Eusi {{ .Type }} ieu naon?"
+other = "Naon nu aya dina {{ .Type }} ieu"
 
 [related]
 other = "Patali"
@@ -23,7 +23,7 @@ other = "Patali"
 other = "Nami anjeun"
 
 [emailAddress]
-other = "Alamat Surélék"
+other = "Alamat surélék"
 
 [message]
 other = "Pesen"
@@ -35,20 +35,20 @@ other = "Alamat surélék kedah dieusi."
 other = "Kirim"
 
 [editPage]
-other = "Robah kaca ieu dina GitHub"
+other = "Ropéa kaca ieu di GitHub"
 
 [since]
 other = "Ti saprak"
 
 [taxonomyPageList]
-other = "Di handap ieu aya kaca-kaca anu ngagunakeun istilah taksonomi '{{ .Title }}'"
+other = "Di handap ieu anjeun bakal mendakan kaca-kaca anu ngagunakeun istilah taksonomi '{{ .Title }}'"
 
 [readingTime]
-one = "Sa menit baca"
-other = "{{ .Count }} menit baca"
+one = "Samenit dibaca"
+other = "{{ .Count }} menit dibaca"
 
 [wordCount]
-one = "Sa kecap"
+one = "Sana kecap"
 other = "{{ .Count }} kecap"
 
 [pageTitle]
@@ -58,12 +58,22 @@ other = "Kaca {{ .Name }}"
 other = "Ayeuna"
 
 [open_gdoc]
-other = "📄 Buka manual dina Google Docs"
+other = "📄 Buka pituduh dina Google Docs"
+
 [site_hub_title]
-other = "Pusat Basa 101"
+other = "Pusat 101 Basa"
 
 [hero_welcome]
-other = "Wilujeng sumping di Pusat Pamedalan 101 Basa nu Dibantuan ku AI!"
+other = "Wilujeng sumping di Pusat Publikasi Semi-AI 101 Basa!"
 
 [hero_subtitle]
-other = "Kacerdasan Jieunan ngabantu ngatasi panghalang basa!"
+other = "Kacerdasan Jieunan ngabantos ngarengsekeun halangan basa!"
+
+[embedded_gdoc_title]
+other = "Dokumén Google Docs anu diselapkeun"
+
+[toggle_embed_hint]
+other = "klik pikeun nyumputkeun/mekarkeun"
+
+[open_gdoc_external]
+other = "Buka dina jandela énggal"

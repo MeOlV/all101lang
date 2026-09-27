@@ -14,7 +14,7 @@ other = "Đọc thêm"
 other = "Bởi"
 
 [whatsInThis]
-other = "Nội dung trong {{ .Type }} này"
+other = "Có gì trong {{ .Type }} này"
 
 [related]
 other = "Liên quan"
@@ -23,7 +23,7 @@ other = "Liên quan"
 other = "Tên của bạn"
 
 [emailAddress]
-other = "Địa chỉ Email"
+other = "Địa chỉ email"
 
 [message]
 other = "Tin nhắn"
@@ -41,7 +41,7 @@ other = "Cải thiện trang này trên GitHub"
 other = "Từ"
 
 [taxonomyPageList]
-other = "Dưới đây bạn sẽ tìm thấy các trang sử dụng thuật ngữ phân loại '{{ .Title }}'"
+other = "Dưới đây là các trang sử dụng thuật ngữ phân loại '{{ .Title }}'"
 
 [readingTime]
 one = "Đọc trong một phút"
@@ -58,12 +58,22 @@ other = "Trang {{ .Name }}"
 other = "Hiện tại"
 
 [open_gdoc]
-other = "📄 Mở tài liệu hướng dẫn trong Google Docs"
+other = "📄 Mở hướng dẫn trong Google Docs"
+
 [site_hub_title]
 other = "Trung tâm 101 Ngôn ngữ"
 
 [hero_welcome]
-other = "Chào mừng bạn đến với Trung tâm xuất bản 101 ngôn ngữ hỗ trợ AI!"
+other = "Chào mừng đến với Trung tâm Xuất bản Bán AI 101 Ngôn ngữ!"
 
 [hero_subtitle]
 other = "Trí tuệ nhân tạo giúp phá vỡ rào cản ngôn ngữ!"
+
+[embedded_gdoc_title]
+other = "Tài liệu Google Docs nhúng"
+
+[toggle_embed_hint]
+other = "nhấn để thu gọn/mở rộng"
+
+[open_gdoc_external]
+other = "Mở trong cửa sổ mới"

@@ -1,14 +1,14 @@
 [more]
-other = "Повече"
+other = "Още"
 
 [allTitle]
 other = "Всички {{ .Title }}"
 
 [recentTitle]
-other = "Последни {{ .Title }}"
+other = "Скорошни {{ .Title }}"
 
 [readMore]
-other = "Прочети повече"
+other = "Прочетете още"
 
 [by]
 other = "От"
@@ -52,18 +52,28 @@ one = "Една дума"
 other = "{{ .Count }} думи"
 
 [pageTitle]
-other = "Страница на {{ .Name }}"
+other = "Страница {{ .Name }}"
 
 [current_lang]
 other = "Текущ"
 
 [open_gdoc]
 other = "📄 Отвори ръководството в Google Документи"
+
 [site_hub_title]
-other = "Център 101 Езика"
+other = "Хъб 101 езика"
 
 [hero_welcome]
-other = "Добре дошли в нашия 101-езиков издателски център с ИИ поддръжка!"
+other = "Добре дошли в Полу-ИИ Издателския Хъб за 101 езика!"
 
 [hero_subtitle]
-other = "Изкуственият интелект помага да се преодолеят езиковите бариери!"
+other = "Изкуственият интелект помага за премахване на езиковите бариери!"
+
+[embedded_gdoc_title]
+other = "Вграден Google Документи документ"
+
+[toggle_embed_hint]
+other = "кликнете за свиване/разгъване"
+
+[open_gdoc_external]
+other = "Отвори в нов прозорец"

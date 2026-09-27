@@ -2,7 +2,7 @@
 other = "Mais"
 
 [allTitle]
-other = "Todos os {{ .Title }}"
+other = "Todos {{ .Title }}"
 
 [recentTitle]
 other = "Recentes {{ .Title }}"
@@ -17,7 +17,7 @@ other = "Por"
 other = "O que há neste {{ .Type }}"
 
 [related]
-other = "Relacionados"
+other = "Relacionado"
 
 [yourName]
 other = "Seu Nome"
@@ -35,13 +35,13 @@ other = "Um endereço de e-mail é obrigatório."
 other = "Enviar"
 
 [editPage]
-other = "Melhore esta página no GitHub"
+other = "Melhorar esta página no GitHub"
 
 [since]
 other = "Desde"
 
 [taxonomyPageList]
-other = "Abaixo você encontrará páginas que utilizam o termo de taxonomia '{{ .Title }}'"
+other = "Abaixo, você encontrará páginas que utilizam o termo de taxonomia '{{ .Title }}'"
 
 [readingTime]
 one = "Um minuto de leitura"
@@ -52,18 +52,28 @@ one = "Uma palavra"
 other = "{{ .Count }} palavras"
 
 [pageTitle]
-other = "Página de {{ .Name }}"
+other = "Página {{ .Name }}"
 
 [current_lang]
 other = "Atual"
 
 [open_gdoc]
 other = "📄 Abrir manual no Google Docs"
+
 [site_hub_title]
-other = "Centro de 101 Idiomas"
+other = "Hub de 101 Idiomas"
 
 [hero_welcome]
-other = "Bem-vindo ao Centro de Publicação em 101 Idiomas com Assistência de IA!"
+other = "Bem-vindo ao Hub de Publicação Semi-IA de 101 Idiomas!"
 
 [hero_subtitle]
-other = "A Inteligência Artificial ajuda a superar barreiras linguísticas!"
+other = "A Inteligência Artificial ajuda a quebrar barreiras linguísticas!"
+
+[embedded_gdoc_title]
+other = "Documento Google Docs incorporado"
+
+[toggle_embed_hint]
+other = "clique para recolher/expandir"
+
+[open_gdoc_external]
+other = "Abrir em uma nova janela"

@@ -14,7 +14,7 @@ other = "اقرأ المزيد"
 other = "بواسطة"
 
 [whatsInThis]
-other = "ماذا يوجد في هذا الـ {{ .Type }}"
+other = "ماذا يوجد في هذا {{ .Type }}"
 
 [related]
 other = "ذات صلة"
@@ -26,7 +26,7 @@ other = "اسمك"
 other = "عنوان البريد الإلكتروني"
 
 [message]
-other = "الرسالة"
+other = "رسالة"
 
 [emailRequiredNote]
 other = "عنوان البريد الإلكتروني مطلوب."
@@ -49,22 +49,31 @@ other = "{{ .Count }} دقائق قراءة"
 
 [wordCount]
 one = "كلمة واحدة"
-other = "{{ .Count }} كلمات"
+other = "{{ .Count }} كلمة"
 
 [pageTitle]
 other = "صفحة {{ .Name }}"
 
 [current_lang]
-other = "الحالي"
+other = "الحالية"
 
 [open_gdoc]
-other = "📄 افتح الدليل في مستندات Google"
+other = "📄 فتح الدليل في مستندات Google"
 
 [site_hub_title]
-other = "مركز اللغات 101"
+other = "مركز 101 لغة"
 
 [hero_welcome]
-other = "مرحبًا بك في مركز نشر اللغات 101 المدعوم بالذكاء الاصطناعي!"
+other = "مرحبًا بك في مركز النشر شبه الاصطناعي للغات الـ 101!"
 
 [hero_subtitle]
-other = "الذكاء الاصطناعي يساعد على كسر حواجز اللغة!"
+other = "الذكاء الاصطناعي يساعد في كسر حواجز اللغة!"
+
+[embedded_gdoc_title]
+other = "مستند مستندات Google مضمن"
+
+[toggle_embed_hint]
+other = "انقر للطي/التوسيع"
+
+[open_gdoc_external]
+other = "فتح في نافذة جديدة"

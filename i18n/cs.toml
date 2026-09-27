@@ -5,10 +5,10 @@ other = "Více"
 other = "Všechny {{ .Title }}"
 
 [recentTitle]
-other = "Nedávné {{ .Title }}"
+other = "Nejnovější {{ .Title }}"
 
 [readMore]
-other = "Číst dále"
+other = "Přečíst více"
 
 [by]
 other = "Od"
@@ -44,8 +44,8 @@ other = "Od"
 other = "Níže naleznete stránky, které využívají termín taxonomie '{{ .Title }}'"
 
 [readingTime]
-one = "Jedna minuta čtení"
-other = "{{ .Count }} minut čtení"
+one = "Čtení na jednu minutu"
+other = "Čtení na {{ .Count }} minut"
 
 [wordCount]
 one = "Jedno slovo"
@@ -58,12 +58,22 @@ other = "Stránka {{ .Name }}"
 other = "Aktuální"
 
 [open_gdoc]
-other = "📄 Otevřít manuál v Google Dokumentech"
+other = "📄 Otevřít příručku v Dokumentech Google"
+
 [site_hub_title]
-other = "Jazykové centrum 101"
+other = "Centrum 101 jazyků"
 
 [hero_welcome]
-other = "Vítejte v 101jazyčném AI-asistovaném publikačním centru!"
+other = "Vítejte v polo-AI publikačním centru 101 jazyků!"
 
 [hero_subtitle]
-other = "Umělá inteligence pomáhá prolomit jazykové bariéry!"
+other = "Umělá inteligence pomáhá překonávat jazykové bariéry!"
+
+[embedded_gdoc_title]
+other = "Vložený dokument Dokumentů Google"
+
+[toggle_embed_hint]
+other = "kliknutím sbalíte/rozbalíte"
+
+[open_gdoc_external]
+other = "Otevřít v novém okně"

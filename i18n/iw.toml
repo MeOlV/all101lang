@@ -2,10 +2,10 @@
 other = "עוד"
 
 [allTitle]
-other = "כל {{ .Title }}"
+other = "כל ה-{{ .Title }}"
 
 [recentTitle]
-other = "אחרונים {{ .Title }}"
+other = "{{ .Title }} אחרונים"
 
 [readMore]
 other = "קרא עוד"
@@ -14,13 +14,13 @@ other = "קרא עוד"
 other = "מאת"
 
 [whatsInThis]
-other = "מה יש ב-{{ .Type }} הזה"
+other = "מה יש ב-{{ .Type }} זה"
 
 [related]
 other = "קשור"
 
 [yourName]
-other = "השם שלך"
+other = "שמך"
 
 [emailAddress]
 other = "כתובת אימייל"
@@ -41,7 +41,7 @@ other = "שפר דף זה ב-GitHub"
 other = "מאז"
 
 [taxonomyPageList]
-other = "להלן דפים המשתמשים במונח הטקסונומי '{{ .Title }}'"
+other = "להלן תמצאו דפים המשתמשים במונח הטקסונומי '{{ .Title }}'"
 
 [readingTime]
 one = "קריאה של דקה אחת"
@@ -55,15 +55,25 @@ other = "{{ .Count }} מילים"
 other = "דף {{ .Name }}"
 
 [current_lang]
-other = "נוכחי"
+other = "נוכחית"
 
 [open_gdoc]
 other = "📄 פתח מדריך ב-Google Docs"
+
 [site_hub_title]
-other = "מוקד 101 השפות"
+other = "מרכז 101 השפות"
 
 [hero_welcome]
-other = "ברוכים הבאים למוקד ההוצאה לאור בסיוע בינה מלאכותית ב-101 שפות!"
+other = "ברוכים הבאים למרכז הפרסום החצי-בינה מלאכותית של 101 שפות!"
 
 [hero_subtitle]
 other = "בינה מלאכותית עוזרת לשבור מחסומי שפה!"
+
+[embedded_gdoc_title]
+other = "מסמך Google Docs מוטמע"
+
+[toggle_embed_hint]
+other = "לחץ כדי לכווץ/להרחיב"
+
+[open_gdoc_external]
+other = "פתח בחלון חדש"

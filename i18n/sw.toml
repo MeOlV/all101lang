@@ -5,7 +5,7 @@ other = "Zaidi"
 other = "Zote {{ .Title }}"
 
 [recentTitle]
-other = "Hivi Karibuni {{ .Title }}"
+other = "Mpya {{ .Title }}"
 
 [readMore]
 other = "Soma zaidi"
@@ -14,7 +14,7 @@ other = "Soma zaidi"
 other = "Na"
 
 [whatsInThis]
-other = "Yaliyomo katika {{ .Type }} hii"
+other = "Kuna nini katika {{ .Type }} hii"
 
 [related]
 other = "Zinazohusiana"
@@ -55,15 +55,25 @@ other = "Maneno {{ .Count }}"
 other = "Ukurasa wa {{ .Name }}"
 
 [current_lang]
-other = "Ya Sasa"
+other = "Ya sasa"
 
 [open_gdoc]
-other = "📄 Fungua mwongozo katika Google Docs"
+other = "📄 Fungua mwongozo kwenye Hati za Google"
+
 [site_hub_title]
 other = "Kituo cha Lugha 101"
 
 [hero_welcome]
-other = "Karibu kwenye Kituo cha Uchapishaji cha Lugha 101 chenye Usaidizi wa Akili Bandia!"
+other = "Karibu kwenye Kituo cha Uchapishaji cha Nusu-AI cha Lugha 101!"
 
 [hero_subtitle]
-other = "Akili Bandia husaidia kuvunja vikwazo vya lugha!"
+other = "Akili Bandia husaidia kuvunja vizuizi vya lugha!"
+
+[embedded_gdoc_title]
+other = "Hati ya Google Docs iliyopachikwa"
+
+[toggle_embed_hint]
+other = "bofya ili kukunjua/kupanua"
+
+[open_gdoc_external]
+other = "Fungua katika dirisha jipya"

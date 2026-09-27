@@ -2,10 +2,10 @@
 other = "Més"
 
 [allTitle]
-other = "Tot {{ .Title }}"
+other = "Tots els {{ .Title }}"
 
 [recentTitle]
-other = "{{ .Title }} recents"
+other = "Recents de {{ .Title }}"
 
 [readMore]
 other = "Llegeix més"
@@ -23,7 +23,7 @@ other = "Relacionats"
 other = "El teu nom"
 
 [emailAddress]
-other = "Correu electrònic"
+other = "Adreça de correu electrònic"
 
 [message]
 other = "Missatge"
@@ -41,7 +41,7 @@ other = "Millora aquesta pàgina a GitHub"
 other = "Des de"
 
 [taxonomyPageList]
-other = "A continuació trobaràs pàgines que utilitzen el terme de taxonomia '{{ .Title }}'"
+other = "A continuació trobareu les pàgines que utilitzen el terme de taxonomia '{{ .Title }}'"
 
 [readingTime]
 one = "Un minut de lectura"
@@ -59,11 +59,21 @@ other = "Actual"
 
 [open_gdoc]
 other = "📄 Obre el manual a Google Docs"
+
 [site_hub_title]
-other = "Centre de 101 Llengües"
+other = "Centre de 101 Idiomes"
 
 [hero_welcome]
-other = "Benvinguts a la Plataforma de Publicació de 101 Llengües assistida per IA!"
+other = "Benvinguts al Centre de Publicació Semi-IA en 101 Idiomes!"
 
 [hero_subtitle]
-other = "La Intel·ligència Artificial ajuda a trencar les barreres lingüístiques!"
+other = "La intel·ligència artificial ajuda a trencar les barreres lingüístiques!"
+
+[embedded_gdoc_title]
+other = "Document de Google Docs incrustat"
+
+[toggle_embed_hint]
+other = "fes clic per contraure/expandir"
+
+[open_gdoc_external]
+other = "Obre en una finestra nova"

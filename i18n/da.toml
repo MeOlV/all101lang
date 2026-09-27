@@ -17,7 +17,7 @@ other = "Af"
 other = "Hvad er der i denne {{ .Type }}"
 
 [related]
-other = "Relateret"
+other = "Relaterede"
 
 [yourName]
 other = "Dit navn"
@@ -41,7 +41,7 @@ other = "Forbedr denne side på GitHub"
 other = "Siden"
 
 [taxonomyPageList]
-other = "Nedenfor finder du sider, der bruger taksonomibegrebet '{{ .Title }}'"
+other = "Nedenfor finder du sider, der bruger taksonomitermen '{{ .Title }}'"
 
 [readingTime]
 one = "Et minuts læsning"
@@ -59,11 +59,21 @@ other = "Nuværende"
 
 [open_gdoc]
 other = "📄 Åbn manual i Google Docs"
+
 [site_hub_title]
-other = "101 Sprogportal"
+other = "101 Sprog Hub"
 
 [hero_welcome]
-other = "Velkommen til den 101-sprogede AI-assisterede udgivelsesportal!"
+other = "Velkommen til 101-Sprog Semi-AI Udgivelseshub!"
 
 [hero_subtitle]
-other = "Kunstig Intelligens hjælper med at bryde sprogbarrierer!"
+other = "Kunstig intelligens hjælper med at nedbryde sprogbarrierer!"
+
+[embedded_gdoc_title]
+other = "Integreret Google Docs-dokument"
+
+[toggle_embed_hint]
+other = "klik for at skjule/udvide"
+
+[open_gdoc_external]
+other = "Åbn i nyt vindue"

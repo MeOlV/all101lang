@@ -5,7 +5,7 @@ other = "Zambiri"
 other = "Zonse za {{ .Title }}"
 
 [recentTitle]
-other = "Zaposachedwa za {{ .Title }}"
+other = "Zaposa posachedwa za {{ .Title }}"
 
 [readMore]
 other = "Werengani zambiri"
@@ -14,28 +14,28 @@ other = "Werengani zambiri"
 other = "Ndi"
 
 [whatsInThis]
-other = "Chiyani chili mu {{ .Type }} iyi?"
+other = "Chili chiyani mu {{ .Type }} iyi"
 
 [related]
-other = "Zogwirizana"
+other = "Zokhudzana"
 
 [yourName]
 other = "Dzina lanu"
 
 [emailAddress]
-other = "Adilesi ya imelo"
+other = "Imelo Adilesi"
 
 [message]
 other = "Uthenga"
 
 [emailRequiredNote]
-other = "Adilesi ya imelo ikufunika."
+other = "Imelo adilesi ikufunika."
 
 [send]
 other = "Tumiza"
 
 [editPage]
-other = "Sinthani tsamba ili pa GitHub"
+other = "Konzani tsamba ili pa GitHub"
 
 [since]
 other = "Kuyambira"
@@ -44,8 +44,8 @@ other = "Kuyambira"
 other = "Pansipa mupeza masamba omwe akugwiritsa ntchito mawu a taxonomy '{{ .Title }}'"
 
 [readingTime]
-one = "Kuwerewera kwa mphindi imodzi"
-other = "Kuwerewera kwa mphindi {{ .Count }}"
+one = "Kuwera kwa mphindi imodzi"
+other = "Kuwera kwa mphindi {{ .Count }}"
 
 [wordCount]
 one = "Mawu amodzi"
@@ -58,12 +58,22 @@ other = "Tsamba la {{ .Name }}"
 other = "Panopa"
 
 [open_gdoc]
-other = "📄 Tsegulani buku lothandizira mu Google Docs"
+other = "📄 Tsegulani kalozera mu Google Docs"
+
 [site_hub_title]
-other = "Likulu la Zilankhulo 101"
+other = "Malo Osonkhanira a Zilankhulo 101"
 
 [hero_welcome]
-other = "Takulandirani ku Likulu Lofalitsira la Zilankhulo 101 Lothandizidwa ndi Nzeru Zopanga!"
+other = "Takulandirani ku Malo Opangira Zofalitsa a Zilankhulo 101 okhala ndi Chithandizo cha AI!"
 
 [hero_subtitle]
-other = "Nzeru Zopanga zimathandiza kuswa zopinga za zilankhulo!"
+other = "Artificial Intelligence imathandiza kugonjetsa zopinga za chilankhulo!"
+
+[embedded_gdoc_title]
+other = "Chikalata cha Google Docs choikidwa"
+
+[toggle_embed_hint]
+other = "dinani kuti mutseke/mutsegule"
+
+[open_gdoc_external]
+other = "Tsegulani mu zenera lina"

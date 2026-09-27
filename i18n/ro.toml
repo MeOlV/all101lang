@@ -14,10 +14,10 @@ other = "Citește mai mult"
 other = "De"
 
 [whatsInThis]
-other = "Ce este în acest {{ .Type }}"
+other = "Ce conține acest {{ .Type }}"
 
 [related]
-other = "Relaționate"
+other = "Conexe"
 
 [yourName]
 other = "Numele tău"
@@ -38,10 +38,10 @@ other = "Trimite"
 other = "Îmbunătățește această pagină pe GitHub"
 
 [since]
-other = "Din"
+other = "De la"
 
 [taxonomyPageList]
-other = "Mai jos veți găsi pagini care utilizează termenul de taxonomie '{{ .Title }}"
+other = "Mai jos veți găsi pagini care utilizează termenul de taxonomie '{{ .Title }}'"
 
 [readingTime]
 one = "Un minut de citit"
@@ -55,15 +55,25 @@ other = "{{ .Count }} cuvinte"
 other = "Pagina {{ .Name }}"
 
 [current_lang]
-other = "Curentă"
+other = "Actuală"
 
 [open_gdoc]
-other = "📄 Deschide manualul în Google Docs"
+other = "📄 Deschide ghidul în Google Docs"
+
 [site_hub_title]
-other = "Centrul de 101 Limbi"
+other = "Hub-ul 101 Limbi"
 
 [hero_welcome]
-other = "Bun venit la Centrul de publicare asistat de AI, în 101 limbi!"
+other = "Bun venit la Hub-ul de Publicare Semi-AI pentru 101 Limbi!"
 
 [hero_subtitle]
-other = "Inteligența Artificială ajută la înlăturarea barierelor lingvistice!"
+other = "Inteligența Artificială ajută la depășirea barierelor lingvistice!"
+
+[embedded_gdoc_title]
+other = "Document Google Docs încorporat"
+
+[toggle_embed_hint]
+other = "apasă pentru a restrânge/extinde"
+
+[open_gdoc_external]
+other = "Deschide într-o fereastră nouă"

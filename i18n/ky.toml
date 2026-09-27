@@ -8,13 +8,13 @@ other = "Бардык {{ .Title }}"
 other = "Акыркы {{ .Title }}"
 
 [readMore]
-other = "Көбүрөөк окуу"
+other = "Кененирээк окуу"
 
 [by]
 other = "Автору"
 
 [whatsInThis]
-other = "Бул {{ .Type }} эмне камтыйт"
+other = "Бул {{ .Type }} эмне камтыйт?"
 
 [related]
 other = "Тиешелүү"
@@ -26,7 +26,7 @@ other = "Атыңыз"
 other = "Электрондук почта дареги"
 
 [message]
-other = "Кабар"
+other = "Билдирүү"
 
 [emailRequiredNote]
 other = "Электрондук почта дареги талап кылынат."
@@ -35,35 +35,45 @@ other = "Электрондук почта дареги талап кылына�
 other = "Жөнөтүү"
 
 [editPage]
-other = "Бул баракты GitHub'да жакшыртыңыз"
+other = "Бул баракты GitHub'та жакшыртуу"
 
 [since]
 other = "Бери"
 
 [taxonomyPageList]
-other = "Төмөндө '{{ .Title }}' таксономиялык терминин колдонгон барактарды табасыз"
+other = "Төмөндө '{{ .Title }}' таксономиялык терминин колдонгон баракчаларды таба аласыз."
 
 [readingTime]
-one = "Бир мүнөт окуу"
-other = "{{ .Count }} мүнөт окуу"
+one = "Бир мүнөттүк окуу"
+other = "{{ .Count }} мүнөттүк окуу"
 
 [wordCount]
 one = "Бир сөз"
 other = "{{ .Count }} сөз"
 
 [pageTitle]
-other = "{{ .Name }} барагы"
+other = "{{ .Name }} баракчасы"
 
 [current_lang]
 other = "Учурдагы"
 
 [open_gdoc]
-other = "📄 Нускаманы Google Документтеринен ачыңыз"
+other = "📄 Колдонмону Google Docs'то ачуу"
+
 [site_hub_title]
-other = "101 Тил Борбору"
+other = "101 Тилдер Хабы"
 
 [hero_welcome]
-other = "101 тилдүү Жасалма интеллекттин колдоосу менен басып чыгаруу борборуна кош келиңиз!"
+other = "101 тилдик жарым-ЖИ басып чыгаруу хабына кош келиңиз!"
 
 [hero_subtitle]
-other = "Жасалма интеллект тил тоскоолдуктарын жоюуга жардам берет!"
+other = "Жасалма интеллект тил тоскоолдуктарын бузууга жардам берет!"
+
+[embedded_gdoc_title]
+other = "Камтылган Google Docs документи"
+
+[toggle_embed_hint]
+other = "кичирейтүү/кеңейтүү үчүн басыңыз"
+
+[open_gdoc_external]
+other = "Жаңы терезеде ачуу"

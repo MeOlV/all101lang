@@ -1,20 +1,20 @@
 [more]
-other = "Haholoanyane"
+other = "Tse ling"
 
 [allTitle]
 other = "Tsohle tsa {{ .Title }}"
 
 [recentTitle]
-other = "E sa tsoa hlaha ea {{ .Title }}"
+other = "Tsa haufinyane tsa {{ .Title }}"
 
 [readMore]
 other = "Bala haholoanyane"
 
 [by]
-other = "Ke"
+other = "Ka"
 
 [whatsInThis]
-other = "Ho na le eng ho ena {{ .Type }}"
+other = "Ho ka har'a {{ .Type }} ena eng?"
 
 [related]
 other = "Tse amanang"
@@ -23,13 +23,13 @@ other = "Tse amanang"
 other = "Lebitso la hao"
 
 [emailAddress]
-other = "Aterese ea Imeile"
+other = "Aterese ea imeile"
 
 [message]
 other = "Molaetsa"
 
 [emailRequiredNote]
-other = "Ho hlokahala aterese ea imeile."
+other = "Aterese ea imeile e ea hlokahala."
 
 [send]
 other = "Romela"
@@ -38,32 +38,42 @@ other = "Romela"
 other = "Ntlafatsa leqephe lena ho GitHub"
 
 [since]
-other = "Ho tloha"
+other = "Ho tloha ka"
 
 [taxonomyPageList]
-other = "Ka tlase o tla fumana maqephe a sebelisang lentsoe la lekala '{{ .Title }}'"
+other = "Ka tlase u tla fumana maqephe a sebelisang lereho la taxonomy '{{ .Title }}'"
 
 [readingTime]
-one = "Ho bala motsotso o le mong"
-other = "Ho bala metsotso e {{ .Count }}"
+one = "Ho baloa ka motsotso o le mong"
+other = "Ho baloa ka metsotso e {{ .Count }}"
 
 [wordCount]
-one = "Lentsoe le le leng"
+one = "Lereho le le leng"
 other = "Mantsoe a {{ .Count }}"
 
 [pageTitle]
 other = "Leqephe la {{ .Name }}"
 
 [current_lang]
-other = "Hona joale"
+other = "Ha joale"
 
 [open_gdoc]
-other = "📄 Bula buka ea litaelo ho Google Docs"
+other = "📄 Bula tataiso ho Google Docs"
+
 [site_hub_title]
-other = "Centro de 101 Idiomas"
+other = "Setsi sa Lipuo tse 101"
 
 [hero_welcome]
-other = "Bienvenido al Centro de Publicación de 101 Idiomas con Asistencia de IA."
+other = "Rea u amohela Setsing sa Khatiso sa Lipuo tse 101 se Se-AI!"
 
 [hero_subtitle]
-other = "¡La Inteligencia Artificial ayuda a romper las barreras lingüísticas!"
+other = "Bohlale ba Maiketsetso bo thusa ho qhaqha litšitiso tsa lipuo!"
+
+[embedded_gdoc_title]
+other = "Tokomane ea Google Docs e Kenyelelitsoeng"
+
+[toggle_embed_hint]
+other = "tobetsa ho mena/hlohlora"
+
+[open_gdoc_external]
+other = "Bula fensetereng e ncha"

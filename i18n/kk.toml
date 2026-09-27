@@ -20,7 +20,7 @@ other = "Бұл {{ .Type }} ішінде не бар?"
 other = "Қатысты"
 
 [yourName]
-other = "Атыңыз"
+other = "Сіздің атыңыз"
 
 [emailAddress]
 other = "Электрондық пошта мекенжайы"
@@ -38,7 +38,7 @@ other = "Жіберу"
 other = "Бұл бетті GitHub-та жақсарту"
 
 [since]
-other = "Бастап"
+other = "Бері"
 
 [taxonomyPageList]
 other = "Төменде '{{ .Title }}' таксономия терминін пайдаланатын беттерді табасыз"
@@ -58,12 +58,22 @@ other = "{{ .Name }} беті"
 other = "Ағымдағы"
 
 [open_gdoc]
-other = "📄 Google Docs-тағы нұсқаулықты ашу"
+other = "📄 Google Docs-те нұсқаулықты ашу"
+
 [site_hub_title]
-other = "101 Тілдер Орталығы"
+other = "101 тіл хабы"
 
 [hero_welcome]
-other = "101 тілді ЖИ қолдауымен басылым орталығына қош келдіңіз!"
+other = "101 тілді жартылай AI баспа хабына қош келдіңіз!"
 
 [hero_subtitle]
-other = "Жасанды Интеллект тіл кедергілерін жоюға көмектеседі!"
+other = "Жасанды интеллект тілдік кедергілерді жоюға көмектеседі!"
+
+[embedded_gdoc_title]
+other = "Кірістірілген Google Docs құжаты"
+
+[toggle_embed_hint]
+other = "жию/жайу үшін басыңыз"
+
+[open_gdoc_external]
+other = "Жаңа терезеде ашу"

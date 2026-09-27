@@ -8,7 +8,7 @@ other = "Bütün {{ .Title }}"
 other = "Son {{ .Title }}"
 
 [readMore]
-other = "Daha ətraflı oxu"
+other = "Daha çox oxu"
 
 [by]
 other = "Müəllif"
@@ -23,13 +23,13 @@ other = "Əlaqəli"
 other = "Adınız"
 
 [emailAddress]
-other = "E-poçt Ünvanı"
+other = "Elektron poçt ünvanı"
 
 [message]
 other = "Mesaj"
 
 [emailRequiredNote]
-other = "E-poçt ünvanı tələb olunur."
+other = "Elektron poçt ünvanı tələb olunur."
 
 [send]
 other = "Göndər"
@@ -44,8 +44,8 @@ other = "Bəri"
 other = "Aşağıda '{{ .Title }}' taksonomiya terminindən istifadə edən səhifələri tapa bilərsiniz"
 
 [readingTime]
-one = "Bir dəqiqəlik oxu"
-other = "{{ .Count }} dəqiqəlik oxu"
+one = "Bir dəqiqəlik oxunuş"
+other = "{{ .Count }} dəqiqəlik oxunuş"
 
 [wordCount]
 one = "Bir söz"
@@ -58,12 +58,22 @@ other = "{{ .Name }} səhifəsi"
 other = "Cari"
 
 [open_gdoc]
-other = "📄 Təlimatı Google Sənədlərdə açın"
+other = "📄 Təlimatı Google Docs-da açın"
+
 [site_hub_title]
 other = "101 Dil Mərkəzi"
 
 [hero_welcome]
-other = "101 dilli Süni intellekt dəstəkli Nəşr Mərkəzinə xoş gəlmisiniz!"
+other = "101 Dilli Yarı-Süni İntellekt Nəşriyyat Mərkəzinə xoş gəlmisiniz!"
 
 [hero_subtitle]
-other = "Süni intellekt dil sədlərini qırmağa kömək edir!"
+other = "Süni intellekt dil baryerlərini aşmağa kömək edir!"
+
+[embedded_gdoc_title]
+other = "Daxili Google Docs sənədi"
+
+[toggle_embed_hint]
+other = "yığmaq/genişləndirmək üçün klikləyin"
+
+[open_gdoc_external]
+other = "Yeni pəncərədə açın"

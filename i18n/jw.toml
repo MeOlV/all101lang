@@ -5,7 +5,7 @@ other = "Liyane"
 other = "Kabeh {{ .Title }}"
 
 [recentTitle]
-other = "{{ .Title }} Paling anyar"
+other = "Paling Anyar {{ .Title }}"
 
 [readMore]
 other = "Waca liyane"
@@ -14,10 +14,10 @@ other = "Waca liyane"
 other = "Dening"
 
 [whatsInThis]
-other = "Isine apa wae ing {{ .Type }} iki?"
+other = "Apa sing ana ing {{ .Type }} iki"
 
 [related]
-other = "Gegandhengan"
+other = "Kagandheng"
 
 [yourName]
 other = "Jeneng Panjenengan"
@@ -29,13 +29,13 @@ other = "Alamat Email"
 other = "Pesen"
 
 [emailRequiredNote]
-other = "Alamat email wajib diisi."
+other = "Alamat email dibutuhake."
 
 [send]
 other = "Kirim"
 
 [editPage]
-other = "Apiki kaca iki ing GitHub"
+other = "Ndandani kaca iki ing GitHub"
 
 [since]
 other = "Wiwit"
@@ -44,8 +44,8 @@ other = "Wiwit"
 other = "Ing ngisor iki ana kaca-kaca sing nggunakake istilah taksonomi '{{ .Title }}'"
 
 [readingTime]
-one = "Wacan sakmenit"
-other = "Wacan {{ .Count }} menit"
+one = "Sak menit waosan"
+other = "{{ .Count }} menit waosan"
 
 [wordCount]
 one = "Sak tembung"
@@ -55,15 +55,25 @@ other = "{{ .Count }} tembung"
 other = "Kaca {{ .Name }}"
 
 [current_lang]
-other = "Saiki"
+other = "Aktif"
 
 [open_gdoc]
-other = "📄 Bukak manual ing Google Docs"
+other = "📄 Bukak pandhuan ing Google Docs"
+
 [site_hub_title]
 other = "Pusat 101 Basa"
 
 [hero_welcome]
-other = "Sugeng rawuh ing Pusat Penerbitan 101 Basa Kanthi Bantuan AI!"
+other = "Sugeng rawuh ing Pusat Publikasi Semi-AI 101 Basa!"
 
 [hero_subtitle]
-other = "Kecerdasan Buatan mbiyantu ngatasi alangan basa!"
+other = "Kacerdasan Artifisial mbiyantu ngatasi alangan basa!"
+
+[embedded_gdoc_title]
+other = "Dokumen Google Docs sing Ditanem"
+
+[toggle_embed_hint]
+other = "klik kanggo nglempit/mbentang"
+
+[open_gdoc_external]
+other = "Buka ing jendhela anyar"

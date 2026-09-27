@@ -2,10 +2,10 @@
 other = "وڌيڪ"
 
 [allTitle]
-other = "سڀ {{ .Title }}"
+other = "سڀئي {{ .Title }}"
 
 [recentTitle]
-other = "تازو {{ .Title }}"
+other = "تازا {{ .Title }}"
 
 [readMore]
 other = "وڌيڪ پڙهو"
@@ -14,7 +14,7 @@ other = "وڌيڪ پڙهو"
 other = "پاران"
 
 [whatsInThis]
-other = "هن {{ .Type }} ۾ ڇا آهي؟"
+other = "هن {{ .Type }} ۾ ڇا آهي"
 
 [related]
 other = "لاڳاپيل"
@@ -35,13 +35,13 @@ other = "هڪ اي ميل پتو گهربل آهي."
 other = "موڪليو"
 
 [editPage]
-other = "گٽ هب تي هن صفحي کي بهتر ڪريو"
+other = "گٽ هب تي هن صفحي کي بهتر بڻايو"
 
 [since]
-other = "کان"
+other = "کان وٺي"
 
 [taxonomyPageList]
-other = "هيٺ توهان کي اهي صفحا ملندا جيڪي '{{ .Title }}' جي ٽيڪسونومي اصطلاح کي استعمال ڪن ٿا."
+other = "هيٺ توهان کي اهي صفحا ملندا جيڪي ٽيڪسونومي اصطلاح '{{ .Title }}' استعمال ڪن ٿا"
 
 [readingTime]
 one = "هڪ منٽ پڙهڻ"
@@ -58,12 +58,22 @@ other = "{{ .Name }} صفحو"
 other = "موجوده"
 
 [open_gdoc]
-other = "📄 گوگل ڊاڪس ۾ مينوئل کوليو"
+other = "📄 گوگل ڊاڪس ۾ رهنمائي کوليو"
+
 [site_hub_title]
-other = "101 ٻولين جو مرڪز"
+other = "101 ٻوليون مرڪز"
 
 [hero_welcome]
-other = "101 ٻولين جي نيم-اي آءِ اشاعتي مرڪز ۾ ڀليڪار!"
+other = "101-ٻولي جي اڌ-مصنوعي ذهانت پبلشنگ مرڪز ۾ ڀليڪار!"
 
 [hero_subtitle]
-other = "مصنوعي ذهانت ٻولين جون رنڊڪون ٽوڙڻ ۾ مدد ڪري ٿي!"
+other = "مصنوعي ذهانت ٻوليءَ جي رڪاوٽن کي ٽوڙڻ ۾ مدد ڪري ٿي!"
+
+[embedded_gdoc_title]
+other = "شامل ڪيل گوگل ڊاڪس دستاويز"
+
+[toggle_embed_hint]
+other = "کولڻ/بند ڪرڻ لاءِ ڪلڪ ڪريو"
+
+[open_gdoc_external]
+other = "نئين ونڊو ۾ کوليو"

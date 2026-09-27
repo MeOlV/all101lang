@@ -2,10 +2,10 @@
 other = "ច្រើនទៀត"
 
 [allTitle]
-other = "ទាំងអស់{{ .Title }}"
+other = "{{ .Title }} ទាំងអស់"
 
 [recentTitle]
-other = "ថ្មីៗ{{ .Title }}"
+other = "{{ .Title }} ថ្មីៗ"
 
 [readMore]
 other = "អានបន្ថែម"
@@ -14,7 +14,7 @@ other = "អានបន្ថែម"
 other = "ដោយ"
 
 [whatsInThis]
-other = "អ្វីដែលមាននៅក្នុង{{ .Type }}នេះ?"
+other = "មានអ្វីខ្លះនៅក្នុង {{ .Type }} នេះ?"
 
 [related]
 other = "ពាក់ព័ន្ធ"
@@ -38,32 +38,42 @@ other = "ផ្ញើ"
 other = "កែលម្អទំព័រនេះនៅលើ GitHub"
 
 [since]
-other = "ចាប់តាំងពី"
+other = "តាំងពី"
 
 [taxonomyPageList]
-other = "ខាងក្រោមនេះ អ្នកនឹងឃើញទំព័រដែលប្រើពាក្យ taxonomy '{{ .Title }}'"
+other = "ខាងក្រោមនេះ អ្នកនឹងឃើញទំព័រដែលប្រើប្រាស់ពាក្យចំណាត់ថ្នាក់ '{{ .Title }}'"
 
 [readingTime]
 one = "អានមួយនាទី"
-other = "អានរយៈពេល {{ .Count }} នាទី"
+other = "អាន {{ .Count }} នាទី"
 
 [wordCount]
 one = "មួយពាក្យ"
 other = "{{ .Count }} ពាក្យ"
 
 [pageTitle]
-other = "{{ .Name }} ទំព័រ"
+other = "ទំព័រ {{ .Name }}"
 
 [current_lang]
 other = "បច្ចុប្បន្ន"
 
 [open_gdoc]
 other = "📄 បើកសៀវភៅណែនាំក្នុង Google Docs"
+
 [site_hub_title]
-other = "មជ្ឈមណ្ឌល ១០១ ភាសា"
+other = "មជ្ឈមណ្ឌល 101 ភាសា"
 
 [hero_welcome]
-other = "សូមស្វាគមន៍មកកាន់មជ្ឈមណ្ឌលបោះពុម្ពជំនួយដោយ AI សម្រាប់ ១០១ ភាសា!"
+other = "សូមស្វាគមន៍មកកាន់មជ្ឈមណ្ឌលបោះពុម្ពផ្សាយពាក់កណ្តាល AI 101 ភាសា!"
 
 [hero_subtitle]
-other = "បញ្ញាសិប្បនិម្មិតជួយបំបាត់របាំងភាសា!"
+other = "បញ្ញាសិប្បនិម្មិតជួយបំបែករបាំងភាសា!"
+
+[embedded_gdoc_title]
+other = "ឯកសារ Google Docs បញ្ចូល"
+
+[toggle_embed_hint]
+other = "ចុចដើម្បីបង្រួម/ពង្រីក"
+
+[open_gdoc_external]
+other = "បើកក្នុងបង្អួចថ្មី"

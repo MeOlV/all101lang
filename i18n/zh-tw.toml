@@ -5,7 +5,7 @@ other = "更多"
 other = "所有 {{ .Title }}"
 
 [recentTitle]
-other = "近期 {{ .Title }}"
+other = "最新 {{ .Title }}"
 
 [readMore]
 other = "閱讀更多"
@@ -14,10 +14,10 @@ other = "閱讀更多"
 other = "作者"
 
 [whatsInThis]
-other = "此 {{ .Type }} 中的內容"
+other = "此 {{ .Type }} 中有什麼內容"
 
 [related]
-other = "相關文章"
+other = "相關"
 
 [yourName]
 other = "您的姓名"
@@ -29,7 +29,7 @@ other = "電子郵件地址"
 other = "訊息"
 
 [emailRequiredNote]
-other = "需要提供電子郵件地址。"
+other = "電子郵件地址為必填項。"
 
 [send]
 other = "傳送"
@@ -41,7 +41,7 @@ other = "在 GitHub 上改進此頁面"
 other = "自"
 
 [taxonomyPageList]
-other = "下方您將找到使用分類術語「{{ .Title }}」的頁面"
+other = "您將在下方找到使用分類術語 '{{ .Title }}' 的頁面"
 
 [readingTime]
 one = "閱讀一分鐘"
@@ -58,12 +58,22 @@ other = "{{ .Name }} 頁面"
 other = "目前"
 
 [open_gdoc]
-other = "📄 在 Google Docs 中開啟手冊"
+other = "📄 在 Google 文件中開啟手冊"
+
 [site_hub_title]
-other = "101 語言樞紐"
+other = "101 語言中心"
 
 [hero_welcome]
-other = "歡迎來到 101 語言 AI 輔助出版平台！"
+other = "歡迎來到 101 語言半 AI 發佈中心！"
 
 [hero_subtitle]
-other = "人工智慧幫助打破語言障礙！"
+other = "人工智慧助力打破語言隔閡！"
+
+[embedded_gdoc_title]
+other = "嵌入的 Google 文件"
+
+[toggle_embed_hint]
+other = "點擊展開/收合"
+
+[open_gdoc_external]
+other = "在新視窗中開啟"

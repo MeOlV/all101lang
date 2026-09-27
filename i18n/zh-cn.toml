@@ -5,7 +5,7 @@ other = "更多"
 other = "所有 {{ .Title }}"
 
 [recentTitle]
-other = "最新 {{ .Title }}"
+other = "近期 {{ .Title }}"
 
 [readMore]
 other = "阅读更多"
@@ -14,7 +14,7 @@ other = "阅读更多"
 other = "作者"
 
 [whatsInThis]
-other = "此 {{ .Type }} 中包含什么？"
+other = "此 {{ .Type }} 中包含什么"
 
 [related]
 other = "相关"
@@ -26,7 +26,7 @@ other = "您的姓名"
 other = "电子邮件地址"
 
 [message]
-other = "消息"
+other = "留言"
 
 [emailRequiredNote]
 other = "电子邮件地址为必填项。"
@@ -41,7 +41,7 @@ other = "在 GitHub 上改进此页面"
 other = "自"
 
 [taxonomyPageList]
-other = "下面是使用分类术语'{{ .Title }}'的页面。"
+other = "您将在下方找到使用分类术语“{{ .Title }}”的页面"
 
 [readingTime]
 one = "一分钟阅读"
@@ -58,12 +58,22 @@ other = "{{ .Name }} 页面"
 other = "当前"
 
 [open_gdoc]
-other = "📄 在 Google 文档中打开手册"
+other = "📄 在 Google 文档中打开指南"
+
 [site_hub_title]
-other = "101语言枢纽"
+other = "101 语言中心"
 
 [hero_welcome]
-other = "欢迎来到101种语言的AI辅助出版枢纽！"
+other = "欢迎来到 101 语言半人工智能出版中心！"
 
 [hero_subtitle]
-other = "人工智能帮助打破语言障碍！"
+other = "人工智能助力打破语言障碍！"
+
+[embedded_gdoc_title]
+other = "嵌入式 Google 文档"
+
+[toggle_embed_hint]
+other = "点击展开/折叠"
+
+[open_gdoc_external]
+other = "在新窗口中打开"

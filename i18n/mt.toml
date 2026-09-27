@@ -2,7 +2,7 @@
 other = "Aktar"
 
 [allTitle]
-other = "Kollha {{ .Title }}"
+other = "Il-{{ .Title }} Kollha"
 
 [recentTitle]
 other = "Riċenti {{ .Title }}"
@@ -14,13 +14,13 @@ other = "Aqra aktar"
 other = "Minn"
 
 [whatsInThis]
-other = "X'hemm f'dan {{ .Type }}"
+other = "X'hemm f'dan il-{{ .Type }}"
 
 [related]
 other = "Relatati"
 
 [yourName]
-other = "Ismek"
+other = "Isem tiegħek"
 
 [emailAddress]
 other = "Indirizz tal-Email"
@@ -29,13 +29,13 @@ other = "Indirizz tal-Email"
 other = "Messaġġ"
 
 [emailRequiredNote]
-other = "Indirizz tal-email huwa meħtieġ."
+other = "Huwa meħtieġ indirizz tal-email."
 
 [send]
 other = "Ibgħat"
 
 [editPage]
-other = "Ttejjeb din il-paġna fuq GitHub"
+other = "Żviluppa din il-paġna fuq GitHub"
 
 [since]
 other = "Minn"
@@ -44,12 +44,12 @@ other = "Minn"
 other = "Hawn taħt issib paġni li jużaw it-terminu tat-tassonomija '{{ .Title }}'"
 
 [readingTime]
-one = "Minuta qari"
-other = "{{ .Count }} minuti qari"
+one = "Qari ta' minuta"
+other = "Qari ta' {{ .Count }} minuti"
 
 [wordCount]
 one = "Kelma waħda"
-other = "{{ .Count }} kliem"
+other = "{{ .Count }} kelmiet"
 
 [pageTitle]
 other = "Paġna ta' {{ .Name }}"
@@ -59,11 +59,21 @@ other = "Kurrenti"
 
 [open_gdoc]
 other = "📄 Iftaħ il-manwal f'Google Docs"
+
 [site_hub_title]
-other = "Ċentru tal-Lingwi 101"
+other = "Hub tal-101 Lingwa"
 
 [hero_welcome]
-other = "Merħba fiċ-Ċentru tal-Pubblikazzjoni assistit mill-AI b'101 Lingwa!"
+other = "Merħba fil-Hub tal-Pubblikazzjoni Semi-AI ta' 101 Lingwa!"
 
 [hero_subtitle]
-other = "L-Intelliġenza Artifiċjali tgħin tkisser il-barrieri lingwistiċi!"
+other = "L-Intelliġenza Artifiċjali tgħin biex tkisser il-barrieri lingwistiċi!"
+
+[embedded_gdoc_title]
+other = "Dokument ta' Google Docs inkorporat"
+
+[toggle_embed_hint]
+other = "ikklikkja biex tiġbed/tiftaħ"
+
+[open_gdoc_external]
+other = "Iftaħ f'tieqa ġdida"

@@ -14,13 +14,13 @@ other = "Lees meer"
 other = "Door"
 
 [whatsInThis]
-other = "Wat staat er in dit {{ .Type }}"
+other = "Wat staat er in deze {{ .Type }}"
 
 [related]
 other = "Gerelateerd"
 
 [yourName]
-other = "Jouw naam"
+other = "Je naam"
 
 [emailAddress]
 other = "E-mailadres"
@@ -32,16 +32,16 @@ other = "Bericht"
 other = "Een e-mailadres is verplicht."
 
 [send]
-other = "Verzenden"
+other = "Versturen"
 
 [editPage]
-other = "Verbeter deze pagina op GitHub"
+other = "Deze pagina verbeteren op GitHub"
 
 [since]
 other = "Sinds"
 
 [taxonomyPageList]
-other = "Hieronder vind je pagina's die gebruikmaken van de taxonomie term '{{ .Title }}'"
+other = "Hieronder vindt u pagina's die de taxonomie term '{{ .Title }}' gebruiken"
 
 [readingTime]
 one = "Eén minuut leestijd"
@@ -58,12 +58,22 @@ other = "{{ .Name }} pagina"
 other = "Huidig"
 
 [open_gdoc]
-other = "📄 Open handleiding in Google Docs"
+other = "📄 Handleiding openen in Google Docs"
+
 [site_hub_title]
-other = "101 Talenportaal"
+other = "101 Talen Hub"
 
 [hero_welcome]
-other = "Welkom bij het 101-talige AI-ondersteunde Publicatieportaal!"
+other = "Welkom bij de 101-Talen Semi-AI Publicatie Hub!"
 
 [hero_subtitle]
-other = "Kunstmatige intelligentie helpt taalbarrières doorbreken!"
+other = "Kunstmatige Intelligentie helpt taalbarrières te doorbreken!"
+
+[embedded_gdoc_title]
+other = "Ingebed Google Docs document"
+
+[toggle_embed_hint]
+other = "klik om in/uit te klappen"
+
+[open_gdoc_external]
+other = "Openen in een nieuw venster"

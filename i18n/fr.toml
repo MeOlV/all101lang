@@ -14,10 +14,10 @@ other = "Lire la suite"
 other = "Par"
 
 [whatsInThis]
-other = "Que contient ce {{ .Type }}"
+other = "Contenu de ce {{ .Type }}"
 
 [related]
-other = "Articles similaires"
+other = "Associés"
 
 [yourName]
 other = "Votre nom"
@@ -41,7 +41,7 @@ other = "Améliorer cette page sur GitHub"
 other = "Depuis"
 
 [taxonomyPageList]
-other = "Vous trouverez ci-dessous les pages utilisant le terme de taxonomie ' {{ .Title }} '"
+other = "Ci-dessous, vous trouverez les pages utilisant le terme de taxonomie '{{ .Title }}'"
 
 [readingTime]
 one = "Une minute de lecture"
@@ -52,18 +52,28 @@ one = "Un mot"
 other = "{{ .Count }} mots"
 
 [pageTitle]
-other = "Page {{ .Name }}"
+other = "Page de {{ .Name }}"
 
 [current_lang]
-other = "Actuel"
+other = "Actuelle"
 
 [open_gdoc]
 other = "📄 Ouvrir le manuel dans Google Docs"
+
 [site_hub_title]
-other = "Plateforme 101 Langues"
+other = "Hub des 101 Langues"
 
 [hero_welcome]
-other = "Bienvenue sur la Plateforme de publication en 101 langues assistée par l'IA !"
+other = "Bienvenue sur le Hub de Publication Semi-IA en 101 Langues !"
 
 [hero_subtitle]
-other = "L'Intelligence Artificielle aide à briser les barrières linguistiques !"
+other = "L'intelligence artificielle aide à briser les barrières linguistiques !"
+
+[embedded_gdoc_title]
+other = "Document Google Docs intégré"
+
+[toggle_embed_hint]
+other = "cliquer pour réduire/développer"
+
+[open_gdoc_external]
+other = "Ouvrir dans une nouvelle fenêtre"

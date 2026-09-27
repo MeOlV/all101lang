@@ -2,10 +2,10 @@
 other = "Plura"
 
 [allTitle]
-other = "Omnia {{ .Title }}"
+other = "Omnes {{ .Title }}"
 
 [recentTitle]
-other = "Recentia {{ .Title }}"
+other = "Recentes {{ .Title }}"
 
 [readMore]
 other = "Lege plura"
@@ -14,19 +14,19 @@ other = "Lege plura"
 other = "Ab"
 
 [whatsInThis]
-other = "Quid est in hoc {{ .Type }}?"
+other = "Quid in hoc {{ .Type }} inest?"
 
 [related]
 other = "Coniuncta"
 
 [yourName]
-other = "Nomen tuum"
+other = "Nomen Tuum"
 
 [emailAddress]
-other = "Inscriptio electronica"
+other = "Inscriptio Electronica"
 
 [message]
-other = "Mandatum"
+other = "Nuntius"
 
 [emailRequiredNote]
 other = "Inscriptio electronica necessaria est."
@@ -35,17 +35,17 @@ other = "Inscriptio electronica necessaria est."
 other = "Mitte"
 
 [editPage]
-other = "Hanc paginam in GitHub emenda"
+other = "Corrige hanc paginam in GitHub"
 
 [since]
-other = "Ex"
+other = "Ab"
 
 [taxonomyPageList]
-other = "Infra paginas invenies quae termino taxinomico '{{ .Title }}' utuntur."
+other = "Infra invenies paginas quae termino taxinomico '{{ .Title }}' utuntur"
 
 [readingTime]
-one = "Lectio unius minutae"
-other = "Lectio {{ .Count }} minutarum"
+one = "Lectio unius minuti"
+other = "Lectio {{ .Count }} minutorum"
 
 [wordCount]
 one = "Unum verbum"
@@ -58,12 +58,22 @@ other = "Pagina {{ .Name }}"
 other = "Praesens"
 
 [open_gdoc]
-other = "📄 Manuale in Google Docs aperi"
+other = "📄 Aperi manuale in Google Docs"
+
 [site_hub_title]
-other = "Centrum Centum Unius Linguarum"
+other = "Centrum 101 Linguarum"
 
 [hero_welcome]
-other = "Beneventum in Centrum Editorium Centum Unius Linguarum Intelligentia Artificiali Adiūtum!"
+other = "Gratum ad Centrum Editionis Semiae Artificialis Intelligentiae 101 Linguarum!"
 
 [hero_subtitle]
-other = "Intelligentia Artificialis adiuvat obstācula linguārum frangere!"
+other = "Intelligentia Artificialis adiuvat obstacula linguistica frangere!"
+
+[embedded_gdoc_title]
+other = "Documentum Google Docs inclusum"
+
+[toggle_embed_hint]
+other = "Preme ut contrahas vel expandas"
+
+[open_gdoc_external]
+other = "Aperi in nova fenestra"

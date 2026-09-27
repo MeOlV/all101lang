@@ -8,7 +8,7 @@ other = "Ngā {{ .Title }} katoa"
 other = "Ngā {{ .Title }} hou"
 
 [readMore]
-other = "Pānuihia anō"
+other = "Pānuitia anō"
 
 [by]
 other = "Nā"
@@ -20,7 +20,7 @@ other = "He aha kei roto i tēnei {{ .Type }}"
 other = "E pā ana"
 
 [yourName]
-other = "Tō Ingoa"
+other = "Tōu Ingoa"
 
 [emailAddress]
 other = "Wāhitau Īmēra"
@@ -32,7 +32,7 @@ other = "Karere"
 other = "Me whai wāhitau īmēra."
 
 [send]
-other = "Tukuna"
+other = "Tukua"
 
 [editPage]
 other = "Whakapai ake i tēnei whārangi ki GitHub"
@@ -44,26 +44,36 @@ other = "Mai i"
 other = "Kei raro nei ngā whārangi e whakamahi ana i te kupu whakarōpū '{{ .Title }}'"
 
 [readingTime]
-one = "He meneti kotahi te pānui"
-other = "He {{ .Count }} meneti te pānui"
+one = "Kotahi meneti te pānui"
+other = "{{ .Count }} meneti te pānui"
 
 [wordCount]
-one = "He kupu kotahi"
-other = "He {{ .Count }} kupu"
+one = "Kotahi kupu"
+other = "{{ .Count }} kupu"
 
 [pageTitle]
-other = "Te whārangi o {{ .Name }}"
+other = "Whārangi {{ .Name }}"
 
 [current_lang]
 other = "O nāianei"
 
 [open_gdoc]
-other = "📄 Whakatuwherahia te pukapuka i roto i te Google Docs"
+other = "📄 Huakina te pukapuka tohutohu i Google Docs"
+
 [site_hub_title]
-other = "Te Pokapū Reo 101"
+other = "Te Pūtahi Reo 101"
 
 [hero_welcome]
-other = "Nau mai ki te Pokapū Whakaputa Reo 101 Mātauranga Hangarau-āwhina!"
+other = "Nau mai ki te Pūtahi Whakaputa Reo 101-Hāwhe-AI!"
 
 [hero_subtitle]
-other = "Ka āwhina te Mātauranga Hangarau ki te whakakore i ngā aukati reo!"
+other = "Ka āwhina te Mātauranga Hangarau ki te wawahi i ngā ārai reo!"
+
+[embedded_gdoc_title]
+other = "Tuhinga Google Docs Kua Whakauru"
+
+[toggle_embed_hint]
+other = "pāwhiritia hei kōpeke/whakaroha"
+
+[open_gdoc_external]
+other = "Huakina ki tētahi matapihi hou"

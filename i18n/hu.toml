@@ -14,13 +14,13 @@ other = "Tovább olvasom"
 other = "Szerző:"
 
 [whatsInThis]
-other = "Mi van ebben a(z) {{ .Type }}-ban?"
+other = "Mi található ebben a(z) {{ .Type }} típusban?"
 
 [related]
 other = "Kapcsolódó"
 
 [yourName]
-other = "Neved"
+other = "Az Ön neve"
 
 [emailAddress]
 other = "E-mail cím"
@@ -35,10 +35,10 @@ other = "E-mail cím megadása kötelező."
 other = "Küldés"
 
 [editPage]
-other = "Javítsd ezt az oldalt GitHubon"
+other = "A lap fejlesztése a GitHubon"
 
 [since]
-other = "Óta"
+other = "Dátum"
 
 [taxonomyPageList]
 other = "Alább találja azokat az oldalakat, amelyek a(z) '{{ .Title }}' taxonómiai kifejezést használják"
@@ -55,15 +55,25 @@ other = "{{ .Count }} szó"
 other = "{{ .Name }} oldal"
 
 [current_lang]
-other = "Jelenlegi"
+other = "Aktuális"
 
 [open_gdoc]
-other = "📄 Kézikönyv megnyitása Google Docsban"
+other = "📄 Útmutató megnyitása Google Docsban"
+
 [site_hub_title]
-other = "101 Nyelvi Központ"
+other = "101 Nyelv Központ"
 
 [hero_welcome]
-other = "Üdvözöljük a 101 nyelvű MI-támogatott Kiadói Központban!"
+other = "Üdvözöljük a 101 nyelvet támogató, félig mesterséges intelligencia alapú kiadói központban!"
 
 [hero_subtitle]
-other = "A Mesterséges Intelligencia segít lebontani a nyelvi korlátokat!"
+other = "A mesterséges intelligencia segít lebontani a nyelvi akadályokat!"
+
+[embedded_gdoc_title]
+other = "Beágyazott Google Docs dokumentum"
+
+[toggle_embed_hint]
+other = "kattintson az összecsukáshoz/lenyitáshoz"
+
+[open_gdoc_external]
+other = "Megnyitás új ablakban"

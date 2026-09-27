@@ -1,20 +1,20 @@
 [more]
-other = "Dheeraad"
+other = "Ka badan"
 
 [allTitle]
 other = "Dhammaan {{ .Title }}"
 
 [recentTitle]
-other = "Kuwa ugu dambeeyay {{ .Title }}"
+other = "Kuwii ugu dambeeyay {{ .Title }}"
 
 [readMore]
-other = "Akhri dheeraad ah"
+other = "Akhri wax badan"
 
 [by]
-other = "Waxaa qoray"
+other = "Qore"
 
 [whatsInThis]
-other = "Waa maxay waxa ku jira {{ .Type }}kan"
+other = "Maxaa ku jira {{ .Type }} kan?"
 
 [related]
 other = "La xiriira"
@@ -26,30 +26,30 @@ other = "Magacaaga"
 other = "Cinwaanka Emailka"
 
 [message]
-other = "Fariin"
+other = "Farriin"
 
 [emailRequiredNote]
-other = "Cinwaan email ayaa loo baahan yahay."
+other = "Cinwaanka emailka ayaa loo baahan yahay."
 
 [send]
 other = "Dir"
 
 [editPage]
-other = "Hagaaji boggan GitHub-ka"
+other = "Boggan ku hagaaji GitHub"
 
 [since]
 other = "Tan iyo"
 
 [taxonomyPageList]
-other = "Hoos waxaad ka heli doontaa bogag isticmaala ereyga taksoonamiga ah '{{ .Title }}'"
+other = "Hoos waxaad ka heli doontaa bogag isticmaalaya ereyga qaybta '{{ .Title }}'"
 
 [readingTime]
 one = "Hal daqiiqo oo akhris ah"
 other = "{{ .Count }} daqiiqo oo akhris ah"
 
 [wordCount]
-one = "Hal eray"
-other = "{{ .Count }} eray"
+one = "Hal erey"
+other = "{{ .Count }} erey"
 
 [pageTitle]
 other = "Bogga {{ .Name }}"
@@ -58,12 +58,22 @@ other = "Bogga {{ .Name }}"
 other = "Hadda"
 
 [open_gdoc]
-other = "📄 Fur buug-tilmaameedka Google Docs-ka"
+other = "📄 Fur tilmaamaha Google Docs"
+
 [site_hub_title]
-other = "Središče 101 jezikov"
+other = "Xarunta 101 Luuqadood"
 
 [hero_welcome]
-other = "Dobrodošli v 101-jezičnem, z umetno inteligenco podprtem založniškem središču!"
+other = "Ku soo dhowow Xarunta Daabacaadda Nus-AI ee 101-Luuqadood!"
 
 [hero_subtitle]
-other = "Umetna inteligenca pomaga premagati jezikovne ovire!"
+other = "Sirdoonka Macmalka ah ayaa ka caawiya jebinta caqabadaha luuqadaha!"
+
+[embedded_gdoc_title]
+other = "Dukumentiga Google Docs ee la dhex-geliyay"
+
+[toggle_embed_hint]
+other = "guuji si aad u laabto/u ballaariso"
+
+[open_gdoc_external]
+other = "Ka fur daaqad cusub"

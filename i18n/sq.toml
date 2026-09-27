@@ -5,7 +5,7 @@ other = "Më shumë"
 other = "Të gjitha {{ .Title }}"
 
 [recentTitle]
-other = "Më të fundit {{ .Title }}"
+other = "Të fundit {{ .Title }}"
 
 [readMore]
 other = "Lexo më shumë"
@@ -14,7 +14,7 @@ other = "Lexo më shumë"
 other = "Nga"
 
 [whatsInThis]
-other = "Çfarë ka në këtë {{ .Type }}"
+other = "Çfarë përmban ky/kjo {{ .Type }}"
 
 [related]
 other = "Të ngjashme"
@@ -26,10 +26,10 @@ other = "Emri juaj"
 other = "Adresa e emailit"
 
 [message]
-other = "Mesazhi"
+other = "Mesazh"
 
 [emailRequiredNote]
-other = "Kërkohet një adresë emaili."
+other = "Adresa e emailit është e detyrueshme."
 
 [send]
 other = "Dërgo"
@@ -41,11 +41,11 @@ other = "Përmirëso këtë faqe në GitHub"
 other = "Që nga"
 
 [taxonomyPageList]
-other = "Më poshtë do të gjeni faqe që përdorin termin e taksonomisë '{{ .Title }}'"
+other = "Më poshtë do të gjeni faqe që përdorin termin taksonomik '{{ .Title }}'"
 
 [readingTime]
-one = "Një minutë lexim"
-other = "{{ .Count }} minuta lexim"
+one = "Lexim njëminutësh"
+other = "Lexim për {{ .Count }} minuta"
 
 [wordCount]
 one = "Një fjalë"
@@ -58,12 +58,22 @@ other = "Faqja {{ .Name }}"
 other = "Aktuale"
 
 [open_gdoc]
-other = "📄 Hap manualin në Google Docs"
+other = "📄 Hapni udhëzuesin në Google Docs"
+
 [site_hub_title]
-other = "Qendra e 101 Gjuhëve"
+other = "Qendra 101 Gjuhësh"
 
 [hero_welcome]
-other = "Mirësevini në Qendrën e Botimit 101-Gjuhësh me Ndihmën e AI!"
+other = "Mirë se vini në Qendrën Botuese Gjysmë-AI të 101 Gjuhëve!"
 
 [hero_subtitle]
-other = "Inteligjenca Artificiale ndihmon në kapërcimin e barrierave gjuhësore!"
+other = "Inteligjenca Artificiale ndihmon në thyerjen e barrierave gjuhësore!"
+
+[embedded_gdoc_title]
+other = "Dokumenti i integruar i Google Docs"
+
+[toggle_embed_hint]
+other = "klikoni për të palosur/shpërhapur"
+
+[open_gdoc_external]
+other = "Hap në një dritare të re"

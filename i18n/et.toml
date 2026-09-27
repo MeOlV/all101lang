@@ -5,7 +5,7 @@ other = "Rohkem"
 other = "Kõik {{ .Title }}"
 
 [recentTitle]
-other = "Hiljutised {{ .Title }}"
+other = "Viimased {{ .Title }}"
 
 [readMore]
 other = "Loe edasi"
@@ -14,7 +14,7 @@ other = "Loe edasi"
 other = "Autor"
 
 [whatsInThis]
-other = "Mida see {{ .Type }} sisaldab?"
+other = "Mis on selles {{ .Type }}"
 
 [related]
 other = "Seotud"
@@ -29,19 +29,19 @@ other = "E-posti aadress"
 other = "Sõnum"
 
 [emailRequiredNote]
-other = "E-posti aadress on vajalik."
+other = "E-posti aadress on nõutav."
 
 [send]
 other = "Saada"
 
 [editPage]
-other = "Täienda seda lehte GitHubis"
+other = "Täiusta seda lehte GitHubis"
 
 [since]
 other = "Alates"
 
 [taxonomyPageList]
-other = "Allpool leiate lehed, mis kasutavad taksonoomia terminit '{{ .Title }}"
+other = "Allpool leiate lehed, mis kasutavad taksonoomia terminit '{{ .Title }}'"
 
 [readingTime]
 one = "Ühe minuti lugemine"
@@ -59,11 +59,21 @@ other = "Praegune"
 
 [open_gdoc]
 other = "📄 Ava juhend Google Docsis"
+
 [site_hub_title]
-other = "101 keelte keskus"
+other = "101 Keelte Keskus"
 
 [hero_welcome]
-other = "Tere tulemast 101 keele tehisintellekti toega kirjastuskeskusesse!"
+other = "Tere tulemast 101-keele pool-AI avaldamise keskusesse!"
 
 [hero_subtitle]
 other = "Tehisintellekt aitab murda keelebarjääre!"
+
+[embedded_gdoc_title]
+other = "Manustatud Google Docs dokument"
+
+[toggle_embed_hint]
+other = "klõpsa ahendamiseks/laiendamiseks"
+
+[open_gdoc_external]
+other = "Ava uues aknas"

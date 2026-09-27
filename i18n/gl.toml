@@ -29,7 +29,7 @@ other = "Enderezo de correo electrónico"
 other = "Mensaxe"
 
 [emailRequiredNote]
-other = "Requírese un enderezo de correo electrónico."
+other = "Precísase un enderezo de correo electrónico."
 
 [send]
 other = "Enviar"
@@ -59,11 +59,21 @@ other = "Actual"
 
 [open_gdoc]
 other = "📄 Abrir manual en Google Docs"
+
 [site_hub_title]
-other = "Centro de 101 Idiomas"
+other = "Centro de 101 Linguas"
 
 [hero_welcome]
-other = "Benvidos/as ao Centro de Publicación con Asistencia de IA de 101 Idiomas!"
+other = "Benvido/a ao Centro de Publicación Semi-IA de 101 Linguas!"
 
 [hero_subtitle]
-other = "A Intelixencia Artificial axuda a romper as barreiras lingüísticas!"
+other = "A intelixencia artificial axuda a romper as barreiras lingüísticas!"
+
+[embedded_gdoc_title]
+other = "Documento de Google Docs incrustado"
+
+[toggle_embed_hint]
+other = "faga clic para contraer/expandir"
+
+[open_gdoc_external]
+other = "Abrir nunha nova xanela"

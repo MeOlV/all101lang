@@ -1,70 +1,79 @@
 [more]
-other = "अधिकम्"
+other = "Zvimwe"
 
 [allTitle]
-other = "सर्वाणि {{ .Title }}"
+other = "Zvese {{ .Title }}"
 
 [recentTitle]
-other = "नूतनानि {{ .Title }}"
+other = "{{ .Title }} dzichangobva kuitika"
 
 [readMore]
-other = "अधिकं पठन्तु"
+other = "Verenga zvimwe"
 
 [by]
-other = "द्वारा"
+other = "Na"
 
 [whatsInThis]
-other = "एतस्मिन् {{ .Type }} मध्ये किम् अस्ति?"
+other = "Chii chiri mu{{ .Type }} iyi?"
 
 [related]
-other = "सम्बन्धितम्"
+other = "Zvinhu zvine hukama"
 
 [yourName]
-other = "भवतः नाम"
+other = "Zita rako"
 
 [emailAddress]
-other = "ईमेल-पता"
+other = "Kero yeEmail"
 
 [message]
-other = "सन्देशः"
+other = "Meseji"
 
 [emailRequiredNote]
-other = "ईमेल-पता अनिवार्यम् अस्ति।"
+other = "Kero yeemail inodiwa."
 
 [send]
-other = "प्रेषयन्तु"
+other = "Tumira"
 
 [editPage]
-other = "गिट्हब्-मध्ये एतत् पृष्ठं सुधारयन्तु"
+other = "Gadziridza peji rino paGitHub"
 
 [since]
-other = "आरभ्य"
+other = "Kubva"
 
 [taxonomyPageList]
-other = "अधः भवन्तः '{{ .Title }}' इति वर्गीकरण-पदेन उपयुक्तानि पृष्ठानि प्राप्स्यन्ति।"
+other = "Pazasi muchawana mapeji anoshandisa izwi remaitiro '{{ .Title }}'"
 
 [readingTime]
-one = "एक-निमेष-पठनम्"
-other = "{{ .Count }} निमेषाणां पठनम्"
+one = "Kuverenga kweminiti imwe"
+other = "Kuverenga kwemaminitsi {{ .Count }}"
 
 [wordCount]
-one = "एकं पदम्"
-other = "{{ .Count }} पदानि"
+one = "Izwi rimwe"
+other = "Mazwi {{ .Count }}"
 
 [pageTitle]
-other = "{{ .Name }} पृष्ठम्"
+other = "Peji ra{{ .Name }}"
 
 [current_lang]
-other = "वर्तमानम्"
+other = "Ikozvino"
 
 [open_gdoc]
-other = "📄 गूगल् डॉक्स् मध्ये हस्तपुस्तिकां उद्घाटयन्तु"
+other = "📄 Vhura bhuku remaoko muGoogle Docs"
 
 [site_hub_title]
-other = "භාෂා 101 මධ්‍යස්ථානය"
+other = "Hubhu Yemitauro 101"
 
 [hero_welcome]
-other = "භාෂා 101කින් යුත් කෘතිම බුද්ධි සහාය ලබන ප්‍රකාශන මධ්‍යස්ථානය වෙත සාදරයෙන් පිළිගනිමු!"
+other = "Tikugashirei kuHubhu Yekushambadzira Yemitauro 101 Inobatsirwa neSemi-AI!"
 
 [hero_subtitle]
-other = "කෘතිම බුද්ධිය භාෂා බාධක බිඳ හෙළීමට උපකාරී වේ!"
+other = "Njere Dzekugadzira Dzinobatsira Kutyora Zvipingamupinyi Zvemitauro!"
+
+[embedded_gdoc_title]
+other = "Gwaro reGoogle Docs Rakavharirwa Mukati"
+
+[toggle_embed_hint]
+other = "dzvanya kuti uvharike/uvhurike"
+
+[open_gdoc_external]
+other = "Vhura muwindo idzva"

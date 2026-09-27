@@ -1,69 +1,79 @@
 [more]
-other = "Mai mult"
+other = "Higit pa"
 
 [allTitle]
-other = "Toate {{ .Title }}"
+other = "Lahat ng {{ .Title }}"
 
 [recentTitle]
-other = "Recente {{ .Title }}"
+other = "Kamakailang {{ .Title }}"
 
 [readMore]
-other = "Citește mai mult"
+other = "Basahin pa"
 
 [by]
-other = "De către"
+other = "Ni"
 
 [whatsInThis]
-other = "Ce conține acest {{ .Type }}"
+other = "Ano ang nasa {{ .Type }} na ito"
 
 [related]
-other = "Articole similare"
+other = "Kaugnay"
 
 [yourName]
-other = "Numele tău"
+other = "Iyong Pangalan"
 
 [emailAddress]
-other = "Adresă de email"
+other = "Email Address"
 
 [message]
-other = "Mesaj"
+other = "Mensahe"
 
 [emailRequiredNote]
-other = "Este necesară o adresă de email."
+other = "Kinakailangan ang isang email address."
 
 [send]
-other = "Trimite"
+other = "Ipadala"
 
 [editPage]
-other = "Îmbunătățește această pagină pe GitHub"
+other = "Pagbutihin ang pahinang ito sa GitHub"
 
 [since]
-other = "De la"
+other = "Simula"
 
 [taxonomyPageList]
-other = "Mai jos veți găsi pagini care utilizează termenul de taxonomie '{{ .Title }}"
+other = "Sa ibaba makikita mo ang mga pahina na gumagamit ng termino ng taksonomiya na '{{ .Title }}'"
 
 [readingTime]
-one = "Un minut de lectură"
-other = "{{ .Count }} minute de lectură"
+one = "Isang minutong pagbasa"
+other = "{{ .Count }} minutong pagbasa"
 
 [wordCount]
-one = "Un cuvânt"
-other = "{{ .Count }} cuvinte"
+one = "Isang salita"
+other = "{{ .Count }} salita"
 
 [pageTitle]
-other = "Pagina {{ .Name }}"
+other = "Pahina ng {{ .Name }}"
 
 [current_lang]
-other = "Curentă"
+other = "Kasalukuyan"
 
 [open_gdoc]
-other = "📄 Deschide manualul în Google Docs"
+other = "📄 Buksan ang gabay sa Google Docs"
+
 [site_hub_title]
-other = "Centro de 101 Idiomas"
+other = "Hub ng 101 Wika"
 
 [hero_welcome]
-other = "¡Bienvenido al Centro de Publicación de 101 Idiomas asistido por IA!"
+other = "Maligayang pagdating sa 101-Wika Semi-AI Publishing Hub!"
 
 [hero_subtitle]
-other = "¡La Inteligencia Artificial ayuda a romper las barreras del idioma!"
+other = "Tumutulong ang Artificial Intelligence na sirain ang mga hadlang sa wika!"
+
+[embedded_gdoc_title]
+other = "Naka-embed na dokumento ng Google Docs"
+
+[toggle_embed_hint]
+other = "i-click upang itiklop/palawakin"
+
+[open_gdoc_external]
+other = "Buksan sa bagong window"

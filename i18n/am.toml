@@ -14,22 +14,22 @@ other = "ተጨማሪ ያንብቡ"
 other = "በ"
 
 [whatsInThis]
-other = "በዚህ {{ .Type }} ውስጥ ያለው ምንድን ነው?"
+other = "በዚህ {{ .Type }} ውስጥ ምን አለ?"
 
 [related]
 other = "ተዛማጅ"
 
 [yourName]
-other = "የእርስዎ ስም"
+other = "ስምዎ"
 
 [emailAddress]
-other = "ኢሜል አድራሻ"
+other = "ኢሜይል አድራሻ"
 
 [message]
 other = "መልዕክት"
 
 [emailRequiredNote]
-other = "የኢሜል አድራሻ ያስፈልጋል።"
+other = "ኢሜይል አድራሻ ያስፈልጋል።"
 
 [send]
 other = "ላክ"
@@ -38,10 +38,10 @@ other = "ላክ"
 other = "ይህን ገጽ በ GitHub ላይ ያሻሽሉ"
 
 [since]
-other = "ከ"
+other = "ጀምሮ"
 
 [taxonomyPageList]
-other = "ከታች '{{ .Title }}' የሚለውን የሥርዓተ ምደባ ቃል የሚጠቀሙ ገጾችን ያገኛሉ።"
+other = "ከታች '{{ .Title }}' የሚለውን የታክሶኖሚ ቃል የሚጠቀሙ ገጾችን ያገኛሉ።"
 
 [readingTime]
 one = "አንድ ደቂቃ ንባብ"
@@ -58,12 +58,22 @@ other = "{{ .Name }} ገጽ"
 other = "ወቅታዊ"
 
 [open_gdoc]
-other = "📄 መመሪያውን በGoogle Docs ክፈት"
+other = "📄 መመሪያውን በ Google Docs ይክፈቱ"
+
 [site_hub_title]
-other = "101 Լեզուների Հանգույց"
+other = "101 ቋንቋዎች ማዕከል"
 
 [hero_welcome]
-other = "Բարի գալուստ 101 լեզվի ԱՀ-ի աջակցությամբ հրատարակչական հանգույց:"
+other = "ወደ 101-ቋንቋ ከፊል-አይአይ ማተሚያ ማዕከል እንኳን ደህና መጡ!"
 
 [hero_subtitle]
-other = "Արհեստական ինտելեկտը օգնում է կոտրել լեզվական արգելքները:"
+other = "አርቲፊሻል ኢንተለጀንስ የቋንቋ እንቅፋቶችን ለማስወገድ ይረዳል!"
+
+[embedded_gdoc_title]
+other = "የተካተተ የ Google Docs ሰነድ"
+
+[toggle_embed_hint]
+other = "ለመክፈት/ለመዝጋት ይጫኑ"
+
+[open_gdoc_external]
+other = "በአዲስ መስኮት ይክፈቱ"

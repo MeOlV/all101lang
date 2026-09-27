@@ -5,10 +5,10 @@ other = "Lagi"
 other = "Semua {{ .Title }}"
 
 [recentTitle]
-other = "Terbaru {{ .Title }}"
+other = "Terkini {{ .Title }}"
 
 [readMore]
-other = "Baca selanjutnya"
+other = "Baca lagi"
 
 [by]
 other = "Oleh"
@@ -44,8 +44,8 @@ other = "Sejak"
 other = "Di bawah anda akan dapati halaman yang menggunakan istilah taksonomi '{{ .Title }}'"
 
 [readingTime]
-one = "Satu minit bacaan"
-other = "{{ .Count }} minit bacaan"
+one = "Bacaan satu minit"
+other = "Bacaan {{ .Count }} minit"
 
 [wordCount]
 one = "Satu perkataan"
@@ -58,12 +58,22 @@ other = "Halaman {{ .Name }}"
 other = "Semasa"
 
 [open_gdoc]
-other = "📄 Buka manual dalam Google Docs"
+other = "📄 Buka panduan dalam Google Docs"
+
 [site_hub_title]
-other = "Pusat 101 Bahasa"
+other = "Hab 101 Bahasa"
 
 [hero_welcome]
-other = "Selamat datang ke Pusat Penerbitan 101 Bahasa Berbantukan AI!"
+other = "Selamat datang ke Hab Penerbitan Separa AI 101 Bahasa!"
 
 [hero_subtitle]
-other = "Kecerdasan Buatan membantu memecahkan halangan bahasa!"
+other = "Kecerdasan Buatan membantu meruntuhkan halangan bahasa!"
+
+[embedded_gdoc_title]
+other = "Dokumen Google Docs terbenam"
+
+[toggle_embed_hint]
+other = "klik untuk tutup/buka"
+
+[open_gdoc_external]
+other = "Buka dalam tetingkap baharu"

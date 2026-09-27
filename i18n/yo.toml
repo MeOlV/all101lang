@@ -1,14 +1,14 @@
 [more]
-other = "Púpọ̀ síi"
+other = "Síwájú si"
 
 [allTitle]
 other = "Gbogbo {{ .Title }}"
 
 [recentTitle]
-other = "Àwọn {{ .Title }} àìpẹ́"
+other = "Tuntun {{ .Title }}"
 
 [readMore]
-other = "Kà síwájú"
+other = "Ka siwaju"
 
 [by]
 other = "Láti ọwọ́"
@@ -17,53 +17,63 @@ other = "Láti ọwọ́"
 other = "Kí ni ó wà nínú {{ .Type }} yìí?"
 
 [related]
-other = "Tó jẹmọ́"
+other = "Tó níṣe pẹ̀lú"
 
 [yourName]
 other = "Orúkọ rẹ"
 
 [emailAddress]
-other = "Àdírẹ́sì ìmeèlì"
+other = "Àdírẹ́sì Imeeli"
 
 [message]
-other = "Ìfọwọ́ránṣẹ́"
+other = "Ìránṣẹ́"
 
 [emailRequiredNote]
-other = "Àdírẹ́sì ìmeèlì jẹ́ dandan."
+other = "Àdírẹ́sì imeeli jẹ́ dandan."
 
 [send]
 other = "Firanṣẹ́"
 
 [editPage]
-other = "Mú ojúewé yìí sunwọ̀n sí i lórí GitHub"
+other = "Mú ojúewé yìí sunwọ̀n si lórí GitHub"
 
 [since]
-other = "Láti ìgbà"
+other = "Láti"
 
 [taxonomyPageList]
-other = "Nísàlẹ̀, iwọ yoo rí àwọn ojúewé tí ó lo ọ̀rọ̀ takisónómì '{{ .Title }}'"
+other = "Nísàlẹ̀ ni ìwọ yóò ti rí àwọn ojúewé tí ó lo ọ̀rọ̀ takisónómì '{{ .Title }}'."
 
 [readingTime]
-one = "Kíkà fún ìṣẹ́jú kan"
-other = "Kíkà fún ìṣẹ́jú {{ .Count }}"
+one = "Kà fún ìṣẹ́jú kan"
+other = "Kà fún ìṣẹ́jú {{ .Count }}"
 
 [wordCount]
 one = "Ọ̀rọ̀ kan"
-other = "Ọ̀rọ̀ {{ .Count }}"
+other = "Àwọn ọ̀rọ̀ {{ .Count }}"
 
 [pageTitle]
 other = "Ojúewé {{ .Name }}"
 
 [current_lang]
-other = "Lọ́wọ́lọ́wọ́"
+other = "Ìsinsinyìí"
 
 [open_gdoc]
-other = "📄 Ṣí ìwé ìtọ́nisọ́nà ní Google Docs"
+other = "📄 Ṣí ìwé ìtọ́sọ́nà náà nínú Google Docs"
+
 [site_hub_title]
-other = "Ibùdó Èdè 101"
+other = "Ilé Ìṣọkan Èdè 101"
 
 [hero_welcome]
-other = "Ẹ kú àbọ̀ sí Ibùdó Ìtẹ̀jáde Èdè 101 tí Ọpọlọ Atọwọda ń ràn lọ́wọ́!"
+other = "Ẹ káàbọ̀ sí Ilé Ìṣọkan Ìtẹ̀wé Èdè 101 Tí ó Jẹ́ Ààbọ̀-AI!"
 
 [hero_subtitle]
-other = "Ọpọlọ Atọwọda ń ràn lọ́wọ́ láti fọ́ àwọn ìdènà èdè!"
+other = "Imọ̀ Ẹ̀rọ Ìgbéraiyé (Artificial Intelligence) ń ranwa lọ́wọ́ láti fọ́ àwọn ìdènà èdè!"
+
+[embedded_gdoc_title]
+other = "Ìwé Google Docs Tí A Fi Sínú"
+
+[toggle_embed_hint]
+other = "tẹ̀ láti wó lulẹ̀/fẹ̀"
+
+[open_gdoc_external]
+other = "Ṣí ní ojúewé tuntun"

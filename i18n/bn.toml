@@ -1,20 +1,20 @@
 [more]
-other = "আরো"
+other = "আরও"
 
 [allTitle]
-other = "সব {{ .Title }}"
+other = "সমস্ত {{ .Title }}"
 
 [recentTitle]
 other = "সাম্প্রতিক {{ .Title }}"
 
 [readMore]
-other = "আরো পড়ুন"
+other = "আরও পড়ুন"
 
 [by]
 other = "দ্বারা"
 
 [whatsInThis]
-other = "এই {{ .Type }} এর মধ্যে কি আছে?"
+other = "এই {{ .Type }}-এ কী আছে?"
 
 [related]
 other = "সম্পর্কিত"
@@ -32,20 +32,20 @@ other = "বার্তা"
 other = "একটি ইমেল ঠিকানা আবশ্যক।"
 
 [send]
-other = "পাঠান"
+other = "প্রেরণ করুন"
 
 [editPage]
-other = "গিটহাবে এই পৃষ্ঠাটি উন্নত করুন"
+other = "GitHub-এ এই পৃষ্ঠাটি উন্নত করুন"
 
 [since]
 other = "থেকে"
 
 [taxonomyPageList]
-other = "নিচে আপনি এমন পৃষ্ঠাগুলি পাবেন যা শ্রেণীকরণ পদ '{{ .Title }}' ব্যবহার করে"
+other = "নিচে আপনি '{{ .Title }}' ট্যাক্সোনমি পদ ব্যবহার করা পৃষ্ঠাগুলি পাবেন"
 
 [readingTime]
-one = "এক মিনিটের পড়া"
-other = "{{ .Count }} মিনিট পড়া"
+one = "এক মিনিটের পাঠ"
+other = "{{ .Count }} মিনিটের পাঠ"
 
 [wordCount]
 one = "একটি শব্দ"
@@ -58,12 +58,22 @@ other = "{{ .Name }} পৃষ্ঠা"
 other = "বর্তমান"
 
 [open_gdoc]
-other = "📄 গুগল ডকসে ম্যানুয়াল খুলুন"
+other = "📄 গুগল ডকসে নির্দেশিকা খুলুন"
+
 [site_hub_title]
-other = "১০১ ভাষা কেন্দ্র"
+other = "১০১ ভাষার হাব"
 
 [hero_welcome]
-other = "১০১ ভাষার কৃত্রিম বুদ্ধিমত্তা-সহায়তাপ্রাপ্ত প্রকাশনা কেন্দ্রে স্বাগতম!"
+other = "১০১-ভাষা সেমি-এআই প্রকাশনা হাবে স্বাগতম!"
 
 [hero_subtitle]
-other = "কৃত্রিম বুদ্ধিমত্তা ভাষার বাধা দূর করতে সাহায্য করে!"
+other = "কৃত্রিম বুদ্ধিমত্তা ভাষার বাধা ভাঙতে সাহায্য করে!"
+
+[embedded_gdoc_title]
+other = "এম্বেড করা গুগল ডক্স ডকুমেন্ট"
+
+[toggle_embed_hint]
+other = "সংকুচিত/প্রসারিত করতে ক্লিক করুন"
+
+[open_gdoc_external]
+other = "একটি নতুন উইন্ডোতে খুলুন"

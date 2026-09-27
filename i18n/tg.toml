@@ -1,69 +1,79 @@
 [more]
-other = "Дагы"
+other = "Бештар"
 
 [allTitle]
-other = "Бардык {{ .Title }}"
+other = "Ҳамаи {{ .Title }}"
 
 [recentTitle]
-other = "Акыркы {{ .Title }}"
+other = "Навтарин {{ .Title }}"
 
 [readMore]
-other = "Көбүрөөк окуу"
+other = "Бештар хонед"
 
 [by]
-other = "Жарыялаган"
+other = "Аз тарафи"
 
 [whatsInThis]
-other = "Бул {{ .Type }} эмне камтыйт?"
+other = "Дар ин {{ .Type }} чӣ ҳаст?"
 
 [related]
-other = "Байланыштуу"
+other = "Алоқаманд"
 
 [yourName]
-other = "Атыңыз"
+other = "Номи шумо"
 
 [emailAddress]
-other = "Электрондук почта дареги"
+other = "Суроғаи почтаи электронӣ"
 
 [message]
-other = "Билдирүү"
+other = "Паём"
 
 [emailRequiredNote]
-other = "Электрондук почта дареги талап кылынат."
+other = "Суроғаи почтаи электронӣ ҳатмист."
 
 [send]
-other = "Жөнөтүү"
+other = "Ирсол"
 
 [editPage]
-other = "Бул баракты GitHub'да жакшыртыңыз"
+other = "Ин саҳифаро дар GitHub такмил диҳед"
 
 [since]
-other = "Бери"
+other = "Аз"
 
 [taxonomyPageList]
-other = "Төмөндө '{{ .Title }}' таксономиялык терминин колдонгон барактарды табасыз"
+other = "Дар зер шумо саҳифаҳоеро хоҳед ёфт, ки истилоҳи таксономии '{{ .Title }}'-ро истифода мебаранд."
 
 [readingTime]
-one = "Бир мүнөттүк окуу"
-other = "{{ .Count }} мүнөттүк окуу"
+one = "Як дақиқа хондан"
+other = "{{ .Count }} дақиқа хондан"
 
 [wordCount]
-one = "Бир сөз"
-other = "{{ .Count }} сөз"
+one = "Як калима"
+other = "{{ .Count }} калима"
 
 [pageTitle]
-other = "{{ .Name }} баракчасы"
+other = "Саҳифаи {{ .Name }}"
 
 [current_lang]
-other = "Учурдагы"
+other = "Ҷорӣ"
 
 [open_gdoc]
-other = "📄 Колдонмону Google Docs'то ачуу"
+other = "📄 Дастурро дар Google Docs кушоед"
+
 [site_hub_title]
-other = "101 Languages Hub"
+other = "Маркази 101 Забон"
 
 [hero_welcome]
-other = "Welcome to the 101-Language AI-Assisted Publishing Hub!"
+other = "Хуш омадед ба Маркази нашри ним-интеллектуалӣ бо 101 забон!"
 
 [hero_subtitle]
-other = "Artificial Intelligence helps break language barriers!"
+other = "Ақли сунъӣ монеаҳои забониро мешиканад!"
+
+[embedded_gdoc_title]
+other = "Ҳуҷҷати ҳамгирошудаи Google Docs"
+
+[toggle_embed_hint]
+other = "барои пӯшидан/кушодан клик кунед"
+
+[open_gdoc_external]
+other = "Дар равзанаи нав кушоед"

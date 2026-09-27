@@ -8,7 +8,7 @@ other = "All {{ .Title }}"
 other = "Rezent {{ .Title }}"
 
 [readMore]
-other = "Lies méi"
+other = "Weiderliesen"
 
 [by]
 other = "Vun"
@@ -17,7 +17,7 @@ other = "Vun"
 other = "Wat ass an dësem {{ .Type }}"
 
 [related]
-other = "Verbonnen"
+other = "Zesummenhängend"
 
 [yourName]
 other = "Ären Numm"
@@ -29,7 +29,7 @@ other = "E-Mail Adress"
 other = "Noriicht"
 
 [emailRequiredNote]
-other = "Eng E-Mail Adress ass obligatoresch."
+other = "Eng E-Mail Adress ass néideg."
 
 [send]
 other = "Schécken"
@@ -41,14 +41,14 @@ other = "Dës Säit op GitHub verbesseren"
 other = "Zënter"
 
 [taxonomyPageList]
-other = "Hei drënner fannt Dir Säiten déi den Taxonomie Begrëff '{{ .Title }}' benotzen"
+other = "Hei drënner fannt Dir Säiten déi de Taxonomiebegrëff '{{ .Title }}' benotzen"
 
 [readingTime]
 one = "Eng Minutt Lieszäit"
 other = "{{ .Count }} Minutten Lieszäit"
 
 [wordCount]
-one = "Ee Wuert"
+one = "Eent Wuert"
 other = "{{ .Count }} Wierder"
 
 [pageTitle]
@@ -59,11 +59,21 @@ other = "Aktuell"
 
 [open_gdoc]
 other = "📄 Handbuch an Google Docs opmaachen"
+
 [site_hub_title]
-other = "101 Sproochen Zentrum"
+other = "101 Sproochen Hub"
 
 [hero_welcome]
-other = "Wëllkomm am AI-assistéierte Verëffentlechungszentrum fir 101 Sproochen!"
+other = "Wëllkomm am 101-Sprooche Semi-AI Publikatiouns-Hub!"
 
 [hero_subtitle]
 other = "Kënschtlech Intelligenz hëlleft Sproochebarrièren ze briechen!"
+
+[embedded_gdoc_title]
+other = "Abegraff Google Docs Dokument"
+
+[toggle_embed_hint]
+other = "klickt fir zesummeklappen / ausklappen"
+
+[open_gdoc_external]
+other = "An enger neier Fënster opmaachen"

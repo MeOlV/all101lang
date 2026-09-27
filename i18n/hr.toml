@@ -5,16 +5,16 @@ other = "Više"
 other = "Sve {{ .Title }}"
 
 [recentTitle]
-other = "Najnovije {{ .Title }}"
+other = "Nedavno {{ .Title }}"
 
 [readMore]
-other = "Pročitajte više"
+other = "Pročitaj više"
 
 [by]
 other = "Autor"
 
 [whatsInThis]
-other = "Što je u ovom {{ .Type }}"
+other = "Što se nalazi u ovom {{ .Type }}"
 
 [related]
 other = "Povezano"
@@ -35,13 +35,13 @@ other = "Adresa e-pošte je obavezna."
 other = "Pošalji"
 
 [editPage]
-other = "Unaprijedite ovu stranicu na GitHubu"
+other = "Poboljšajte ovu stranicu na GitHubu"
 
 [since]
 other = "Od"
 
 [taxonomyPageList]
-other = "Ispod ćete pronaći stranice koje koriste taksonomski pojam '{{ .Title }}"
+other = "Ispod ćete pronaći stranice koje koriste taksonomski pojam '{{ .Title }}'"
 
 [readingTime]
 one = "Jedna minuta čitanja"
@@ -58,12 +58,22 @@ other = "Stranica {{ .Name }}"
 other = "Trenutni"
 
 [open_gdoc]
-other = "📄 Otvorite priručnik u Google Dokumentima"
+other = "📄 Otvori priručnik u Google Dokumentima"
+
 [site_hub_title]
-other = "Središte 101 jezika"
+other = "Središte za 101 jezik"
 
 [hero_welcome]
-other = "Dobrodošli u 101-jezično izdavačko središte potpomognuto umjetnom inteligencijom!"
+other = "Dobrodošli u polu-AI središte za objavljivanje na 101 jeziku!"
 
 [hero_subtitle]
-other = "Umjetna inteligencija pomaže srušiti jezične barijere!"
+other = "Umjetna inteligencija pomaže razbiti jezične barijere!"
+
+[embedded_gdoc_title]
+other = "Ugrađeni Google Docs dokument"
+
+[toggle_embed_hint]
+other = "kliknite za sažimanje/proširivanje"
+
+[open_gdoc_external]
+other = "Otvori u novom prozoru"

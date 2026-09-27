@@ -8,7 +8,7 @@ other = "Ĉiuj {{ .Title }}"
 other = "Lastatempaj {{ .Title }}"
 
 [readMore]
-other = "Legu pli"
+other = "Legu plu"
 
 [by]
 other = "De"
@@ -44,8 +44,8 @@ other = "Ekde"
 other = "Malsupre vi trovos paĝojn, kiuj uzas la taksonomian terminon '{{ .Title }}'"
 
 [readingTime]
-one = "Unu minutlegado"
-other = "{{ .Count }} minutoj de legado"
+one = "Unuminuta legado"
+other = "{{ .Count }} minutoj da legado"
 
 [wordCount]
 one = "Unu vorto"
@@ -55,15 +55,25 @@ other = "{{ .Count }} vortoj"
 other = "Paĝo de {{ .Name }}"
 
 [current_lang]
-other = "Nuna"
+other = "Aktuala"
 
 [open_gdoc]
 other = "📄 Malfermu manlibron en Google Docs"
+
 [site_hub_title]
-other = "101-Lingva Centro"
+other = "101 Lingva Centro"
 
 [hero_welcome]
-other = "Bonvenon al la 101-lingva AI-asistata Eldonada Platformo!"
+other = "Bonvenon al la 101-Lingva Duon-AI Eldona Centro!"
 
 [hero_subtitle]
 other = "Artefarita Inteligenteco helpas rompi lingvajn barojn!"
+
+[embedded_gdoc_title]
+other = "Enmetita Google Docs-dokumento"
+
+[toggle_embed_hint]
+other = "klaku por kunfaligi/disfaligi"
+
+[open_gdoc_external]
+other = "Malfermu en nova fenestro"

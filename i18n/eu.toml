@@ -11,13 +11,13 @@ other = "Azken {{ .Title }}"
 other = "Irakurri gehiago"
 
 [by]
-other = "Egilea"
+other = "Egilea:"
 
 [whatsInThis]
 other = "Zer dago {{ .Type }} honetan?"
 
 [related]
-other = "Erlazionatua"
+other = "Lotutakoak"
 
 [yourName]
 other = "Zure izena"
@@ -29,23 +29,23 @@ other = "Posta elektronikoa"
 other = "Mezua"
 
 [emailRequiredNote]
-other = "Posta elektronikoa beharrezkoa da."
+other = "Posta elektroniko helbidea derrigorrezkoa da."
 
 [send]
 other = "Bidali"
 
 [editPage]
-other = "Hobetu orri hau GitHuben"
+other = "Hobetu orri hau GitHub-en"
 
 [since]
-other = "Noiztik"
+other = "Geroztik"
 
 [taxonomyPageList]
-other = "Jarraian, '{{ .Title }}' taxonomia-terminoa erabiltzen duten orriak aurkituko dituzu"
+other = "Jarraian '{{ .Title }}' taxonomia terminoa erabiltzen duten orriak aurkituko dituzu."
 
 [readingTime]
-one = "Minutu bat irakurtzeko"
-other = "{{ .Count }} minutu irakurtzeko"
+one = "Minutu bateko irakurketa"
+other = "{{ .Count }} minutuko irakurketa"
 
 [wordCount]
 one = "Hitz bat"
@@ -55,15 +55,25 @@ other = "{{ .Count }} hitz"
 other = "{{ .Name }} orria"
 
 [current_lang]
-other = "Oraingoa"
+other = "Unekoa"
 
 [open_gdoc]
-other = "📄 Ireki eskuliburua Google Docs-en"
+other = "📄 Ireki gida Google Docs-en"
+
 [site_hub_title]
 other = "101 Hizkuntzen Gunea"
 
 [hero_welcome]
-other = "Ongi etorri 101 hizkuntzako Adimen Artifizialak lagundutako argitalpen gunera!"
+other = "Ongi etorri 101 Hizkuntzetako Erdi-IA Argitalpen Gune honetara!"
 
 [hero_subtitle]
-other = "Adimen Artifizialak hizkuntza-hesiak hausten laguntzen du!"
+other = "Adimen artifizialak hizkuntza-hesia gainditzen laguntzen du!"
+
+[embedded_gdoc_title]
+other = "Txertatutako Google Docs dokumentua"
+
+[toggle_embed_hint]
+other = "sakatu kolapsatzeko/zabaltzeko"
+
+[open_gdoc_external]
+other = "Ireki leiho berri batean"

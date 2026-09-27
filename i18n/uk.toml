@@ -68,3 +68,12 @@ other = "Вітаємо в осередку 101-мовного напів ШР-�
 
 [hero_subtitle]
 other = "Штучний Розум допоможе здолати мовну перешкоду!"
+
+[embedded_gdoc_title]
+other = "Вбудований документ Google Docs"
+
+[toggle_embed_hint]
+other = "натисніть, щоб згорнути/розгорнути"
+
+[open_gdoc_external]
+other = "Відкрити в окремому вікні"

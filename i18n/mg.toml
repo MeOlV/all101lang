@@ -8,16 +8,16 @@ other = "Rehetra {{ .Title }}"
 other = "Vao haingana {{ .Title }}"
 
 [readMore]
-other = "Tohizo vakina"
+other = "Vakio bebe kokoa"
 
 [by]
-other = "Nataon'i"
+other = "Nomen'i"
 
 [whatsInThis]
-other = "Inona no ao anatin'ity {{ .Type }} ity?"
+other = "Inona no ao amin'ity {{ .Type }} ity?"
 
 [related]
-other = "Mifandray"
+other = "Mifandraika"
 
 [yourName]
 other = "Ny Anaranao"
@@ -35,13 +35,13 @@ other = "Ilaina ny adiresy mailaka."
 other = "Alefaso"
 
 [editPage]
-other = "Amboary ity pejy ity ao amin'ny GitHub"
+other = "Hatsarao ity pejy ity ao amin'ny GitHub"
 
 [since]
 other = "Hatramin'ny"
 
 [taxonomyPageList]
-other = "Eto ambany ianao dia hahita pejy mampiasa ny teny fanasokajiana '{{ .Title }}'"
+other = "Hita eto ambany ny pejy mampiasa ny teny fanasokajiana '{{ .Title }}'"
 
 [readingTime]
 one = "Famakiana iray minitra"
@@ -55,15 +55,25 @@ other = "Teny {{ .Count }}"
 other = "Pejy {{ .Name }}"
 
 [current_lang]
-other = "Ankehitriny"
+other = "Amin'izao"
 
 [open_gdoc]
-other = "📄 Sokafy ny boky torolalana ao amin'ny Google Docs"
+other = "📄 Sokafy ny torolalana ao amin'ny Google Docs"
+
 [site_hub_title]
 other = "Foiben'ny Fiteny 101"
 
 [hero_welcome]
-other = "Tongasoa eto amin'ny Foiben'ny Famoahana amin'ny Fiteny 101, Ampian'ny Faharanitan-tsaina Artifisialy!"
+other = "Tongasoa eto amin'ny Foibe Famokarana Pejy Semi-AI Fiteny 101!"
 
 [hero_subtitle]
-other = "Manampy handresy ny sakana ara-piteny ny Faharanitan-tsaina Artifisialy!"
+other = "Manampy handrava ny sakana amin'ny fiteny ny Artificial Intelligence!"
+
+[embedded_gdoc_title]
+other = "Tahirinkevitra Google Docs tafiditra"
+
+[toggle_embed_hint]
+other = "kitiho hanakombona/hanokatra"
+
+[open_gdoc_external]
+other = "Sokafy amin'ny varavarankely vaovao"

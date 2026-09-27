@@ -17,7 +17,7 @@ other = "Deur"
 other = "Wat is in hierdie {{ .Type }}"
 
 [related]
-other = "Verwant"
+other = "Verwante"
 
 [yourName]
 other = "Jou Naam"
@@ -29,7 +29,7 @@ other = "E-posadres"
 other = "Boodskap"
 
 [emailRequiredNote]
-other = "'n E-posadres is verpligtend."
+other = "'n E-posadres word vereis."
 
 [send]
 other = "Stuur"
@@ -41,7 +41,7 @@ other = "Verbeter hierdie bladsy op GitHub"
 other = "Sedert"
 
 [taxonomyPageList]
-other = "Hieronder vind jy bladsye wat die taksonomie term '{{ .Title }}' gebruik"
+other = "Hieronder sal u bladsye vind wat die taksonomie term '{{ .Title }}' gebruik"
 
 [readingTime]
 one = "Een minuut lees"
@@ -59,11 +59,21 @@ other = "Huidige"
 
 [open_gdoc]
 other = "📄 Maak handleiding in Google Docs oop"
+
 [site_hub_title]
 other = "101 Tale Spilpunt"
 
 [hero_welcome]
-other = "Welkom by die 101-Taal KI-ondersteunde Publiseringspilpunt!"
+other = "Welkom by die 101-Taal Semi-KI Publiseringsspilpunt!"
 
 [hero_subtitle]
-other = "Kunsmatige Intelligensie help om taalversperrings te oorkom!"
+other = "Kunsmatige Intelligensie help taalgrense verbreek!"
+
+[embedded_gdoc_title]
+other = "Ingeslote Google Docs dokument"
+
+[toggle_embed_hint]
+other = "klik om in/uit te vou"
+
+[open_gdoc_external]
+other = "Maak in 'n nuwe venster oop"

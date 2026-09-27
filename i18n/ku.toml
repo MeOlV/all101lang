@@ -1,70 +1,79 @@
 [more]
-other = "زیاتر"
+other = "Zêdetir"
 
 [allTitle]
-other = "هەموو {{ .Title }}"
+other = "Hemû {{ .Title }}"
 
 [recentTitle]
-other = "نوێترین {{ .Title }}"
+other = "{{ .Title }} yên Dawî"
 
 [readMore]
-other = "زیاتر بخوێنەوە"
+other = "Zêdetir bixwîne"
 
 [by]
-other = "لەلایەن"
+other = "Ji aliyê"
 
 [whatsInThis]
-other = "چی لەم {{ .Type }} دایە؟"
+other = "Di vê {{ .Type }} de çi heye?"
 
 [related]
-other = "پەیوەندیدار"
+other = "Têkildar"
 
 [yourName]
-other = "ناوی تۆ"
+other = "Navê Te"
 
 [emailAddress]
-other = "ناونیشانی ئیمەیڵ"
+other = "Navnîşana E-nameyê"
 
 [message]
-other = "پەیام"
+other = "Peyam"
 
 [emailRequiredNote]
-other = "ناونیشانی ئیمەیڵ پێویستە."
+other = "Navnîşaneke e-nameyê pêwîst e."
 
 [send]
-other = "ناردن"
+other = "Bişîne"
 
 [editPage]
-other = "ئەم لاپەڕەیە لە گیتھەب باشتر بکە"
+other = "Vê rûpelê li GitHubê baştir bike"
 
 [since]
-other = "لەوەتەی"
+other = "Ji"
 
 [taxonomyPageList]
-other = "لە خوارەوە لاپەڕەکان دەدۆزیتەوە کە زاراوەی پۆلێنکردنی '{{ .Title }}' بەکاردەهێنن."
+other = "Li jêr hûn ê rûpelên ku termê taksonomiyê '{{ .Title }}' bikar tînin bibînin"
 
 [readingTime]
-one = "خوێندنەوەی یەک خولەک"
-other = "{{ .Count }} خولەک خوێندنەوە"
+one = "Xwendina deqîqeyekê"
+other = "Xwendina {{ .Count }} deqîqeyan"
 
 [wordCount]
-one = "یەک وشە"
-other = "{{ .Count }} وشە"
+one = "Yek peyv"
+other = "{{ .Count }} peyv"
 
 [pageTitle]
-other = "لاپەڕەی {{ .Name }}"
+other = "Rûpela {{ .Name }}"
 
 [current_lang]
-other = "هەنووکەیی"
+other = "Heyî"
 
 [open_gdoc]
-other = "📄 کردنەوەی ڕێبەر لە گۆگڵ دۆکس"
+other = "📄 Rêbernameyê di Google Docs de veke"
 
 [site_hub_title]
-other = "ناوەندی ١٠١ زمان"
+other = "Navenda 101 Zimanan"
 
 [hero_welcome]
-other = "بەخێربێن بۆ ناوەندی بڵاوکردنەوەی ١٠١ زمانی نیمچە-زیرەکی دەستکرد!"
+other = "Bi xêr hatin Navenda Weşanê ya Nîv-AI ya 101 Zimanan!"
 
 [hero_subtitle]
-other = "زیرەکی دەستکرد یارمەتی دەدات بەربەستەکانی زمان بشکێنێت!"
+other = "Zîrekiya Hunerî alîkariya şikandina astengiyên ziman dike!"
+
+[embedded_gdoc_title]
+other = "Belgeya Google Docs ya bicîkirî"
+
+[toggle_embed_hint]
+other = "ji bo girtin/vekirinê bikirtîne"
+
+[open_gdoc_external]
+other = "Di pencereyeke nû de veke"

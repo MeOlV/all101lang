@@ -5,7 +5,7 @@ other = "Ƙari"
 other = "Duk {{ .Title }}"
 
 [recentTitle]
-other = "Na baya-bayan nan {{ .Title }}"
+other = "{{ .Title }} na kwanan nan"
 
 [readMore]
 other = "Kara karantawa"
@@ -14,13 +14,13 @@ other = "Kara karantawa"
 other = "Daga"
 
 [whatsInThis]
-other = "Mene ne a cikin wannan {{ .Type }}"
+other = "Menene a cikin wannan {{ .Type }}?"
 
 [related]
 other = "Masu alaƙa"
 
 [yourName]
-other = "Sunanka/ki"
+other = "Sunanka"
 
 [emailAddress]
 other = "Adireshin Imel"
@@ -29,7 +29,7 @@ other = "Adireshin Imel"
 other = "Saƙo"
 
 [emailRequiredNote]
-other = "Adireshin imel wajibi ne."
+other = "Ana buƙatar adireshin imel."
 
 [send]
 other = "Aika"
@@ -41,11 +41,11 @@ other = "Inganta wannan shafin a GitHub"
 other = "Tun daga"
 
 [taxonomyPageList]
-other = "A ƙasa za ku ga shafuka masu amfani da kalmar taxonomy '{{ .Title }}'"
+other = "A ƙasa zaku sami shafukan da ke amfani da kalmar takardu '{{ .Title }}'"
 
 [readingTime]
-one = "Minti ɗaya na karatu"
-other = "Mintuna {{ .Count }} na karatu"
+one = "Karatu na minti ɗaya"
+other = "Karatu na minti {{ .Count }}"
 
 [wordCount]
 one = "Kalma ɗaya"
@@ -55,15 +55,25 @@ other = "Kalmomi {{ .Count }}"
 other = "Shafin {{ .Name }}"
 
 [current_lang]
-other = "Na Yanzu"
+other = "Na yanzu"
 
 [open_gdoc]
-other = "📄 Buɗe littafin jagora a Google Docs"
+other = "📄 Buɗe jagora a Google Docs"
+
 [site_hub_title]
 other = "Cibiyar Harsuna 101"
 
 [hero_welcome]
-other = "Barka da zuwa Cibiyar Wallafawa ta Harsuna 101 mai Tallafin AI!"
+other = "Barka da zuwa Cibiyar Bugawa ta Harsuna 101-Mai Rabar AI!"
 
 [hero_subtitle]
-other = "Fasahar Hankali na Wucin-gadi tana taimakawa warware shingayen harshe!"
+other = "Hankali na wucin gadi yana taimakawa wajen rushe shingayen harshe!"
+
+[embedded_gdoc_title]
+other = "Takardar Google Docs da aka haɗa"
+
+[toggle_embed_hint]
+other = "danna don takaita/faɗaɗa"
+
+[open_gdoc_external]
+other = "Buɗe a sabon taga"

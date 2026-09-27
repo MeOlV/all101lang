@@ -5,7 +5,7 @@ other = "Di più"
 other = "Tutti i {{ .Title }}"
 
 [recentTitle]
-other = "Recenti {{ .Title }}"
+other = "Ricenti {{ .Title }}"
 
 [readMore]
 other = "Leghje di più"
@@ -14,22 +14,22 @@ other = "Leghje di più"
 other = "Da"
 
 [whatsInThis]
-other = "Chì ci hè in stu {{ .Type }}"
+other = "Chi ci hè in stu {{ .Type }}"
 
 [related]
-other = "Ligatu"
+other = "Assuciati"
 
 [yourName]
-other = "U vostru Nome"
+other = "U vostru nome"
 
 [emailAddress]
 other = "Indirizzu email"
 
 [message]
-other = "Messagiu"
+other = "Messaghju"
 
 [emailRequiredNote]
-other = "Hè richiestu un indirizzu email."
+other = "Un indirizzu email hè necessariu."
 
 [send]
 other = "Mandà"
@@ -41,10 +41,10 @@ other = "Migliurà sta pagina nant'à GitHub"
 other = "Dapoi"
 
 [taxonomyPageList]
-other = "Quì sottu truverete pagine chì utilizanu u termine di tassunumia ' {{ .Title }} '"
+other = "Quì sottu truverete pagine chì usanu u termine di tassunumia '{{ .Title }}'"
 
 [readingTime]
-one = "Una minuta di lettura"
+one = "Una minutu di lettura"
 other = "{{ .Count }} minuti di lettura"
 
 [wordCount]
@@ -58,12 +58,22 @@ other = "Pagina {{ .Name }}"
 other = "Attuale"
 
 [open_gdoc]
-other = "📄 Apre u manuale in Google Docs"
+other = "📄 Apri u manuale in Google Docs"
+
 [site_hub_title]
-other = "101개 언어 허브"
+other = "Hub di 101 Lingue"
 
 [hero_welcome]
-other = "101개 언어 AI 지원 출판 허브에 오신 것을 환영합니다!"
+other = "Benvenuti à l'Hub di Publicazione Semi-AI di 101 Lingue!"
 
 [hero_subtitle]
-other = "인공지능이 언어 장벽을 허무는 데 도움을 줍니다!"
+other = "L'Intelligenza Artificiale aiuta à spiccà e barriere linguistiche!"
+
+[embedded_gdoc_title]
+other = "Documentu Google Docs integratu"
+
+[toggle_embed_hint]
+other = "cliccà per cumpressà/spandà"
+
+[open_gdoc_external]
+other = "Apri in una nova finestra"

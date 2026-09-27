@@ -2,10 +2,10 @@
 other = "Dugang"
 
 [allTitle]
-other = "Tanang {{ .Title }}"
+other = "Tanan nga {{ .Title }}"
 
 [recentTitle]
-other = "Ulahing {{ .Title }}"
+other = "Bag-o nga {{ .Title }}"
 
 [readMore]
 other = "Basaha pa"
@@ -14,10 +14,10 @@ other = "Basaha pa"
 other = "Ni"
 
 [whatsInThis]
-other = "Unsay anaa niining {{ .Type }}"
+other = "Unsa ang anaa niini nga {{ .Type }}"
 
 [related]
-other = "May Kalabotan"
+other = "May Kalambigitan"
 
 [yourName]
 other = "Imong Ngalan"
@@ -29,19 +29,19 @@ other = "Email nga Adres"
 other = "Mensahe"
 
 [emailRequiredNote]
-other = "Kinahanglan ang usa ka email nga adres."
+other = "Kinahanglan ang email nga adres."
 
 [send]
 other = "Ipadala"
 
 [editPage]
-other = "Palamboa kini nga panid sa GitHub"
+other = "Pauswaga kini nga panid sa GitHub"
 
 [since]
 other = "Sukad"
 
 [taxonomyPageList]
-other = "Sa ubos makit-an nimo ang mga panid nga naggamit sa termino sa taksonomiya nga '{{ .Title }}'"
+other = "Sa ubos makita nimo ang mga panid nga naggamit sa termino sa taksonomiya nga '{{ .Title }}'"
 
 [readingTime]
 one = "Usa ka minuto nga pagbasa"
@@ -52,18 +52,28 @@ one = "Usa ka pulong"
 other = "{{ .Count }} ka pulong"
 
 [pageTitle]
-other = "Panid sa {{ .Name }}"
+other = "Panid ni {{ .Name }}"
 
 [current_lang]
-other = "Karon"
+other = "Kasamtangan"
 
 [open_gdoc]
-other = "📄 Ablihi ang manwal sa Google Docs"
+other = "📄 Ablihi ang giya sa Google Docs"
+
 [site_hub_title]
-other = "Sentro sa 101 ka Pinulongan"
+other = "101 Ka Pinulongan nga Hub"
 
 [hero_welcome]
-other = "Maayong pag-abot sa Sentro sa Pagmantala sa 101 ka Pinulongan nga Gitabangan sa AI!"
+other = "Maayong pag-abot sa 101-Pinulongan Semi-AI Publishing Hub!"
 
 [hero_subtitle]
-other = "Ang Artipisyal nga Intelihensiya makatabang sa pagtangtang sa mga babag sa pinulongan!"
+other = "Ang Artificial Intelligence makatabang sa pagbungkag sa mga babag sa pinulongan!"
+
+[embedded_gdoc_title]
+other = "Naka-embed nga dokumento sa Google Docs"
+
+[toggle_embed_hint]
+other = "i-klik aron pil-on/ablihan"
+
+[open_gdoc_external]
+other = "Ablihi sa bag-ong bintana"

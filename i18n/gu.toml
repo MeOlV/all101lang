@@ -23,29 +23,29 @@ other = "સંબંધિત"
 other = "તમારું નામ"
 
 [emailAddress]
-other = "ઇમેઇલ સરનામું"
+other = "ઈમેલ સરનામું"
 
 [message]
 other = "સંદેશ"
 
 [emailRequiredNote]
-other = "ઇમેઇલ સરનામું આવશ્યક છે."
+other = "એક ઈમેલ સરનામું ફરજિયાત છે."
 
 [send]
 other = "મોકલો"
 
 [editPage]
-other = "આ પૃષ્ઠને GitHub પર સુધારો"
+other = "આ પેજને GitHub પર સુધારો"
 
 [since]
 other = "થી"
 
 [taxonomyPageList]
-other = "નીચે તમને '{{ .Title }}' ટેક્સોનોમી પદનો ઉપયોગ કરતા પૃષ્ઠો મળશે."
+other = "નીચે તમને '{{ .Title }}' ટેક્સોનોમી શબ્દનો ઉપયોગ કરતા પૃષ્ઠો મળશે."
 
 [readingTime]
-one = "એક મિનિટનો વાંચન સમય"
-other = "{{ .Count }} મિનિટનો વાંચન સમય"
+one = "એક મિનિટનું વાંચન"
+other = "{{ .Count }} મિનિટનું વાંચન"
 
 [wordCount]
 one = "એક શબ્દ"
@@ -58,12 +58,22 @@ other = "{{ .Name }} પૃષ્ઠ"
 other = "વર્તમાન"
 
 [open_gdoc]
-other = "📄 Google Docs માં મેન્યુઅલ ખોલો"
+other = "📄 Google Docs માં માર્ગદર્શિકા ખોલો"
+
 [site_hub_title]
-other = "૧૦૧ ભાષાઓનું કેન્દ્ર"
+other = "101 ભાષાઓનું હબ"
 
 [hero_welcome]
-other = "૧૦૧ ભાષાઓના AI-સહાયિત પ્રકાશન કેન્દ્રમાં આપનું સ્વાગત છે!"
+other = "101-ભાષાના સેમી-AI પબ્લિશિંગ હબમાં આપનું સ્વાગત છે!"
 
 [hero_subtitle]
-other = "કૃત્રિમ બુદ્ધિમત્તા ભાષા અવરોધો તોડવામાં મદદ કરે છે!"
+other = "આર્ટિફિશિયલ ઇન્ટેલિજન્સ ભાષા અવરોધોને તોડવામાં મદદ કરે છે!"
+
+[embedded_gdoc_title]
+other = "એમ્બેડેડ Google Docs દસ્તાવેજ"
+
+[toggle_embed_hint]
+other = "સંકોચવા/વિસ્તારવા માટે ક્લિક કરો"
+
+[open_gdoc_external]
+other = "નવી વિંડોમાં ખોલો"

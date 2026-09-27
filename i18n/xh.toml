@@ -2,13 +2,13 @@
 other = "Okungaphezulu"
 
 [allTitle]
-other = "Konke {{ .Title }}"
+other = "Zonke {{ .Title }}"
 
 [recentTitle]
-other = "Ezakutshanje {{ .Title }}"
+other = "{{ .Title }} Zamva"
 
 [readMore]
-other = "Funda ngakumbi"
+other = "Funda ngaphezulu"
 
 [by]
 other = "Ngu"
@@ -35,35 +35,45 @@ other = "Kufuneka idilesi ye-imeyile."
 other = "Thumela"
 
 [editPage]
-other = "Phucula le pheji kuGitHub"
+other = "Phucula eli phepha kwiGitHub"
 
 [since]
 other = "Ukususela"
 
 [taxonomyPageList]
-other = "Apha ngezantsi uya kufumana amapheji asebenzisa igama elithi '{{ .Title }}'"
+other = "Ngezantsi uya kufumana amaphepha asebenzisa igama lobalo '{{ .Title }}'"
 
 [readingTime]
-one = "Ukufunda komzuzu omnye"
-other = "Ukufunda kwemizuzu engama-{{ .Count }}"
+one = "Ukufunda umzuzu omnye"
+other = "Ukufunda imizuzu engu-{{ .Count }}"
 
 [wordCount]
 one = "Igama elinye"
-other = "Amagama angama-{{ .Count }}"
+other = "Amagama angu-{{ .Count }}"
 
 [pageTitle]
-other = "Ipheji ye-{{ .Name }}"
+other = "Iphepha lika-{{ .Name }}"
 
 [current_lang]
 other = "Yangoku"
 
 [open_gdoc]
-other = "📄 Vula incwadi yesikhokelo kuGoogle Docs"
+other = "📄 Vula isikhokelo kwiiGoogle Docs"
+
 [site_hub_title]
-other = "Iziko leeLwimi eziyi-101"
+other = "Iziko LeeLwimi Ezili-101"
 
 [hero_welcome]
-other = "Wamkelekile kwiQonga loPapasho leeLwimi eziyi-101 oluNcediswa yi-AI!"
+other = "Wamkelekile kwiziko lokushicilela elisebenzisa i-AI kancinci leelwimi ezili-101!"
 
 [hero_subtitle]
-other = "I-AI inceda ukoyisa izithintelo zolwimi!"
+other = "Ubukrelekrele bokwenziwa bunceda ekuqhekezeni imiqobo yolwimi!"
+
+[embedded_gdoc_title]
+other = "Uxwebhu olungaphakathi lweeGoogle Docs"
+
+[toggle_embed_hint]
+other = "cofa ukuze uvalelise/uvule"
+
+[open_gdoc_external]
+other = "Vula kwifestile entsha"

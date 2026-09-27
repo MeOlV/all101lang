@@ -68,3 +68,12 @@ other = "Welcome to the 101-Language Semi-AI Publishing Hub!"
 
 [hero_subtitle]
 other = "Artificial Intelligence helps break language barriers!"
+
+[embedded_gdoc_title]
+other = "Embedded Google Docs document"
+
+[toggle_embed_hint]
+other = "click to collapse/expand"
+
+[open_gdoc_external]
+other = "Open in a new window"

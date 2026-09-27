@@ -32,16 +32,16 @@ other = "Berjocht"
 other = "In e-mailadres is ferplichte."
 
 [send]
-other = "Ferstjoer"
+other = "Ferstjoere"
 
 [editPage]
-other = "Ferbetterje dizze side op GitHub"
+other = "Dizze side ferbetterje op GitHub"
 
 [since]
 other = "Sûnt"
 
 [taxonomyPageList]
-other = "Hjirûnder fine jo siden dy't de taksonomyterm '{{ .Title }}' brûke."
+other = "Hjirûnder fine jo siden dy't de taksonomyterm '{{ .Title }}' brûke"
 
 [readingTime]
 one = "Ien minút lêstiid"
@@ -58,12 +58,22 @@ other = "{{ .Name }} side"
 other = "Aktueel"
 
 [open_gdoc]
-other = "📄 Iepenje hânlieding yn Google Docs"
+other = "📄 Hânlieding iepenje yn Google Docs"
+
 [site_hub_title]
-other = "101 Talen Spil"
+other = "101 Talen Hub"
 
 [hero_welcome]
-other = "Wolkom by it 101-talige AI-assisteare Publikaasjespil!"
+other = "Wolkom by de 101-Talen Semi-AI Publisearringshub!"
 
 [hero_subtitle]
-other = "Keunstmjittige Yntelliginsje helpt taalbarriêres trochbrekke!"
+other = "Keunstmjittige yntelliginsje helpt taalkundige barriêres te brekken!"
+
+[embedded_gdoc_title]
+other = "Ynbêde Google Docs dokumint"
+
+[toggle_embed_hint]
+other = "klikje om yn/út te klappen"
+
+[open_gdoc_external]
+other = "Iepenje yn in nij finster"

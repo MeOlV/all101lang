@@ -17,7 +17,7 @@ other = "Av"
 other = "Hva er i denne {{ .Type }}"
 
 [related]
-other = "Relaterte"
+other = "Relatert"
 
 [yourName]
 other = "Ditt navn"
@@ -41,29 +41,39 @@ other = "Forbedre denne siden på GitHub"
 other = "Siden"
 
 [taxonomyPageList]
-other = "Nedenfor finner du sider som benytter taksonomibegrepet '{{ .Title }}'"
+other = "Nedenfor finner du sider som bruker taksonomien '{{ .Title }}'"
 
 [readingTime]
-one = "Ett minutts lesning"
-other = "{{ .Count }} minutters lesning"
+one = "Ett minutt å lese"
+other = "{{ .Count }} minutter å lese"
 
 [wordCount]
 one = "Ett ord"
 other = "{{ .Count }} ord"
 
 [pageTitle]
-other = "{{ .Name }} side"
+other = "{{ .Name }}-side"
 
 [current_lang]
-other = "Nåværende"
+other = "Gjeldende"
 
 [open_gdoc]
-other = "📄 Åpne manual i Google Docs"
+other = "📄 Åpne veiledning i Google Docs"
+
 [site_hub_title]
-other = "101 Språksenter"
+other = "101 Språk Hub"
 
 [hero_welcome]
-other = "Velkommen til det 101-språks AI-assisterte publiseringssenteret!"
+other = "Velkommen til 101-språks Semi-AI publiserings-hub!"
 
 [hero_subtitle]
-other = "Kunstig intelligens bidrar til å bryte språkbarrierer!"
+other = "Kunstig intelligens hjelper til med å bryte språkbarrierer!"
+
+[embedded_gdoc_title]
+other = "Innebygd Google Docs-dokument"
+
+[toggle_embed_hint]
+other = "klikk for å skjule/vise"
+
+[open_gdoc_external]
+other = "Åpne i et nytt vindu"

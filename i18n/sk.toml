@@ -2,19 +2,19 @@
 other = "Viac"
 
 [allTitle]
-other = "Všetko {{ .Title }}"
+other = "Všetky {{ .Title }}"
 
 [recentTitle]
-other = "Nedávne {{ .Title }}"
+other = "Posledné {{ .Title }}"
 
 [readMore]
 other = "Čítať viac"
 
 [by]
-other = "Autor"
+other = "Od"
 
 [whatsInThis]
-other = "Čo obsahuje tento {{ .Type }}"
+other = "Čo je v tomto {{ .Type }}"
 
 [related]
 other = "Súvisiace"
@@ -35,7 +35,7 @@ other = "E-mailová adresa je povinná."
 other = "Odoslať"
 
 [editPage]
-other = "Vylepšiť túto stránku na GitHub-e"
+other = "Vylepšiť túto stránku na GitHub"
 
 [since]
 other = "Od"
@@ -44,8 +44,8 @@ other = "Od"
 other = "Nižšie nájdete stránky, ktoré využívajú taxonomický termín '{{ .Title }}'"
 
 [readingTime]
-one = "Jedna minúta čítania"
-other = "{{ .Count }} minút čítania"
+one = "Prečítanie za jednu minútu"
+other = "Prečítanie za {{ .Count }} minút"
 
 [wordCount]
 one = "Jedno slovo"
@@ -55,15 +55,25 @@ other = "{{ .Count }} slov"
 other = "Stránka {{ .Name }}"
 
 [current_lang]
-other = "Aktuálne"
+other = "Aktuálny"
 
 [open_gdoc]
 other = "📄 Otvoriť príručku v Google Docs"
+
 [site_hub_title]
-other = "Centrum 101 Jazykov"
+other = "Centrum 101 jazykov"
 
 [hero_welcome]
-other = "Vitajte v 101-jazykovom publikačnom centre s podporou AI!"
+other = "Vitajte v 101-jazykovom polo-AI publikačnom centre!"
 
 [hero_subtitle]
 other = "Umelá inteligencia pomáha prekonávať jazykové bariéry!"
+
+[embedded_gdoc_title]
+other = "Vložený dokument Google Docs"
+
+[toggle_embed_hint]
+other = "kliknite pre zbalenie/rozbalenie"
+
+[open_gdoc_external]
+other = "Otvoriť v novom okne"

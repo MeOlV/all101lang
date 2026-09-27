@@ -8,7 +8,7 @@ other = "Sve {{ .Title }}"
 other = "Nedavno {{ .Title }}"
 
 [readMore]
-other = "Pročitajte više"
+other = "Pročitaj više"
 
 [by]
 other = "Autor"
@@ -35,16 +35,16 @@ other = "Email adresa je obavezna."
 other = "Pošalji"
 
 [editPage]
-other = "Poboljšajte ovu stranicu na GitHubu"
+other = "Unaprijedite ovu stranicu na GitHubu"
 
 [since]
 other = "Od"
 
 [taxonomyPageList]
-other = "Ispod ćete pronaći stranice koje koriste termin taksonomije '{{ .Title }}"
+other = "Ispod ćete pronaći stranice koje koriste taksonomski pojam '{{ .Title }}'"
 
 [readingTime]
-one = "Jedna minuta čitanja"
+one = "Jedna minuta čotheritanja"
 other = "{{ .Count }} minuta čitanja"
 
 [wordCount]
@@ -52,18 +52,28 @@ one = "Jedna riječ"
 other = "{{ .Count }} riječi"
 
 [pageTitle]
-other = "{{ .Name }} stranica"
+other = "Stranica {{ .Name }}"
 
 [current_lang]
-other = "Trenutno"
+other = "Trenutni"
 
 [open_gdoc]
 other = "📄 Otvorite priručnik u Google Docs"
+
 [site_hub_title]
-other = "Centar 101 Jezika"
+other = "Čvorište 101 jezik"
 
 [hero_welcome]
-other = "Dobrodošli u Izdavački centar za 101 jezik uz podršku Vještačke Inteligencije!"
+other = "Dobrodošli u Čvorište za polu-AI objavljivanje na 101 jeziku!"
 
 [hero_subtitle]
-other = "Vještačka inteligencija pomaže u prevazilaženju jezičkih barijera!"
+other = "Umjetna inteligencija pomaže u razbijanju jezičkih barijera!"
+
+[embedded_gdoc_title]
+other = "Ugrađeni Google Docs dokument"
+
+[toggle_embed_hint]
+other = "kliknite za sažimanje/proširenje"
+
+[open_gdoc_external]
+other = "Otvori u novom prozoru"

@@ -2,10 +2,10 @@
 other = "ਹੋਰ"
 
 [allTitle]
-other = "ਸਭ {{ .Title }}"
+other = "ਸਾਰੇ {{ .Title }}"
 
 [recentTitle]
-other = "ਤਾਜ਼ਾ {{ .Title }}"
+other = "ਹਾਲੀਆ {{ .Title }}"
 
 [readMore]
 other = "ਹੋਰ ਪੜ੍ਹੋ"
@@ -14,7 +14,7 @@ other = "ਹੋਰ ਪੜ੍ਹੋ"
 other = "ਦੁਆਰਾ"
 
 [whatsInThis]
-other = "ਇਸ {{ .Type }} ਵਿੱਚ ਕੀ ਹੈ?"
+other = "ਇਸ {{ .Type }} ਵਿੱਚ ਕੀ ਹੈ"
 
 [related]
 other = "ਸੰਬੰਧਿਤ"
@@ -29,23 +29,23 @@ other = "ਈਮੇਲ ਪਤਾ"
 other = "ਸੁਨੇਹਾ"
 
 [emailRequiredNote]
-other = "ਇੱਕ ਈਮੇਲ ਪਤੇ ਦੀ ਲੋੜ ਹੈ।"
+other = "ਇੱਕ ਈਮੇਲ ਪਤਾ ਲੋੜੀਂਦਾ ਹੈ।"
 
 [send]
 other = "ਭੇਜੋ"
 
 [editPage]
-other = "ਇਸ ਪੰਨੇ ਨੂੰ GitHub 'ਤੇ ਸੁਧਾਰੋ"
+other = "ਇਸ ਪੰਨੇ ਨੂੰ ਗਿੱਟਹੱਬ 'ਤੇ ਬਿਹਤਰ ਬਣਾਓ"
 
 [since]
 other = "ਤੋਂ"
 
 [taxonomyPageList]
-other = "ਹੇਠਾਂ ਤੁਹਾਨੂੰ ਉਹ ਪੰਨੇ ਮਿਲਣਗੇ ਜੋ ਸ਼੍ਰੇਣੀ ਸ਼ਬਦ '{{ .Title }}' ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਨ।"
+other = "ਹੇਠਾਂ ਤੁਹਾਨੂੰ ਉਹ ਪੰਨੇ ਮਿਲਣਗੇ ਜੋ ਸ਼੍ਰੇਣੀ ਸ਼ਬਦ '{{ .Title }}' ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਨ"
 
 [readingTime]
-one = "ਇੱਕ ਮਿੰਟ ਪੜ੍ਹੋ"
-other = "{{ .Count }} ਮਿੰਟ ਪੜ੍ਹੋ"
+one = "ਇੱਕ ਮਿੰਟ ਦੀ ਰੀਡ"
+other = "{{ .Count }} ਮਿੰਟ ਦੀ ਰੀਡ"
 
 [wordCount]
 one = "ਇੱਕ ਸ਼ਬਦ"
@@ -55,15 +55,25 @@ other = "{{ .Count }} ਸ਼ਬਦ"
 other = "{{ .Name }} ਪੰਨਾ"
 
 [current_lang]
-other = "ਮੌਜੂਦਾ"
+other = "ਵਰਤਮਾਨ"
 
 [open_gdoc]
-other = "📄 ਮੈਨੂਅਲ ਨੂੰ Google Docs ਵਿੱਚ ਖੋਲ੍ਹੋ"
+other = "📄 ਗੂਗਲ ਡੌਕਸ ਵਿੱਚ ਮੈਨੂਅਲ ਖੋਲ੍ਹੋ"
+
 [site_hub_title]
-other = "101 ਭਾਸ਼ਾਵਾਂ ਦਾ ਕੇਂਦਰ"
+other = "101 ਭਾਸ਼ਾਵਾਂ ਹੱਬ"
 
 [hero_welcome]
-other = "101-ਭਾਸ਼ਾਈ AI-ਸਮਰਥਿਤ ਪ੍ਰਕਾਸ਼ਨ ਕੇਂਦਰ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ!"
+other = "101-ਭਾਸ਼ਾਈ ਸੈਮੀ-ਏਆਈ ਪਬਲਿਸ਼ਿੰਗ ਹੱਬ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ!"
 
 [hero_subtitle]
-other = "ਆਰਟੀਫੀਸ਼ੀਅਲ ਇੰਟੈਲੀਜੈਂਸ ਭਾਸ਼ਾਈ ਰੁਕਾਵਟਾਂ ਤੋੜਨ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ!"
+other = "ਨਕਲੀ ਬੁੱਧੀ ਭਾਸ਼ਾਈ ਰੁਕਾਵਟਾਂ ਨੂੰ ਤੋੜਨ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ!"
+
+[embedded_gdoc_title]
+other = "ਐਮਬੈਡਡ ਗੂਗਲ ਡੌਕਸ ਦਸਤਾਵੇਜ਼"
+
+[toggle_embed_hint]
+other = "ਢਾਹੁਣ/ਵਿਸਤਾਰ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ"
+
+[open_gdoc_external]
+other = "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ"

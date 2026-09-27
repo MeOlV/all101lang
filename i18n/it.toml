@@ -8,13 +8,13 @@ other = "Tutti i {{ .Title }}"
 other = "Recenti {{ .Title }}"
 
 [readMore]
-other = "Leggi di più"
+other = "Leggi tutto"
 
 [by]
 other = "Di"
 
 [whatsInThis]
-other = "Contenuto di questo {{ .Type }}"
+other = "Cosa c'è in questo {{ .Type }}"
 
 [related]
 other = "Correlati"
@@ -23,13 +23,13 @@ other = "Correlati"
 other = "Il tuo nome"
 
 [emailAddress]
-other = "Indirizzo email"
+other = "Indirizzo e-mail"
 
 [message]
 other = "Messaggio"
 
 [emailRequiredNote]
-other = "È richiesto un indirizzo email."
+other = "È richiesto un indirizzo e-mail."
 
 [send]
 other = "Invia"
@@ -52,18 +52,28 @@ one = "Una parola"
 other = "{{ .Count }} parole"
 
 [pageTitle]
-other = "Pagina {{ .Name }}"
+other = "Pagina di {{ .Name }}"
 
 [current_lang]
 other = "Corrente"
 
 [open_gdoc]
-other = "📄 Apri il manuale in Google Docs"
+other = "📄 Apri manuale in Google Docs"
+
 [site_hub_title]
-other = "Hub Linguistico 101"
+other = "Hub 101 Lingue"
 
 [hero_welcome]
-other = "Benvenuto nell'Hub di Pubblicazione per 101 Lingue assistito dall'IA!"
+other = "Benvenuto nell'Hub di Pubblicazione Semi-AI in 101 Lingue!"
 
 [hero_subtitle]
-other = "L'Intelligenza Artificiale aiuta a superare le barriere linguistiche!"
+other = "L'Intelligenza Artificiale aiuta ad abbattere le barriere linguistiche!"
+
+[embedded_gdoc_title]
+other = "Documento Google Docs incorporato"
+
+[toggle_embed_hint]
+other = "clicca per comprimere/espandere"
+
+[open_gdoc_external]
+other = "Apri in una nuova finestra"

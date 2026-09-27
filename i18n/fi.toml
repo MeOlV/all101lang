@@ -5,19 +5,19 @@ other = "Lisää"
 other = "Kaikki {{ .Title }}"
 
 [recentTitle]
-other = "Viimeisimmät {{ .Title }}"
+other = "Viimeaikaiset {{ .Title }}"
 
 [readMore]
 other = "Lue lisää"
 
 [by]
-other = "Tekijä"
+other = "Kirjoittaja"
 
 [whatsInThis]
-other = "Mitä tässä {{ .Type }}ssa on?"
+other = "Mitä tässä {{ .Type }}ssa on"
 
 [related]
-other = "Aiheeseen liittyvää"
+other = "Liittyvät"
 
 [yourName]
 other = "Nimesi"
@@ -38,14 +38,14 @@ other = "Lähetä"
 other = "Paranna tätä sivua GitHubissa"
 
 [since]
-other = "Vuodesta"
+other = "alkaen"
 
 [taxonomyPageList]
-other = "Alla on sivuja, jotka käyttävät taksonomiatermiä '{{ .Title }}"
+other = "Alta löydät sivuja, jotka käyttävät taksonomiatermiä '{{ .Title }}'"
 
 [readingTime]
-one = "Yhden minuutin luku"
-other = "{{ .Count }} minuutin luku"
+one = "Yhden minuutin lukuaika"
+other = "{{ .Count }} minuutin lukuaika"
 
 [wordCount]
 one = "Yksi sana"
@@ -58,12 +58,22 @@ other = "{{ .Name }} sivu"
 other = "Nykyinen"
 
 [open_gdoc]
-other = "📄 Avaa käsikirja Google Docsissa"
+other = "📄 Avaa opas Google Docsissa"
+
 [site_hub_title]
 other = "101 kielen keskus"
 
 [hero_welcome]
-other = "Tervetuloa 101 kielen tekoälyavusteiseen julkaisukeskukseen!"
+other = "Tervetuloa 101 kielen puoli-AI-julkaisukeskukseen!"
 
 [hero_subtitle]
 other = "Tekoäly auttaa murtamaan kielimuurit!"
+
+[embedded_gdoc_title]
+other = "Upotettu Google Docs -asiakirja"
+
+[toggle_embed_hint]
+other = "klikkaa kutistaaksesi/laajentaaksesi"
+
+[open_gdoc_external]
+other = "Avaa uudessa ikkunassa"
