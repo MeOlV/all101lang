@@ -4,7 +4,7 @@ title = "101-мовний осередок"
 theme = "ananke"
 
 defaultContentLanguage = "uk"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 [params]
   disable_language_toggle = true
@@ -525,3 +525,6 @@ defaultContentLanguageInSubdir = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "SITEMAP"]

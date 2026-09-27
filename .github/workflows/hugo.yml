@@ -1,4 +1,4 @@
-name: Deploy Hugo site to Pages
+name: 🚀 Build & Deploy 101-lang Hugo Site to Pages
 
 on:
   push:
