@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>‏نثر، لکڻ، ترجمو، گوگل دستاويز، خودڪار on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/sd/tags/%D9%86%D8%AB%D8%B1-%D9%84%DA%A9%DA%BB-%D8%AA%D8%B1%D8%AC%D9%85%D9%88-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D9%8A%D8%B2-%D8%AE%D9%88%D8%AF%DA%AA%D8%A7%D8%B1/</link>
+		<link>http://localhost:1313/all101lang/sd/tags/%D9%86%D8%AB%D8%B1-%D9%84%DA%A9%DA%BB-%D8%AA%D8%B1%D8%AC%D9%85%D9%88-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D9%8A%D8%B2-%D8%AE%D9%88%D8%AF%DA%AA%D8%A7%D8%B1/</link>
 		<description>Recent content in ‏نثر، لکڻ، ترجمو، گوگل دستاويز، خودڪار on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sd</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/sd/tags/%D9%86%D8%AB%D8%B1-%D9%84%DA%A9%DA%BB-%D8%AA%D8%B1%D8%AC%D9%85%D9%88-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D9%8A%D8%B2-%D8%AE%D9%88%D8%AF%DA%AA%D8%A7%D8%B1/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/sd/tags/%D9%86%D8%AB%D8%B1-%D9%84%DA%A9%DA%BB-%D8%AA%D8%B1%D8%AC%D9%85%D9%88-%DA%AF%D9%88%DA%AF%D9%84-%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D9%8A%D8%B2-%D8%AE%D9%88%D8%AF%DA%AA%D8%A7%D8%B1/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>پنهنجي ڪتاب کي منٽن ۾ 101 ٻولين ۾ ڪيئن ترجمو ڪجي</title>
-				<link>https://meolv.github.io/all101lang/sd/announcement/</link>
+				<link>http://localhost:1313/all101lang/sd/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sd/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/sd/announcement/</guid>
 				<description>&lt;p&gt;جيمينائي ٽول ۽ گوگل ڊاڪس ۾ معياري مترجم مون کي متن کي عالمي سطح تي تقريبن فوري طور تي ۽ گهٽ ۾ گهٽ قيمت تي اسڪيل ڪرڻ جي اجازت ڏني آهي. منهنجي پنهنجي بيچ پروسيسنگ اسڪرپٽ جي مهرباني، مان هڪ خدمت پيش ڪريان ٿو ته توهان جي دستاويز کي دستي مداخلت کان سواءِ 100 کان وڌيڪ ٻولين ۾ جلدي ترجمو ڪري سگهان ٿو.&lt;br&gt;&#xA;اهو ڇو ڪم ڪري ٿو:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;انتهائي تيز: 15 منٽن ۾ 101 ٻوليون (48,000 لفظن واري دستاويز لاءِ في ٻولي ≈ 9 سيڪنڊ).&lt;/li&gt;&#xA;&lt;li&gt;اسڪيليبلٽي: عنوان، فهرستون، ٽيبل، ۽ تصويرون محفوظ ڪريو.&lt;/li&gt;&#xA;&lt;li&gt;بچت: هڪ ڪتاب کي 101 ٻولين ۾ ترجمو ڪرڻ جي قيمت صرف €5 / $6 آهي.&lt;br&gt;&#xA;هيٺ توهان کي پنهنجي ڪم جي 101 هين ترجمي جي آرڊر لاءِ مڪمل هدايتون ۽ شرطون ملنديون.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/sr/tags/</link>
+		<link>http://localhost:1313/all101lang/sr/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sr</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/sr/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/sr/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Google Документи</title>
-				<link>https://meolv.github.io/all101lang/sr/tags/google-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/</link>
+				<link>http://localhost:1313/all101lang/sr/tags/google-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sr/tags/google-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/</guid>
+				<guid>http://localhost:1313/all101lang/sr/tags/google-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Аутоматизација</title>
-				<link>https://meolv.github.io/all101lang/sr/tags/%D0%B0%D1%83%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%98%D0%B0/</link>
+				<link>http://localhost:1313/all101lang/sr/tags/%D0%B0%D1%83%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%98%D0%B0/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sr/tags/%D0%B0%D1%83%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%98%D0%B0/</guid>
+				<guid>http://localhost:1313/all101lang/sr/tags/%D0%B0%D1%83%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%98%D0%B0/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Писање</title>
-				<link>https://meolv.github.io/all101lang/sr/tags/%D0%BF%D0%B8%D1%81%D0%B0%D1%9A%D0%B5/</link>
+				<link>http://localhost:1313/all101lang/sr/tags/%D0%BF%D0%B8%D1%81%D0%B0%D1%9A%D0%B5/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sr/tags/%D0%BF%D0%B8%D1%81%D0%B0%D1%9A%D0%B5/</guid>
+				<guid>http://localhost:1313/all101lang/sr/tags/%D0%BF%D0%B8%D1%81%D0%B0%D1%9A%D0%B5/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Преводи</title>
-				<link>https://meolv.github.io/all101lang/sr/tags/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8/</link>
+				<link>http://localhost:1313/all101lang/sr/tags/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sr/tags/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8/</guid>
+				<guid>http://localhost:1313/all101lang/sr/tags/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Проза</title>
-				<link>https://meolv.github.io/all101lang/sr/tags/%D0%BF%D1%80%D0%BE%D0%B7%D0%B0/</link>
+				<link>http://localhost:1313/all101lang/sr/tags/%D0%BF%D1%80%D0%BE%D0%B7%D0%B0/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sr/tags/%D0%BF%D1%80%D0%BE%D0%B7%D0%B0/</guid>
+				<guid>http://localhost:1313/all101lang/sr/tags/%D0%BF%D1%80%D0%BE%D0%B7%D0%B0/</guid>
 				<description></description>
 			</item>
 	</channel>

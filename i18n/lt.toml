@@ -35,17 +35,17 @@ other = "Būtinas el. pašto adresas."
 other = "Siųsti"
 
 [editPage]
-other = "Patobulinkite šį puslapį GitHub'e"
+other = "Tobulinti šį puslapį GitHub'e"
 
 [since]
 other = "Nuo"
 
 [taxonomyPageList]
-other = "Žemiau rasite puslapių, kurie naudoja taksonomijos terminą „{{ .Title }}“"
+other = "Žemiau rasite puslapius, kurie naudoja taksonomijos terminą '{{ .Title }}'"
 
 [readingTime]
-one = "Skaitymas trunka minutę"
-other = "Skaitymas trunka {{ .Count }} minučių"
+one = "Viena minutė skaitymo"
+other = "{{ .Count }} minučių skaitymo"
 
 [wordCount]
 one = "Vienas žodis"
@@ -58,4 +58,12 @@ other = "{{ .Name }} puslapis"
 other = "Dabartinė"
 
 [open_gdoc]
-other = "📄 Atidaryti vadovą „Google Docs“"
+other = "📄 Atidaryti vadovą Google Docs"
+[site_hub_title]
+other = "101 Kalbų Centras"
+
+[hero_welcome]
+other = "Sveiki atvykę į 101 kalbos DI pagalba veikiantį leidybos centrą!"
+
+[hero_subtitle]
+other = "Dirbtinis intelektas padeda įveikti kalbos barjerus!"

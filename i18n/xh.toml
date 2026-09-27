@@ -1,14 +1,14 @@
 [more]
-other = "Okunye"
+other = "Okungaphezulu"
 
 [allTitle]
-other = "Zonke {{ .Title }}"
+other = "Konke {{ .Title }}"
 
 [recentTitle]
-other = "Zamva nje {{ .Title }}"
+other = "Ezakutshanje {{ .Title }}"
 
 [readMore]
-other = "Funda ngaphezulu"
+other = "Funda ngakumbi"
 
 [by]
 other = "Ngu"
@@ -20,7 +20,7 @@ other = "Yintoni ekule {{ .Type }}?"
 other = "Ezinxulumene"
 
 [yourName]
-other = "Igama lakho"
+other = "Igama Lakho"
 
 [emailAddress]
 other = "Idilesi ye-imeyile"
@@ -35,27 +35,35 @@ other = "Kufuneka idilesi ye-imeyile."
 other = "Thumela"
 
 [editPage]
-other = "Phucula eli phepha kwiGitHub"
+other = "Phucula le pheji kuGitHub"
 
 [since]
 other = "Ukususela"
 
 [taxonomyPageList]
-other = "Apha ngezantsi uya kufumana amaphepha asebenzisa igama le-taxonomy elithi “{{ .Title }}”"
+other = "Apha ngezantsi uya kufumana amapheji asebenzisa igama elithi '{{ .Title }}'"
 
 [readingTime]
-one = "Umzuzu omnye wokufunda"
-other = "Imizuzu eli-{{ .Count }} yokufunda"
+one = "Ukufunda komzuzu omnye"
+other = "Ukufunda kwemizuzu engama-{{ .Count }}"
 
 [wordCount]
 one = "Igama elinye"
-other = "Amagama ali-{{ .Count }}"
+other = "Amagama angama-{{ .Count }}"
 
 [pageTitle]
-other = "Iphepha lika-{{ .Name }}"
+other = "Ipheji ye-{{ .Name }}"
 
 [current_lang]
 other = "Yangoku"
 
 [open_gdoc]
-other = "📄 Vula incwadi yesikhokelo kwiGoogle Docs"
+other = "📄 Vula incwadi yesikhokelo kuGoogle Docs"
+[site_hub_title]
+other = "Iziko leeLwimi eziyi-101"
+
+[hero_welcome]
+other = "Wamkelekile kwiQonga loPapasho leeLwimi eziyi-101 oluNcediswa yi-AI!"
+
+[hero_subtitle]
+other = "I-AI inceda ukoyisa izithintelo zolwimi!"

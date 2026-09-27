@@ -2,10 +2,10 @@
 other = "עוד"
 
 [allTitle]
-other = "כל ה-{{ .Title }}"
+other = "כל {{ .Title }}"
 
 [recentTitle]
-other = "האחרונים ב-{{ .Title }}"
+other = "אחרונים {{ .Title }}"
 
 [readMore]
 other = "קרא עוד"
@@ -14,7 +14,7 @@ other = "קרא עוד"
 other = "מאת"
 
 [whatsInThis]
-other = "מה יש ב-{{ .Type }} זה"
+other = "מה יש ב-{{ .Type }} הזה"
 
 [related]
 other = "קשור"
@@ -29,7 +29,7 @@ other = "כתובת אימייל"
 other = "הודעה"
 
 [emailRequiredNote]
-other = "נדרשת כתובת אימייל."
+other = "כתובת אימייל נדרשת."
 
 [send]
 other = "שלח"
@@ -41,7 +41,7 @@ other = "שפר דף זה ב-GitHub"
 other = "מאז"
 
 [taxonomyPageList]
-other = "להלן תמצא דפים המשתמשים במונח הטקסונומי "{{ .Title }}""
+other = "להלן דפים המשתמשים במונח הטקסונומי '{{ .Title }}'"
 
 [readingTime]
 one = "קריאה של דקה אחת"
@@ -55,7 +55,15 @@ other = "{{ .Count }} מילים"
 other = "דף {{ .Name }}"
 
 [current_lang]
-other = "נוכחית"
+other = "נוכחי"
 
 [open_gdoc]
 other = "📄 פתח מדריך ב-Google Docs"
+[site_hub_title]
+other = "מוקד 101 השפות"
+
+[hero_welcome]
+other = "ברוכים הבאים למוקד ההוצאה לאור בסיוע בינה מלאכותית ב-101 שפות!"
+
+[hero_subtitle]
+other = "בינה מלאכותית עוזרת לשבור מחסומי שפה!"

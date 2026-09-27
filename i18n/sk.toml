@@ -2,10 +2,10 @@
 other = "Viac"
 
 [allTitle]
-other = "Všetky {{ .Title }}"
+other = "Všetko {{ .Title }}"
 
 [recentTitle]
-other = "Najnovšie {{ .Title }}"
+other = "Nedávne {{ .Title }}"
 
 [readMore]
 other = "Čítať viac"
@@ -14,7 +14,7 @@ other = "Čítať viac"
 other = "Autor"
 
 [whatsInThis]
-other = "Čo je v tomto {{ .Type }}"
+other = "Čo obsahuje tento {{ .Type }}"
 
 [related]
 other = "Súvisiace"
@@ -41,7 +41,7 @@ other = "Vylepšiť túto stránku na GitHub-e"
 other = "Od"
 
 [taxonomyPageList]
-other = "Nižšie nájdete stránky, ktoré využívajú taxonomický termín „{{ .Title }}“"
+other = "Nižšie nájdete stránky, ktoré využívajú taxonomický termín '{{ .Title }}'"
 
 [readingTime]
 one = "Jedna minúta čítania"
@@ -55,7 +55,15 @@ other = "{{ .Count }} slov"
 other = "Stránka {{ .Name }}"
 
 [current_lang]
-other = "Aktuálny"
+other = "Aktuálne"
 
 [open_gdoc]
-other = "📄 Otvoriť príručku v Dokumentoch Google"
+other = "📄 Otvoriť príručku v Google Docs"
+[site_hub_title]
+other = "Centrum 101 Jazykov"
+
+[hero_welcome]
+other = "Vitajte v 101-jazykovom publikačnom centre s podporou AI!"
+
+[hero_subtitle]
+other = "Umelá inteligencia pomáha prekonávať jazykové bariéry!"

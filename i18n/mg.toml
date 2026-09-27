@@ -8,16 +8,16 @@ other = "Rehetra {{ .Title }}"
 other = "Vao haingana {{ .Title }}"
 
 [readMore]
-other = "Vakio bebe kokoa"
+other = "Tohizo vakina"
 
 [by]
 other = "Nataon'i"
 
 [whatsInThis]
-other = "Inona no ao anatin'ity {{ .Type }} ity"
+other = "Inona no ao anatin'ity {{ .Type }} ity?"
 
 [related]
-other = "Mifandraika"
+other = "Mifandray"
 
 [yourName]
 other = "Ny Anaranao"
@@ -35,17 +35,17 @@ other = "Ilaina ny adiresy mailaka."
 other = "Alefaso"
 
 [editPage]
-other = "Hatsarao ity pejy ity ao amin'ny GitHub"
+other = "Amboary ity pejy ity ao amin'ny GitHub"
 
 [since]
 other = "Hatramin'ny"
 
 [taxonomyPageList]
-other = "Eo ambany ianao dia hahita pejy mampiasa ny teny fanasokajiana “{{ .Title }}”"
+other = "Eto ambany ianao dia hahita pejy mampiasa ny teny fanasokajiana '{{ .Title }}'"
 
 [readingTime]
-one = "Vakiana iray minitra"
-other = "Vakiana {{ .Count }} minitra"
+one = "Famakiana iray minitra"
+other = "Famakiana {{ .Count }} minitra"
 
 [wordCount]
 one = "Teny iray"
@@ -58,4 +58,12 @@ other = "Pejy {{ .Name }}"
 other = "Ankehitriny"
 
 [open_gdoc]
-other = "📄 Sokafy ny torolalana ao amin'ny Google Docs"
+other = "📄 Sokafy ny boky torolalana ao amin'ny Google Docs"
+[site_hub_title]
+other = "Foiben'ny Fiteny 101"
+
+[hero_welcome]
+other = "Tongasoa eto amin'ny Foiben'ny Famoahana amin'ny Fiteny 101, Ampian'ny Faharanitan-tsaina Artifisialy!"
+
+[hero_subtitle]
+other = "Manampy handresy ny sakana ara-piteny ny Faharanitan-tsaina Artifisialy!"

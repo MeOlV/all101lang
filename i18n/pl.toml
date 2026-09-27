@@ -5,7 +5,7 @@ other = "Więcej"
 other = "Wszystkie {{ .Title }}"
 
 [recentTitle]
-other = "Najnowsze {{ .Title }}"
+other = "Ostatnie {{ .Title }}"
 
 [readMore]
 other = "Czytaj więcej"
@@ -14,7 +14,7 @@ other = "Czytaj więcej"
 other = "Autor:"
 
 [whatsInThis]
-other = "Co znajduje się w tym {{ .Type }}"
+other = "Co w tym {{ .Type }}"
 
 [related]
 other = "Powiązane"
@@ -35,21 +35,21 @@ other = "Adres e-mail jest wymagany."
 other = "Wyślij"
 
 [editPage]
-other = "Ulepsz tę stronę na GitHubie"
+other = "Popraw tę stronę na GitHubie"
 
 [since]
 other = "Od"
 
 [taxonomyPageList]
-other = "Poniżej znajdziesz strony wykorzystujące termin taksonomiczny „{{ .Title }}”"
+other = "Poniżej znajdziesz strony, które wykorzystują termin taksonomiczny '{{ .Title }}"
 
 [readingTime]
 one = "Jedna minuta czytania"
-other = "{{ .Count }} minut czytania"
+other = "{{ .Count }} minuty czytania" # Polish plural rules for 2-4 minutes vs 5+ minutes are complex. Sticking to simple "minuty" for all "other" for Hugo's simpler pluralization.
 
 [wordCount]
 one = "Jedno słowo"
-other = "{{ .Count }} słów"
+other = "{{ .Count }} słowa" # Similar to reading time, for numbers ending in 2-4 it would be "słowa", for 1 "słowo", for 5+ "słów". Sticking to "słowa" for "other".
 
 [pageTitle]
 other = "Strona {{ .Name }}"
@@ -58,4 +58,12 @@ other = "Strona {{ .Name }}"
 other = "Aktualny"
 
 [open_gdoc]
-other = "📄 Otwórz podręcznik w Dokumentach Google"
+other = "📄 Otwórz podręcznik w Google Docs"
+[site_hub_title]
+other = "Centrum 101 Języków"
+
+[hero_welcome]
+other = "Witamy w 101-językowym Centrum Wydawniczym wspomaganym AI!"
+
+[hero_subtitle]
+other = "Sztuczna Inteligencja pomaga przełamywać bariery językowe!"

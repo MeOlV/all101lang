@@ -14,7 +14,7 @@ other = "Lees meer"
 other = "Deur"
 
 [whatsInThis]
-other = "Wat is hierin {{ .Type }}"
+other = "Wat is in hierdie {{ .Type }}"
 
 [related]
 other = "Verwant"
@@ -29,7 +29,7 @@ other = "E-posadres"
 other = "Boodskap"
 
 [emailRequiredNote]
-other = "'n E-posadres word vereis."
+other = "'n E-posadres is verpligtend."
 
 [send]
 other = "Stuur"
@@ -41,10 +41,10 @@ other = "Verbeter hierdie bladsy op GitHub"
 other = "Sedert"
 
 [taxonomyPageList]
-other = "Hieronder sal u bladsye vind wat die taksonomieterm “{{ .Title }}” gebruik"
+other = "Hieronder vind jy bladsye wat die taksonomie term '{{ .Title }}' gebruik"
 
 [readingTime]
-one = "'n Minuut lees"
+one = "Een minuut lees"
 other = "{{ .Count }} minute lees"
 
 [wordCount]
@@ -59,3 +59,11 @@ other = "Huidige"
 
 [open_gdoc]
 other = "📄 Maak handleiding in Google Docs oop"
+[site_hub_title]
+other = "101 Tale Spilpunt"
+
+[hero_welcome]
+other = "Welkom by die 101-Taal KI-ondersteunde Publiseringspilpunt!"
+
+[hero_subtitle]
+other = "Kunsmatige Intelligensie help om taalversperrings te oorkom!"

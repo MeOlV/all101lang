@@ -23,13 +23,13 @@ other = "Rilataj"
 other = "Via Nomo"
 
 [emailAddress]
-other = "Retpoŝta Adreso"
+other = "Retpoŝtadreso"
 
 [message]
 other = "Mesaĝo"
 
 [emailRequiredNote]
-other = "Retpoŝta adreso estas postulata."
+other = "Retpoŝtadreso estas postulata."
 
 [send]
 other = "Sendi"
@@ -41,11 +41,11 @@ other = "Plibonigu ĉi tiun paĝon en GitHub"
 other = "Ekde"
 
 [taxonomyPageList]
-other = "Malsupre vi trovos paĝojn, kiuj utiligas la taksonomian terminon “{{ .Title }}”"
+other = "Malsupre vi trovos paĝojn, kiuj uzas la taksonomian terminon '{{ .Title }}'"
 
 [readingTime]
-one = "Unu-minuta legado"
-other = "{{ .Count }} minutoj da legado"
+one = "Unu minutlegado"
+other = "{{ .Count }} minutoj de legado"
 
 [wordCount]
 one = "Unu vorto"
@@ -58,4 +58,12 @@ other = "Paĝo de {{ .Name }}"
 other = "Nuna"
 
 [open_gdoc]
-other = "📄 Malfermi gvidilon en Google Docs"
+other = "📄 Malfermu manlibron en Google Docs"
+[site_hub_title]
+other = "101-Lingva Centro"
+
+[hero_welcome]
+other = "Bonvenon al la 101-lingva AI-asistata Eldonada Platformo!"
+
+[hero_subtitle]
+other = "Artefarita Inteligenteco helpas rompi lingvajn barojn!"

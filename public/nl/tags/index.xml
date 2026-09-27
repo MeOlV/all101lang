@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/nl/tags/</link>
+		<link>http://localhost:1313/all101lang/nl/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>nl</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/nl/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/nl/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Automatisering</title>
-				<link>https://meolv.github.io/all101lang/nl/tags/automatisering/</link>
+				<link>http://localhost:1313/all101lang/nl/tags/automatisering/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/nl/tags/automatisering/</guid>
+				<guid>http://localhost:1313/all101lang/nl/tags/automatisering/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Docs</title>
-				<link>https://meolv.github.io/all101lang/nl/tags/google-docs/</link>
+				<link>http://localhost:1313/all101lang/nl/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/nl/tags/google-docs/</guid>
+				<guid>http://localhost:1313/all101lang/nl/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Proza</title>
-				<link>https://meolv.github.io/all101lang/nl/tags/proza/</link>
+				<link>http://localhost:1313/all101lang/nl/tags/proza/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/nl/tags/proza/</guid>
+				<guid>http://localhost:1313/all101lang/nl/tags/proza/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Schrijven</title>
-				<link>https://meolv.github.io/all101lang/nl/tags/schrijven/</link>
+				<link>http://localhost:1313/all101lang/nl/tags/schrijven/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/nl/tags/schrijven/</guid>
+				<guid>http://localhost:1313/all101lang/nl/tags/schrijven/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Vertalingen</title>
-				<link>https://meolv.github.io/all101lang/nl/tags/vertalingen/</link>
+				<link>http://localhost:1313/all101lang/nl/tags/vertalingen/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/nl/tags/vertalingen/</guid>
+				<guid>http://localhost:1313/all101lang/nl/tags/vertalingen/</guid>
 				<description></description>
 			</item>
 	</channel>

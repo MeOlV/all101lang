@@ -20,16 +20,16 @@ other = "Wat sit hjiryn {{ .Type }}"
 other = "Besibbe"
 
 [yourName]
-other = "Jo Namme"
+other = "Jo namme"
 
 [emailAddress]
-other = "E-postadres"
+other = "E-mailadres"
 
 [message]
 other = "Berjocht"
 
 [emailRequiredNote]
-other = "In e-postadres is ferplichte."
+other = "In e-mailadres is ferplichte."
 
 [send]
 other = "Ferstjoer"
@@ -41,7 +41,7 @@ other = "Ferbetterje dizze side op GitHub"
 other = "Sûnt"
 
 [taxonomyPageList]
-other = "Hjirûnder fine jo siden dy't de taksonomyterm “{{ .Title }}” brûke"
+other = "Hjirûnder fine jo siden dy't de taksonomyterm '{{ .Title }}' brûke."
 
 [readingTime]
 one = "Ien minút lêstiid"
@@ -55,7 +55,15 @@ other = "{{ .Count }} wurden"
 other = "{{ .Name }} side"
 
 [current_lang]
-other = "Hjoeddeistich"
+other = "Aktueel"
 
 [open_gdoc]
 other = "📄 Iepenje hânlieding yn Google Docs"
+[site_hub_title]
+other = "101 Talen Spil"
+
+[hero_welcome]
+other = "Wolkom by it 101-talige AI-assisteare Publikaasjespil!"
+
+[hero_subtitle]
+other = "Keunstmjittige Yntelliginsje helpt taalbarriêres trochbrekke!"

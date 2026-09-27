@@ -5,16 +5,16 @@ other = "మరింత"
 other = "అన్ని {{ .Title }}"
 
 [recentTitle]
-other = "తాజా {{ .Title }}"
+other = "ఇటీవలి {{ .Title }}"
 
 [readMore]
-other = "ఇంకా చదవండి"
+other = "మరింత చదవండి"
 
 [by]
 other = "ద్వారా"
 
 [whatsInThis]
-other = "ఈ {{ .Type }} లో ఏముంది?"
+other = "ఈ {{ .Type }}లో ఏముంది?"
 
 [related]
 other = "సంబంధిత"
@@ -32,20 +32,20 @@ other = "సందేశం"
 other = "ఇమెయిల్ చిరునామా అవసరం."
 
 [send]
-other = "పంపండి"
+other = "పంపించు"
 
 [editPage]
-other = "GitHubలో ఈ పేజీని మెరుగుపరచండి"
+other = "ఈ పేజీని గిట్‌హబ్‌లో మెరుగుపరచండి"
 
 [since]
 other = "నుండి"
 
 [taxonomyPageList]
-other = "దిగువన మీరు “{{ .Title }}” వర్గీకరణ పదాన్ని ఉపయోగించే పేజీలను కనుగొంటారు"
+other = "కింద మీరు '{{ .Title }}' అనే వర్గీకరణ పదాన్ని ఉపయోగించే పేజీలను కనుగొంటారు"
 
 [readingTime]
-one = "ఒక నిమిషం చదువు"
-other = "{{ .Count }} నిమిషాల చదువు"
+one = "ఒక నిమిషం చదవడానికి"
+other = "{{ .Count }} నిమిషాలు చదవడానికి"
 
 [wordCount]
 one = "ఒక పదం"
@@ -58,4 +58,12 @@ other = "{{ .Name }} పేజీ"
 other = "ప్రస్తుత"
 
 [open_gdoc]
-other = "📄 Google డాక్స్ లో మాన్యువల్ తెరవండి"
+other = "📄 గూగుల్ డాక్స్ లో మాన్యువల్ తెరవండి"
+[site_hub_title]
+other = "101 భాషల వేదిక"
+
+[hero_welcome]
+other = "101 భాషల కృత్రిమ మేధ సహాయక పబ్లిషింగ్ వేదికకు స్వాగతం!"
+
+[hero_subtitle]
+other = "కృత్రిమ మేధ భాషా అడ్డంకులను తొలగించడంలో సహాయపడుతుంది!"

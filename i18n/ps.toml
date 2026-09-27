@@ -5,7 +5,7 @@ other = "نور"
 other = "ټول {{ .Title }}"
 
 [recentTitle]
-other = "تازه {{ .Title }}"
+other = "وروستي {{ .Title }}"
 
 [readMore]
 other = "نور ولولئ"
@@ -23,25 +23,25 @@ other = "اړوند"
 other = "ستاسو نوم"
 
 [emailAddress]
-other = "برېښنالیک پته"
+other = "بریښنالیک پته"
 
 [message]
 other = "پیغام"
 
 [emailRequiredNote]
-other = "برېښنالیک پته اړینه ده."
+other = "بریښنالیک پته اړینه ده."
 
 [send]
-other = "ولیږئ"
+other = "استول"
 
 [editPage]
 other = "دا پاڼه په GitHub کې ښه کړئ"
 
 [since]
-other = "څخه"
+other = "له"
 
 [taxonomyPageList]
-other = "لاندې به هغه پاڼې ومومئ چې د "{{ .Title }}" ډلبندۍ اصطلاح کاروي"
+other = "لاندې به هغه پاڼې ومومئ چې د 'ټیکسنامي اصطلاح' '{{ .Title }}' څخه ګټه اخلي"
 
 [readingTime]
 one = "یوه دقیقه لوستل"
@@ -52,10 +52,18 @@ one = "یوه کلمه"
 other = "{{ .Count }} کلمې"
 
 [pageTitle]
-other = "{{ .Name }} پاڼه"
+other = "د {{ .Name }} پاڼه"
 
 [current_lang]
 other = "اوسنۍ"
 
 [open_gdoc]
-other = "📄 لارښود د ګوګل ډاکس کې خلاص کړئ"
+other = "📄 لارښود په ګوګل ډاکس کې پرانیزئ"
+[site_hub_title]
+other = "101 ਭਾਸ਼ਾਵਾਂ ਕੇਂਦਰ"
+
+[hero_welcome]
+other = "101 ਭਾਸ਼ਾਈ AI ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ ਪ੍ਰਕਾਸ਼ਨ ਕੇਂਦਰ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ!"
+
+[hero_subtitle]
+other = "ਨਕਲੀ ਬੁੱਧੀ ਭਾਸ਼ਾ ਦੀਆਂ ਰੁਕਾਵਟਾਂ ਨੂੰ ਦੂਰ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ!"

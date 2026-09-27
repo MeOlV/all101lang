@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Prozë on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/sq/tags/proz%C3%AB/</link>
+		<link>http://localhost:1313/all101lang/sq/tags/proz%C3%AB/</link>
 		<description>Recent content in Prozë on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sq</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/sq/tags/proz%C3%AB/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/sq/tags/proz%C3%AB/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Si ta përktheni librin tuaj në 101 gjuhë brenda pak minutash</title>
-				<link>https://meolv.github.io/all101lang/sq/announcement/</link>
+				<link>http://localhost:1313/all101lang/sq/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sq/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/sq/announcement/</guid>
 				<description>&lt;p&gt;Mjeti Gemini dhe përkthyesi standard në Google Docs më kanë lejuar të shkallëzoj tekstet në një nivel global pothuajse menjëherë dhe me kosto minimale. Falë skriptit tim të përpunimit në grup, unë ofroj një shërbim për të përkthyer shpejt dokumentin tuaj në mbi 100 gjuhë pa ndërhyrje manuale.&lt;br&gt;&#xA;Pse funksionon:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultra-shpejt: 101 gjuhë në 15 minuta (≈ 9 sekonda për gjuhë për një dokument prej 48,000 fjalësh).&lt;/li&gt;&#xA;&lt;li&gt;Shkallueshmëria: Ruani titujt, listat, tabelat dhe imazhet.&lt;/li&gt;&#xA;&lt;li&gt;Kursime: Kostoja e përkthimit të një libri në 101 gjuhë është vetëm rreth 5 € / 6 dollarë.&lt;br&gt;&#xA;Më poshtë do të gjeni udhëzime dhe kushte të plota për porositjen e përkthimit të 101-të të veprës suaj.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

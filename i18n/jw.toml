@@ -5,7 +5,7 @@ other = "Liyane"
 other = "Kabeh {{ .Title }}"
 
 [recentTitle]
-other = "{{ .Title }} Paling Anyar"
+other = "{{ .Title }} Paling anyar"
 
 [readMore]
 other = "Waca liyane"
@@ -14,7 +14,7 @@ other = "Waca liyane"
 other = "Dening"
 
 [whatsInThis]
-other = "Apa isine {{ .Type }} iki?"
+other = "Isine apa wae ing {{ .Type }} iki?"
 
 [related]
 other = "Gegandhengan"
@@ -29,22 +29,22 @@ other = "Alamat Email"
 other = "Pesen"
 
 [emailRequiredNote]
-other = "Alamat email dibutuhake."
+other = "Alamat email wajib diisi."
 
 [send]
 other = "Kirim"
 
 [editPage]
-other = "Apikana kaca iki ing GitHub"
+other = "Apiki kaca iki ing GitHub"
 
 [since]
 other = "Wiwit"
 
 [taxonomyPageList]
-other = "Ing ngisor iki panjenengan bakal nemokake kaca-kaca sing nggunakake istilah taksonomi “{{ .Title }}”"
+other = "Ing ngisor iki ana kaca-kaca sing nggunakake istilah taksonomi '{{ .Title }}'"
 
 [readingTime]
-one = "Wacan semenit"
+one = "Wacan sakmenit"
 other = "Wacan {{ .Count }} menit"
 
 [wordCount]
@@ -58,4 +58,12 @@ other = "Kaca {{ .Name }}"
 other = "Saiki"
 
 [open_gdoc]
-other = "📄 Mbukak Buku Panduan ing Google Docs"
+other = "📄 Bukak manual ing Google Docs"
+[site_hub_title]
+other = "Pusat 101 Basa"
+
+[hero_welcome]
+other = "Sugeng rawuh ing Pusat Penerbitan 101 Basa Kanthi Bantuan AI!"
+
+[hero_subtitle]
+other = "Kecerdasan Buatan mbiyantu ngatasi alangan basa!"

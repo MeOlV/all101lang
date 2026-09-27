@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/gd/tags/</link>
+		<link>http://localhost:1313/all101lang/gd/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>gd</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/gd/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/gd/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Eadar-Theangachaidhean</title>
-				<link>https://meolv.github.io/all101lang/gd/tags/eadar-theangachaidhean/</link>
+				<link>http://localhost:1313/all101lang/gd/tags/eadar-theangachaidhean/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/gd/tags/eadar-theangachaidhean/</guid>
+				<guid>http://localhost:1313/all101lang/gd/tags/eadar-theangachaidhean/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fèin-Ghluasad</title>
-				<link>https://meolv.github.io/all101lang/gd/tags/f%C3%A8in-ghluasad/</link>
+				<link>http://localhost:1313/all101lang/gd/tags/f%C3%A8in-ghluasad/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/gd/tags/f%C3%A8in-ghluasad/</guid>
+				<guid>http://localhost:1313/all101lang/gd/tags/f%C3%A8in-ghluasad/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Docs</title>
-				<link>https://meolv.github.io/all101lang/gd/tags/google-docs/</link>
+				<link>http://localhost:1313/all101lang/gd/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/gd/tags/google-docs/</guid>
+				<guid>http://localhost:1313/all101lang/gd/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Rosg</title>
-				<link>https://meolv.github.io/all101lang/gd/tags/rosg/</link>
+				<link>http://localhost:1313/all101lang/gd/tags/rosg/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/gd/tags/rosg/</guid>
+				<guid>http://localhost:1313/all101lang/gd/tags/rosg/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sgrìobhadh</title>
-				<link>https://meolv.github.io/all101lang/gd/tags/sgr%C3%ACobhadh/</link>
+				<link>http://localhost:1313/all101lang/gd/tags/sgr%C3%ACobhadh/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/gd/tags/sgr%C3%ACobhadh/</guid>
+				<guid>http://localhost:1313/all101lang/gd/tags/sgr%C3%ACobhadh/</guid>
 				<description></description>
 			</item>
 	</channel>

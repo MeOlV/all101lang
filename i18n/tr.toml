@@ -1,5 +1,5 @@
 [more]
-other = "Daha Fazla"
+other = "Daha fazla"
 
 [allTitle]
 other = "Tüm {{ .Title }}"
@@ -8,13 +8,13 @@ other = "Tüm {{ .Title }}"
 other = "Son {{ .Title }}"
 
 [readMore]
-other = "Daha fazla oku"
+other = "Devamını oku"
 
 [by]
 other = "Yazan"
 
 [whatsInThis]
-other = "Bu {{ .Type }} içinde neler var?"
+other = "Bu {{ .Type }} içinde ne var?"
 
 [related]
 other = "İlgili"
@@ -23,25 +23,25 @@ other = "İlgili"
 other = "Adınız"
 
 [emailAddress]
-other = "E-posta Adresiniz"
+other = "E-posta Adresi"
 
 [message]
-other = "Mesajınız"
+other = "Mesaj"
 
 [emailRequiredNote]
-other = "E-posta adresi gereklidir."
+other = "Bir e-posta adresi gereklidir."
 
 [send]
 other = "Gönder"
 
 [editPage]
-other = "Bu sayfayı GitHub'da iyileştirin"
+other = "Bu sayfayı GitHub'da geliştir"
 
 [since]
 other = "İtibaren"
 
 [taxonomyPageList]
-other = "Aşağıda “{{ .Title }}” taksonomi terimini kullanan sayfaları bulabilirsiniz."
+other = "Aşağıda '{{ .Title }}' taksonomi terimini kullanan sayfaları bulacaksınız"
 
 [readingTime]
 one = "Bir dakikalık okuma"
@@ -58,4 +58,12 @@ other = "{{ .Name }} sayfası"
 other = "Mevcut"
 
 [open_gdoc]
-other = "📄 Kılavuzu Google Docs'ta aç"
+other = "📄 Kılavuzu Google Dokümanlar'da aç"
+[site_hub_title]
+other = "101 Dil Merkezi"
+
+[hero_welcome]
+other = "101 Dil Yapay Zeka Destekli Yayıncılık Merkezi'ne Hoş Geldiniz!"
+
+[hero_subtitle]
+other = "Yapay Zeka, dil engellerini aşmaya yardımcı olur!"

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Google Docs on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/tg/tags/google-docs/</link>
+		<link>http://localhost:1313/all101lang/tg/tags/google-docs/</link>
 		<description>Recent content in Google Docs on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>tg</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/tg/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/tg/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Чӣ тавр китоби худро дар тӯли чанд дақиқа ба 101 забон тарҷума кардан мумкин аст</title>
-				<link>https://meolv.github.io/all101lang/tg/announcement/</link>
+				<link>http://localhost:1313/all101lang/tg/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/tg/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/tg/announcement/</guid>
 				<description>&lt;p&gt;Асбоби Gemini ва тарҷумони стандартӣ дар Google Docs ба ман имкон доданд, ки матнҳоро қариб фавран ва бо хароҷоти кам ба сатҳи ҷаҳонӣ андоза кунам. Ба шарофати скрипти коркарди партиявии худам, ман хидматеро пешниҳод мекунам, ки ҳуҷҷати шуморо бидуни дахолати дастӣ ба зиёда аз 100 забон зуд тарҷума кунам.&lt;br&gt;&#xA;Чаро он кор мекунад:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ултра-тез: 101 забон дар 15 дақиқа (≈ 9 сония барои як ҳуҷҷати 48,000 калима).&lt;/li&gt;&#xA;&lt;li&gt;Миқёспазирӣ: Сарлавҳаҳо, рӯйхатҳо, ҷадвалҳо ва тасвирҳоро нигоҳ доред.&lt;/li&gt;&#xA;&lt;li&gt;Сарфа: Арзиши тарҷумаи китоб ба 101 забон ҳамагӣ тақрибан €5 / $6 аст.&lt;br&gt;&#xA;Дар зер шумо дастурҳо ва шартҳои пурраро барои фармоиш додани тарҷумаи 101-уми асари худ хоҳед ёфт.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

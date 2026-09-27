@@ -1,5 +1,5 @@
 [more]
-other = "Più"
+other = "Di più"
 
 [allTitle]
 other = "Tutti i {{ .Title }}"
@@ -8,31 +8,31 @@ other = "Tutti i {{ .Title }}"
 other = "Recenti {{ .Title }}"
 
 [readMore]
-other = "Leghje più"
+other = "Leghje di più"
 
 [by]
 other = "Da"
 
 [whatsInThis]
-other = "Cosa ci hè in stu {{ .Type }}"
+other = "Chì ci hè in stu {{ .Type }}"
 
 [related]
-other = "Assuciatu"
+other = "Ligatu"
 
 [yourName]
-other = "U vostru nome"
+other = "U vostru Nome"
 
 [emailAddress]
 other = "Indirizzu email"
 
 [message]
-other = "Missaghju"
+other = "Messagiu"
 
 [emailRequiredNote]
-other = "Un indirizzu email hè ubligatoriu."
+other = "Hè richiestu un indirizzu email."
 
 [send]
-other = "Manda"
+other = "Mandà"
 
 [editPage]
 other = "Migliurà sta pagina nant'à GitHub"
@@ -41,7 +41,7 @@ other = "Migliurà sta pagina nant'à GitHub"
 other = "Dapoi"
 
 [taxonomyPageList]
-other = "Quì sottu truverete pagine chì utilizanu u terminu di tassunumia « {{ .Title }} »"
+other = "Quì sottu truverete pagine chì utilizanu u termine di tassunumia ' {{ .Title }} '"
 
 [readingTime]
 one = "Una minuta di lettura"
@@ -58,4 +58,12 @@ other = "Pagina {{ .Name }}"
 other = "Attuale"
 
 [open_gdoc]
-other = "📄 Apertura u manuale in Google Docs"
+other = "📄 Apre u manuale in Google Docs"
+[site_hub_title]
+other = "101개 언어 허브"
+
+[hero_welcome]
+other = "101개 언어 AI 지원 출판 허브에 오신 것을 환영합니다!"
+
+[hero_subtitle]
+other = "인공지능이 언어 장벽을 허무는 데 도움을 줍니다!"

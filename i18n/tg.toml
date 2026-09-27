@@ -1,61 +1,69 @@
 [more]
-other = "Бештар"
+other = "Дагы"
 
 [allTitle]
-other = "Ҳамаи {{ .Title }}"
+other = "Бардык {{ .Title }}"
 
 [recentTitle]
-other = "Охирин {{ .Title }}"
+other = "Акыркы {{ .Title }}"
 
 [readMore]
-other = "Бештар хонед"
+other = "Көбүрөөк окуу"
 
 [by]
-other = "Аз ҷониби"
+other = "Жарыялаган"
 
 [whatsInThis]
-other = "Дар ин {{ .Type }} чӣ ҳаст?"
+other = "Бул {{ .Type }} эмне камтыйт?"
 
 [related]
-other = "Марбут"
+other = "Байланыштуу"
 
 [yourName]
-other = "Номи шумо"
+other = "Атыңыз"
 
 [emailAddress]
-other = "Суроғаи почтаи электронӣ"
+other = "Электрондук почта дареги"
 
 [message]
-other = "Паём"
+other = "Билдирүү"
 
 [emailRequiredNote]
-other = "Суроғаи почтаи электронӣ ҳатмист."
+other = "Электрондук почта дареги талап кылынат."
 
 [send]
-other = "Фиристодан"
+other = "Жөнөтүү"
 
 [editPage]
-other = "Ин саҳифаро дар GitHub такмил диҳед"
+other = "Бул баракты GitHub'да жакшыртыңыз"
 
 [since]
-other = "Аз"
+other = "Бери"
 
 [taxonomyPageList]
-other = "Дар зер саҳифаҳоеро хоҳед ёфт, ки истилоҳи таксономии “{{ .Title }}”-ро истифода мебаранд."
+other = "Төмөндө '{{ .Title }}' таксономиялык терминин колдонгон барактарды табасыз"
 
 [readingTime]
-one = "Як дақиқа хондан"
-other = "{{ .Count }} дақиқа хондан"
+one = "Бир мүнөттүк окуу"
+other = "{{ .Count }} мүнөттүк окуу"
 
 [wordCount]
-one = "Як калима"
-other = "{{ .Count }} калима"
+one = "Бир сөз"
+other = "{{ .Count }} сөз"
 
 [pageTitle]
-other = "Саҳифаи {{ .Name }}"
+other = "{{ .Name }} баракчасы"
 
 [current_lang]
-other = "Ҷорӣ"
+other = "Учурдагы"
 
 [open_gdoc]
-other = "📄 Дастурро дар Google Docs кушоед"
+other = "📄 Колдонмону Google Docs'то ачуу"
+[site_hub_title]
+other = "101 Languages Hub"
+
+[hero_welcome]
+other = "Welcome to the 101-Language AI-Assisted Publishing Hub!"
+
+[hero_subtitle]
+other = "Artificial Intelligence helps break language barriers!"

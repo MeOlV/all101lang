@@ -1,5 +1,5 @@
 [more]
-other = "Plus"
+other = "Plura"
 
 [allTitle]
 other = "Omnia {{ .Title }}"
@@ -8,13 +8,13 @@ other = "Omnia {{ .Title }}"
 other = "Recentia {{ .Title }}"
 
 [readMore]
-other = "Legere plus"
+other = "Lege plura"
 
 [by]
 other = "Ab"
 
 [whatsInThis]
-other = "Quid in hoc {{ .Type }} continetur?"
+other = "Quid est in hoc {{ .Type }}?"
 
 [related]
 other = "Coniuncta"
@@ -26,7 +26,7 @@ other = "Nomen tuum"
 other = "Inscriptio electronica"
 
 [message]
-other = "Nuntius"
+other = "Mandatum"
 
 [emailRequiredNote]
 other = "Inscriptio electronica necessaria est."
@@ -38,14 +38,14 @@ other = "Mitte"
 other = "Hanc paginam in GitHub emenda"
 
 [since]
-other = "Ab"
+other = "Ex"
 
 [taxonomyPageList]
-other = "Infra invenies paginas quae vocabulo taxonomico “{{ .Title }}” utuntur."
+other = "Infra paginas invenies quae termino taxinomico '{{ .Title }}' utuntur."
 
 [readingTime]
-one = "Unius minutae lectio"
-other = "{{ .Count }} minutarum lectio"
+one = "Lectio unius minutae"
+other = "Lectio {{ .Count }} minutarum"
 
 [wordCount]
 one = "Unum verbum"
@@ -58,4 +58,12 @@ other = "Pagina {{ .Name }}"
 other = "Praesens"
 
 [open_gdoc]
-other = "📄 Aperire manuale in Google Docs"
+other = "📄 Manuale in Google Docs aperi"
+[site_hub_title]
+other = "Centrum Centum Unius Linguarum"
+
+[hero_welcome]
+other = "Beneventum in Centrum Editorium Centum Unius Linguarum Intelligentia Artificiali Adiūtum!"
+
+[hero_subtitle]
+other = "Intelligentia Artificialis adiuvat obstācula linguārum frangere!"

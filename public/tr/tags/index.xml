@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/tr/tags/</link>
+		<link>http://localhost:1313/all101lang/tr/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>tr</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/tr/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/tr/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Çeviri</title>
-				<link>https://meolv.github.io/all101lang/tr/tags/%C3%A7eviri/</link>
+				<link>http://localhost:1313/all101lang/tr/tags/%C3%A7eviri/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/tr/tags/%C3%A7eviri/</guid>
+				<guid>http://localhost:1313/all101lang/tr/tags/%C3%A7eviri/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Dokümanlar</title>
-				<link>https://meolv.github.io/all101lang/tr/tags/google-dok%C3%BCmanlar/</link>
+				<link>http://localhost:1313/all101lang/tr/tags/google-dok%C3%BCmanlar/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/tr/tags/google-dok%C3%BCmanlar/</guid>
+				<guid>http://localhost:1313/all101lang/tr/tags/google-dok%C3%BCmanlar/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nesir</title>
-				<link>https://meolv.github.io/all101lang/tr/tags/nesir/</link>
+				<link>http://localhost:1313/all101lang/tr/tags/nesir/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/tr/tags/nesir/</guid>
+				<guid>http://localhost:1313/all101lang/tr/tags/nesir/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Otomasyon</title>
-				<link>https://meolv.github.io/all101lang/tr/tags/otomasyon/</link>
+				<link>http://localhost:1313/all101lang/tr/tags/otomasyon/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/tr/tags/otomasyon/</guid>
+				<guid>http://localhost:1313/all101lang/tr/tags/otomasyon/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Yazı</title>
-				<link>https://meolv.github.io/all101lang/tr/tags/yaz%C4%B1/</link>
+				<link>http://localhost:1313/all101lang/tr/tags/yaz%C4%B1/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/tr/tags/yaz%C4%B1/</guid>
+				<guid>http://localhost:1313/all101lang/tr/tags/yaz%C4%B1/</guid>
 				<description></description>
 			</item>
 	</channel>

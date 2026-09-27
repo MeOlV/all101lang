@@ -23,7 +23,7 @@ other = "Relatati"
 other = "Ismek"
 
 [emailAddress]
-other = "Indirizz tal-email"
+other = "Indirizz tal-Email"
 
 [message]
 other = "Messaġġ"
@@ -35,13 +35,13 @@ other = "Indirizz tal-email huwa meħtieġ."
 other = "Ibgħat"
 
 [editPage]
-other = "Ittejjeb din il-paġna fuq GitHub"
+other = "Ttejjeb din il-paġna fuq GitHub"
 
 [since]
 other = "Minn"
 
 [taxonomyPageList]
-other = "Hawn taħt issib paġni li jużaw it-terminu tat-tassonomija “{{ .Title }}”"
+other = "Hawn taħt issib paġni li jużaw it-terminu tat-tassonomija '{{ .Title }}'"
 
 [readingTime]
 one = "Minuta qari"
@@ -58,4 +58,12 @@ other = "Paġna ta' {{ .Name }}"
 other = "Kurrenti"
 
 [open_gdoc]
-other = "📄 Iftaħ il-manwal fil-Google Docs"
+other = "📄 Iftaħ il-manwal f'Google Docs"
+[site_hub_title]
+other = "Ċentru tal-Lingwi 101"
+
+[hero_welcome]
+other = "Merħba fiċ-Ċentru tal-Pubblikazzjoni assistit mill-AI b'101 Lingwa!"
+
+[hero_subtitle]
+other = "L-Intelliġenza Artifiċjali tgħin tkisser il-barrieri lingwistiċi!"

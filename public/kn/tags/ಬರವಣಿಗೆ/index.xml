@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>ಬರವಣಿಗೆ on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/kn/tags/%E0%B2%AC%E0%B2%B0%E0%B2%B5%E0%B2%A3%E0%B2%BF%E0%B2%97%E0%B3%86/</link>
+		<link>http://localhost:1313/all101lang/kn/tags/%E0%B2%AC%E0%B2%B0%E0%B2%B5%E0%B2%A3%E0%B2%BF%E0%B2%97%E0%B3%86/</link>
 		<description>Recent content in ಬರವಣಿಗೆ on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>kn</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/kn/tags/%E0%B2%AC%E0%B2%B0%E0%B2%B5%E0%B2%A3%E0%B2%BF%E0%B2%97%E0%B3%86/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/kn/tags/%E0%B2%AC%E0%B2%B0%E0%B2%B5%E0%B2%A3%E0%B2%BF%E0%B2%97%E0%B3%86/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>ನಿಮ್ಮ ಸ್ವಂತ ಪುಸ್ತಕವನ್ನು ನಿಮಿಷಗಳಲ್ಲಿ 101 ಭಾಷೆಗಳಿಗೆ ಅನುವಾದಿಸುವುದು ಹೇಗೆ</title>
-				<link>https://meolv.github.io/all101lang/kn/announcement/</link>
+				<link>http://localhost:1313/all101lang/kn/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/kn/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/kn/announcement/</guid>
 				<description>&lt;p&gt;ಜೆಮಿನಿ ಪರಿಕರ ಮತ್ತು ಗೂಗಲ್ ಡಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಪ್ರಮಾಣಿತ ಅನುವಾದಕವು ಪಠ್ಯಗಳನ್ನು ಬಹುತೇಕ ತಕ್ಷಣವೇ ಮತ್ತು ಕನಿಷ್ಠ ವೆಚ್ಚದಲ್ಲಿ ಜಾಗತಿಕ ಮಟ್ಟಕ್ಕೆ ಅಳೆಯಲು ನನಗೆ ಅವಕಾಶ ಮಾಡಿಕೊಟ್ಟಿದೆ. ನನ್ನ ಸ್ವಂತ ಬ್ಯಾಚ್ ಪ್ರೊಸೆಸಿಂಗ್ ಸ್ಕ್ರಿಪ್ಟ್‌ಗೆ ಧನ್ಯವಾದಗಳು, ಹಸ್ತಚಾಲಿತ ಹಸ್ತಕ್ಷೇಪವಿಲ್ಲದೆ ನಿಮ್ಮ ಡಾಕ್ಯುಮೆಂಟ್ ಅನ್ನು 100 ಕ್ಕೂ ಹೆಚ್ಚು ಭಾಷೆಗಳಿಗೆ ತ್ವರಿತವಾಗಿ ಅನುವಾದಿಸುವ ಸೇವೆಯನ್ನು ನಾನು ನೀಡುತ್ತೇನೆ.&lt;br&gt;&#xA;ಅದು ಏಕೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ಅತಿ ವೇಗ: 15 ನಿಮಿಷಗಳಲ್ಲಿ 101 ಭಾಷೆಗಳು (48,000 ಪದಗಳ ದಾಖಲೆಗೆ ಪ್ರತಿ ಭಾಷೆಗೆ ≈ 9 ಸೆಕೆಂಡುಗಳು).&lt;/li&gt;&#xA;&lt;li&gt;ಸ್ಕೇಲೆಬಿಲಿಟಿ: ಶೀರ್ಷಿಕೆಗಳು, ಪಟ್ಟಿಗಳು, ಕೋಷ್ಟಕಗಳು ಮತ್ತು ಚಿತ್ರಗಳನ್ನು ಸಂರಕ್ಷಿಸಿ.&lt;/li&gt;&#xA;&lt;li&gt;ಉಳಿತಾಯ: ಪುಸ್ತಕವನ್ನು 101 ಭಾಷೆಗಳಿಗೆ ಅನುವಾದಿಸುವ ವೆಚ್ಚ ಕೇವಲ €5 / $6.&lt;br&gt;&#xA;ನಿಮ್ಮ ಕೃತಿಯ 101 ನೇ ಅನುವಾದವನ್ನು ಆರ್ಡರ್ ಮಾಡಲು ಸಂಪೂರ್ಣ ಸೂಚನೆಗಳು ಮತ್ತು ನಿಯಮಗಳನ್ನು ನೀವು ಕೆಳಗೆ ಕಾಣಬಹುದು.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Aŭtomatigo on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/eo/tags/a%C5%ADtomatigo/</link>
+		<link>http://localhost:1313/all101lang/eo/tags/a%C5%ADtomatigo/</link>
 		<description>Recent content in Aŭtomatigo on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>eo</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/eo/tags/a%C5%ADtomatigo/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/eo/tags/a%C5%ADtomatigo/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kiel traduki vian propran libron en 101 lingvojn en minutoj</title>
-				<link>https://meolv.github.io/all101lang/eo/announcement/</link>
+				<link>http://localhost:1313/all101lang/eo/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/eo/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/eo/announcement/</guid>
 				<description>&lt;p&gt;La ilo Gemini kaj la norma tradukilo en Google Docs permesis al mi skali tekstojn al tutmonda nivelo preskaŭ tuj kaj je minimuma kosto. Danke al mia propra aro-prilabora skripto, mi ofertas servon por rapide traduki vian dokumenton en pli ol 100 lingvojn sen mana interveno.&lt;br&gt;&#xA;Kial ĝi funkcias:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultrarapida: 101 lingvoj en 15 minutoj (≈ 9 sekundoj por lingvo por 48.000-vorta dokumento).&lt;/li&gt;&#xA;&lt;li&gt;Skalebleco: Konservu titolojn, listojn, tabelojn kaj bildojn.&lt;/li&gt;&#xA;&lt;li&gt;Ŝparaĵoj: La kosto de tradukado de libro en 101 lingvojn estas nur ĉirkaŭ €5 / $6.&lt;br&gt;&#xA;Sube vi trovos kompletajn instrukciojn kaj kondiĉojn por mendi la 101-an tradukon de via verko.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

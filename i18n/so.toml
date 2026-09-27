@@ -1,55 +1,55 @@
 [more]
-other = "In ka badan"
+other = "Dheeraad"
 
 [allTitle]
 other = "Dhammaan {{ .Title }}"
 
 [recentTitle]
-other = "{{ .Title }} ugu dambeeyay"
+other = "Kuwa ugu dambeeyay {{ .Title }}"
 
 [readMore]
-other = "Akhri wax dheeraad ah"
+other = "Akhri dheeraad ah"
 
 [by]
-other = "Qoray"
+other = "Waxaa qoray"
 
 [whatsInThis]
-other = "Maxaa ku jira {{ .Type }} kan?"
+other = "Waa maxay waxa ku jira {{ .Type }}kan"
 
 [related]
-other = "La xidhiidha"
+other = "La xiriira"
 
 [yourName]
 other = "Magacaaga"
 
 [emailAddress]
-other = "Cinwaanka Iimaylka"
+other = "Cinwaanka Emailka"
 
 [message]
 other = "Fariin"
 
 [emailRequiredNote]
-other = "Cinwaan iimayl ah ayaa loo baahan yahay."
+other = "Cinwaan email ayaa loo baahan yahay."
 
 [send]
 other = "Dir"
 
 [editPage]
-other = "Hagaaji boggan GitHub"
+other = "Hagaaji boggan GitHub-ka"
 
 [since]
 other = "Tan iyo"
 
 [taxonomyPageList]
-other = "Hoos waxaad ka heli doontaa bogagga isticmaala ereyga taksoonoomiga ah “{{ .Title }}”"
+other = "Hoos waxaad ka heli doontaa bogag isticmaala ereyga taksoonamiga ah '{{ .Title }}'"
 
 [readingTime]
-one = "Akhris hal daqiiqo ah"
-other = "{{ .Count }} daqiiqo akhris ah"
+one = "Hal daqiiqo oo akhris ah"
+other = "{{ .Count }} daqiiqo oo akhris ah"
 
 [wordCount]
-one = "Hal erey"
-other = "{{ .Count }} ereyo"
+one = "Hal eray"
+other = "{{ .Count }} eray"
 
 [pageTitle]
 other = "Bogga {{ .Name }}"
@@ -58,4 +58,12 @@ other = "Bogga {{ .Name }}"
 other = "Hadda"
 
 [open_gdoc]
-other = "📄 Fur hagaha Google Docs"
+other = "📄 Fur buug-tilmaameedka Google Docs-ka"
+[site_hub_title]
+other = "Središče 101 jezikov"
+
+[hero_welcome]
+other = "Dobrodošli v 101-jezičnem, z umetno inteligenco podprtem založniškem središču!"
+
+[hero_subtitle]
+other = "Umetna inteligenca pomaga premagati jezikovne ovire!"

@@ -2,34 +2,34 @@
 other = "Nui aʻe"
 
 [allTitle]
-other = "{{ .Title }} āpau"
+other = "Nā mea a pau o {{ .Title }}"
 
 [recentTitle]
-other = "{{ .Title }} hou"
+other = "Nā mea hou o {{ .Title }}"
 
 [readMore]
-other = "E heluhelu hou aku"
+other = "E heluhelu hou"
 
 [by]
 other = "Na"
 
 [whatsInThis]
-other = "He aha i loko o kēia {{ .Type }}"
+other = "He aha ka mea i loko o kēia {{ .Type }}?"
 
 [related]
-other = "Pili"
+other = "Nā mea pili"
 
 [yourName]
-other = "Kou inoa"
+other = "Kou Inoa"
 
 [emailAddress]
-other = "Leka uila"
+other = "Helu Leka Uila"
 
 [message]
-other = "Lepe"
+other = "Memo"
 
 [emailRequiredNote]
-other = "Pono ka leka uila."
+other = "Pono ka helu leka uila."
 
 [send]
 other = "Hoʻouna"
@@ -41,21 +41,29 @@ other = "E hoʻomaikaʻi i kēia ʻaoʻao ma GitHub"
 other = "Mai"
 
 [taxonomyPageList]
-other = "Ma lalo nei e loaʻa ai iā ʻoe nā ʻaoʻao e hoʻohana ana i ka huaʻōlelo taxonomy “{{ .Title }}”"
+other = "Ma lalo nei e loaʻa ai iā ʻoe nā ʻaoʻao e hoʻohana ana i ka huaʻōlelo taxonomy '{{ .Title }}'"
 
 [readingTime]
-one = "Heluhelu i hoʻokahi minuke"
-other = "Heluhelu i {{ .Count }} minuke"
+one = "He minuke hoʻokahi e heluhelu ai"
+other = "{{ .Count }} minuke e heluhelu ai"
 
 [wordCount]
-one = "Hoʻokahi huaʻōlelo"
+one = "He huaʻōlelo hoʻokahi"
 other = "{{ .Count }} huaʻōlelo"
 
 [pageTitle]
-other = "ʻAoʻao o {{ .Name }}"
+other = "Ka ʻaoʻao ʻo {{ .Name }}"
 
 [current_lang]
-other = "O kēia wā"
+other = "Ke Kū nei"
 
 [open_gdoc]
-other = "📄 E wehe i ke alakaʻi ma Google Docs"
+other = "📄 E wehe i ka puke aʻo ma Google Docs"
+[site_hub_title]
+other = "Kikowaena ʻŌlelo 101"
+
+[hero_welcome]
+other = "Aloha mai i ka Kikowaena Hoʻopukapuka ʻŌlelo 101 Kōkua AI!"
+
+[hero_subtitle]
+other = "Kōkua ka ʻenehana ʻimi naʻauao i ka wāwahi ʻana i nā pāpā ʻōlelo!"

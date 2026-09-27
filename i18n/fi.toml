@@ -5,19 +5,19 @@ other = "Lisää"
 other = "Kaikki {{ .Title }}"
 
 [recentTitle]
-other = "Uusimmat {{ .Title }}"
+other = "Viimeisimmät {{ .Title }}"
 
 [readMore]
 other = "Lue lisää"
 
 [by]
-other = "Kirjoittanut"
+other = "Tekijä"
 
 [whatsInThis]
-other = "Mitä tämä {{ .Type }} sisältää?"
+other = "Mitä tässä {{ .Type }}ssa on?"
 
 [related]
-other = "Liittyvät"
+other = "Aiheeseen liittyvää"
 
 [yourName]
 other = "Nimesi"
@@ -29,7 +29,7 @@ other = "Sähköpostiosoite"
 other = "Viesti"
 
 [emailRequiredNote]
-other = "Sähköpostiosoite on pakollinen."
+other = "Sähköpostiosoite vaaditaan."
 
 [send]
 other = "Lähetä"
@@ -38,10 +38,10 @@ other = "Lähetä"
 other = "Paranna tätä sivua GitHubissa"
 
 [since]
-other = "alkaen"
+other = "Vuodesta"
 
 [taxonomyPageList]
-other = "Alla on sivuja, jotka käyttävät taksonomiatermiä “{{ .Title }}”"
+other = "Alla on sivuja, jotka käyttävät taksonomiatermiä '{{ .Title }}"
 
 [readingTime]
 one = "Yhden minuutin luku"
@@ -52,10 +52,18 @@ one = "Yksi sana"
 other = "{{ .Count }} sanaa"
 
 [pageTitle]
-other = "{{ .Name }} -sivu"
+other = "{{ .Name }} sivu"
 
 [current_lang]
 other = "Nykyinen"
 
 [open_gdoc]
-other = "📄 Avaa opas Google Docsissa"
+other = "📄 Avaa käsikirja Google Docsissa"
+[site_hub_title]
+other = "101 kielen keskus"
+
+[hero_welcome]
+other = "Tervetuloa 101 kielen tekoälyavusteiseen julkaisukeskukseen!"
+
+[hero_subtitle]
+other = "Tekoäly auttaa murtamaan kielimuurit!"

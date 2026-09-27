@@ -5,47 +5,47 @@ other = "Більше"
 other = "Усі {{ .Title }}"
 
 [recentTitle]
-other = "Останні {{ .Title }}"
+other = "Недавні {{ .Title }}"
 
 [readMore]
 other = "Читати далі"
 
 [by]
-other = "Автор:"
+other = "Автор"
 
 [whatsInThis]
-other = "Що у цьому {{ .Type }}"
+other = "Що в цьому {{ .Type }}"
 
 [related]
-other = "Схожі матеріали"
+other = "Схожі"
 
 [yourName]
 other = "Ваше ім'я"
 
 [emailAddress]
-other = "Електронна пошта"
+other = "Адреса електронної пошти"
 
 [message]
 other = "Повідомлення"
 
 [emailRequiredNote]
-other = "Електронна пошта є обов'язковою."
+other = "Потрібна адреса електронної пошти."
 
 [send]
 other = "Надіслати"
 
 [editPage]
-other = "Вдосконалити цю сторінку на GitHub"
+other = "Покращити цю сторінку на GitHub"
 
 [since]
 other = "З"
 
 [taxonomyPageList]
-other = "Нижче наведено сторінки, які використовують тег «{{ .Title }}»"
+other = "Нижче ви знайдете сторінки, що використовують термін таксономії '{{ .Title }}'"
 
 [readingTime]
 one = "Одна хвилина читання"
-other = "{{ .Count }} хв читання"
+other = "{{ .Count }} хвилин читання"
 
 [wordCount]
 one = "Одне слово"
@@ -58,4 +58,13 @@ other = "Сторінка {{ .Name }}"
 other = "Поточна"
 
 [open_gdoc]
-other = "📄 Відкрити настанову в Google Docs"
+other = "📄 Відкрити посібник у Google Docs"
+
+[site_hub_title]
+other = "101-мовний осередок"
+
+[hero_welcome]
+other = "Вітаємо в осередку 101-мовного напів ШР-видавництва!"
+
+[hero_subtitle]
+other = "Штучний Розум допоможе здолати мовну перешкоду!"

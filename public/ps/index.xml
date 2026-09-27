@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/ps/</link>
+		<link>http://localhost:1313/all101lang/ps/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ps</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/ps/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/ps/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>څنګه خپل کتاب په څو دقیقو کې ۱۰۱ ژبو ته وژباړئ</title>
-				<link>https://meolv.github.io/all101lang/ps/announcement/</link>
+				<link>http://localhost:1313/all101lang/ps/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/ps/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/ps/announcement/</guid>
 				<description>&lt;p&gt;د جیمني وسیلې او په ګوګل ډاکس کې معیاري ژباړونکي ما ته اجازه راکړه چې متنونه په فوري توګه او په لږ لګښت سره په نړیواله کچه اندازه کړم. زما د خپل بیچ پروسس کولو سکریپټ څخه مننه، زه یو خدمت وړاندې کوم چې ستاسو سند په چټکۍ سره له لاسي مداخلې پرته له 100 څخه زیاتو ژبو ته وژباړم.&lt;br&gt;&#xA;ولې دا کار کوي:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ډېر چټک: په ۱۵ دقیقو کې ۱۰۱ ژبې (د ۴۸،۰۰۰ کلمو سند لپاره په هره ژبه کې ۹ ثانیې).&lt;/li&gt;&#xA;&lt;li&gt;د اندازې وړتیا: سرلیکونه، لیستونه، جدولونه او انځورونه وساتئ.&lt;/li&gt;&#xA;&lt;li&gt;سپما: د یو کتاب د ۱۰۱ ژبو ته د ژباړلو لګښت یوازې شاوخوا ۵ یورو / ۶ ډالر دی.&lt;br&gt;&#xA;لاندې به تاسو د خپل کار د ۱۰۱مې ژباړې د امر کولو لپاره بشپړ لارښوونې او شرایط ومومئ.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

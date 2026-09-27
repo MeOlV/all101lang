@@ -35,17 +35,17 @@ other = "ઇમેઇલ સરનામું આવશ્યક છે."
 other = "મોકલો"
 
 [editPage]
-other = "GitHub પર આ પૃષ્ઠ સુધારો"
+other = "આ પૃષ્ઠને GitHub પર સુધારો"
 
 [since]
 other = "થી"
 
 [taxonomyPageList]
-other = "નીચે તમને “{{ .Title }}” ટેક્સોનોમી પદનો ઉપયોગ કરતા પૃષ્ઠો મળશે."
+other = "નીચે તમને '{{ .Title }}' ટેક્સોનોમી પદનો ઉપયોગ કરતા પૃષ્ઠો મળશે."
 
 [readingTime]
-one = "એક મિનિટ વાંચન"
-other = "{{ .Count }} મિનિટ વાંચન"
+one = "એક મિનિટનો વાંચન સમય"
+other = "{{ .Count }} મિનિટનો વાંચન સમય"
 
 [wordCount]
 one = "એક શબ્દ"
@@ -58,4 +58,12 @@ other = "{{ .Name }} પૃષ્ઠ"
 other = "વર્તમાન"
 
 [open_gdoc]
-other = "📄 Google Docs માં માર્ગદર્શિકા ખોલો"
+other = "📄 Google Docs માં મેન્યુઅલ ખોલો"
+[site_hub_title]
+other = "૧૦૧ ભાષાઓનું કેન્દ્ર"
+
+[hero_welcome]
+other = "૧૦૧ ભાષાઓના AI-સહાયિત પ્રકાશન કેન્દ્રમાં આપનું સ્વાગત છે!"
+
+[hero_subtitle]
+other = "કૃત્રિમ બુદ્ધિમત્તા ભાષા અવરોધો તોડવામાં મદદ કરે છે!"

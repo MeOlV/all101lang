@@ -23,7 +23,7 @@ other = "Əlaqəli"
 other = "Adınız"
 
 [emailAddress]
-other = "E-poçt ünvanı"
+other = "E-poçt Ünvanı"
 
 [message]
 other = "Mesaj"
@@ -41,11 +41,11 @@ other = "Bu səhifəni GitHub-da təkmilləşdirin"
 other = "Bəri"
 
 [taxonomyPageList]
-other = "Aşağıda “{{ .Title }}” taksonomiya terminindən istifadə edən səhifələri tapa bilərsiniz."
+other = "Aşağıda '{{ .Title }}' taksonomiya terminindən istifadə edən səhifələri tapa bilərsiniz"
 
 [readingTime]
-one = "Bir dəqiqəlik oxunuş"
-other = "{{ .Count }} dəqiqəlik oxunuş"
+one = "Bir dəqiqəlik oxu"
+other = "{{ .Count }} dəqiqəlik oxu"
 
 [wordCount]
 one = "Bir söz"
@@ -59,3 +59,11 @@ other = "Cari"
 
 [open_gdoc]
 other = "📄 Təlimatı Google Sənədlərdə açın"
+[site_hub_title]
+other = "101 Dil Mərkəzi"
+
+[hero_welcome]
+other = "101 dilli Süni intellekt dəstəkli Nəşr Mərkəzinə xoş gəlmisiniz!"
+
+[hero_subtitle]
+other = "Süni intellekt dil sədlərini qırmağa kömək edir!"

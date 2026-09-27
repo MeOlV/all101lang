@@ -17,7 +17,7 @@ other = "Par"
 other = "Que contient ce {{ .Type }}"
 
 [related]
-other = "Contenus liés"
+other = "Articles similaires"
 
 [yourName]
 other = "Votre nom"
@@ -41,7 +41,7 @@ other = "Améliorer cette page sur GitHub"
 other = "Depuis"
 
 [taxonomyPageList]
-other = "Vous trouverez ci-dessous les pages utilisant le terme de taxonomie « {{ .Title }} »"
+other = "Vous trouverez ci-dessous les pages utilisant le terme de taxonomie ' {{ .Title }} '"
 
 [readingTime]
 one = "Une minute de lecture"
@@ -55,7 +55,15 @@ other = "{{ .Count }} mots"
 other = "Page {{ .Name }}"
 
 [current_lang]
-other = "Actuelle"
+other = "Actuel"
 
 [open_gdoc]
-other = "📄 Ouvrir le guide dans Google Docs"
+other = "📄 Ouvrir le manuel dans Google Docs"
+[site_hub_title]
+other = "Plateforme 101 Langues"
+
+[hero_welcome]
+other = "Bienvenue sur la Plateforme de publication en 101 langues assistée par l'IA !"
+
+[hero_subtitle]
+other = "L'Intelligence Artificielle aide à briser les barrières linguistiques !"

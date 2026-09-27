@@ -2,7 +2,7 @@
 other = "المزيد"
 
 [allTitle]
-other = "جميع {{ .Title }}"
+other = "كل {{ .Title }}"
 
 [recentTitle]
 other = "أحدث {{ .Title }}"
@@ -14,7 +14,7 @@ other = "اقرأ المزيد"
 other = "بواسطة"
 
 [whatsInThis]
-other = "ماذا يوجد في هذا {{ .Type }}"
+other = "ماذا يوجد في هذا الـ {{ .Type }}"
 
 [related]
 other = "ذات صلة"
@@ -35,17 +35,17 @@ other = "عنوان البريد الإلكتروني مطلوب."
 other = "إرسال"
 
 [editPage]
-other = "تحسين هذه الصفحة على GitHub"
+other = "حسّن هذه الصفحة على GitHub"
 
 [since]
 other = "منذ"
 
 [taxonomyPageList]
-other = "ستجد أدناه صفحات تستخدم مصطلح التصنيف "{{ .Title }}""
+other = "ستجد أدناه صفحات تستخدم مصطلح التصنيف '{{ .Title }}'"
 
 [readingTime]
-one = "دقيقة واحدة للقراءة"
-other = "{{ .Count }} دقائق للقراءة"
+one = "دقيقة واحدة قراءة"
+other = "{{ .Count }} دقائق قراءة"
 
 [wordCount]
 one = "كلمة واحدة"
@@ -55,7 +55,16 @@ other = "{{ .Count }} كلمات"
 other = "صفحة {{ .Name }}"
 
 [current_lang]
-other = "الحالية"
+other = "الحالي"
 
 [open_gdoc]
-other = "📄 فتح الدليل في مستندات Google"
+other = "📄 افتح الدليل في مستندات Google"
+
+[site_hub_title]
+other = "مركز اللغات 101"
+
+[hero_welcome]
+other = "مرحبًا بك في مركز نشر اللغات 101 المدعوم بالذكاء الاصطناعي!"
+
+[hero_subtitle]
+other = "الذكاء الاصطناعي يساعد على كسر حواجز اللغة!"

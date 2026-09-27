@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Google Docs on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/et/tags/google-docs/</link>
+		<link>http://localhost:1313/all101lang/et/tags/google-docs/</link>
 		<description>Recent content in Google Docs on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>et</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/et/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/et/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kuidas tõlkida oma raamat minutitega 101 keelde</title>
-				<link>https://meolv.github.io/all101lang/et/announcement/</link>
+				<link>http://localhost:1313/all101lang/et/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/et/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/et/announcement/</guid>
 				<description>&lt;p&gt;Gemini tööriist ja Google Docsi standardne tõlkija on võimaldanud mul tekste peaaegu koheselt ja minimaalsete kuludega globaalsele tasemele skaleerida. Tänu oma partiitöötlusskriptile pakun teenust, mis võimaldab teie dokumenti kiiresti tõlkida enam kui 100 keelde ilma käsitsi sekkumiseta.&lt;br&gt;&#xA;Miks see toimib:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ülikiire: 101 keelt 15 minutiga (≈ 9 sekundit keele kohta 48 000-sõnalise dokumendi puhul).&lt;/li&gt;&#xA;&lt;li&gt;Skaleeritavus: Säilitage pealkirjad, loendid, tabelid ja pildid.&lt;/li&gt;&#xA;&lt;li&gt;Säästud: Raamatu tõlkimine 101 keelde maksab vaid umbes 5 eurot / 6 dollarit.&lt;br&gt;&#xA;Altpoolt leiate täielikud juhised ja tingimused oma töö 101. tõlke tellimiseks.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

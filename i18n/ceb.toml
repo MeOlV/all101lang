@@ -2,10 +2,10 @@
 other = "Dugang"
 
 [allTitle]
-other = "Tanan {{ .Title }}"
+other = "Tanang {{ .Title }}"
 
 [recentTitle]
-other = "Bag-o {{ .Title }}"
+other = "Ulahing {{ .Title }}"
 
 [readMore]
 other = "Basaha pa"
@@ -14,48 +14,56 @@ other = "Basaha pa"
 other = "Ni"
 
 [whatsInThis]
-other = "Unsa ang anaa niini nga {{ .Type }}"
+other = "Unsay anaa niining {{ .Type }}"
 
 [related]
-other = "May kalabutan"
+other = "May Kalabotan"
 
 [yourName]
 other = "Imong Ngalan"
 
 [emailAddress]
-other = "Address sa Email"
+other = "Email nga Adres"
 
 [message]
 other = "Mensahe"
 
 [emailRequiredNote]
-other = "Gikinahanglan ang address sa email."
+other = "Kinahanglan ang usa ka email nga adres."
 
 [send]
 other = "Ipadala"
 
 [editPage]
-other = "Paayohon kini nga panid sa GitHub"
+other = "Palamboa kini nga panid sa GitHub"
 
 [since]
 other = "Sukad"
 
 [taxonomyPageList]
-other = "Sa ubos makit-an nimo ang mga panid nga naggamit sa termino sa taksonomiya nga “{{ .Title }}”"
+other = "Sa ubos makit-an nimo ang mga panid nga naggamit sa termino sa taksonomiya nga '{{ .Title }}'"
 
 [readingTime]
 one = "Usa ka minuto nga pagbasa"
-other = "{{ .Count }} minuto nga pagbasa"
+other = "{{ .Count }} ka minuto nga pagbasa"
 
 [wordCount]
 one = "Usa ka pulong"
-other = "{{ .Count }} ka mga pulong"
+other = "{{ .Count }} ka pulong"
 
 [pageTitle]
-other = "{{ .Name }} nga panid"
+other = "Panid sa {{ .Name }}"
 
 [current_lang]
-other = "Kasamtangan"
+other = "Karon"
 
 [open_gdoc]
-other = "📄 Ablihi ang giya sa Google Docs"
+other = "📄 Ablihi ang manwal sa Google Docs"
+[site_hub_title]
+other = "Sentro sa 101 ka Pinulongan"
+
+[hero_welcome]
+other = "Maayong pag-abot sa Sentro sa Pagmantala sa 101 ka Pinulongan nga Gitabangan sa AI!"
+
+[hero_subtitle]
+other = "Ang Artipisyal nga Intelihensiya makatabang sa pagtangtang sa mga babag sa pinulongan!"

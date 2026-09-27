@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/sv/</link>
+		<link>http://localhost:1313/all101lang/sv/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sv</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/sv/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/sv/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Hur du översätter din egen bok till 101 språk på några minuter</title>
-				<link>https://meolv.github.io/all101lang/sv/announcement/</link>
+				<link>http://localhost:1313/all101lang/sv/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sv/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/sv/announcement/</guid>
 				<description>&lt;p&gt;Gemini-verktyget och standardöversättaren i Google Docs har gjort det möjligt för mig att skala texter till en global nivå nästan omedelbart och till minimal kostnad. Tack vare mitt eget batchbehandlingsskript erbjuder jag en tjänst för att snabbt översätta ditt dokument till över 100 språk utan manuell inblandning.&lt;br&gt;&#xA;Varför det fungerar:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultrasnabbt: 101 språk på 15 minuter (≈ 9 sekunder per språk för ett dokument på 48 000 ord).&lt;/li&gt;&#xA;&lt;li&gt;Skalbarhet: Bevara rubriker, listor, tabeller och bilder.&lt;/li&gt;&#xA;&lt;li&gt;Besparingar: Kostnaden för att översätta en bok till 101 språk är bara cirka 5 € / 6 $.&lt;br&gt;&#xA;Nedan hittar du fullständiga instruktioner och villkor för att beställa den 101:a översättningen av ditt verk.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

@@ -41,7 +41,7 @@ other = "Improve this page on GitHub"
 other = "Since"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Below you will find pages that utilize the taxonomy term '{{ .Title }}'"
 
 [readingTime]
 one = "One minute read"
@@ -59,3 +59,12 @@ other = "Current"
 
 [open_gdoc]
 other = "📄 Open manual in Google Docs"
+
+[site_hub_title]
+other = "101 Languages Hub"
+
+[hero_welcome]
+other = "Welcome to the 101-Language Semi-AI Publishing Hub!"
+
+[hero_subtitle]
+other = "Artificial Intelligence helps break language barriers!"

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Fanoratana on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/mg/tags/fanoratana/</link>
+		<link>http://localhost:1313/all101lang/mg/tags/fanoratana/</link>
 		<description>Recent content in Fanoratana on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>mg</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/mg/tags/fanoratana/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/mg/tags/fanoratana/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ahoana ny fomba fandikana ny bokinao manokana amin&#39;ny fiteny 101 ao anatin&#39;ny minitra vitsy</title>
-				<link>https://meolv.github.io/all101lang/mg/announcement/</link>
+				<link>http://localhost:1313/all101lang/mg/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/mg/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/mg/announcement/</guid>
 				<description>&lt;p&gt;Ny fitaovana Gemini sy ny mpandika teny mahazatra ao amin&amp;rsquo;ny Google Docs dia nahafahako nampitombo ny haben&amp;rsquo;ny lahatsoratra ho amin&amp;rsquo;ny ambaratonga manerantany saika eo no ho eo ary amin&amp;rsquo;ny vidiny faran&amp;rsquo;izay kely. Noho ny script fanodinana batch-ko manokana, dia manolotra serivisy aho handikana haingana ny antontan-taratasinao amin&amp;rsquo;ny fiteny mihoatra ny 100 tsy misy fidirana an-tanana.&lt;br&gt;&#xA;Nahoana no miasa izy io:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Haingana dia haingana: Fiteny 101 ao anatin&amp;rsquo;ny 15 minitra (≈ 9 segondra isaky ny fiteny ho an&amp;rsquo;ny antontan-taratasy misy teny 48.000).&lt;/li&gt;&#xA;&lt;li&gt;Fahafahana mivelatra: Mitahiry lohateny, lisitra, tabilao ary sary.&lt;/li&gt;&#xA;&lt;li&gt;Tahiry: Eo amin&amp;rsquo;ny €5 / $6 eo ho eo monja ny vidin&amp;rsquo;ny fandikana boky amin&amp;rsquo;ny fiteny 101.&lt;br&gt;&#xA;Ho hitanao eto ambany ny toromarika feno sy ny fepetra takiana amin&amp;rsquo;ny famandrihana ny fandikan-teny faha-101 amin&amp;rsquo;ny asanao.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

@@ -1,5 +1,5 @@
 [more]
-other = "Бусад"
+other = "Илүү"
 
 [allTitle]
 other = "Бүх {{ .Title }}"
@@ -8,10 +8,10 @@ other = "Бүх {{ .Title }}"
 other = "Сүүлийн үеийн {{ .Title }}"
 
 [readMore]
-other = "Дэлгэрэнгүй унших"
+other = "Цааш унших"
 
 [by]
-other = "Бичсэн:"
+other = "Зохиогч"
 
 [whatsInThis]
 other = "Энэ {{ .Type }}-д юу байгаа вэ?"
@@ -23,13 +23,13 @@ other = "Холбоотой"
 other = "Таны нэр"
 
 [emailAddress]
-other = "Имэйл хаяг"
+other = "И-мэйл хаяг"
 
 [message]
 other = "Зурвас"
 
 [emailRequiredNote]
-other = "Имэйл хаяг шаардлагатай."
+other = "И-мэйл хаяг шаардлагатай."
 
 [send]
 other = "Илгээх"
@@ -38,10 +38,10 @@ other = "Илгээх"
 other = "Энэ хуудсыг GitHub дээр сайжруулах"
 
 [since]
-other = "Эхлэн"
+other = "Оноос хойш"
 
 [taxonomyPageList]
-other = "Доор та “{{ .Title }}” нэр томъёог ашигласан хуудсуудыг олох болно"
+other = "Доор та '{{ .Title }}' ангиллын нэр томъёог ашигласан хуудсуудыг олох болно"
 
 [readingTime]
 one = "Нэг минутын уншлага"
@@ -59,3 +59,11 @@ other = "Одоогийн"
 
 [open_gdoc]
 other = "📄 Гарын авлагыг Google Docs-оор нээх"
+[site_hub_title]
+other = "101 Хэлний Төв"
+
+[hero_welcome]
+other = "101 хэлний хиймэл оюун ухааны тусламжтай нийтлэлийн төвд тавтай морилно уу!"
+
+[hero_subtitle]
+other = "Хиймэл оюун ухаан хэлний саад тотгорыг даван туулахад тусална."

@@ -1,11 +1,11 @@
 [more]
-other = "더 보기"
+other = "더보기"
 
 [allTitle]
 other = "모든 {{ .Title }}"
 
 [recentTitle]
-other = "최신 {{ .Title }}"
+other = "최근 {{ .Title }}"
 
 [readMore]
 other = "자세히 보기"
@@ -23,13 +23,13 @@ other = "관련"
 other = "이름"
 
 [emailAddress]
-other = "이메일"
+other = "이메일 주소"
 
 [message]
 other = "메시지"
 
 [emailRequiredNote]
-other = "이메일 주소는 필수 입력 사항입니다."
+other = "이메일 주소는 필수입니다."
 
 [send]
 other = "보내기"
@@ -38,18 +38,18 @@ other = "보내기"
 other = "GitHub에서 이 페이지 개선하기"
 
 [since]
-other = "이후"
+other = "부터"
 
 [taxonomyPageList]
-other = "아래에서는 분류 항목 “{{ .Title }}”을(를) 사용하는 페이지를 찾을 수 있습니다."
+other = "아래에서 분류 용어 '{{ .Title }}'을(를) 사용하는 페이지를 찾을 수 있습니다."
 
 [readingTime]
-one = "1분 읽기"
-other = "{{ .Count }}분 읽기"
+one = "읽는 데 1분"
+other = "읽는 데 {{ .Count }}분"
 
 [wordCount]
-one = "단어 1개"
-other = "단어 {{ .Count }}개"
+one = "1단어"
+other = "{{ .Count }}단어"
 
 [pageTitle]
 other = "{{ .Name }} 페이지"
@@ -58,4 +58,12 @@ other = "{{ .Name }} 페이지"
 other = "현재"
 
 [open_gdoc]
-other = "📄 Google Docs에서 안내서 열기"
+other = "📄 Google Docs에서 매뉴얼 열기"
+[site_hub_title]
+other = "101개 언어 허브"
+
+[hero_welcome]
+other = "101개 언어 AI 지원 출판 허브에 오신 것을 환영합니다!"
+
+[hero_subtitle]
+other = "인공지능이 언어 장벽을 허무는 데 도움을 줍니다!"

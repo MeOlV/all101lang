@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Pisanie on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/pl/tags/pisanie/</link>
+		<link>http://localhost:1313/all101lang/pl/tags/pisanie/</link>
 		<description>Recent content in Pisanie on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>pl</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/pl/tags/pisanie/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/pl/tags/pisanie/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Jak przetłumaczyć własną książkę na 101 języków w kilka minut</title>
-				<link>https://meolv.github.io/all101lang/pl/announcement/</link>
+				<link>http://localhost:1313/all101lang/pl/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/pl/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/pl/announcement/</guid>
 				<description>&lt;p&gt;Narzędzie Gemini i standardowy tłumacz w Dokumentach Google pozwoliły mi niemal natychmiast i przy minimalnych kosztach skalować teksty do poziomu globalnego. Dzięki mojemu autorskiemu skryptowi przetwarzania wsadowego oferuję usługę szybkiego tłumaczenia dokumentu na ponad 100 języków bez konieczności ręcznej interwencji.&lt;br&gt;&#xA;Dlaczego to działa:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultraszybki: 101 języków w 15 minut (≈ 9 sekund na język w przypadku dokumentu liczącego 48 000 słów).&lt;/li&gt;&#xA;&lt;li&gt;Skalowalność: Zachowaj nagłówki, listy, tabele i obrazy.&lt;/li&gt;&#xA;&lt;li&gt;Oszczędności: Koszt przetłumaczenia książki na 101 języków wynosi zaledwie około 5 € / 6 $.&lt;br&gt;&#xA;Poniżej znajdziesz pełną instrukcję i warunki zamówienia 101. tłumaczenia Twojej pracy.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

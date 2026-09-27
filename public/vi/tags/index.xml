@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/vi/tags/</link>
+		<link>http://localhost:1313/all101lang/vi/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>vi</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/vi/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/vi/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Dịch Thuật</title>
-				<link>https://meolv.github.io/all101lang/vi/tags/d%E1%BB%8Bch-thu%E1%BA%ADt/</link>
+				<link>http://localhost:1313/all101lang/vi/tags/d%E1%BB%8Bch-thu%E1%BA%ADt/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/vi/tags/d%E1%BB%8Bch-thu%E1%BA%ADt/</guid>
+				<guid>http://localhost:1313/all101lang/vi/tags/d%E1%BB%8Bch-thu%E1%BA%ADt/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Google Docs</title>
-				<link>https://meolv.github.io/all101lang/vi/tags/google-docs/</link>
+				<link>http://localhost:1313/all101lang/vi/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/vi/tags/google-docs/</guid>
+				<guid>http://localhost:1313/all101lang/vi/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Tự Động Hóa</title>
-				<link>https://meolv.github.io/all101lang/vi/tags/t%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a/</link>
+				<link>http://localhost:1313/all101lang/vi/tags/t%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/vi/tags/t%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a/</guid>
+				<guid>http://localhost:1313/all101lang/vi/tags/t%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Văn Xuôi</title>
-				<link>https://meolv.github.io/all101lang/vi/tags/v%C4%83n-xu%C3%B4i/</link>
+				<link>http://localhost:1313/all101lang/vi/tags/v%C4%83n-xu%C3%B4i/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/vi/tags/v%C4%83n-xu%C3%B4i/</guid>
+				<guid>http://localhost:1313/all101lang/vi/tags/v%C4%83n-xu%C3%B4i/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Viết Lách</title>
-				<link>https://meolv.github.io/all101lang/vi/tags/vi%E1%BA%BFt-l%C3%A1ch/</link>
+				<link>http://localhost:1313/all101lang/vi/tags/vi%E1%BA%BFt-l%C3%A1ch/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/vi/tags/vi%E1%BA%BFt-l%C3%A1ch/</guid>
+				<guid>http://localhost:1313/all101lang/vi/tags/vi%E1%BA%BFt-l%C3%A1ch/</guid>
 				<description></description>
 			</item>
 	</channel>

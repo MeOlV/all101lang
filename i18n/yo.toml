@@ -1,55 +1,55 @@
 [more]
-other = "Siwaju si"
+other = "Púpọ̀ síi"
 
 [allTitle]
 other = "Gbogbo {{ .Title }}"
 
 [recentTitle]
-other = "Awọn {{ .Title }} Láìpẹ́"
+other = "Àwọn {{ .Title }} àìpẹ́"
 
 [readMore]
-other = "Ka siwaju"
+other = "Kà síwájú"
 
 [by]
-other = "Nipasẹ"
+other = "Láti ọwọ́"
 
 [whatsInThis]
-other = "Kí ló wà nínú {{ .Type }} yìí"
+other = "Kí ni ó wà nínú {{ .Type }} yìí?"
 
 [related]
-other = "Awọn tó jọra"
+other = "Tó jẹmọ́"
 
 [yourName]
 other = "Orúkọ rẹ"
 
 [emailAddress]
-other = "Adirẹsi Imeeli"
+other = "Àdírẹ́sì ìmeèlì"
 
 [message]
-other = "Ifiranṣẹ"
+other = "Ìfọwọ́ránṣẹ́"
 
 [emailRequiredNote]
-other = "A nilo àdirẹsi imeeli."
+other = "Àdírẹ́sì ìmeèlì jẹ́ dandan."
 
 [send]
-other = "Firanṣẹ"
+other = "Firanṣẹ́"
 
 [editPage]
-other = "Mú ojúewé yìí sunwọ̀n si lórí GitHub"
+other = "Mú ojúewé yìí sunwọ̀n sí i lórí GitHub"
 
 [since]
 other = "Láti ìgbà"
 
 [taxonomyPageList]
-other = "Ní isàlẹ̀ o máa rí àwọn ojúewé tó lo orúkọ ìsọ̀rí “{{ .Title }}”"
+other = "Nísàlẹ̀, iwọ yoo rí àwọn ojúewé tí ó lo ọ̀rọ̀ takisónómì '{{ .Title }}'"
 
 [readingTime]
-one = "Ìwé kíkà ìṣẹ́jú kan"
-other = "Ìwé kíkà ìṣẹ́jú {{ .Count }}"
+one = "Kíkà fún ìṣẹ́jú kan"
+other = "Kíkà fún ìṣẹ́jú {{ .Count }}"
 
 [wordCount]
-one = "Ọrọ kan"
-other = "Ọrọ́ {{ .Count }}"
+one = "Ọ̀rọ̀ kan"
+other = "Ọ̀rọ̀ {{ .Count }}"
 
 [pageTitle]
 other = "Ojúewé {{ .Name }}"
@@ -58,4 +58,12 @@ other = "Ojúewé {{ .Name }}"
 other = "Lọ́wọ́lọ́wọ́"
 
 [open_gdoc]
-other = "📄 Ṣi ìwé ìtọ́ni ní Google Docs"
+other = "📄 Ṣí ìwé ìtọ́nisọ́nà ní Google Docs"
+[site_hub_title]
+other = "Ibùdó Èdè 101"
+
+[hero_welcome]
+other = "Ẹ kú àbọ̀ sí Ibùdó Ìtẹ̀jáde Èdè 101 tí Ọpọlọ Atọwọda ń ràn lọ́wọ́!"
+
+[hero_subtitle]
+other = "Ọpọlọ Atọwọda ń ràn lọ́wọ́ láti fọ́ àwọn ìdènà èdè!"

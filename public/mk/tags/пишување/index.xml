@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Пишување on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/mk/tags/%D0%BF%D0%B8%D1%88%D1%83%D0%B2%D0%B0%D1%9A%D0%B5/</link>
+		<link>http://localhost:1313/all101lang/mk/tags/%D0%BF%D0%B8%D1%88%D1%83%D0%B2%D0%B0%D1%9A%D0%B5/</link>
 		<description>Recent content in Пишување on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>mk</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/mk/tags/%D0%BF%D0%B8%D1%88%D1%83%D0%B2%D0%B0%D1%9A%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/mk/tags/%D0%BF%D0%B8%D1%88%D1%83%D0%B2%D0%B0%D1%9A%D0%B5/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Како да ја преведете вашата книга на 101 јазик за неколку минути</title>
-				<link>https://meolv.github.io/all101lang/mk/announcement/</link>
+				<link>http://localhost:1313/all101lang/mk/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/mk/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/mk/announcement/</guid>
 				<description>&lt;p&gt;Алатката Gemini и стандардниот преведувач во Google Docs ми овозможија да ги скалирам текстовите на глобално ниво речиси веднаш и со минимални трошоци. Благодарение на мојата сопствена скрипта за обработка на серии, нудам услуга за брзо преведување на вашиот документ на над 100 јазици без рачна интервенција.&lt;br&gt;&#xA;Зошто функционира:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ултра брзо: 101 јазик за 15 минути (≈ 9 секунди по јазик за документ од 48.000 зборови).&lt;/li&gt;&#xA;&lt;li&gt;Скалабилност: Зачувајте наслови, листи, табели и слики.&lt;/li&gt;&#xA;&lt;li&gt;Заштеда: Цената за превод на книга на 101 јазик е само околу 5 евра / 6 долари.&lt;br&gt;&#xA;Подолу ќе најдете комплетни упатства и услови за нарачување на 101-от превод на вашето дело.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

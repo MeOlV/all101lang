@@ -41,11 +41,11 @@ other = "Uzlabot šo lapu GitHub vietnē"
 other = "Kopš"
 
 [taxonomyPageList]
-other = "Zemāk atradīsiet lapas, kas izmanto taksonomijas terminu “{{ .Title }}”"
+other = "Zemāk atradīsiet lapas, kas izmanto taksonomijas terminu '{{ .Title }}'"
 
 [readingTime]
-one = "Viena minūte lasīšanai"
-other = "{{ .Count }} minūtes lasīšanai"
+one = "Lasāms vienā minūtē"
+other = "Lasāms {{ .Count }} minūtēs"
 
 [wordCount]
 one = "Viens vārds"
@@ -59,3 +59,11 @@ other = "Pašreizējā"
 
 [open_gdoc]
 other = "📄 Atvērt rokasgrāmatu Google Docs"
+[site_hub_title]
+other = "101 Valodu Portāls"
+
+[hero_welcome]
+other = "Laipni lūgti 101 valodu mākslīgā intelekta atbalstītā publicēšanas portālā!"
+
+[hero_subtitle]
+other = "Mākslīgais intelekts palīdz pārvarēt valodu barjeras!"

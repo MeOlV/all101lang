@@ -1,9 +1,10 @@
 {{ define "main" }}
-<article class="cf ph3 ph5-l pv3 pv4-l f4 center lh-copy nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+<article class="cf ph3 ph5-l pv2 pv3-l f4 center lh-copy nested-links {{ $.Param "text_color" | default "mid-gray" }}">
   
-  <!-- Блок вітання: вирівняний по правому краю суворо в межах mw8 -->
-  <div class="mw8 center tr mb4">
-    {{ .Content }}
+  <!-- Компактний блок вітання -->
+  <div class="mw8 center tr mb3">
+    <h1 class="f4 f3-l fw3 mb1 lh-title" style="color: #2c2c2c;">{{ i18n "hero_welcome" }}</h1>
+    <p class="f6 f5-l i fw1 mt0 lh-copy" style="color: #666;">{{ i18n "hero_subtitle" }}</p>
   </div>
 
   <!-- Блок списку анонсів (картки) -->

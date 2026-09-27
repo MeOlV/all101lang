@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Google Docs on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/su/tags/google-docs/</link>
+		<link>http://localhost:1313/all101lang/su/tags/google-docs/</link>
 		<description>Recent content in Google Docs on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>su</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/su/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/su/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kumaha narjamahkeun buku anjeun sorangan kana 101 basa dina sababaraha menit</title>
-				<link>https://meolv.github.io/all101lang/su/announcement/</link>
+				<link>http://localhost:1313/all101lang/su/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/su/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/su/announcement/</guid>
 				<description>&lt;p&gt;Pakakas Gemini sareng penerjemah standar dina Google Docs parantos ngamungkinkeun kuring pikeun ngatur skala téks ka tingkat global ampir langsung sareng kalayan biaya minimal. Hatur nuhun kana skrip pamrosésan batch kuring nyalira, kuring nawiskeun jasa pikeun narjamahkeun dokumén anjeun gancang kana langkung ti 100 basa tanpa campur tangan manual.&lt;br&gt;&#xA;Naha éta tiasa dianggo:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultra-gancang: 101 basa dina 15 menit (≈ 9 detik per basa pikeun dokumén 48.000 kecap).&lt;/li&gt;&#xA;&lt;li&gt;Skalabilitas: Ngajaga judul, daptar, tabel, sareng gambar.&lt;/li&gt;&#xA;&lt;li&gt;Tabungan: Biaya narjamahkeun buku kana 101 basa ngan ukur sakitar €5 / $6.&lt;br&gt;&#xA;Di handap ieu anjeun bakal mendakan pitunjuk lengkep sareng syarat-syarat pikeun mesen tarjamahan ka-101 tina karya anjeun.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

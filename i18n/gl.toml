@@ -2,10 +2,10 @@
 other = "Máis"
 
 [allTitle]
-other = "Todos os {{ .Title }}"
+other = "Todo {{ .Title }}"
 
 [recentTitle]
-other = "Recentes {{ .Title }}"
+other = "Recente {{ .Title }}"
 
 [readMore]
 other = "Ler máis"
@@ -14,10 +14,10 @@ other = "Ler máis"
 other = "Por"
 
 [whatsInThis]
-other = "¿Que hai neste {{ .Type }}"
+other = "Que hai neste {{ .Type }}"
 
 [related]
-other = "Relacionados"
+other = "Relacionado"
 
 [yourName]
 other = "O teu nome"
@@ -29,19 +29,19 @@ other = "Enderezo de correo electrónico"
 other = "Mensaxe"
 
 [emailRequiredNote]
-other = "É necesario un enderezo de correo electrónico."
+other = "Requírese un enderezo de correo electrónico."
 
 [send]
 other = "Enviar"
 
 [editPage]
-other = "Mellora esta páxina en GitHub"
+other = "Mellorar esta páxina en GitHub"
 
 [since]
 other = "Desde"
 
 [taxonomyPageList]
-other = "A continuación atoparás páxinas que utilizan o termo de taxonomía “{{ .Title }}”"
+other = "A continuación atoparás páxinas que utilizan o termo de taxonomía '{{ .Title }}'"
 
 [readingTime]
 one = "Un minuto de lectura"
@@ -59,3 +59,11 @@ other = "Actual"
 
 [open_gdoc]
 other = "📄 Abrir manual en Google Docs"
+[site_hub_title]
+other = "Centro de 101 Idiomas"
+
+[hero_welcome]
+other = "Benvidos/as ao Centro de Publicación con Asistencia de IA de 101 Idiomas!"
+
+[hero_subtitle]
+other = "A Intelixencia Artificial axuda a romper as barreiras lingüísticas!"

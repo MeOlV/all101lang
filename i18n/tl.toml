@@ -1,61 +1,69 @@
 [more]
-other = "Marami pa"
+other = "Mai mult"
 
 [allTitle]
-other = "Lahat ng {{ .Title }}"
+other = "Toate {{ .Title }}"
 
 [recentTitle]
-other = "Kamakailang {{ .Title }}"
+other = "Recente {{ .Title }}"
 
 [readMore]
-other = "Basahin pa"
+other = "Citește mai mult"
 
 [by]
-other = "Ni"
+other = "De către"
 
 [whatsInThis]
-other = "Ano ang nasa {{ .Type }} na ito?"
+other = "Ce conține acest {{ .Type }}"
 
 [related]
-other = "Kaugnay"
+other = "Articole similare"
 
 [yourName]
-other = "Pangalan Mo"
+other = "Numele tău"
 
 [emailAddress]
-other = "Email Address"
+other = "Adresă de email"
 
 [message]
-other = "Mensahe"
+other = "Mesaj"
 
 [emailRequiredNote]
-other = "Kailangan ng email address."
+other = "Este necesară o adresă de email."
 
 [send]
-other = "Ipadala"
+other = "Trimite"
 
 [editPage]
-other = "Pagbutihin ang pahinang ito sa GitHub"
+other = "Îmbunătățește această pagină pe GitHub"
 
 [since]
-other = "Simula"
+other = "De la"
 
 [taxonomyPageList]
-other = "Sa ibaba makikita mo ang mga pahinang gumagamit ng termino ng taksonomiya na “{{ .Title }}”"
+other = "Mai jos veți găsi pagini care utilizează termenul de taxonomie '{{ .Title }}"
 
 [readingTime]
-one = "Isang minutong babasahin"
-other = "{{ .Count }} minutong babasahin"
+one = "Un minut de lectură"
+other = "{{ .Count }} minute de lectură"
 
 [wordCount]
-one = "Isang salita"
-other = "{{ .Count }} salita"
+one = "Un cuvânt"
+other = "{{ .Count }} cuvinte"
 
 [pageTitle]
-other = "Pahina ng {{ .Name }}"
+other = "Pagina {{ .Name }}"
 
 [current_lang]
-other = "Kasalukuyan"
+other = "Curentă"
 
 [open_gdoc]
-other = "📄 Buksan ang gabay sa Google Docs"
+other = "📄 Deschide manualul în Google Docs"
+[site_hub_title]
+other = "Centro de 101 Idiomas"
+
+[hero_welcome]
+other = "¡Bienvenido al Centro de Publicación de 101 Idiomas asistido por IA!"
+
+[hero_subtitle]
+other = "¡La Inteligencia Artificial ayuda a romper las barreras del idioma!"

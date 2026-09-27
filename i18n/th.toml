@@ -5,7 +5,7 @@ other = "เพิ่มเติม"
 other = "ทั้งหมด {{ .Title }}"
 
 [recentTitle]
-other = "{{ .Title }} ล่าสุด"
+other = "ล่าสุด {{ .Title }}"
 
 [readMore]
 other = "อ่านเพิ่มเติม"
@@ -14,7 +14,7 @@ other = "อ่านเพิ่มเติม"
 other = "โดย"
 
 [whatsInThis]
-other = "มีอะไรใน {{ .Type }} นี้"
+other = "มีอะไรอยู่ใน {{ .Type }} นี้บ้าง"
 
 [related]
 other = "ที่เกี่ยวข้อง"
@@ -41,14 +41,14 @@ other = "ปรับปรุงหน้านี้บน GitHub"
 other = "ตั้งแต่"
 
 [taxonomyPageList]
-other = "ด้านล่างนี้คือหน้าที่ใช้คำศัพท์หมวดหมู่ “{{ .Title }}”"
+other = "ด้านล่างนี้คือหน้าที่ใช้คำศัพท์ทางอนุกรมวิธาน '{{ .Title }}'"
 
 [readingTime]
 one = "อ่าน 1 นาที"
 other = "อ่าน {{ .Count }} นาที"
 
 [wordCount]
-one = "1 คำ"
+one = "หนึ่งคำ"
 other = "{{ .Count }} คำ"
 
 [pageTitle]
@@ -59,3 +59,11 @@ other = "ปัจจุบัน"
 
 [open_gdoc]
 other = "📄 เปิดคู่มือใน Google Docs"
+[site_hub_title]
+other = "ศูนย์รวมภาษา 101 ภาษา"
+
+[hero_welcome]
+other = "ยินดีต้อนรับสู่ศูนย์กลางการเผยแพร่ 101 ภาษาที่ขับเคลื่อนด้วย AI!"
+
+[hero_subtitle]
+other = "ปัญญาประดิษฐ์ช่วยทำลายกำแพงภาษา!"

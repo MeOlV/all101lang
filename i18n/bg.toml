@@ -1,11 +1,11 @@
 [more]
-other = "Още"
+other = "Повече"
 
 [allTitle]
 other = "Всички {{ .Title }}"
 
 [recentTitle]
-other = "Скорошни {{ .Title }}"
+other = "Последни {{ .Title }}"
 
 [readMore]
 other = "Прочети повече"
@@ -14,7 +14,7 @@ other = "Прочети повече"
 other = "От"
 
 [whatsInThis]
-other = "Какво има в това {{ .Type }}"
+other = "Какво има в този {{ .Type }}"
 
 [related]
 other = "Свързани"
@@ -41,7 +41,7 @@ other = "Подобрете тази страница в GitHub"
 other = "От"
 
 [taxonomyPageList]
-other = "По-долу ще намерите страници, които използват таксономичния термин „{{ .Title }}“"
+other = "По-долу ще намерите страници, които използват таксономичния термин '{{ .Title }}'"
 
 [readingTime]
 one = "Една минута за четене"
@@ -59,3 +59,11 @@ other = "Текущ"
 
 [open_gdoc]
 other = "📄 Отвори ръководството в Google Документи"
+[site_hub_title]
+other = "Център 101 Езика"
+
+[hero_welcome]
+other = "Добре дошли в нашия 101-езиков издателски център с ИИ поддръжка!"
+
+[hero_subtitle]
+other = "Изкуственият интелект помага да се преодолеят езиковите бариери!"

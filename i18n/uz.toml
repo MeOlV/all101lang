@@ -1,5 +1,5 @@
 [more]
-other = "Batafsil"
+other = "Ko'proq"
 
 [allTitle]
 other = "Barcha {{ .Title }}"
@@ -8,10 +8,10 @@ other = "Barcha {{ .Title }}"
 other = "So'nggi {{ .Title }}"
 
 [readMore]
-other = "Ko'proq o'qish"
+other = "Batafsil o'qish"
 
 [by]
-other = "Muallif"
+other = "Muallif:"
 
 [whatsInThis]
 other = "Ushbu {{ .Type }}da nimalar bor?"
@@ -23,25 +23,25 @@ other = "Tegishli"
 other = "Ismingiz"
 
 [emailAddress]
-other = "E-pochta manzili"
+other = "Elektron pochta manzili"
 
 [message]
 other = "Xabar"
 
 [emailRequiredNote]
-other = "E-pochta manzili talab qilinadi."
+other = "Elektron pochta manzili talab qilinadi."
 
 [send]
 other = "Yuborish"
 
 [editPage]
-other = "Ushbu sahifani GitHub'da yaxshilash"
+other = "Ushbu sahifani GitHubda yaxshilang"
 
 [since]
 other = "Dan beri"
 
 [taxonomyPageList]
-other = "Quyida “{{ .Title }}” taksonomiya atamasidan foydalanilgan sahifalarni topishingiz mumkin."
+other = "Quyida '{{ .Title }}' taksonomiya atamasidan foydalanadigan sahifalar topasiz"
 
 [readingTime]
 one = "Bir daqiqalik o'qish"
@@ -58,4 +58,12 @@ other = "{{ .Name }} sahifasi"
 other = "Joriy"
 
 [open_gdoc]
-other = "📄 Qo'llanmani Google Docs'da ochish"
+other = "📄 Qo'llanmani Google Docsda ochish"
+[site_hub_title]
+other = "101 Til Markazi"
+
+[hero_welcome]
+other = "101 tilli Sun'iy intellekt qo'llab-quvvatlaydigan Nashriyot Markaziga xush kelibsiz!"
+
+[hero_subtitle]
+other = "Sun'iy intellekt til to'siqlarini bartaraf etishga yordam beradi!"

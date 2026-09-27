@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Google Docs on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/th/tags/google-docs/</link>
+		<link>http://localhost:1313/all101lang/th/tags/google-docs/</link>
 		<description>Recent content in Google Docs on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>th</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/th/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/th/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>วิธีแปลหนังสือของคุณเองเป็น 101 ภาษาภายในไม่กี่นาที</title>
-				<link>https://meolv.github.io/all101lang/th/announcement/</link>
+				<link>http://localhost:1313/all101lang/th/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/th/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/th/announcement/</guid>
 				<description>&lt;p&gt;เครื่องมือ Gemini และตัวแปลภาษามาตรฐานใน Google Docs ช่วยให้ผมสามารถแปลข้อความในระดับสากลได้อย่างรวดเร็วและด้วยต้นทุนที่ต่ำมาก ด้วยสคริปต์การประมวลผลแบบกลุ่มที่ผมพัฒนาขึ้นเอง ผมจึงเสนอบริการแปลเอกสารของคุณเป็นภาษาต่างๆ กว่า 100 ภาษาได้อย่างรวดเร็วโดยไม่ต้องมีการแทรกแซงจากมนุษย์&lt;br&gt;&#xA;เหตุผลที่มันได้ผล:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;เร็วเป็นพิเศษ: 101 ภาษาใน 15 นาที (ประมาณ 9 วินาทีต่อภาษา สำหรับเอกสาร 48,000 คำ)&lt;/li&gt;&#xA;&lt;li&gt;ความสามารถในการปรับขนาด: รักษาส่วนหัว รายการ ตาราง และรูปภาพไว้ได้&lt;/li&gt;&#xA;&lt;li&gt;ประหยัดค่าใช้จ่าย: ค่าใช้จ่ายในการแปลหนังสือเป็น 101 ภาษาอยู่ที่ประมาณ 5 ยูโร / 6 ดอลลาร์สหรัฐเท่านั้น&lt;br&gt;&#xA;ด้านล่างนี้คือคำแนะนำและข้อกำหนดฉบับสมบูรณ์สำหรับการสั่งแปลผลงานของคุณเป็นฉบับที่ 101&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

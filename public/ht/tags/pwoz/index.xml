@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Pwoz on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/ht/tags/pwoz/</link>
+		<link>http://localhost:1313/all101lang/ht/tags/pwoz/</link>
 		<description>Recent content in Pwoz on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ht</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/ht/tags/pwoz/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/ht/tags/pwoz/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kijan pou tradui pwòp liv ou a nan 101 lang an kèk minit</title>
-				<link>https://meolv.github.io/all101lang/ht/announcement/</link>
+				<link>http://localhost:1313/all101lang/ht/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/ht/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/ht/announcement/</guid>
 				<description>&lt;p&gt;Zouti Gemini a ak tradiktè estanda ki nan Google Docs la pèmèt mwen ajiste tèks yo sou yon nivo mondyal prèske imedyatman e avèk yon pri minimòm. Gras a pwòp script pwosesis pakèt mwen an, mwen ofri yon sèvis pou tradui dokiman ou byen vit nan plis pase 100 lang san entèvansyon manyèl.&lt;br&gt;&#xA;Poukisa li fonksyone:&lt;br&gt;&#xA;Ultra rapid: 101 lang nan 15 minit (≈ 9 segonn pa lang pou yon dokiman 48,000 mo).&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -41,11 +41,11 @@ other = "Gwella'r dudalen hon ar GitHub"
 other = "Ers"
 
 [taxonomyPageList]
-other = "Isod fe welwch dudalennau sy'n defnyddio'r term tacsonomeg “{{ .Title }}”"
+other = "Isod fe welwch dudalennau sy'n defnyddio'r term tacsonomeg '{{ .Title }}'"
 
 [readingTime]
-one = "Darlleniad un funud"
-other = "Darlleniad {{ .Count }} munud"
+one = "Un funud o ddarllen"
+other = "{{ .Count }} munud o ddarllen"
 
 [wordCount]
 one = "Un gair"
@@ -58,4 +58,12 @@ other = "Tudalen {{ .Name }}"
 other = "Cyfredol"
 
 [open_gdoc]
-other = "📄 Agor y canllaw yn Google Docs"
+other = "📄 Agor llawlyfr yn Google Docs"
+[site_hub_title]
+other = "Porth 101 Iaith"
+
+[hero_welcome]
+other = "Croeso i Borth Cyhoeddi 101 Iaith â Chymorth AI!"
+
+[hero_subtitle]
+other = "Mae Deallusrwydd Artiffisial yn helpu torri rhwystrau iaith!"

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/haw/</link>
+		<link>http://localhost:1313/all101lang/haw/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>haw</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/haw/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/haw/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Pehea e unuhi ai i kāu puke ponoʻī i 101 mau ʻōlelo i loko o nā minuke</title>
-				<link>https://meolv.github.io/all101lang/haw/announcement/</link>
+				<link>http://localhost:1313/all101lang/haw/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/haw/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/haw/announcement/</guid>
 				<description>&lt;p&gt;ʻO ka mea hana Gemini a me ka unuhi maʻamau ma Google Docs ua ʻae iaʻu e hoʻonui i nā kikokikona i kahi pae honua kokoke koke a me ke kumukūʻai liʻiliʻi. Mahalo i kaʻu palapala hana batch ponoʻī, hāʻawi wau i kahi lawelawe e unuhi koke i kāu palapala i nā ʻōlelo he 100 me ka ʻole o ke komo lima ʻana.&lt;br&gt;&#xA;No ke aha e hana ai:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wikiwiki loa: 101 mau ʻōlelo i loko o 15 mau minuke (≈ 9 kekona no kēlā me kēia ʻōlelo no kahi palapala 48,000 huaʻōlelo).&lt;/li&gt;&#xA;&lt;li&gt;Scalability: Mālama i nā poʻomanaʻo, nā papa inoa, nā papa, a me nā kiʻi.&lt;/li&gt;&#xA;&lt;li&gt;Mālama kālā: ʻO ke kumukūʻai o ka unuhi ʻana i kahi puke i 101 mau ʻōlelo he €5 / $6 wale nō.&lt;br&gt;&#xA;Ma lalo iho nei e ʻike ʻoe i nā kuhikuhi piha a me nā huaʻōlelo no ke kauoha ʻana i ka unuhi 101 o kāu hana.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Kunyora on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/sn/tags/kunyora/</link>
+		<link>http://localhost:1313/all101lang/sn/tags/kunyora/</link>
 		<description>Recent content in Kunyora on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sn</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/sn/tags/kunyora/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/sn/tags/kunyora/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Maitiro ekushandura bhuku rako mumitauro 101 mumaminitsi</title>
-				<link>https://meolv.github.io/all101lang/sn/announcement/</link>
+				<link>http://localhost:1313/all101lang/sn/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sn/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/sn/announcement/</guid>
 				<description>&lt;p&gt;Chishandiso cheGemini pamwe chete nemushanduri akajairwa muGoogle Docs zvakandibatsira kuti ndikwanise kuwedzera magwaro pasi rose nekukasika uye nemutengo wakaderera. Nekuda kwechinyorwa changu chekugadzirisa ma &amp;ldquo;batch&amp;rdquo;, ndinopa sevhisi yekushandura gwaro rako nekukurumidza mumitauro inopfuura zana pasina kupindira nemaoko.&lt;br&gt;&#xA;Nei ichishanda:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Inokurumidza zvikuru: Mitauro 101 mumaminitsi gumi nemashanu (≈ masekondi mapfumbamwe pamutauro wega wega wegwaro rine mazwi 48,000).&lt;/li&gt;&#xA;&lt;li&gt;Kukwanisa Kukura: Chengetedza misoro, runyorwa, matafura, nemifananidzo.&lt;/li&gt;&#xA;&lt;li&gt;Mari yekuchengetedza: Mari yekushandura bhuku mumitauro 101 inongoda €5 / $6 chete.&lt;br&gt;&#xA;Pazasi uchawana mirairo yakazara uye mitemo yekuodha shanduro yechi101 yebasa rako.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

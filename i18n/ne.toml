@@ -5,7 +5,7 @@ other = "थप"
 other = "सबै {{ .Title }}"
 
 [recentTitle]
-other = "भर्खरको {{ .Title }}"
+other = "भर्खरका {{ .Title }}"
 
 [readMore]
 other = "थप पढ्नुहोस्"
@@ -14,7 +14,7 @@ other = "थप पढ्नुहोस्"
 other = "द्वारा"
 
 [whatsInThis]
-other = "यस {{ .Type }} मा के छ?"
+other = "यो {{ .Type }} मा के छ?"
 
 [related]
 other = "सम्बन्धित"
@@ -41,11 +41,11 @@ other = "गिटहबमा यो पृष्ठ सुधार गर्�
 other = "देखि"
 
 [taxonomyPageList]
-other = "तल तपाईंले “{{ .Title }}” वर्गीकरण शब्द प्रयोग गर्ने पृष्ठहरू पाउनुहुनेछ।"
+other = "तल तपाईंले '{{ .Title }}' वर्गीकरण शब्द प्रयोग गर्ने पृष्ठहरू पाउनुहुनेछ।"
 
 [readingTime]
-one = "एक मिनेट पढाइ"
-other = "{{ .Count }} मिनेट पढाइ"
+one = "एक मिनेट पठन"
+other = "{{ .Count }} मिनेट पठन"
 
 [wordCount]
 one = "एक शब्द"
@@ -58,4 +58,12 @@ other = "{{ .Name }} पृष्ठ"
 other = "हालको"
 
 [open_gdoc]
-other = "📄 गुगल डक्समा मार्गदर्शन खोल्नुहोस्"
+other = "📄 गुगल डक्समा म्यानुअल खोल्नुहोस्"
+[site_hub_title]
+other = "१०१ भाषाहरूको केन्द्र"
+
+[hero_welcome]
+other = "१०१ भाषाहरूको एआई-सहयोगी प्रकाशन केन्द्रमा स्वागत छ!"
+
+[hero_subtitle]
+other = "कृत्रिम बुद्धिमत्ताले भाषिक अवरोधहरू तोड्न मद्दत गर्छ!"

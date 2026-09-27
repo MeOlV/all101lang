@@ -2,19 +2,19 @@
 other = "ច្រើនទៀត"
 
 [allTitle]
-other = "ទាំងអស់ {{ .Title }}"
+other = "ទាំងអស់{{ .Title }}"
 
 [recentTitle]
-other = "ថ្មីៗ {{ .Title }}"
+other = "ថ្មីៗ{{ .Title }}"
 
 [readMore]
-other = "អានបន្ត"
+other = "អានបន្ថែម"
 
 [by]
 other = "ដោយ"
 
 [whatsInThis]
-other = "មានអ្វីខ្លះនៅក្នុង {{ .Type }} នេះ?"
+other = "អ្វីដែលមាននៅក្នុង{{ .Type }}នេះ?"
 
 [related]
 other = "ពាក់ព័ន្ធ"
@@ -29,7 +29,7 @@ other = "អាសយដ្ឋានអ៊ីមែល"
 other = "សារ"
 
 [emailRequiredNote]
-other = "អាសយដ្ឋានអ៊ីមែលគឺចាំបាច់។"
+other = "តម្រូវឱ្យមានអាសយដ្ឋានអ៊ីមែល។"
 
 [send]
 other = "ផ្ញើ"
@@ -41,21 +41,29 @@ other = "កែលម្អទំព័រនេះនៅលើ GitHub"
 other = "ចាប់តាំងពី"
 
 [taxonomyPageList]
-other = "ខាងក្រោមនេះ អ្នកនឹងឃើញទំព័រដែលប្រើប្រាស់ពាក្យពន្ធុវិទ្យា “{{ .Title }}”"
+other = "ខាងក្រោមនេះ អ្នកនឹងឃើញទំព័រដែលប្រើពាក្យ taxonomy '{{ .Title }}'"
 
 [readingTime]
 one = "អានមួយនាទី"
-other = "អាន {{ .Count }} នាទី"
+other = "អានរយៈពេល {{ .Count }} នាទី"
 
 [wordCount]
 one = "មួយពាក្យ"
 other = "{{ .Count }} ពាក្យ"
 
 [pageTitle]
-other = "ទំព័រ {{ .Name }}"
+other = "{{ .Name }} ទំព័រ"
 
 [current_lang]
 other = "បច្ចុប្បន្ន"
 
 [open_gdoc]
-other = "📄 បើកសៀវភៅណែនាំនៅក្នុង Google Docs"
+other = "📄 បើកសៀវភៅណែនាំក្នុង Google Docs"
+[site_hub_title]
+other = "មជ្ឈមណ្ឌល ១០១ ភាសា"
+
+[hero_welcome]
+other = "សូមស្វាគមន៍មកកាន់មជ្ឈមណ្ឌលបោះពុម្ពជំនួយដោយ AI សម្រាប់ ១០១ ភាសា!"
+
+[hero_subtitle]
+other = "បញ្ញាសិប្បនិម្មិតជួយបំបាត់របាំងភាសា!"

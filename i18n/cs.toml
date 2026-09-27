@@ -8,7 +8,7 @@ other = "Všechny {{ .Title }}"
 other = "Nedávné {{ .Title }}"
 
 [readMore]
-other = "Číst více"
+other = "Číst dále"
 
 [by]
 other = "Od"
@@ -41,7 +41,7 @@ other = "Vylepšit tuto stránku na GitHubu"
 other = "Od"
 
 [taxonomyPageList]
-other = "Níže naleznete stránky, které využívají termín taxonomie „{{ .Title }}“"
+other = "Níže naleznete stránky, které využívají termín taxonomie '{{ .Title }}'"
 
 [readingTime]
 one = "Jedna minuta čtení"
@@ -59,3 +59,11 @@ other = "Aktuální"
 
 [open_gdoc]
 other = "📄 Otevřít manuál v Google Dokumentech"
+[site_hub_title]
+other = "Jazykové centrum 101"
+
+[hero_welcome]
+other = "Vítejte v 101jazyčném AI-asistovaném publikačním centru!"
+
+[hero_subtitle]
+other = "Umělá inteligence pomáhá prolomit jazykové bariéry!"

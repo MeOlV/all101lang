@@ -41,7 +41,7 @@ other = "Förbättra denna sida på GitHub"
 other = "Sedan"
 
 [taxonomyPageList]
-other = "Nedan hittar du sidor som använder taxonomitermen ”{{ .Title }}”"
+other = "Nedan hittar du sidor som använder taxonomitermen '{{ .Title }}"
 
 [readingTime]
 one = "En minuts läsning"
@@ -55,7 +55,15 @@ other = "{{ .Count }} ord"
 other = "{{ .Name }}-sida"
 
 [current_lang]
-other = "Nuvarande"
+other = "Aktuell"
 
 [open_gdoc]
 other = "📄 Öppna manualen i Google Docs"
+[site_hub_title]
+other = "101 Språknavet"
+
+[hero_welcome]
+other = "Välkommen till navet för AI-assisterad publicering på 101 språk!"
+
+[hero_subtitle]
+other = "Artificiell intelligens hjälper till att bryta språkbarriärer!"

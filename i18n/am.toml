@@ -23,13 +23,13 @@ other = "ተዛማጅ"
 other = "የእርስዎ ስም"
 
 [emailAddress]
-other = "ኢሜይል አድራሻ"
+other = "ኢሜል አድራሻ"
 
 [message]
 other = "መልዕክት"
 
 [emailRequiredNote]
-other = "የኢሜይል አድራሻ ያስፈልጋል፡፡"
+other = "የኢሜል አድራሻ ያስፈልጋል።"
 
 [send]
 other = "ላክ"
@@ -41,7 +41,7 @@ other = "ይህን ገጽ በ GitHub ላይ ያሻሽሉ"
 other = "ከ"
 
 [taxonomyPageList]
-other = "ከታች የ“{{ .Title }}”ን የሥርዓተ ምድብ ቃል የሚጠቀሙ ገጾችን ያገኛሉ"
+other = "ከታች '{{ .Title }}' የሚለውን የሥርዓተ ምደባ ቃል የሚጠቀሙ ገጾችን ያገኛሉ።"
 
 [readingTime]
 one = "አንድ ደቂቃ ንባብ"
@@ -55,7 +55,15 @@ other = "{{ .Count }} ቃላት"
 other = "{{ .Name }} ገጽ"
 
 [current_lang]
-other = "የአሁን"
+other = "ወቅታዊ"
 
 [open_gdoc]
-other = "📄 መመሪያውን በ Google Docs ይክፈቱ"
+other = "📄 መመሪያውን በGoogle Docs ክፈት"
+[site_hub_title]
+other = "101 Լեզուների Հանգույց"
+
+[hero_welcome]
+other = "Բարի գալուստ 101 լեզվի ԱՀ-ի աջակցությամբ հրատարակչական հանգույց:"
+
+[hero_subtitle]
+other = "Արհեստական ինտելեկտը օգնում է կոտրել լեզվական արգելքները:"

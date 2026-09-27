@@ -5,7 +5,7 @@ other = "Zaidi"
 other = "Zote {{ .Title }}"
 
 [recentTitle]
-other = "Karibuni {{ .Title }}"
+other = "Hivi Karibuni {{ .Title }}"
 
 [readMore]
 other = "Soma zaidi"
@@ -14,22 +14,22 @@ other = "Soma zaidi"
 other = "Na"
 
 [whatsInThis]
-other = "Kuna nini katika {{ .Type }} hii?"
+other = "Yaliyomo katika {{ .Type }} hii"
 
 [related]
 other = "Zinazohusiana"
 
 [yourName]
-other = "Jina Lako"
+other = "Jina lako"
 
 [emailAddress]
-other = "Barua pepe"
+other = "Anwani ya Barua pepe"
 
 [message]
 other = "Ujumbe"
 
 [emailRequiredNote]
-other = "Barua pepe inahitajika."
+other = "Anwani ya barua pepe inahitajika."
 
 [send]
 other = "Tuma"
@@ -41,11 +41,11 @@ other = "Boresha ukurasa huu kwenye GitHub"
 other = "Tangu"
 
 [taxonomyPageList]
-other = "Hapo chini utapata kurasa zinazotumia neno la kategoria “{{ .Title }}”"
+other = "Hapo chini utapata kurasa zinazotumia neno la taksonomia '{{ .Title }}'"
 
 [readingTime]
-one = "Dakika moja ya kusoma"
-other = "Dakika {{ .Count }} za kusoma"
+one = "Soma kwa dakika moja"
+other = "Soma kwa dakika {{ .Count }}"
 
 [wordCount]
 one = "Neno moja"
@@ -59,3 +59,11 @@ other = "Ya Sasa"
 
 [open_gdoc]
 other = "📄 Fungua mwongozo katika Google Docs"
+[site_hub_title]
+other = "Kituo cha Lugha 101"
+
+[hero_welcome]
+other = "Karibu kwenye Kituo cha Uchapishaji cha Lugha 101 chenye Usaidizi wa Akili Bandia!"
+
+[hero_subtitle]
+other = "Akili Bandia husaidia kuvunja vikwazo vya lugha!"

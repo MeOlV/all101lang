@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/gu/tags/</link>
+		<link>http://localhost:1313/all101lang/gu/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>gu</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/gu/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/gu/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>અનુવાદો</title>
-				<link>https://meolv.github.io/all101lang/gu/tags/%E0%AA%85%E0%AA%A8%E0%AB%81%E0%AA%B5%E0%AA%BE%E0%AA%A6%E0%AB%8B/</link>
+				<link>http://localhost:1313/all101lang/gu/tags/%E0%AA%85%E0%AA%A8%E0%AB%81%E0%AA%B5%E0%AA%BE%E0%AA%A6%E0%AB%8B/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/gu/tags/%E0%AA%85%E0%AA%A8%E0%AB%81%E0%AA%B5%E0%AA%BE%E0%AA%A6%E0%AB%8B/</guid>
+				<guid>http://localhost:1313/all101lang/gu/tags/%E0%AA%85%E0%AA%A8%E0%AB%81%E0%AA%B5%E0%AA%BE%E0%AA%A6%E0%AB%8B/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ઓટોમેશન</title>
-				<link>https://meolv.github.io/all101lang/gu/tags/%E0%AA%93%E0%AA%9F%E0%AB%8B%E0%AA%AE%E0%AB%87%E0%AA%B6%E0%AA%A8/</link>
+				<link>http://localhost:1313/all101lang/gu/tags/%E0%AA%93%E0%AA%9F%E0%AB%8B%E0%AA%AE%E0%AB%87%E0%AA%B6%E0%AA%A8/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/gu/tags/%E0%AA%93%E0%AA%9F%E0%AB%8B%E0%AA%AE%E0%AB%87%E0%AA%B6%E0%AA%A8/</guid>
+				<guid>http://localhost:1313/all101lang/gu/tags/%E0%AA%93%E0%AA%9F%E0%AB%8B%E0%AA%AE%E0%AB%87%E0%AA%B6%E0%AA%A8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ગદ્ય</title>
-				<link>https://meolv.github.io/all101lang/gu/tags/%E0%AA%97%E0%AA%A6%E0%AB%8D%E0%AA%AF/</link>
+				<link>http://localhost:1313/all101lang/gu/tags/%E0%AA%97%E0%AA%A6%E0%AB%8D%E0%AA%AF/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/gu/tags/%E0%AA%97%E0%AA%A6%E0%AB%8D%E0%AA%AF/</guid>
+				<guid>http://localhost:1313/all101lang/gu/tags/%E0%AA%97%E0%AA%A6%E0%AB%8D%E0%AA%AF/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ગૂગલ ડૉક્સ</title>
-				<link>https://meolv.github.io/all101lang/gu/tags/%E0%AA%97%E0%AB%82%E0%AA%97%E0%AA%B2-%E0%AA%A1%E0%AB%89%E0%AA%95%E0%AB%8D%E0%AA%B8/</link>
+				<link>http://localhost:1313/all101lang/gu/tags/%E0%AA%97%E0%AB%82%E0%AA%97%E0%AA%B2-%E0%AA%A1%E0%AB%89%E0%AA%95%E0%AB%8D%E0%AA%B8/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/gu/tags/%E0%AA%97%E0%AB%82%E0%AA%97%E0%AA%B2-%E0%AA%A1%E0%AB%89%E0%AA%95%E0%AB%8D%E0%AA%B8/</guid>
+				<guid>http://localhost:1313/all101lang/gu/tags/%E0%AA%97%E0%AB%82%E0%AA%97%E0%AA%B2-%E0%AA%A1%E0%AB%89%E0%AA%95%E0%AB%8D%E0%AA%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>લેખન</title>
-				<link>https://meolv.github.io/all101lang/gu/tags/%E0%AA%B2%E0%AB%87%E0%AA%96%E0%AA%A8/</link>
+				<link>http://localhost:1313/all101lang/gu/tags/%E0%AA%B2%E0%AB%87%E0%AA%96%E0%AA%A8/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/gu/tags/%E0%AA%B2%E0%AB%87%E0%AA%96%E0%AA%A8/</guid>
+				<guid>http://localhost:1313/all101lang/gu/tags/%E0%AA%B2%E0%AB%87%E0%AA%96%E0%AA%A8/</guid>
 				<description></description>
 			</item>
 	</channel>

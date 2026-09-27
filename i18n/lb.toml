@@ -8,7 +8,7 @@ other = "All {{ .Title }}"
 other = "Rezent {{ .Title }}"
 
 [readMore]
-other = "Méi liesen"
+other = "Lies méi"
 
 [by]
 other = "Vun"
@@ -29,7 +29,7 @@ other = "E-Mail Adress"
 other = "Noriicht"
 
 [emailRequiredNote]
-other = "Eng E-Mail Adress ass néideg."
+other = "Eng E-Mail Adress ass obligatoresch."
 
 [send]
 other = "Schécken"
@@ -41,11 +41,11 @@ other = "Dës Säit op GitHub verbesseren"
 other = "Zënter"
 
 [taxonomyPageList]
-other = "Hei drënner fannt Dir Säiten, déi den Taxonomiebegrëff „{{ .Title }}“ benotzen."
+other = "Hei drënner fannt Dir Säiten déi den Taxonomie Begrëff '{{ .Title }}' benotzen"
 
 [readingTime]
 one = "Eng Minutt Lieszäit"
-other = "{{ .Count }} Minutte Lieszäit"
+other = "{{ .Count }} Minutten Lieszäit"
 
 [wordCount]
 one = "Ee Wuert"
@@ -58,4 +58,12 @@ other = "{{ .Name }} Säit"
 other = "Aktuell"
 
 [open_gdoc]
-other = "📄 Handbuch op Google Docs opmaachen"
+other = "📄 Handbuch an Google Docs opmaachen"
+[site_hub_title]
+other = "101 Sproochen Zentrum"
+
+[hero_welcome]
+other = "Wëllkomm am AI-assistéierte Verëffentlechungszentrum fir 101 Sproochen!"
+
+[hero_subtitle]
+other = "Kënschtlech Intelligenz hëlleft Sproochebarrièren ze briechen!"

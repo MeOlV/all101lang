@@ -11,16 +11,16 @@ other = "Legutóbbi {{ .Title }}"
 other = "Tovább olvasom"
 
 [by]
-other = "Szerző"
+other = "Szerző:"
 
 [whatsInThis]
-other = "Mi van ebben a(z) {{ .Type }}-ben?"
+other = "Mi van ebben a(z) {{ .Type }}-ban?"
 
 [related]
 other = "Kapcsolódó"
 
 [yourName]
-other = "Az Ön neve"
+other = "Neved"
 
 [emailAddress]
 other = "E-mail cím"
@@ -35,17 +35,17 @@ other = "E-mail cím megadása kötelező."
 other = "Küldés"
 
 [editPage]
-other = "Javítsa ezt az oldalt a GitHubon"
+other = "Javítsd ezt az oldalt GitHubon"
 
 [since]
-other = "Mióta"
+other = "Óta"
 
 [taxonomyPageList]
-other = "Az alábbiakban azokat az oldalakat találja, amelyek a(z) „{{ .Title }}” taxonómiai kifejezést használják."
+other = "Alább találja azokat az oldalakat, amelyek a(z) '{{ .Title }}' taxonómiai kifejezést használják"
 
 [readingTime]
-one = "1 perc olvasás"
-other = "{{ .Count }} perc olvasás"
+one = "Egy perc olvasási idő"
+other = "{{ .Count }} perc olvasási idő"
 
 [wordCount]
 one = "Egy szó"
@@ -59,3 +59,11 @@ other = "Jelenlegi"
 
 [open_gdoc]
 other = "📄 Kézikönyv megnyitása Google Docsban"
+[site_hub_title]
+other = "101 Nyelvi Központ"
+
+[hero_welcome]
+other = "Üdvözöljük a 101 nyelvű MI-támogatott Kiadói Központban!"
+
+[hero_subtitle]
+other = "A Mesterséges Intelligencia segít lebontani a nyelvi korlátokat!"

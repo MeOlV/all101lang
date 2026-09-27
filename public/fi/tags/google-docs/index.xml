@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Google Docs on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/fi/tags/google-docs/</link>
+		<link>http://localhost:1313/all101lang/fi/tags/google-docs/</link>
 		<description>Recent content in Google Docs on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>fi</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/fi/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/fi/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kuinka kääntää oma kirjasi 101 kielelle muutamassa minuutissa</title>
-				<link>https://meolv.github.io/all101lang/fi/announcement/</link>
+				<link>http://localhost:1313/all101lang/fi/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/fi/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/fi/announcement/</guid>
 				<description>&lt;p&gt;Gemini-työkalun ja Google Docsin vakiokääntäjän avulla olen pystynyt skaalaamaan tekstejä globaalille tasolle lähes välittömästi ja minimaalisilla kustannuksilla. Oman eräkäsittelyskriptini ansiosta tarjoan palvelua, jolla voin kääntää asiakirjasi nopeasti yli 100 kielelle ilman manuaalisia toimia.&lt;br&gt;&#xA;Miksi se toimii:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultranopea: 101 kieltä 15 minuutissa (≈ 9 sekuntia kieltä kohden 48 000 sanan dokumentille).&lt;/li&gt;&#xA;&lt;li&gt;Skaalautuvuus: Säilytä otsikot, luettelot, taulukot ja kuvat.&lt;/li&gt;&#xA;&lt;li&gt;Säästöt: Kirjan kääntäminen 101 kielelle maksaa vain noin 5 € / 6 $.&lt;br&gt;&#xA;Alta löydät täydelliset ohjeet ja ehdot työsi 101. käännöksen tilaamiseen.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

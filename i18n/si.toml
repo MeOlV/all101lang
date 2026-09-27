@@ -2,10 +2,10 @@
 other = "තවත්"
 
 [allTitle]
-other = "සියලු {{ .Title }}"
+other = "සියලුම {{ .Title }}"
 
 [recentTitle]
-other = "නවතම {{ .Title }}"
+other = "මෑත {{ .Title }}"
 
 [readMore]
 other = "වැඩිදුර කියවන්න"
@@ -17,7 +17,7 @@ other = "විසින්"
 other = "මෙම {{ .Type }} හි ඇත්තේ කුමක්ද?"
 
 [related]
-other = "සම්බන්ධිත"
+other = "සබැඳි"
 
 [yourName]
 other = "ඔබේ නම"
@@ -29,23 +29,23 @@ other = "විද්‍යුත් තැපැල් ලිපිනය"
 other = "පණිවිඩය"
 
 [emailRequiredNote]
-other = "විද්‍යුත් තැපැල් ලිපිනයක් අවශ්‍ය වේ."
+other = "විද්‍යුත් තැපැල් ලිපිනයක් අත්‍යවශ්‍යයි."
 
 [send]
 other = "යවන්න"
 
 [editPage]
-other = "මෙම පිටුව GitHub හි වැඩි දියුණු කරන්න"
+other = "මෙම පිටුව GitHub හි වැඩිදියුණු කරන්න"
 
 [since]
 other = "සිට"
 
 [taxonomyPageList]
-other = "පහතින් ඔබට “{{ .Title }}” වර්ගීකරණ පදය භාවිත කරන පිටු සොයාගත හැක."
+other = "පහතින් ඔබට '{{ .Title }}' යන වර්ගීකරණ පද භාවිතා කරන පිටු සොයාගත හැකිය."
 
 [readingTime]
-one = "එක් මිනිත්තුවක කියවීමක්"
-other = "{{ .Count }} මිනිත්තු කියවීමක්"
+one = "විනාඩි එකක කියවීමක්"
+other = "විනාඩි {{ .Count }} ක කියවීමක්"
 
 [wordCount]
 one = "එක් වචනයක්"
@@ -55,7 +55,15 @@ other = "{{ .Count }} වචන"
 other = "{{ .Name }} පිටුව"
 
 [current_lang]
-other = "වර්තමාන"
+other = "වත්මන්"
 
 [open_gdoc]
 other = "📄 Google Docs හි අත්පොත විවෘත කරන්න"
+[site_hub_title]
+other = "භාෂා 101 කේන්ද්‍රය"
+
+[hero_welcome]
+other = "භාෂා 101 AI ආධාරක ප්‍රකාශන කේන්ද්‍රය වෙත සාදරයෙන් පිළිගනිමු!"
+
+[hero_subtitle]
+other = "කෘත්‍රිම බුද්ධිය භාෂා බාධක බිඳ හෙලීමට උපකාරී වේ!"

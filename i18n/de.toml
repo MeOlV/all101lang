@@ -5,7 +5,7 @@ other = "Mehr"
 other = "Alle {{ .Title }}"
 
 [recentTitle]
-other = "Neueste {{ .Title }}"
+other = "Aktuelle {{ .Title }}"
 
 [readMore]
 other = "Weiterlesen"
@@ -41,7 +41,7 @@ other = "Diese Seite auf GitHub verbessern"
 other = "Seit"
 
 [taxonomyPageList]
-other = "Unten finden Sie Seiten, die den Taxonomiebegriff „{{ .Title }}“ verwenden."
+other = "Nachfolgend finden Sie Seiten, die den Taxonomiebegriff '{{ .Title }}' verwenden"
 
 [readingTime]
 one = "Eine Minute Lesezeit"
@@ -52,10 +52,18 @@ one = "Ein Wort"
 other = "{{ .Count }} Wörter"
 
 [pageTitle]
-other = "{{ .Name }}-Seite"
+other = "{{ .Name }} Seite"
 
 [current_lang]
 other = "Aktuell"
 
 [open_gdoc]
 other = "📄 Handbuch in Google Docs öffnen"
+[site_hub_title]
+other = "101 Sprachen-Portal"
+
+[hero_welcome]
+other = "Willkommen im 101-Sprachen KI-unterstützten Publikations-Portal!"
+
+[hero_subtitle]
+other = "Künstliche Intelligenz hilft, Sprachbarrieren zu durchbrechen!"

@@ -5,7 +5,7 @@ other = "Mer"
 other = "Alle {{ .Title }}"
 
 [recentTitle]
-other = "Nylige {{ .Title }}"
+other = "Siste {{ .Title }}"
 
 [readMore]
 other = "Les mer"
@@ -17,7 +17,7 @@ other = "Av"
 other = "Hva er i denne {{ .Type }}"
 
 [related]
-other = "Relatert"
+other = "Relaterte"
 
 [yourName]
 other = "Ditt navn"
@@ -29,7 +29,7 @@ other = "E-postadresse"
 other = "Melding"
 
 [emailRequiredNote]
-other = "En e-postadresse er påkrevd."
+other = "E-postadresse er påkrevd."
 
 [send]
 other = "Send"
@@ -41,21 +41,29 @@ other = "Forbedre denne siden på GitHub"
 other = "Siden"
 
 [taxonomyPageList]
-other = "Nedenfor finner du sider som bruker taksonomibegrepet “{{ .Title }}”"
+other = "Nedenfor finner du sider som benytter taksonomibegrepet '{{ .Title }}'"
 
 [readingTime]
-one = "Ett minutts lesetid"
-other = "{{ .Count }} minutters lesetid"
+one = "Ett minutts lesning"
+other = "{{ .Count }} minutters lesning"
 
 [wordCount]
 one = "Ett ord"
 other = "{{ .Count }} ord"
 
 [pageTitle]
-other = "{{ .Name }}-side"
+other = "{{ .Name }} side"
 
 [current_lang]
-other = "Gjeldende"
+other = "Nåværende"
 
 [open_gdoc]
-other = "📄 Åpne veiledning i Google Docs"
+other = "📄 Åpne manual i Google Docs"
+[site_hub_title]
+other = "101 Språksenter"
+
+[hero_welcome]
+other = "Velkommen til det 101-språks AI-assisterte publiseringssenteret!"
+
+[hero_subtitle]
+other = "Kunstig intelligens bidrar til å bryte språkbarrierer!"

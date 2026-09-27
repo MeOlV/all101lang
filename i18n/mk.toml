@@ -14,7 +14,7 @@ other = "Прочитај повеќе"
 other = "Од"
 
 [whatsInThis]
-other = "Што има во ова {{ .Type }}"
+other = "Што има во овој/оваа {{ .Type }}"
 
 [related]
 other = "Поврзано"
@@ -23,25 +23,25 @@ other = "Поврзано"
 other = "Вашето име"
 
 [emailAddress]
-other = "Е-пошта адреса"
+other = "Е-пошта"
 
 [message]
 other = "Порака"
 
 [emailRequiredNote]
-other = "Потребна е е-пошта адреса."
+other = "Потребна е адреса за е-пошта."
 
 [send]
 other = "Испрати"
 
 [editPage]
-other = "Подобри ја страницава на GitHub"
+other = "Подобрете ја оваа страница на GitHub"
 
 [since]
 other = "Од"
 
 [taxonomyPageList]
-other = "Подолу ќе најдете страници кои го користат таксономскиот термин „{{ .Title }}“"
+other = "Подолу ќе најдете страници кои го користат таксономскиот термин '{{ .Title }}'"
 
 [readingTime]
 one = "Една минута читање"
@@ -52,10 +52,18 @@ one = "Еден збор"
 other = "{{ .Count }} зборови"
 
 [pageTitle]
-other = "Страница {{ .Name }}"
+other = "Страница на {{ .Name }}"
 
 [current_lang]
 other = "Тековен"
 
 [open_gdoc]
-other = "📄 Отвори упатство во Google Docs"
+other = "📄 Отвори го упатството во Google Docs"
+[site_hub_title]
+other = "101 Јазичен Центар"
+
+[hero_welcome]
+other = "Добредојдовте во 101-јазичниот издавачки центар поддржан од АИ!"
+
+[hero_subtitle]
+other = "Вештачката интелигенција помага да се рушат јазичните бариери!"

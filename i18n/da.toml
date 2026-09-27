@@ -17,7 +17,7 @@ other = "Af"
 other = "Hvad er der i denne {{ .Type }}"
 
 [related]
-other = "Relaterede"
+other = "Relateret"
 
 [yourName]
 other = "Dit navn"
@@ -41,21 +41,29 @@ other = "Forbedr denne side på GitHub"
 other = "Siden"
 
 [taxonomyPageList]
-other = "Nedenfor finder du sider, der bruger taksonomibegrebet “{{ .Title }}”"
+other = "Nedenfor finder du sider, der bruger taksonomibegrebet '{{ .Title }}'"
 
 [readingTime]
-one = "Et minuts læsetid"
-other = "{{ .Count }} minutters læsetid"
+one = "Et minuts læsning"
+other = "{{ .Count }} minutters læsning"
 
 [wordCount]
 one = "Et ord"
 other = "{{ .Count }} ord"
 
 [pageTitle]
-other = "{{ .Name }}-side"
+other = "{{ .Name }} side"
 
 [current_lang]
 other = "Nuværende"
 
 [open_gdoc]
-other = "📄 Åbn vejledning i Google Docs"
+other = "📄 Åbn manual i Google Docs"
+[site_hub_title]
+other = "101 Sprogportal"
+
+[hero_welcome]
+other = "Velkommen til den 101-sprogede AI-assisterede udgivelsesportal!"
+
+[hero_subtitle]
+other = "Kunstig Intelligens hjælper med at bryde sprogbarrierer!"

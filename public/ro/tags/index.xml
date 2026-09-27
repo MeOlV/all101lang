@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/ro/tags/</link>
+		<link>http://localhost:1313/all101lang/ro/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ro</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/ro/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/ro/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Automatizare</title>
-				<link>https://meolv.github.io/all101lang/ro/tags/automatizare/</link>
+				<link>http://localhost:1313/all101lang/ro/tags/automatizare/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/ro/tags/automatizare/</guid>
+				<guid>http://localhost:1313/all101lang/ro/tags/automatizare/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Documente Google</title>
-				<link>https://meolv.github.io/all101lang/ro/tags/documente-google/</link>
+				<link>http://localhost:1313/all101lang/ro/tags/documente-google/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/ro/tags/documente-google/</guid>
+				<guid>http://localhost:1313/all101lang/ro/tags/documente-google/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Proză</title>
-				<link>https://meolv.github.io/all101lang/ro/tags/proz%C4%83/</link>
+				<link>http://localhost:1313/all101lang/ro/tags/proz%C4%83/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/ro/tags/proz%C4%83/</guid>
+				<guid>http://localhost:1313/all101lang/ro/tags/proz%C4%83/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Scriere</title>
-				<link>https://meolv.github.io/all101lang/ro/tags/scriere/</link>
+				<link>http://localhost:1313/all101lang/ro/tags/scriere/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/ro/tags/scriere/</guid>
+				<guid>http://localhost:1313/all101lang/ro/tags/scriere/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Traduceri</title>
-				<link>https://meolv.github.io/all101lang/ro/tags/traduceri/</link>
+				<link>http://localhost:1313/all101lang/ro/tags/traduceri/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/ro/tags/traduceri/</guid>
+				<guid>http://localhost:1313/all101lang/ro/tags/traduceri/</guid>
 				<description></description>
 			</item>
 	</channel>

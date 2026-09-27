@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/haw/tags/</link>
+		<link>http://localhost:1313/all101lang/haw/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>haw</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/haw/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/haw/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Unuhi</title>
-				<link>https://meolv.github.io/all101lang/haw/tags/unuhi/</link>
+				<link>http://localhost:1313/all101lang/haw/tags/unuhi/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/haw/tags/unuhi/</guid>
+				<guid>http://localhost:1313/all101lang/haw/tags/unuhi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Hana Hoʻokele Hana</title>
-				<link>https://meolv.github.io/all101lang/haw/tags/hana-ho%CA%BBokele-hana/</link>
+				<link>http://localhost:1313/all101lang/haw/tags/hana-ho%CA%BBokele-hana/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/haw/tags/hana-ho%CA%BBokele-hana/</guid>
+				<guid>http://localhost:1313/all101lang/haw/tags/hana-ho%CA%BBokele-hana/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kākau</title>
-				<link>https://meolv.github.io/all101lang/haw/tags/k%C4%81kau/</link>
+				<link>http://localhost:1313/all101lang/haw/tags/k%C4%81kau/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/haw/tags/k%C4%81kau/</guid>
+				<guid>http://localhost:1313/all101lang/haw/tags/k%C4%81kau/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Moʻolelo</title>
-				<link>https://meolv.github.io/all101lang/haw/tags/mo%CA%BBolelo/</link>
+				<link>http://localhost:1313/all101lang/haw/tags/mo%CA%BBolelo/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/haw/tags/mo%CA%BBolelo/</guid>
+				<guid>http://localhost:1313/all101lang/haw/tags/mo%CA%BBolelo/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Palapala Google</title>
-				<link>https://meolv.github.io/all101lang/haw/tags/palapala-google/</link>
+				<link>http://localhost:1313/all101lang/haw/tags/palapala-google/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/haw/tags/palapala-google/</guid>
+				<guid>http://localhost:1313/all101lang/haw/tags/palapala-google/</guid>
 				<description></description>
 			</item>
 	</channel>

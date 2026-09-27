@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/tg/tags/</link>
+		<link>http://localhost:1313/all101lang/tg/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>tg</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/tg/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/tg/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Google Docs</title>
-				<link>https://meolv.github.io/all101lang/tg/tags/google-docs/</link>
+				<link>http://localhost:1313/all101lang/tg/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/tg/tags/google-docs/</guid>
+				<guid>http://localhost:1313/all101lang/tg/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Автоматизатсия</title>
-				<link>https://meolv.github.io/all101lang/tg/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D1%81%D0%B8%D1%8F/</link>
+				<link>http://localhost:1313/all101lang/tg/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D1%81%D0%B8%D1%8F/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/tg/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D1%81%D0%B8%D1%8F/</guid>
+				<guid>http://localhost:1313/all101lang/tg/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D1%81%D0%B8%D1%8F/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Навиштан</title>
-				<link>https://meolv.github.io/all101lang/tg/tags/%D0%BD%D0%B0%D0%B2%D0%B8%D1%88%D1%82%D0%B0%D0%BD/</link>
+				<link>http://localhost:1313/all101lang/tg/tags/%D0%BD%D0%B0%D0%B2%D0%B8%D1%88%D1%82%D0%B0%D0%BD/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/tg/tags/%D0%BD%D0%B0%D0%B2%D0%B8%D1%88%D1%82%D0%B0%D0%BD/</guid>
+				<guid>http://localhost:1313/all101lang/tg/tags/%D0%BD%D0%B0%D0%B2%D0%B8%D1%88%D1%82%D0%B0%D0%BD/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Наср</title>
-				<link>https://meolv.github.io/all101lang/tg/tags/%D0%BD%D0%B0%D1%81%D1%80/</link>
+				<link>http://localhost:1313/all101lang/tg/tags/%D0%BD%D0%B0%D1%81%D1%80/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/tg/tags/%D0%BD%D0%B0%D1%81%D1%80/</guid>
+				<guid>http://localhost:1313/all101lang/tg/tags/%D0%BD%D0%B0%D1%81%D1%80/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Тарҷумаҳо</title>
-				<link>https://meolv.github.io/all101lang/tg/tags/%D1%82%D0%B0%D1%80%D2%B7%D1%83%D0%BC%D0%B0%D2%B3%D0%BE/</link>
+				<link>http://localhost:1313/all101lang/tg/tags/%D1%82%D0%B0%D1%80%D2%B7%D1%83%D0%BC%D0%B0%D2%B3%D0%BE/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/tg/tags/%D1%82%D0%B0%D1%80%D2%B7%D1%83%D0%BC%D0%B0%D2%B3%D0%BE/</guid>
+				<guid>http://localhost:1313/all101lang/tg/tags/%D1%82%D0%B0%D1%80%D2%B7%D1%83%D0%BC%D0%B0%D2%B3%D0%BE/</guid>
 				<description></description>
 			</item>
 	</channel>

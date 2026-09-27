@@ -14,13 +14,13 @@ other = "Lees meer"
 other = "Door"
 
 [whatsInThis]
-other = "Wat staat er in deze {{ .Type }}"
+other = "Wat staat er in dit {{ .Type }}"
 
 [related]
 other = "Gerelateerd"
 
 [yourName]
-other = "Uw naam"
+other = "Jouw naam"
 
 [emailAddress]
 other = "E-mailadres"
@@ -41,7 +41,7 @@ other = "Verbeter deze pagina op GitHub"
 other = "Sinds"
 
 [taxonomyPageList]
-other = "Hieronder vindt u pagina's die de taxonomie term “{{ .Title }}” gebruiken"
+other = "Hieronder vind je pagina's die gebruikmaken van de taxonomie term '{{ .Title }}'"
 
 [readingTime]
 one = "Eén minuut leestijd"
@@ -52,10 +52,18 @@ one = "Eén woord"
 other = "{{ .Count }} woorden"
 
 [pageTitle]
-other = "{{ .Name }}-pagina"
+other = "{{ .Name }} pagina"
 
 [current_lang]
 other = "Huidig"
 
 [open_gdoc]
 other = "📄 Open handleiding in Google Docs"
+[site_hub_title]
+other = "101 Talenportaal"
+
+[hero_welcome]
+other = "Welkom bij het 101-talige AI-ondersteunde Publicatieportaal!"
+
+[hero_subtitle]
+other = "Kunstmatige intelligentie helpt taalbarrières doorbreken!"

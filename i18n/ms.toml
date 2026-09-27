@@ -5,16 +5,16 @@ other = "Lagi"
 other = "Semua {{ .Title }}"
 
 [recentTitle]
-other = "Terkini {{ .Title }}"
+other = "Terbaru {{ .Title }}"
 
 [readMore]
-other = "Baca lagi"
+other = "Baca selanjutnya"
 
 [by]
 other = "Oleh"
 
 [whatsInThis]
-other = "Apa dalam {{ .Type }} ini"
+other = "Apa yang ada dalam {{ .Type }} ini"
 
 [related]
 other = "Berkaitan"
@@ -23,13 +23,13 @@ other = "Berkaitan"
 other = "Nama Anda"
 
 [emailAddress]
-other = "Alamat E-mel"
+other = "Alamat Emel"
 
 [message]
 other = "Mesej"
 
 [emailRequiredNote]
-other = "Alamat e-mel diperlukan."
+other = "Alamat emel diperlukan."
 
 [send]
 other = "Hantar"
@@ -41,10 +41,10 @@ other = "Perbaiki halaman ini di GitHub"
 other = "Sejak"
 
 [taxonomyPageList]
-other = "Di bawah anda akan dapati halaman yang menggunakan istilah taksonomi “{{ .Title }}”"
+other = "Di bawah anda akan dapati halaman yang menggunakan istilah taksonomi '{{ .Title }}'"
 
 [readingTime]
-one = "Bacaan satu minit"
+one = "Satu minit bacaan"
 other = "{{ .Count }} minit bacaan"
 
 [wordCount]
@@ -58,4 +58,12 @@ other = "Halaman {{ .Name }}"
 other = "Semasa"
 
 [open_gdoc]
-other = "📄 Buka panduan dalam Google Docs"
+other = "📄 Buka manual dalam Google Docs"
+[site_hub_title]
+other = "Pusat 101 Bahasa"
+
+[hero_welcome]
+other = "Selamat datang ke Pusat Penerbitan 101 Bahasa Berbantukan AI!"
+
+[hero_subtitle]
+other = "Kecerdasan Buatan membantu memecahkan halangan bahasa!"

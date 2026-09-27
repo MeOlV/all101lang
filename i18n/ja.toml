@@ -1,17 +1,17 @@
 [more]
-other = "もっと見る"
+other = "さらに表示"
 
 [allTitle]
-other = "すべての {{ .Title }}"
+other = "すべての{{ .Title }}"
 
 [recentTitle]
-other = "最近の {{ .Title }}"
+other = "最近の{{ .Title }}"
 
 [readMore]
 other = "続きを読む"
 
 [by]
-other = "作成者"
+other = "投稿者"
 
 [whatsInThis]
 other = "この{{ .Type }}の内容"
@@ -41,21 +41,29 @@ other = "GitHubでこのページを改善する"
 other = "以来"
 
 [taxonomyPageList]
-other = "以下は、タクソノミー用語「{{ .Title }}」を使用しているページです。"
+other = "以下に、タクソノミー用語「{{ .Title }}」を利用しているページがあります"
 
 [readingTime]
 one = "1分で読めます"
 other = "{{ .Count }}分で読めます"
 
 [wordCount]
-one = "1語"
-other = "{{ .Count }}語"
+one = "1単語"
+other = "{{ .Count }}単語"
 
 [pageTitle]
 other = "{{ .Name }}ページ"
 
 [current_lang]
-other = "現在の"
+other = "現在"
 
 [open_gdoc]
 other = "📄 Googleドキュメントでマニュアルを開く"
+[site_hub_title]
+other = "101言語ハブ"
+
+[hero_welcome]
+other = "101言語のAI支援型出版ハブへようこそ！"
+
+[hero_subtitle]
+other = "AIが言語の壁を打ち破ります！"

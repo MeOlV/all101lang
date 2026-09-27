@@ -2,7 +2,7 @@
 other = "Més"
 
 [allTitle]
-other = "Tots els {{ .Title }}"
+other = "Tot {{ .Title }}"
 
 [recentTitle]
 other = "{{ .Title }} recents"
@@ -23,7 +23,7 @@ other = "Relacionats"
 other = "El teu nom"
 
 [emailAddress]
-other = "Adreça de correu electrònic"
+other = "Correu electrònic"
 
 [message]
 other = "Missatge"
@@ -41,7 +41,7 @@ other = "Millora aquesta pàgina a GitHub"
 other = "Des de"
 
 [taxonomyPageList]
-other = "A continuació trobareu les pàgines que utilitzen el terme de taxonomia «{{ .Title }}»"
+other = "A continuació trobaràs pàgines que utilitzen el terme de taxonomia '{{ .Title }}'"
 
 [readingTime]
 one = "Un minut de lectura"
@@ -59,3 +59,11 @@ other = "Actual"
 
 [open_gdoc]
 other = "📄 Obre el manual a Google Docs"
+[site_hub_title]
+other = "Centre de 101 Llengües"
+
+[hero_welcome]
+other = "Benvinguts a la Plataforma de Publicació de 101 Llengües assistida per IA!"
+
+[hero_subtitle]
+other = "La Intel·ligència Artificial ajuda a trencar les barreres lingüístiques!"

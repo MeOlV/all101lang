@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/sn/tags/</link>
+		<link>http://localhost:1313/all101lang/sn/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>sn</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/sn/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/sn/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Google Docs</title>
-				<link>https://meolv.github.io/all101lang/sn/tags/google-docs/</link>
+				<link>http://localhost:1313/all101lang/sn/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sn/tags/google-docs/</guid>
+				<guid>http://localhost:1313/all101lang/sn/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kunyora</title>
-				<link>https://meolv.github.io/all101lang/sn/tags/kunyora/</link>
+				<link>http://localhost:1313/all101lang/sn/tags/kunyora/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sn/tags/kunyora/</guid>
+				<guid>http://localhost:1313/all101lang/sn/tags/kunyora/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Otomatiki</title>
-				<link>https://meolv.github.io/all101lang/sn/tags/otomatiki/</link>
+				<link>http://localhost:1313/all101lang/sn/tags/otomatiki/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sn/tags/otomatiki/</guid>
+				<guid>http://localhost:1313/all101lang/sn/tags/otomatiki/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Prose</title>
-				<link>https://meolv.github.io/all101lang/sn/tags/prose/</link>
+				<link>http://localhost:1313/all101lang/sn/tags/prose/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sn/tags/prose/</guid>
+				<guid>http://localhost:1313/all101lang/sn/tags/prose/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Shanduro</title>
-				<link>https://meolv.github.io/all101lang/sn/tags/shanduro/</link>
+				<link>http://localhost:1313/all101lang/sn/tags/shanduro/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/sn/tags/shanduro/</guid>
+				<guid>http://localhost:1313/all101lang/sn/tags/shanduro/</guid>
 				<description></description>
 			</item>
 	</channel>

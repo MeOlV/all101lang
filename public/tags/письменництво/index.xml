@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Письменництво on 101-мовний осередок</title>
-		<link>https://meolv.github.io/all101lang/tags/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D1%82%D0%B2%D0%BE/</link>
+		<link>http://localhost:1313/all101lang/tags/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D1%82%D0%B2%D0%BE/</link>
 		<description>Recent content in Письменництво on 101-мовний осередок</description>
 		<generator>Hugo</generator>
 		<language>uk</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/tags/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D1%82%D0%B2%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/tags/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D1%82%D0%B2%D0%BE/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Як перекласти власну книгу на 101 мову за лічені хвилини</title>
-				<link>https://meolv.github.io/all101lang/announcement/</link>
+				<link>http://localhost:1313/all101lang/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/announcement/</guid>
 				<description>&lt;p&gt;Інструмент Gemini та стандартний перекладач у Google Docs дозволили масштабувати тексти до глобального рівня майже миттєво і за мінімальні витрати. Завдяки власному скрипту пакетної обробки, я пропоную послугу швидкого перекладу вашого документа на понад 100 мов без ручного втручання.&lt;br&gt;&#xA;Чому це працює:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Надшвидкість: 101 мова за 15 хвилин (≈ 9 секунд на мову документа з 48 000 слів).&lt;/li&gt;&#xA;&lt;li&gt;Масштабованість: Збереження заголовків, списків, таблиць та зображень.&lt;/li&gt;&#xA;&lt;li&gt;Економія: Вартість перекладу книги на 101 мову становить лише близько 5 € / 6 $.&lt;br&gt;&#xA;Нижче ви знайдете повну настанову та умови замовлення 101-го перекладу вашого твору.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

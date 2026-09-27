@@ -35,13 +35,13 @@ other = "एक ईमेल पता आवश्यक है।"
 other = "भेजें"
 
 [editPage]
-other = "इस पेज को GitHub पर बेहतर बनाएँ"
+other = "GitHub पर इस पृष्ठ को बेहतर बनाएं"
 
 [since]
 other = "से"
 
 [taxonomyPageList]
-other = "नीचे आपको ऐसे पेज मिलेंगे जो वर्गीकरण शब्द “{{ .Title }}” का उपयोग करते हैं।"
+other = "नीचे आपको वे पृष्ठ मिलेंगे जो वर्गीकरण शब्द '{{ .Title }}' का उपयोग करते हैं।"
 
 [readingTime]
 one = "एक मिनट का पाठ"
@@ -52,10 +52,18 @@ one = "एक शब्द"
 other = "{{ .Count }} शब्द"
 
 [pageTitle]
-other = "{{ .Name }} पेज"
+other = "{{ .Name }} पृष्ठ"
 
 [current_lang]
 other = "वर्तमान"
 
 [open_gdoc]
-other = "📄 Google Docs में मार्गदर्शिका खोलें"
+other = "📄 Google Docs में मैनुअल खोलें"
+[site_hub_title]
+other = "101 भाषा हब"
+
+[hero_welcome]
+other = "101 भाषाओं के एआई-सहायता प्राप्त प्रकाशन हब में आपका स्वागत है!"
+
+[hero_subtitle]
+other = "कृत्रिम बुद्धिमत्ता भाषा की बाधाओं को दूर करने में मदद करती है!"

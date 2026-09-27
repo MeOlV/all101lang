@@ -5,13 +5,13 @@ other = "Rohkem"
 other = "Kõik {{ .Title }}"
 
 [recentTitle]
-other = "Viimased {{ .Title }}"
+other = "Hiljutised {{ .Title }}"
 
 [readMore]
 other = "Loe edasi"
 
 [by]
-other = "Autor:"
+other = "Autor"
 
 [whatsInThis]
 other = "Mida see {{ .Type }} sisaldab?"
@@ -29,23 +29,23 @@ other = "E-posti aadress"
 other = "Sõnum"
 
 [emailRequiredNote]
-other = "E-posti aadress on kohustuslik."
+other = "E-posti aadress on vajalik."
 
 [send]
 other = "Saada"
 
 [editPage]
-other = "Täiusta seda lehte GitHubis"
+other = "Täienda seda lehte GitHubis"
 
 [since]
 other = "Alates"
 
 [taxonomyPageList]
-other = "Allpool leiate leheküljed, mis kasutavad taksonoomia terminit „{{ .Title }}”"
+other = "Allpool leiate lehed, mis kasutavad taksonoomia terminit '{{ .Title }}"
 
 [readingTime]
 one = "Ühe minuti lugemine"
-other = "{{ .Count }} minuti lugemist"
+other = "{{ .Count }} minuti lugemine"
 
 [wordCount]
 one = "Üks sõna"
@@ -59,3 +59,11 @@ other = "Praegune"
 
 [open_gdoc]
 other = "📄 Ava juhend Google Docsis"
+[site_hub_title]
+other = "101 keelte keskus"
+
+[hero_welcome]
+other = "Tere tulemast 101 keele tehisintellekti toega kirjastuskeskusesse!"
+
+[hero_subtitle]
+other = "Tehisintellekt aitab murda keelebarjääre!"

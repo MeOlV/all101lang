@@ -1,61 +1,69 @@
 [more]
-other = "နောက်ထပ်"
+other = "Lagi"
 
 [allTitle]
-other = "{{ .Title }} အားလုံး"
+other = "Semua {{ .Title }}"
 
 [recentTitle]
-other = "မကြာသေးမီက {{ .Title }}"
+other = "Terbaru {{ .Title }}"
 
 [readMore]
-other = "ဆက်ဖတ်ရန်"
+other = "Baca selanjutnya"
 
 [by]
-other = "မှ"
+other = "Oleh"
 
 [whatsInThis]
-other = "ဤ {{ .Type }} တွင် ဘာတွေပါဝင်သလဲ"
+other = "Apa dalam {{ .Type }} ini"
 
 [related]
-other = "ဆက်စပ်"
+other = "Berkaitan"
 
 [yourName]
-other = "သင့်အမည်"
+other = "Nama Anda"
 
 [emailAddress]
-other = "အီးမေးလ်လိပ်စာ"
+other = "Alamat Emel"
 
 [message]
-other = "မက်ဆေ့ချ်"
+other = "Mesej"
 
 [emailRequiredNote]
-other = "အီးမေးလ်လိပ်စာ လိုအပ်ပါသည်။"
+other = "Alamat emel diperlukan."
 
 [send]
-other = "ပို့ရန်"
+other = "Hantar"
 
 [editPage]
-other = "ဤစာမျက်နှာကို GitHub တွင် တိုးတက်အောင်လုပ်ပါ"
+other = "Perbaiki halaman ini di GitHub"
 
 [since]
-other = "မှစ၍"
+other = "Sejak"
 
 [taxonomyPageList]
-other = "အောက်တွင် “{{ .Title }}” ဟူသော အမျိုးအစားခွဲခြားမှုကို အသုံးပြုထားသော စာမျက်နှာများကို တွေ့ရှိရပါမည်။"
+other = "Di bawah anda akan dapati halaman-halaman yang menggunakan istilah taksonomi '{{ .Title }}'"
 
 [readingTime]
-one = "တစ်မိနစ်စာ ဖတ်ရှုရန်"
-other = "{{ .Count }} မိနစ်စာ ဖတ်ရှုရန်"
+one = "Bacaan satu minit"
+other = "Bacaan {{ .Count }} minit"
 
 [wordCount]
-one = "စကားလုံး တစ်လုံး"
-other = "စကားလုံး {{ .Count }} လုံး"
+one = "Satu perkataan"
+other = "{{ .Count }} perkataan"
 
 [pageTitle]
-other = "{{ .Name }} စာမျက်နှာ"
+other = "Halaman {{ .Name }}"
 
 [current_lang]
-other = "လက်ရှိ"
+other = "Semasa"
 
 [open_gdoc]
-other = "📄 လမ်းညွှန်ကို Google Docs ဖြင့် ဖွင့်ပါ"
+other = "📄 Buka manual dalam Google Docs"
+[site_hub_title]
+other = "Pusat 101 Bahasa"
+
+[hero_welcome]
+other = "Selamat datang ke Pusat Penerbitan Berbantukan AI 101 Bahasa!"
+
+[hero_subtitle]
+other = "Kecerdasan Buatan membantu mengatasi halangan bahasa!"

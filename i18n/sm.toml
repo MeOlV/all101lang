@@ -1,23 +1,23 @@
 [more]
-other = "Atili"
+other = "Sili atu"
 
 [allTitle]
 other = "Uma {{ .Title }}"
 
 [recentTitle]
-other = "Fou {{ .Title }}"
+other = "Talu ai nei {{ .Title }}"
 
 [readMore]
 other = "Faitau atili"
 
 [by]
-other = "E"
+other = "Saunia e"
 
 [whatsInThis]
 other = "O le a le mea o i totonu o lenei {{ .Type }}"
 
 [related]
-other = "Fesoʻotaʻi"
+other = "Fa'atatau"
 
 [yourName]
 other = "Lou Igoa"
@@ -26,36 +26,44 @@ other = "Lou Igoa"
 other = "Tuatusi Imeli"
 
 [message]
-other = "Feʻau"
+other = "Fe'au"
 
 [emailRequiredNote]
-other = "E manaʻomia se tuatusi imeli."
+other = "E mana'omia se tuatusi imeli."
 
 [send]
-other = "Auina"
+other = "Auina atu"
 
 [editPage]
-other = "Faʻaleleia lenei itulau i le GitHub"
+other = "Fa'aleleia lenei itulau ile GitHub"
 
 [since]
 other = "Talu mai"
 
 [taxonomyPageList]
-other = "O le a e maua i lalo itulau e faʻaaogaina le upu faʻavasega “{{ .Title }}”"
+other = "O lo'o i lalo o le a e maua ai itulau e fa'aaoga ai le upu fa'avasega '{{ .Title }}'"
 
 [readingTime]
-one = "Faitau mo le tasi minute"
-other = "Faitau mo le {{ .Count }} minute"
+one = "Tasi le minute e faitau ai"
+other = "{{ .Count }} minute e faitau ai"
 
 [wordCount]
 one = "Tasi le upu"
 other = "{{ .Count }} upu"
 
 [pageTitle]
-other = "Itulau o le {{ .Name }}"
+other = "Itulau {{ .Name }}"
 
 [current_lang]
-other = "Lenei"
+other = "Taimi nei"
 
 [open_gdoc]
-other = "📄 Tatala le tusi taʻiala i le Google Docs"
+other = "📄 Tatala le tusi lesona ile Google Docs"
+[site_hub_title]
+other = "Nofoaga Tutotonu o Gagana e 101"
+
+[hero_welcome]
+other = "Afio Mai i le Nofoaga Tutotonu Lomitusi Fesoasoani Atamai Fausia o Gagana e 101!"
+
+[hero_subtitle]
+other = "E fesoasoani le Atamai Fausia e tatala pa pupuni o gagana!"

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>ავტომატიზაცია on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/ka/tags/%E1%83%90%E1%83%95%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90/</link>
+		<link>http://localhost:1313/all101lang/ka/tags/%E1%83%90%E1%83%95%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90/</link>
 		<description>Recent content in ავტომატიზაცია on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ka</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/ka/tags/%E1%83%90%E1%83%95%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/ka/tags/%E1%83%90%E1%83%95%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>როგორ თარგმნოთ თქვენი წიგნი 101 ენაზე წუთებში</title>
-				<link>https://meolv.github.io/all101lang/ka/announcement/</link>
+				<link>http://localhost:1313/all101lang/ka/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/ka/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/ka/announcement/</guid>
 				<description>&lt;p&gt;Gemini-ს ინსტრუმენტმა და Google Docs-ის სტანდარტულმა მთარგმნელმა საშუალება მომცა, თითქმის მყისიერად და მინიმალური დანახარჯებით, ტექსტები გლობალურ დონეზე გადამეტანა. ჩემი საკუთარი პაკეტური დამუშავების სკრიპტის წყალობით, მე გთავაზობთ სერვისს, რომელიც საშუალებას გაძლევთ სწრაფად თარგმნოთ თქვენი დოკუმენტი 100-ზე მეტ ენაზე ხელით ჩარევის გარეშე.&lt;br&gt;&#xA;რატომ მუშაობს:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ულტრა სწრაფი: 101 ენა 15 წუთში (≈ 9 წამი თითო ენაზე 48,000 სიტყვიანი დოკუმენტისთვის).&lt;/li&gt;&#xA;&lt;li&gt;მასშტაბირება: შეინახეთ სათაურები, სიები, ცხრილები და სურათები.&lt;/li&gt;&#xA;&lt;li&gt;დანაზოგი: წიგნის 101 ენაზე თარგმნის ღირებულება დაახლოებით 5 ევროა / 6 დოლარი.&lt;br&gt;&#xA;ქვემოთ მოცემულია თქვენი ნაშრომის 101-ე თარგმანის შეკვეთის სრული ინსტრუქცია და პირობები.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

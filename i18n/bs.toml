@@ -5,10 +5,10 @@ other = "Više"
 other = "Sve {{ .Title }}"
 
 [recentTitle]
-other = "Nedavni {{ .Title }}"
+other = "Nedavno {{ .Title }}"
 
 [readMore]
-other = "Pročitaj više"
+other = "Pročitajte više"
 
 [by]
 other = "Autor"
@@ -41,7 +41,7 @@ other = "Poboljšajte ovu stranicu na GitHubu"
 other = "Od"
 
 [taxonomyPageList]
-other = "Ispod ćete pronaći stranice koje koriste taksonomski pojam „{{ .Title }}”"
+other = "Ispod ćete pronaći stranice koje koriste termin taksonomije '{{ .Title }}"
 
 [readingTime]
 one = "Jedna minuta čitanja"
@@ -55,7 +55,15 @@ other = "{{ .Count }} riječi"
 other = "{{ .Name }} stranica"
 
 [current_lang]
-other = "Trenutni"
+other = "Trenutno"
 
 [open_gdoc]
-other = "📄 Otvori priručnik u Google Docs-u"
+other = "📄 Otvorite priručnik u Google Docs"
+[site_hub_title]
+other = "Centar 101 Jezika"
+
+[hero_welcome]
+other = "Dobrodošli u Izdavački centar za 101 jezik uz podršku Vještačke Inteligencije!"
+
+[hero_subtitle]
+other = "Vještačka inteligencija pomaže u prevazilaženju jezičkih barijera!"

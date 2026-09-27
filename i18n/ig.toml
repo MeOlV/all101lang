@@ -5,19 +5,19 @@ other = "Ọzọ"
 other = "Niile {{ .Title }}"
 
 [recentTitle]
-other = "Nke na-adịbeghị anya {{ .Title }}"
+other = "Ọhụrụ {{ .Title }}"
 
 [readMore]
-other = "Gụọ ihe ọzọ"
+other = "Gụọkwuo"
 
 [by]
-other = "Site n'aka"
+other = "Nke"
 
 [whatsInThis]
-other = "Kedu ihe dị na {{ .Type }} a?"
+other = "Gịnị dị n'ime {{ .Type }} a"
 
 [related]
-other = "Nke metụtara"
+other = "Njikọ"
 
 [yourName]
 other = "Aha gị"
@@ -29,10 +29,10 @@ other = "Adreesị Imeelụ"
 other = "Ozi"
 
 [emailRequiredNote]
-other = "Achọrọ adreesị Imeelụ."
+other = "A chọrọ adreesị Imeelụ."
 
 [send]
-other = "Ziga"
+other = "Zipụ"
 
 [editPage]
 other = "Meziwanye ibe a na GitHub"
@@ -41,21 +41,29 @@ other = "Meziwanye ibe a na GitHub"
 other = "Kemgbe"
 
 [taxonomyPageList]
-other = "N'okpuru ebe a, ị ga-ahụ ibe ndị na-eji okwu nhazi “{{ .Title }}”"
+other = "N'okpuru ị ga-ahụ ibe ndị na-eji okwu usoro nchịkọta '{{ .Title }}'"
 
 [readingTime]
-one = "Otu nkeji ọgụgụ"
-other = "{{ .Count }} nkeji ọgụgụ"
+one = "Otu nkeji ịgụ"
+other = "{{ .Count }} nkeji ịgụ"
 
 [wordCount]
 one = "Otu okwu"
-other = "{{ .Count }} okwu"
+other = "Okwu {{ .Count }}"
 
 [pageTitle]
 other = "Ibe {{ .Name }}"
 
 [current_lang]
-other = "Nke Ugbu a"
+other = "Ugbu a"
 
 [open_gdoc]
-other = "📄 Mepee akwụkwọ ntụzịaka na Google Docs"
+other = "📄 Mepee akwụkwọ ntuziaka na Google Docs"
+[site_hub_title]
+other = "Ebe Asụsụ 101"
+
+[hero_welcome]
+other = "Nnọọ na Ebe Mbipụta Asụsụ 101 nke AI na-enyere aka!"
+
+[hero_subtitle]
+other = "Ọgụgụ Isi Mmebere na-enyere aka ịkwatu ihe mgbochi asụsụ!"

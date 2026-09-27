@@ -41,7 +41,7 @@ other = "Përmirëso këtë faqe në GitHub"
 other = "Që nga"
 
 [taxonomyPageList]
-other = "Më poshtë do të gjeni faqe që përdorin termin e taksonomisë “{{ .Title }}”"
+other = "Më poshtë do të gjeni faqe që përdorin termin e taksonomisë '{{ .Title }}'"
 
 [readingTime]
 one = "Një minutë lexim"
@@ -58,4 +58,12 @@ other = "Faqja {{ .Name }}"
 other = "Aktuale"
 
 [open_gdoc]
-other = "📄 Hapni udhëzuesin në Google Docs"
+other = "📄 Hap manualin në Google Docs"
+[site_hub_title]
+other = "Qendra e 101 Gjuhëve"
+
+[hero_welcome]
+other = "Mirësevini në Qendrën e Botimit 101-Gjuhësh me Ndihmën e AI!"
+
+[hero_subtitle]
+other = "Inteligjenca Artificiale ndihmon në kapërcimin e barrierave gjuhësore!"

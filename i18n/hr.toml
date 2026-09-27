@@ -23,25 +23,25 @@ other = "Povezano"
 other = "Vaše ime"
 
 [emailAddress]
-other = "E-mail adresa"
+other = "Adresa e-pošte"
 
 [message]
 other = "Poruka"
 
 [emailRequiredNote]
-other = "E-mail adresa je obavezna."
+other = "Adresa e-pošte je obavezna."
 
 [send]
 other = "Pošalji"
 
 [editPage]
-other = "Poboljšajte ovu stranicu na GitHubu"
+other = "Unaprijedite ovu stranicu na GitHubu"
 
 [since]
 other = "Od"
 
 [taxonomyPageList]
-other = "Ispod ćete pronaći stranice koje koriste taksonomski pojam „{{ .Title }}”"
+other = "Ispod ćete pronaći stranice koje koriste taksonomski pojam '{{ .Title }}"
 
 [readingTime]
 one = "Jedna minuta čitanja"
@@ -52,10 +52,18 @@ one = "Jedna riječ"
 other = "{{ .Count }} riječi"
 
 [pageTitle]
-other = "{{ .Name }} stranica"
+other = "Stranica {{ .Name }}"
 
 [current_lang]
 other = "Trenutni"
 
 [open_gdoc]
-other = "📄 Otvori priručnik u Google Dokumentima"
+other = "📄 Otvorite priručnik u Google Dokumentima"
+[site_hub_title]
+other = "Središte 101 jezika"
+
+[hero_welcome]
+other = "Dobrodošli u 101-jezično izdavačko središte potpomognuto umjetnom inteligencijom!"
+
+[hero_subtitle]
+other = "Umjetna inteligencija pomaže srušiti jezične barijere!"

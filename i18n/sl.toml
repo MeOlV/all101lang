@@ -2,10 +2,10 @@
 other = "Več"
 
 [allTitle]
-other = "Vsi {{ .Title }}"
+other = "Vse {{ .Title }}"
 
 [recentTitle]
-other = "Najnovejše {{ .Title }}"
+other = "Zadnje {{ .Title }}"
 
 [readMore]
 other = "Preberi več"
@@ -41,7 +41,7 @@ other = "Izboljšajte to stran na GitHubu"
 other = "Od"
 
 [taxonomyPageList]
-other = "Spodaj boste našli strani, ki uporabljajo taksonomski izraz »{{ .Title }}«"
+other = "Spodaj boste našli strani, ki uporabljajo taksonomski izraz '{{ .Title }}'"
 
 [readingTime]
 one = "Ena minuta branja"
@@ -59,3 +59,11 @@ other = "Trenutni"
 
 [open_gdoc]
 other = "📄 Odpri priročnik v Google Dokumentih"
+[site_hub_title]
+other = "Jezikovno Središče 101"
+
+[hero_welcome]
+other = "Dobrodošli v 101-jezikovnem založniškem središču, podprtem z umetno inteligenco!"
+
+[hero_subtitle]
+other = "Umetna inteligenca pomaga odpravljati jezikovne ovire!"

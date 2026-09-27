@@ -5,10 +5,10 @@ other = "अधिक"
 other = "सर्व {{ .Title }}"
 
 [recentTitle]
-other = "अलीकडील {{ .Title }}"
+other = "नवीनतम {{ .Title }}"
 
 [readMore]
-other = "अधिक वाचा"
+other = "पुढे वाचा"
 
 [by]
 other = "द्वारे"
@@ -35,13 +35,13 @@ other = "ईमेल पत्ता आवश्यक आहे."
 other = "पाठवा"
 
 [editPage]
-other = "हे पृष्ठ GitHub वर सुधारा"
+other = "GitHub वर हे पृष्ठ सुधारा"
 
 [since]
 other = "पासून"
 
 [taxonomyPageList]
-other = "खाली तुम्हाला “{{ .Title }}” या वर्गीकरणानुसार वापरलेली पृष्ठे मिळतील."
+other = "खाली तुम्हाला '{{ .Title }}' या वर्गीकरण शब्दाचा वापर करणारी पृष्ठे मिळतील."
 
 [readingTime]
 one = "एक मिनिट वाचन"
@@ -58,4 +58,12 @@ other = "{{ .Name }} पृष्ठ"
 other = "सध्याची"
 
 [open_gdoc]
-other = "📄 Google Docs मध्ये मार्गदर्शक उघडा"
+other = "📄 Google Docs मध्ये मॅन्युअल उघडा"
+[site_hub_title]
+other = "१०१ भाषा केंद्र"
+
+[hero_welcome]
+other = "१०१ भाषांच्या एआय-सहाय्यित प्रकाशन व्यासपीठात आपले स्वागत आहे!"
+
+[hero_subtitle]
+other = "कृत्रिम बुद्धिमत्ता भाषेचे अडथळे दूर करण्यास मदत करते!"

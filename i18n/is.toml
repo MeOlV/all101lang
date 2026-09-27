@@ -1,61 +1,69 @@
 [more]
-other = "Meira"
+other = "Lainnya"
 
 [allTitle]
-other = "Öll {{ .Title }}"
+other = "Semua {{ .Title }}"
 
 [recentTitle]
-other = "Nýleg {{ .Title }}"
+other = "{{ .Title }} Terbaru"
 
 [readMore]
-other = "Lesa meira"
+other = "Baca selengkapnya"
 
 [by]
-other = "Eftir"
+other = "Oleh"
 
 [whatsInThis]
-other = "Hvað er í þessu {{ .Type }}"
+other = "Apa saja di {{ .Type }} ini"
 
 [related]
-other = "Tengt"
+other = "Terkait"
 
 [yourName]
-other = "Nafnið þitt"
+other = "Nama Anda"
 
 [emailAddress]
-other = "Netfang"
+other = "Alamat Email"
 
 [message]
-other = "Skilaboð"
+other = "Pesan"
 
 [emailRequiredNote]
-other = "Netfang er nauðsynlegt."
+other = "Alamat email wajib diisi."
 
 [send]
-other = "Senda"
+other = "Kirim"
 
 [editPage]
-other = "Bæta þessa síðu á GitHub"
+other = "Sempurnakan halaman ini di GitHub"
 
 [since]
-other = "Síðan"
+other = "Sejak"
 
 [taxonomyPageList]
-other = "Hér að neðan finnur þú síður sem nota flokkunarheitið „{{ .Title }}“"
+other = "Di bawah ini Anda akan menemukan halaman-halaman yang menggunakan istilah taksonomi '{{ .Title }}'"
 
 [readingTime]
-one = "Eina mínútu lestur"
-other = "{{ .Count }} mínútna lestur"
+one = "Satu menit membaca"
+other = "{{ .Count }} menit membaca"
 
 [wordCount]
-one = "Eitt orð"
-other = "{{ .Count }} orð"
+one = "Satu kata"
+other = "{{ .Count }} kata"
 
 [pageTitle]
-other = "{{ .Name }} síða"
+other = "Halaman {{ .Name }}"
 
 [current_lang]
-other = "Núverandi"
+other = "Saat ini"
 
 [open_gdoc]
-other = "📄 Opna handbók í Google skjölum"
+other = "📄 Buka manual di Google Docs"
+[site_hub_title]
+other = "Pusat Bahasa 101"
+
+[hero_welcome]
+other = "Selamat datang di Pusat Penerbitan 101 Bahasa yang Dibantu AI!"
+
+[hero_subtitle]
+other = "Kecerdasan Buatan membantu menghilangkan hambatan bahasa!"

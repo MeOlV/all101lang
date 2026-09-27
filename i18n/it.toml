@@ -23,13 +23,13 @@ other = "Correlati"
 other = "Il tuo nome"
 
 [emailAddress]
-other = "Indirizzo e-mail"
+other = "Indirizzo email"
 
 [message]
 other = "Messaggio"
 
 [emailRequiredNote]
-other = "È richiesto un indirizzo e-mail."
+other = "È richiesto un indirizzo email."
 
 [send]
 other = "Invia"
@@ -41,7 +41,7 @@ other = "Migliora questa pagina su GitHub"
 other = "Dal"
 
 [taxonomyPageList]
-other = "Di seguito troverai le pagine che utilizzano il termine di tassonomia “{{ .Title }}”"
+other = "Di seguito troverai le pagine che utilizzano il termine di tassonomia '{{ .Title }}'"
 
 [readingTime]
 one = "Un minuto di lettura"
@@ -52,10 +52,18 @@ one = "Una parola"
 other = "{{ .Count }} parole"
 
 [pageTitle]
-other = "Pagina di {{ .Name }}"
+other = "Pagina {{ .Name }}"
 
 [current_lang]
-other = "Attuale"
+other = "Corrente"
 
 [open_gdoc]
 other = "📄 Apri il manuale in Google Docs"
+[site_hub_title]
+other = "Hub Linguistico 101"
+
+[hero_welcome]
+other = "Benvenuto nell'Hub di Pubblicazione per 101 Lingue assistito dall'IA!"
+
+[hero_subtitle]
+other = "L'Intelligenza Artificiale aiuta a superare le barriere linguistiche!"

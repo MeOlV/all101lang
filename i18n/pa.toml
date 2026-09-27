@@ -2,7 +2,7 @@
 other = "ਹੋਰ"
 
 [allTitle]
-other = "ਸਾਰੇ {{ .Title }}"
+other = "ਸਭ {{ .Title }}"
 
 [recentTitle]
 other = "ਤਾਜ਼ਾ {{ .Title }}"
@@ -41,7 +41,7 @@ other = "ਇਸ ਪੰਨੇ ਨੂੰ GitHub 'ਤੇ ਸੁਧਾਰੋ"
 other = "ਤੋਂ"
 
 [taxonomyPageList]
-other = "ਹੇਠਾਂ ਤੁਹਾਨੂੰ ਉਹ ਪੰਨੇ ਮਿਲਣਗੇ ਜੋ ਸ਼੍ਰੇਣੀ ਸ਼ਬਦ “{{ .Title }}” ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਨ"
+other = "ਹੇਠਾਂ ਤੁਹਾਨੂੰ ਉਹ ਪੰਨੇ ਮਿਲਣਗੇ ਜੋ ਸ਼੍ਰੇਣੀ ਸ਼ਬਦ '{{ .Title }}' ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਨ।"
 
 [readingTime]
 one = "ਇੱਕ ਮਿੰਟ ਪੜ੍ਹੋ"
@@ -58,4 +58,12 @@ other = "{{ .Name }} ਪੰਨਾ"
 other = "ਮੌਜੂਦਾ"
 
 [open_gdoc]
-other = "📄 ਗੂਗਲ ਡੌਕਸ ਵਿੱਚ ਮਾਰਗਦਰਸ਼ਕ ਖੋਲ੍ਹੋ"
+other = "📄 ਮੈਨੂਅਲ ਨੂੰ Google Docs ਵਿੱਚ ਖੋਲ੍ਹੋ"
+[site_hub_title]
+other = "101 ਭਾਸ਼ਾਵਾਂ ਦਾ ਕੇਂਦਰ"
+
+[hero_welcome]
+other = "101-ਭਾਸ਼ਾਈ AI-ਸਮਰਥਿਤ ਪ੍ਰਕਾਸ਼ਨ ਕੇਂਦਰ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ!"
+
+[hero_subtitle]
+other = "ਆਰਟੀਫੀਸ਼ੀਅਲ ਇੰਟੈਲੀਜੈਂਸ ਭਾਸ਼ਾਈ ਰੁਕਾਵਟਾਂ ਤੋੜਨ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ!"

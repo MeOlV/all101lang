@@ -17,19 +17,19 @@ other = "Por"
 other = "O que há neste {{ .Type }}"
 
 [related]
-other = "Relacionado"
+other = "Relacionados"
 
 [yourName]
 other = "Seu Nome"
 
 [emailAddress]
-other = "Endereço de Email"
+other = "Endereço de E-mail"
 
 [message]
 other = "Mensagem"
 
 [emailRequiredNote]
-other = "Um endereço de email é obrigatório."
+other = "Um endereço de e-mail é obrigatório."
 
 [send]
 other = "Enviar"
@@ -41,7 +41,7 @@ other = "Melhore esta página no GitHub"
 other = "Desde"
 
 [taxonomyPageList]
-other = "Abaixo você encontrará páginas que utilizam o termo de taxonomia “{{ .Title }}”"
+other = "Abaixo você encontrará páginas que utilizam o termo de taxonomia '{{ .Title }}'"
 
 [readingTime]
 one = "Um minuto de leitura"
@@ -52,10 +52,18 @@ one = "Uma palavra"
 other = "{{ .Count }} palavras"
 
 [pageTitle]
-other = "Página {{ .Name }}"
+other = "Página de {{ .Name }}"
 
 [current_lang]
 other = "Atual"
 
 [open_gdoc]
 other = "📄 Abrir manual no Google Docs"
+[site_hub_title]
+other = "Centro de 101 Idiomas"
+
+[hero_welcome]
+other = "Bem-vindo ao Centro de Publicação em 101 Idiomas com Assistência de IA!"
+
+[hero_subtitle]
+other = "A Inteligência Artificial ajuda a superar barreiras linguísticas!"

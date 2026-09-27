@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/ml/</link>
+		<link>http://localhost:1313/all101lang/ml/</link>
 		<description>Recent content on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>ml</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/ml/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/ml/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>മിനിറ്റുകൾക്കുള്ളിൽ നിങ്ങളുടെ സ്വന്തം പുസ്തകം 101 ഭാഷകളിലേക്ക് എങ്ങനെ വിവർത്തനം ചെയ്യാം</title>
-				<link>https://meolv.github.io/all101lang/ml/announcement/</link>
+				<link>http://localhost:1313/all101lang/ml/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/ml/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/ml/announcement/</guid>
 				<description>&lt;p&gt;ജെമിനി ടൂളും ഗൂഗിൾ ഡോക്സിലെ സ്റ്റാൻഡേർഡ് ട്രാൻസ്ലേറ്ററും ഉപയോഗിച്ച്, ടെക്സ്റ്റുകളെ ആഗോള തലത്തിലേക്ക് ഏതാണ്ട് തൽക്ഷണം, കുറഞ്ഞ ചെലവിൽ സ്കെയിൽ ചെയ്യാൻ എനിക്ക് കഴിഞ്ഞു. എന്റെ സ്വന്തം ബാച്ച് പ്രോസസ്സിംഗ് സ്ക്രിപ്റ്റിന് നന്ദി, നിങ്ങളുടെ ഡോക്യുമെന്റ് സ്വമേധയാ ഇടപെടാതെ 100-ലധികം ഭാഷകളിലേക്ക് വേഗത്തിൽ വിവർത്തനം ചെയ്യുന്നതിനുള്ള ഒരു സേവനം ഞാൻ വാഗ്ദാനം ചെയ്യുന്നു.&lt;br&gt;&#xA;എന്തുകൊണ്ട് ഇത് പ്രവർത്തിക്കുന്നു:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;അൾട്രാ ഫാസ്റ്റ്: 15 മിനിറ്റിനുള്ളിൽ 101 ഭാഷകൾ (48,000 വാക്കുകളുള്ള ഒരു പ്രമാണത്തിന് ഒരു ഭാഷയ്ക്ക് ≈ 9 സെക്കൻഡ്).&lt;/li&gt;&#xA;&lt;li&gt;സ്കേലബിളിറ്റി: തലക്കെട്ടുകൾ, ലിസ്റ്റുകൾ, പട്ടികകൾ, ചിത്രങ്ങൾ എന്നിവ സംരക്ഷിക്കുക.&lt;/li&gt;&#xA;&lt;li&gt;സമ്പാദ്യം: ഒരു പുസ്തകം 101 ഭാഷകളിലേക്ക് വിവർത്തനം ചെയ്യുന്നതിനുള്ള ചെലവ് ഏകദേശം €5 / $6 മാത്രമാണ്.&lt;br&gt;&#xA;നിങ്ങളുടെ കൃതിയുടെ 101-ാമത്തെ വിവർത്തനത്തിന് ഓർഡർ ചെയ്യുന്നതിനുള്ള പൂർണ്ണമായ നിർദ്ദേശങ്ങളും നിബന്ധനകളും താഴെ കാണാം.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/hmn/tags/</link>
+		<link>http://localhost:1313/all101lang/hmn/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>hmn</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/hmn/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/hmn/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Google Docs</title>
-				<link>https://meolv.github.io/all101lang/hmn/tags/google-docs/</link>
+				<link>http://localhost:1313/all101lang/hmn/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/hmn/tags/google-docs/</guid>
+				<guid>http://localhost:1313/all101lang/hmn/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kev Sau Ntawv</title>
-				<link>https://meolv.github.io/all101lang/hmn/tags/kev-sau-ntawv/</link>
+				<link>http://localhost:1313/all101lang/hmn/tags/kev-sau-ntawv/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/hmn/tags/kev-sau-ntawv/</guid>
+				<guid>http://localhost:1313/all101lang/hmn/tags/kev-sau-ntawv/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kev Txhais Lus</title>
-				<link>https://meolv.github.io/all101lang/hmn/tags/kev-txhais-lus/</link>
+				<link>http://localhost:1313/all101lang/hmn/tags/kev-txhais-lus/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/hmn/tags/kev-txhais-lus/</guid>
+				<guid>http://localhost:1313/all101lang/hmn/tags/kev-txhais-lus/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kev Ua Haujlwm Tsis Siv Neeg</title>
-				<link>https://meolv.github.io/all101lang/hmn/tags/kev-ua-haujlwm-tsis-siv-neeg/</link>
+				<link>http://localhost:1313/all101lang/hmn/tags/kev-ua-haujlwm-tsis-siv-neeg/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/hmn/tags/kev-ua-haujlwm-tsis-siv-neeg/</guid>
+				<guid>http://localhost:1313/all101lang/hmn/tags/kev-ua-haujlwm-tsis-siv-neeg/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -1,61 +1,70 @@
 [more]
-other = "Zvimwe"
+other = "अधिकम्"
 
 [allTitle]
-other = "Zvose {{ .Title }}"
+other = "सर्वाणि {{ .Title }}"
 
 [recentTitle]
-other = "Zvazvino {{ .Title }}"
+other = "नूतनानि {{ .Title }}"
 
 [readMore]
-other = "Verenga zvimwe"
+other = "अधिकं पठन्तु"
 
 [by]
-other = "Na"
+other = "द्वारा"
 
 [whatsInThis]
-other = "Chii chiri mune ino {{ .Type }}"
+other = "एतस्मिन् {{ .Type }} मध्ये किम् अस्ति?"
 
 [related]
-other = "Zvakabatana"
+other = "सम्बन्धितम्"
 
 [yourName]
-other = "Zita rako"
+other = "भवतः नाम"
 
 [emailAddress]
-other = "Kero yeemail"
+other = "ईमेल-पता"
 
 [message]
-other = "Meseji"
+other = "सन्देशः"
 
 [emailRequiredNote]
-other = "Kero yeemail inodiwa."
+other = "ईमेल-पता अनिवार्यम् अस्ति।"
 
 [send]
-other = "Tumira"
+other = "प्रेषयन्तु"
 
 [editPage]
-other = "Vandudza peji rino paGitHub"
+other = "गिट्हब्-मध्ये एतत् पृष्ठं सुधारयन्तु"
 
 [since]
-other = "Kubva"
+other = "आरभ्य"
 
 [taxonomyPageList]
-other = "Pazasi uchawana mapeji anoshandisa izwi re taxonomy re “{{ .Title }}”"
+other = "अधः भवन्तः '{{ .Title }}' इति वर्गीकरण-पदेन उपयुक्तानि पृष्ठानि प्राप्स्यन्ति।"
 
 [readingTime]
-one = "Verenga kweminiti imwe"
-other = "Verenga kwemaminitsi {{ .Count }}"
+one = "एक-निमेष-पठनम्"
+other = "{{ .Count }} निमेषाणां पठनम्"
 
 [wordCount]
-one = "Izwi rimwe"
-other = "Mazwi {{ .Count }}"
+one = "एकं पदम्"
+other = "{{ .Count }} पदानि"
 
 [pageTitle]
-other = "Peji ra {{ .Name }}"
+other = "{{ .Name }} पृष्ठम्"
 
 [current_lang]
-other = "Razvino"
+other = "वर्तमानम्"
 
 [open_gdoc]
-other = "📄 Vhura gwara muGoogle Docs"
+other = "📄 गूगल् डॉक्स् मध्ये हस्तपुस्तिकां उद्घाटयन्तु"
+
+[site_hub_title]
+other = "භාෂා 101 මධ්‍යස්ථානය"
+
+[hero_welcome]
+other = "භාෂා 101කින් යුත් කෘතිම බුද්ධි සහාය ලබන ප්‍රකාශන මධ්‍යස්ථානය වෙත සාදරයෙන් පිළිගනිමු!"
+
+[hero_subtitle]
+other = "කෘතිම බුද්ධිය භාෂා බාධක බිඳ හෙළීමට උපකාරී වේ!"

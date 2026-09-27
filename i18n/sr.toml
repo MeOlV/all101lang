@@ -2,7 +2,7 @@
 other = "Više"
 
 [allTitle]
-other = "Svi {{ .Title }}"
+other = "Sve {{ .Title }}"
 
 [recentTitle]
 other = "Nedavni {{ .Title }}"
@@ -14,7 +14,7 @@ other = "Pročitaj više"
 other = "Autor"
 
 [whatsInThis]
-other = "Šta se nalazi u ovom {{ .Type }}"
+other = "Šta je u ovom {{ .Type }}"
 
 [related]
 other = "Povezano"
@@ -23,28 +23,28 @@ other = "Povezano"
 other = "Vaše ime"
 
 [emailAddress]
-other = "Adresa e-pošte"
+other = "E-mail adresa"
 
 [message]
 other = "Poruka"
 
 [emailRequiredNote]
-other = "Adresa e-pošte je obavezna."
+other = "E-mail adresa je obavezna."
 
 [send]
 other = "Pošalji"
 
 [editPage]
-other = "Poboljšajte ovu stranicu na GitHub-u"
+other = "Unapredite ovu stranicu na GitHub-u"
 
 [since]
 other = "Od"
 
 [taxonomyPageList]
-other = "Ispod ćete pronaći stranice koje koriste taksonomski termin „{{ .Title }}”"
+other = "Ispod ćete pronaći stranice koje koriste taksonomski termin '{{ .Title }}"
 
 [readingTime]
-one = "Jedan minut čitanja"
+one = "Jednominutno čitanje"
 other = "{{ .Count }} minuta čitanja"
 
 [wordCount]
@@ -58,4 +58,12 @@ other = "Stranica {{ .Name }}"
 other = "Trenutni"
 
 [open_gdoc]
-other = "📄 Otvorite priručnik u Google Docs-u"
+other = "📄 Otvorite priručnik u Google dokumentima"
+[site_hub_title]
+other = "Centar 101 Jezika"
+
+[hero_welcome]
+other = "Dobrodošli u Izdavački centar za 101 jezik potpomognut veštačkom inteligencijom!"
+
+[hero_subtitle]
+other = "Veštačka inteligencija pomaže u probijanju jezičkih barijera!"

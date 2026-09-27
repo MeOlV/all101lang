@@ -20,32 +20,32 @@ other = "هن {{ .Type }} ۾ ڇا آهي؟"
 other = "لاڳاپيل"
 
 [yourName]
-other = "اوهان جو نالو"
+other = "توهان جو نالو"
 
 [emailAddress]
-other = "اي ميل ايڊريس"
+other = "اي ميل پتو"
 
 [message]
 other = "پيغام"
 
 [emailRequiredNote]
-other = "هڪ اي ميل ايڊريس لازمي آهي."
+other = "هڪ اي ميل پتو گهربل آهي."
 
 [send]
 other = "موڪليو"
 
 [editPage]
-other = "هن صفحي کي GitHub تي بهتر بڻايو"
+other = "گٽ هب تي هن صفحي کي بهتر ڪريو"
 
 [since]
-other = "کان وٺي"
+other = "کان"
 
 [taxonomyPageList]
-other = "هيٺ توهان کي اهي صفحا ملندا جيڪي درجه بندي اصطلاح “{{ .Title }}” استعمال ڪن ٿا."
+other = "هيٺ توهان کي اهي صفحا ملندا جيڪي '{{ .Title }}' جي ٽيڪسونومي اصطلاح کي استعمال ڪن ٿا."
 
 [readingTime]
-one = "هڪ منٽ جو پڙهڻ"
-other = "{{ .Count }} منٽ جو پڙهڻ"
+one = "هڪ منٽ پڙهڻ"
+other = "{{ .Count }} منٽ پڙهڻ"
 
 [wordCount]
 one = "هڪ لفظ"
@@ -58,4 +58,12 @@ other = "{{ .Name }} صفحو"
 other = "موجوده"
 
 [open_gdoc]
-other = "📄 گوگل ڊاڪس ۾ رهنمائي ڪتاب کوليو"
+other = "📄 گوگل ڊاڪس ۾ مينوئل کوليو"
+[site_hub_title]
+other = "101 ٻولين جو مرڪز"
+
+[hero_welcome]
+other = "101 ٻولين جي نيم-اي آءِ اشاعتي مرڪز ۾ ڀليڪار!"
+
+[hero_subtitle]
+other = "مصنوعي ذهانت ٻولين جون رنڊڪون ٽوڙڻ ۾ مدد ڪري ٿي!"

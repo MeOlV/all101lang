@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Prose on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/fr/tags/prose/</link>
+		<link>http://localhost:1313/all101lang/fr/tags/prose/</link>
 		<description>Recent content in Prose on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/fr/tags/prose/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/fr/tags/prose/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Comment traduire son propre livre en 101 langues en quelques minutes</title>
-				<link>https://meolv.github.io/all101lang/fr/announcement/</link>
+				<link>http://localhost:1313/all101lang/fr/announcement/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/fr/announcement/</guid>
+				<guid>http://localhost:1313/all101lang/fr/announcement/</guid>
 				<description>&lt;p&gt;L&amp;rsquo;outil Gemini et le traducteur intégré à Google Docs m&amp;rsquo;ont permis de traduire des textes à l&amp;rsquo;échelle mondiale quasi instantanément et à moindre coût. Grâce à mon propre script de traitement par lots, je propose un service de traduction rapide de vos documents dans plus de 100 langues, sans intervention manuelle.&lt;br&gt;&#xA;Pourquoi ça marche :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ultra-rapide : 101 langues en 15 minutes (≈ 9 secondes par langue pour un document de 48 000 mots).&lt;/li&gt;&#xA;&lt;li&gt;Évolutivité : Préserver les titres, les listes, les tableaux et les images.&lt;/li&gt;&#xA;&lt;li&gt;Économies : Le coût de la traduction d&amp;rsquo;un livre en 101 langues n&amp;rsquo;est que d&amp;rsquo;environ 5 € / 6 $.&lt;br&gt;&#xA;Vous trouverez ci-dessous les instructions et conditions complètes pour commander la 101e traduction de votre ouvrage.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 101 Languages Hub</title>
-		<link>https://meolv.github.io/all101lang/lo/tags/</link>
+		<link>http://localhost:1313/all101lang/lo/tags/</link>
 		<description>Recent content in Tags on 101 Languages Hub</description>
 		<generator>Hugo</generator>
 		<language>lo</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Fri, 25 Sep 2026 05:58:50 +0000</lastBuildDate>
 		
-			<atom:link href="https://meolv.github.io/all101lang/lo/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/all101lang/lo/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Google Docs</title>
-				<link>https://meolv.github.io/all101lang/lo/tags/google-docs/</link>
+				<link>http://localhost:1313/all101lang/lo/tags/google-docs/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/lo/tags/google-docs/</guid>
+				<guid>http://localhost:1313/all101lang/lo/tags/google-docs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ການຂຽນ</title>
-				<link>https://meolv.github.io/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BA%82%E0%BA%BD%E0%BA%99/</link>
+				<link>http://localhost:1313/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BA%82%E0%BA%BD%E0%BA%99/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BA%82%E0%BA%BD%E0%BA%99/</guid>
+				<guid>http://localhost:1313/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BA%82%E0%BA%BD%E0%BA%99/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ການແປພາສາ</title>
-				<link>https://meolv.github.io/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%81%E0%BA%9B%E0%BA%9E%E0%BA%B2%E0%BA%AA%E0%BA%B2/</link>
+				<link>http://localhost:1313/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%81%E0%BA%9B%E0%BA%9E%E0%BA%B2%E0%BA%AA%E0%BA%B2/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%81%E0%BA%9B%E0%BA%9E%E0%BA%B2%E0%BA%AA%E0%BA%B2/</guid>
+				<guid>http://localhost:1313/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%81%E0%BA%9B%E0%BA%9E%E0%BA%B2%E0%BA%AA%E0%BA%B2/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ການເຮັດວຽກອັດຕະໂນມັດ</title>
-				<link>https://meolv.github.io/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%80%E0%BA%AE%E0%BA%B1%E0%BA%94%E0%BA%A7%E0%BA%BD%E0%BA%81%E0%BA%AD%E0%BA%B1%E0%BA%94%E0%BA%95%E0%BA%B0%E0%BB%82%E0%BA%99%E0%BA%A1%E0%BA%B1%E0%BA%94/</link>
+				<link>http://localhost:1313/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%80%E0%BA%AE%E0%BA%B1%E0%BA%94%E0%BA%A7%E0%BA%BD%E0%BA%81%E0%BA%AD%E0%BA%B1%E0%BA%94%E0%BA%95%E0%BA%B0%E0%BB%82%E0%BA%99%E0%BA%A1%E0%BA%B1%E0%BA%94/</link>
 				<pubDate>Fri, 25 Sep 2026 05:58:50 +0000</pubDate>
-				<guid>https://meolv.github.io/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%80%E0%BA%AE%E0%BA%B1%E0%BA%94%E0%BA%A7%E0%BA%BD%E0%BA%81%E0%BA%AD%E0%BA%B1%E0%BA%94%E0%BA%95%E0%BA%B0%E0%BB%82%E0%BA%99%E0%BA%A1%E0%BA%B1%E0%BA%94/</guid>
+				<guid>http://localhost:1313/all101lang/lo/tags/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%80%E0%BA%AE%E0%BA%B1%E0%BA%94%E0%BA%A7%E0%BA%BD%E0%BA%81%E0%BA%AD%E0%BA%B1%E0%BA%94%E0%BA%95%E0%BA%B0%E0%BB%82%E0%BA%99%E0%BA%A1%E0%BA%B1%E0%BA%94/</guid>
 				<description></description>
 			</item>
 	</channel>

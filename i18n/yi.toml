@@ -8,7 +8,7 @@ other = "אַלע {{ .Title }}"
 other = "לעצטע {{ .Title }}"
 
 [readMore]
-other = "לייען מער"
+other = "לייענען מער"
 
 [by]
 other = "פֿון"
@@ -23,29 +23,29 @@ other = "פֿאַרבונדן"
 other = "דיין נאָמען"
 
 [emailAddress]
-other = "בליצפּאָסט אַדרעס"
+other = "אימעיל אדרעס"
 
 [message]
-other = "מעלדונג"
+other = "מעסעדזש"
 
 [emailRequiredNote]
-other = "א בליצפּאָסט אַדרעס איז פֿאָדערט."
+other = "אַן אימעיל אדרעס איז פארלאנגט."
 
 [send]
 other = "שיקן"
 
 [editPage]
-other = "פֿאַרבעסער דעם בלאַט אויף GitHub"
+other = "פֿאַרבעסערן די בלאַט אויף גיטהוב"
 
 [since]
 other = "זינט"
 
 [taxonomyPageList]
-other = "אונטן געפֿינט איר בלעטער וואָס ניצן דעם טאַקסאָנאָמיע טערמין "{{ .Title }}""
+other = "אונטן וועט איר געפֿינען בלעטער וואָס ניצן דעם טאַקסאָנאָמיע טערמין '{{ .Title }}'"
 
 [readingTime]
 one = "איין מינוט לייענען"
-other = "{{ .Count }} מינוטן לייענען"
+other = "{{ .Count }} מינוט לייענען"
 
 [wordCount]
 one = "איין וואָרט"
@@ -55,7 +55,15 @@ other = "{{ .Count }} ווערטער"
 other = "{{ .Name }} בלאַט"
 
 [current_lang]
-other = "איצטיקער"
+other = "איצטיקע"
 
 [open_gdoc]
-other = "📄 עפֿן מאַנואַל אין Google דאָקס"
+other = "📄 עפֿענען מאַנואַל אין Google דאָקס"
+[site_hub_title]
+other = "101 שפראַכן צענטער"
+
+[hero_welcome]
+other = "ברוכים הבאים צו דעם 101 שפראַכיקן פֿאַרעפֿנטלעכונגס-צענטער מיט קינסטלעכער אינטעליגענץ-אונטערשטיצונג!"
+
+[hero_subtitle]
+other = "קינסטלעכע אינטעליגענץ העלפֿט איבערקומען שפראַך באַריערן!"

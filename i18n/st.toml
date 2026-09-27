@@ -1,11 +1,11 @@
 [more]
-other = "Tse ling"
+other = "Haholoanyane"
 
 [allTitle]
-other = "{{ .Title }} tsohle"
+other = "Tsohle tsa {{ .Title }}"
 
 [recentTitle]
-other = "{{ .Title }} tsa morao tjena"
+other = "E sa tsoa hlaha ea {{ .Title }}"
 
 [readMore]
 other = "Bala haholoanyane"
@@ -14,7 +14,7 @@ other = "Bala haholoanyane"
 other = "Ke"
 
 [whatsInThis]
-other = "Ho na le eng ho {{ .Type }} ena?"
+other = "Ho na le eng ho ena {{ .Type }}"
 
 [related]
 other = "Tse amanang"
@@ -23,13 +23,13 @@ other = "Tse amanang"
 other = "Lebitso la hao"
 
 [emailAddress]
-other = "Aterese ea imeile"
+other = "Aterese ea Imeile"
 
 [message]
 other = "Molaetsa"
 
 [emailRequiredNote]
-other = "Aterese ea imeile e ea hlokahala."
+other = "Ho hlokahala aterese ea imeile."
 
 [send]
 other = "Romela"
@@ -41,7 +41,7 @@ other = "Ntlafatsa leqephe lena ho GitHub"
 other = "Ho tloha"
 
 [taxonomyPageList]
-other = "Ka tlase u tla fumana maqephe a sebelisang lentsoe la taxonomy “{{ .Title }}”"
+other = "Ka tlase o tla fumana maqephe a sebelisang lentsoe la lekala '{{ .Title }}'"
 
 [readingTime]
 one = "Ho bala motsotso o le mong"
@@ -55,7 +55,15 @@ other = "Mantsoe a {{ .Count }}"
 other = "Leqephe la {{ .Name }}"
 
 [current_lang]
-other = "Jwale"
+other = "Hona joale"
 
 [open_gdoc]
-other = "📄 Bula tataiso ho Google Docs"
+other = "📄 Bula buka ea litaelo ho Google Docs"
+[site_hub_title]
+other = "Centro de 101 Idiomas"
+
+[hero_welcome]
+other = "Bienvenido al Centro de Publicación de 101 Idiomas con Asistencia de IA."
+
+[hero_subtitle]
+other = "¡La Inteligencia Artificial ayuda a romper las barreras lingüísticas!"

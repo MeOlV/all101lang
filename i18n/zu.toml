@@ -5,16 +5,16 @@ other = "Okuningi"
 other = "Konke {{ .Title }}"
 
 [recentTitle]
-other = "Okwasanda {{ .Title }}"
+other = "Okwakamuva {{ .Title }}"
 
 [readMore]
-other = "Funda kabanzi"
+other = "Funda okwengeziwe"
 
 [by]
 other = "Ngu"
 
 [whatsInThis]
-other = "Yini ekukulo {{ .Type }}"
+other = "Yini ekule {{ .Type }}?"
 
 [related]
 other = "Okuhlobene"
@@ -23,13 +23,13 @@ other = "Okuhlobene"
 other = "Igama Lakho"
 
 [emailAddress]
-other = "Ikheli le-imeyili"
+other = "Ikheli Le-imeyili"
 
 [message]
 other = "Umlayezo"
 
 [emailRequiredNote]
-other = "Kudingeka ikheli le-imeyili."
+other = "Ikheli le-imeyili liyadingeka."
 
 [send]
 other = "Thumela"
@@ -41,21 +41,29 @@ other = "Thuthukisa leli khasi ku-GitHub"
 other = "Kusukela"
 
 [taxonomyPageList]
-other = "Ngezansi uzothola amakhasi asebenzisa igama lokuhlukanisa elithi “{{ .Title }}”"
+other = "Ngezansi uzothola amakhasi asebenzisa igama le-taxonomy elithi '{{ .Title }}'"
 
 [readingTime]
-one = "Ukufunda komzuzu owodwa"
-other = "Ukufunda kwemizuzu engu-{{ .Count }}"
+one = "Ukufunda okungeminithi elilodwa"
+other = "Ukufunda okwemizuzu engu-{{ .Count }}"
 
 [wordCount]
 one = "Igama elilodwa"
 other = "Amagama angu-{{ .Count }}"
 
 [pageTitle]
-other = "Ikhasi lika-{{ .Name }}"
+other = "Ikhasi le-{{ .Name }}"
 
 [current_lang]
 other = "Okwamanje"
 
 [open_gdoc]
-other = "📄 Vula umhlahlandlela ku-Google Docs"
+other = "📄 Vula incwadi yomhlahlandlela ku-Google Docs"
+[site_hub_title]
+other = "Isikhungo Sezilimi Eziyi-101"
+
+[hero_welcome]
+other = "Siyakwamukela kuSikhungo Sokushicilela sezilimi eziyi-101 esisekelwa yi-AI!"
+
+[hero_subtitle]
+other = "Ubuhlakani Bokwenziwa busiza ekuqedeni izithiyo zolimi!"

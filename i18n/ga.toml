@@ -1,11 +1,11 @@
 [more]
-other = "Tuilleadh"
+other = "Níos mó"
 
 [allTitle]
 other = "Gach {{ .Title }}"
 
 [recentTitle]
-other = "{{ .Title }} le déanaí"
+other = "Le déanaí {{ .Title }}"
 
 [readMore]
 other = "Léigh tuilleadh"
@@ -14,13 +14,13 @@ other = "Léigh tuilleadh"
 other = "Le"
 
 [whatsInThis]
-other = "Cad atá sa {{ .Type }} seo?"
+other = "Cad atá sa {{ .Type }} seo"
 
 [related]
 other = "Gaolmhar"
 
 [yourName]
-other = "D'Ainm"
+other = "D'ainm"
 
 [emailAddress]
 other = "Seoladh Ríomhphoist"
@@ -41,11 +41,11 @@ other = "Feabhsaigh an leathanach seo ar GitHub"
 other = "Ó"
 
 [taxonomyPageList]
-other = "Gheobhaidh tú thíos leathanaigh a úsáideann an téarma tacsanomaíochta “{{ .Title }}”"
+other = "Anseo thíos gheobhaidh tú leathanaigh a úsáideann an téarma tacsanomaíochta '{{ .Title }}'"
 
 [readingTime]
-one = "Nóiméad léite amháin"
-other = "{{ .Count }} nóiméad léite"
+one = "Léamh aon nóiméad amháin"
+other = "Léamh {{ .Count }} nóiméad"
 
 [wordCount]
 one = "Focal amháin"
@@ -59,3 +59,11 @@ other = "Reatha"
 
 [open_gdoc]
 other = "📄 Oscail an lámhleabhar i Google Docs"
+[site_hub_title]
+other = "Mol na 101 Teanga"
+
+[hero_welcome]
+other = "Fáilte chuig an Mol Foilsitheoireachta 101 Teanga Faoi Chúnamh Intleachta Saorga!"
+
+[hero_subtitle]
+other = "Cabhraíonn an Intleacht Shaorga le bacainní teanga a bhriseadh!"

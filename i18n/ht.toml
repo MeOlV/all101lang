@@ -5,7 +5,7 @@ other = "Plis"
 other = "Tout {{ .Title }}"
 
 [recentTitle]
-other = "Dènye {{ .Title }}"
+other = "Resan {{ .Title }}"
 
 [readMore]
 other = "Li plis"
@@ -14,22 +14,22 @@ other = "Li plis"
 other = "Pa"
 
 [whatsInThis]
-other = "Ki sa ki genyen nan {{ .Type }} sa a"
+other = "Kisa ki nan {{ .Type }} sa a"
 
 [related]
 other = "Ki gen rapò"
 
 [yourName]
-other = "Non ou"
+other = "Non w"
 
 [emailAddress]
-other = "Adrès imèl"
+other = "Adres Imel"
 
 [message]
 other = "Mesaj"
 
 [emailRequiredNote]
-other = "Yon adrès imèl obligatwa."
+other = "Yon adrès imel obligatwa."
 
 [send]
 other = "Voye"
@@ -41,10 +41,10 @@ other = "Amelyore paj sa a sou GitHub"
 other = "Depi"
 
 [taxonomyPageList]
-other = "Anba a w ap jwenn paj ki itilize tèm taksonomi a “{{ .Title }}”"
+other = "Anba a w ap jwenn paj ki itilize tèm taksonomi '{{ .Title }}'"
 
 [readingTime]
-one = "Yon minit pou li"
+one = "Li yon minit"
 other = "{{ .Count }} minit pou li"
 
 [wordCount]
@@ -58,4 +58,12 @@ other = "Paj {{ .Name }}"
 other = "Aktyèl"
 
 [open_gdoc]
-other = "📄 Louvri manyèl la nan Google Docs"
+other = "📄 Louvri manyèl nan Google Docs"
+[site_hub_title]
+other = "Platfòm 101 Lang"
+
+[hero_welcome]
+other = "Byenveni nan Platfòm Piblikasyon Semi-EA 101 Lang lan!"
+
+[hero_subtitle]
+other = "Entelijans Atifisyèl ede kraze baryè lang yo!"

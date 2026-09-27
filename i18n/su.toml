@@ -5,16 +5,16 @@ other = "Deui"
 other = "Sadaya {{ .Title }}"
 
 [recentTitle]
-other = "Panganyarna {{ .Title }}"
+other = "{{ .Title }} nu Anyar"
 
 [readMore]
-other = "Maca deui"
+other = "Baca deui"
 
 [by]
 other = "Ku"
 
 [whatsInThis]
-other = "Naon nu aya dina {{ .Type }} ieu?"
+other = "Eusi {{ .Type }} ieu naon?"
 
 [related]
 other = "Patali"
@@ -23,32 +23,32 @@ other = "Patali"
 other = "Nami anjeun"
 
 [emailAddress]
-other = "Alamat surélék"
+other = "Alamat Surélék"
 
 [message]
 other = "Pesen"
 
 [emailRequiredNote]
-other = "Alamat surélék diwajibkeun."
+other = "Alamat surélék kedah dieusi."
 
 [send]
 other = "Kirim"
 
 [editPage]
-other = "Hadéan kaca ieu dina GitHub"
+other = "Robah kaca ieu dina GitHub"
 
 [since]
-other = "Ti"
+other = "Ti saprak"
 
 [taxonomyPageList]
-other = "Di handap ieu anjeun bakal manggihan kaca-kaca anu ngagunakeun istilah taksonomi “{{ .Title }}”"
+other = "Di handap ieu aya kaca-kaca anu ngagunakeun istilah taksonomi '{{ .Title }}'"
 
 [readingTime]
-one = "Samenit macana"
-other = "{{ .Count }} menit macana"
+one = "Sa menit baca"
+other = "{{ .Count }} menit baca"
 
 [wordCount]
-one = "Sakata"
+one = "Sa kecap"
 other = "{{ .Count }} kecap"
 
 [pageTitle]
@@ -58,4 +58,12 @@ other = "Kaca {{ .Name }}"
 other = "Ayeuna"
 
 [open_gdoc]
-other = "📄 Buka pituduh dina Google Docs"
+other = "📄 Buka manual dina Google Docs"
+[site_hub_title]
+other = "Pusat Basa 101"
+
+[hero_welcome]
+other = "Wilujeng sumping di Pusat Pamedalan 101 Basa nu Dibantuan ku AI!"
+
+[hero_subtitle]
+other = "Kacerdasan Jieunan ngabantu ngatasi panghalang basa!"

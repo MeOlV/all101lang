@@ -2,13 +2,13 @@
 other = "Ētahi atu"
 
 [allTitle]
-other = "Ngā {{ .Title }} Katoa"
+other = "Ngā {{ .Title }} katoa"
 
 [recentTitle]
-other = "Ngā {{ .Title }} Hou"
+other = "Ngā {{ .Title }} hou"
 
 [readMore]
-other = "Pānuitia anō"
+other = "Pānuihia anō"
 
 [by]
 other = "Nā"
@@ -20,7 +20,7 @@ other = "He aha kei roto i tēnei {{ .Type }}"
 other = "E pā ana"
 
 [yourName]
-other = "Tōu Ingoa"
+other = "Tō Ingoa"
 
 [emailAddress]
 other = "Wāhitau Īmēra"
@@ -29,33 +29,41 @@ other = "Wāhitau Īmēra"
 other = "Karere"
 
 [emailRequiredNote]
-other = "E hiahiatia ana tētahi wāhitau īmēra."
+other = "Me whai wāhitau īmēra."
 
 [send]
 other = "Tukuna"
 
 [editPage]
-other = "Whakatikatika i tēnei whārangi ki GitHub"
+other = "Whakapai ake i tēnei whārangi ki GitHub"
 
 [since]
 other = "Mai i"
 
 [taxonomyPageList]
-other = "Kei raro iho ka kitea e koe ngā whārangi e whakamahi ana i te kupu whakatakoto “{{ .Title }}”"
+other = "Kei raro nei ngā whārangi e whakamahi ana i te kupu whakarōpū '{{ .Title }}'"
 
 [readingTime]
-one = "Kotahi meneti pānui"
-other = "{{ .Count }} meneti pānui"
+one = "He meneti kotahi te pānui"
+other = "He {{ .Count }} meneti te pānui"
 
 [wordCount]
-one = "Kotahi kupu"
-other = "{{ .Count }} kupu"
+one = "He kupu kotahi"
+other = "He {{ .Count }} kupu"
 
 [pageTitle]
-other = "Whārangi {{ .Name }}"
+other = "Te whārangi o {{ .Name }}"
 
 [current_lang]
 other = "O nāianei"
 
 [open_gdoc]
-other = "📄 Whakatuwheratia te pukapuka tohutohu ki Google Docs"
+other = "📄 Whakatuwherahia te pukapuka i roto i te Google Docs"
+[site_hub_title]
+other = "Te Pokapū Reo 101"
+
+[hero_welcome]
+other = "Nau mai ki te Pokapū Whakaputa Reo 101 Mātauranga Hangarau-āwhina!"
+
+[hero_subtitle]
+other = "Ka āwhina te Mātauranga Hangarau ki te whakakore i ngā aukati reo!"

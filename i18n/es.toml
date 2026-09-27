@@ -2,10 +2,10 @@
 other = "Más"
 
 [allTitle]
-other = "Todos los {{ .Title }}"
+other = "Todo {{ .Title }}"
 
 [recentTitle]
-other = "Últimos {{ .Title }}"
+other = "Recientes {{ .Title }}"
 
 [readMore]
 other = "Leer más"
@@ -41,7 +41,7 @@ other = "Mejorar esta página en GitHub"
 other = "Desde"
 
 [taxonomyPageList]
-other = "A continuación encontrarás páginas que utilizan el término de taxonomía “{{ .Title }}”"
+other = "A continuación encontrarás páginas que utilizan el término de taxonomía '{{ .Title }}'"
 
 [readingTime]
 one = "Un minuto de lectura"
@@ -59,3 +59,11 @@ other = "Actual"
 
 [open_gdoc]
 other = "📄 Abrir manual en Google Docs"
+[site_hub_title]
+other = "Centro de 101 Idiomas"
+
+[hero_welcome]
+other = "¡Bienvenido al Centro de Publicación de 101 Idiomas Asistido por IA!"
+
+[hero_subtitle]
+other = "¡La Inteligencia Artificial ayuda a romper las barreras del idioma!"
