@@ -5,6 +5,7 @@ theme = "ananke"
 
 defaultContentLanguage = "uk"
 defaultContentLanguageInSubdir = true
+disableDefaultLanguageRedirect = true
 
 [params]
   disable_language_toggle = true
