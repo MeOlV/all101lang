@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>All 101 Languages</title>
+  <meta name="robots" content="index, follow">
+  <script>
+    (function() {
+      // 1. Отримуємо пріоритетні мови браузера користувача
+      var userLangs = navigator.languages || [navigator.language || navigator.userLanguage || 'uk'];
+      
+      // 2. Список підтримуваних мов (основні ISO-коди вашого сайту)
+      var supported = [
+        "uk","af","am","ar","az","bg","bn","bs","ca","ceb","co","cs",
+        "cy","da","de","el","en","eo","es","et","eu","fa","fi","fr",
+        "fy","ga","gd","gl","gu","ha","haw","hi","hmn","hr","ht","hu",
+        "hy","id","ig","is","it","iw","ja","jw","ka","kk","km","kn",
+        "ko","ku","ky","la","lb","lo","lt","lv","mg","mi","mk","ml",
+        "mn","mr","ms","mt","my","ne","nl","no","ny","pa","pl","ps",
+        "pt","ro","sd","si","sk","sl","sm","sn","so","sq","sr","st",
+        "su","sv","sw","ta","te","tg","th","tl","tr","ur","uz","vi",
+        "xh","yi","yo","zh-cn","zh-tw","zu"
+      ];
+
+      // 3. Шукаємо перший збіг мови браузера із підтримуваними
+      for (var i = 0; i < userLangs.length; i++) {
+        var lang = userLangs[i].toLowerCase();
+        var shortLang = lang.split('-')[0];
+
+        // Точний збіг (наприклад, zh-cn)
+        if (supported.indexOf(lang) !== -1) {
+          window.location.replace('./' + lang + '/');
+          return;
+        }
+        // Збіг за дволітерним кодом (наприклад, pl-PL -> pl)
+        if (supported.indexOf(shortLang) !== -1) {
+          window.location.replace('./' + shortLang + '/');
+          return;
+        }
+      }
+
+      // Якщо жодної мови не знайдено — ведемо на замовчувану (uk)
+      window.location.replace('./uk/');
+    })();
+  </script>
+  <!-- Резервний редирект для пошукових ботів та браузерів без JS -->
+  <meta http-equiv="refresh" content="0;url=./uk/">
+</head>
+<body>
+</body>
+</html>
