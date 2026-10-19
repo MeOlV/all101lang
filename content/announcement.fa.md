@@ -1,8 +1,8 @@
 +++
 title = "چگونه کتاب خود را در عرض چند دقیقه به 101 زبان ترجمه کنید"
-tags = ["‏نثر، نویسندگی، ترجمه‌ها، گوگل داکس، اتوماسیون"]
-googleDocUrl = "https://docs.google.com/document/d/1hNJptLdrIODvjvvHPWdTLvvMmOszCDPHKqQmMqDv7S4/edit"
-date = 2026-09-25T05:58:50.021Z
+tags = ["‏نویسندگی، ترجمه"]
+googleDocUrl = "https://docs.google.com/document/d/1FnDYNUU8NMPrq2_4G6lwcAgTqi1sh1qtnf7Quq0UTNY/edit"
+date = 2026-10-19T08:46:05.148Z
 +++
 
 ابزار Gemini و مترجم استاندارد در Google Docs به من این امکان را داده‌اند که متون را تقریباً فوراً و با حداقل هزینه در سطح جهانی مقیاس‌بندی کنم. به لطف اسکریپت پردازش دسته‌ای خودم، خدماتی را ارائه می‌دهم که به سرعت سند شما را بدون دخالت دستی به بیش از ۱۰۰ زبان ترجمه می‌کند.  

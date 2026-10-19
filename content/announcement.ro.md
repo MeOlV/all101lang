@@ -1,8 +1,8 @@
 +++
 title = "Cum să-ți traduci propria carte în 101 limbi în câteva minute"
-tags = ["Proză","Scriere","Traduceri","Documente Google","Automatizare"]
-googleDocUrl = "https://docs.google.com/document/d/1TQI9XOtkeRDmIvOabYK-ht8aAl4ojThPET0pZdc_v8E/edit"
-date = 2026-09-25T05:58:50.034Z
+tags = ["Scriere","Traduceri"]
+googleDocUrl = "https://docs.google.com/document/d/1jkAa9ACL57XFGtJeTm-ecT2OZ7myZsmYxJrtWAKmFuI/edit"
+date = 2026-10-19T08:46:05.156Z
 +++
 
 Instrumentul Gemini și traducătorul standard din Google Docs mi-au permis să scalez texte la nivel global aproape instantaneu și cu costuri minime. Datorită propriului meu script de procesare în lot, ofer un serviciu de traducere rapidă a documentului dvs. în peste 100 de limbi, fără intervenție manuală.  

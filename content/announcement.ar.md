@@ -1,8 +1,8 @@
 +++
 title = "كيفية ترجمة كتابك الخاص إلى 101 لغة في دقائق"
-tags = ["‏النثر، الكتابة، الترجمة، مستندات جوجل، الأتمتة"]
-googleDocUrl = "https://docs.google.com/document/d/1C57ImTEFfgTntAmgFVGotjIjGp-Fi4qiMINkPtvGjso/edit"
-date = 2026-09-25T05:58:50.016Z
+tags = ["‏الكتابة والترجمة"]
+googleDocUrl = "https://docs.google.com/document/d/1qtj5xOE6WTNMeP--CV6GI_PzMqly5q_Fv_GAaNizf38/edit"
+date = 2026-10-19T08:46:05.144Z
 +++
 
 بفضل أداة Gemini والمترجم القياسي في مستندات جوجل، تمكنتُ من ترجمة النصوص إلى مستوى عالمي بشكل فوري تقريبًا وبأقل تكلفة. وبفضل برنامج معالجة الدفعات الخاص بي، أقدم خدمة ترجمة سريعة لمستنداتك إلى أكثر من 100 لغة دون تدخل يدوي.  

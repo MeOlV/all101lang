@@ -1,8 +1,8 @@
 +++
 title = "איך לתרגם את הספר שלך ל-101 שפות תוך דקות"
-tags = ["‏פרוזה","כתיבה","תרגומים","גוגל דוקס","אוטומציה"]
-googleDocUrl = "https://docs.google.com/document/d/1jd_XnSpLagqCzhwP9g_pOOKcCVhMoC2w3x58bk-9H4w/edit"
-date = 2026-09-25T05:58:50.027Z
+tags = ["‏כתיבה","תרגומים"]
+googleDocUrl = "https://docs.google.com/document/d/1yJdXAjs34c-xGPDRD9TRzqiKKRiAtQHPMN-6T_MYr_Y/edit"
+date = 2026-10-19T08:46:05.151Z
 +++
 
 כלי Gemini והמתרגם הסטנדרטי ב-Google Docs אפשרו לי להתאים טקסטים לרמה גלובלית כמעט באופן מיידי ובעלות מינימלית. הודות לסקריפט עיבוד האצווה שלי, אני מציע שירות לתרגום מהיר של המסמך שלך ליותר מ-100 שפות ללא התערבות ידנית.  

@@ -1,8 +1,8 @@
 +++
 title = "Kako prevesti vlastitu knjigu na 101 jezik za nekoliko minuta"
-tags = ["Proza","Pisanje","Prijevodi","Google Dokumenti","Automatizacija"]
-googleDocUrl = "https://docs.google.com/document/d/1IH5rbpOflA2LO9H3f_g_naC9v0ch1j9dBm5MvDtZEeY/edit"
-date = 2026-09-25T05:58:50.018Z
+tags = ["Pisanje","prijevodi"]
+googleDocUrl = "https://docs.google.com/document/d/14bDH536CG2Rwu9bQWzR-drQLoStet2dj9cu-Okn9H_g/edit"
+date = 2026-10-19T08:46:05.145Z
 +++
 
 Alat Gemini i standardni prevodilac u Google dokumentima omogućili su mi da gotovo trenutno i uz minimalne troškove skaliram tekstove na globalni nivo. Zahvaljujući vlastitom skriptu za obradu u paketima, nudim uslugu brzog prevođenja vašeg dokumenta na preko 100 jezika bez ručne intervencije.  

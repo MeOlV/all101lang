@@ -1,8 +1,8 @@
 +++
 title = "Hogyan fordítsd le a saját könyvedet 101 nyelvre percek alatt"
-tags = ["Próza","Írás","Fordítások","Google Dokumentumok","Automatizálás"]
-googleDocUrl = "https://docs.google.com/document/d/1rFa1u-JZ0qyMxZPahvq2KJxQW6ryQeh2eBK-EQCbvdw/edit"
-date = 2026-09-25T05:58:50.025Z
+tags = ["Írás","fordítások"]
+googleDocUrl = "https://docs.google.com/document/d/1bAKIwDsYCLM9TihRcjbUm4_6Jh3UoHXPI6cHbWxvgVA/edit"
+date = 2026-10-19T08:46:05.150Z
 +++
 
 A Gemini eszköz és a Google Dokumentumok standard fordítója lehetővé tette számomra, hogy szinte azonnal és minimális költséggel globális szintre skálázzam a szövegeket. Saját kötegelt feldolgozási szkriptemnek köszönhetően olyan szolgáltatást kínálok, amellyel gyorsan lefordíthatom a dokumentumot több mint 100 nyelvre manuális beavatkozás nélkül.  

@@ -1,8 +1,8 @@
 +++
 title = "Cara menerjemahkan buku Anda sendiri ke dalam 101 bahasa dalam hitungan menit."
-tags = ["Prosa","Penulisan","Terjemahan","Google Docs","Otomatisasi"]
-googleDocUrl = "https://docs.google.com/document/d/1EmqTW8oajq2T4nFuwPeUJj_-dVyw7XZD2iIyKNeNNHA/edit"
-date = 2026-09-25T05:58:50.026Z
+tags = ["Menulis","Terjemahan"]
+googleDocUrl = "https://docs.google.com/document/d/1hSDb2K28mV6Jb0cLRnzHpn9AFOLHtGSchHtPRcf2xoM/edit"
+date = 2026-10-19T08:46:05.151Z
 +++
 
 Alat Gemini dan penerjemah standar di Google Docs memungkinkan saya untuk menerjemahkan teks ke tingkat global hampir secara instan dan dengan biaya minimal. Berkat skrip pemrosesan batch saya sendiri, saya menawarkan layanan untuk menerjemahkan dokumen Anda dengan cepat ke lebih dari 100 bahasa tanpa intervensi manual.  

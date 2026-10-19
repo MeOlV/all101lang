@@ -1,8 +1,8 @@
 +++
 title = "Yadda ake fassara littafinka zuwa harsuna 101 cikin mintuna"
-tags = ["Tsarin aiki","Rubutu","Fassara","Takardun Google","Aiki da Kai"]
-googleDocUrl = "https://docs.google.com/document/d/11B6_M3WiKWek-Xa82X1goge-yqSmHyM9gczC6Ti3_ko/edit"
-date = 2026-09-25T05:58:50.023Z
+tags = ["Rubutu","Fassara"]
+googleDocUrl = "https://docs.google.com/document/d/1vf3B6HrazWu6Cz_Ygp37Dw3h2xxS0LEWj-SM0ybZ724/edit"
+date = 2026-10-19T08:46:05.149Z
 +++
 
 Kayan aikin Gemini da kuma fassarar da aka saba amfani da ita a Google Docs sun ba ni damar haɓaka rubutu zuwa matakin duniya kusan nan take kuma a farashi mai rahusa. Godiya ga rubutun sarrafa tsari na, ina bayar da sabis don fassara takardar ku cikin sauri zuwa harsuna sama da 100 ba tare da sa hannun hannu ba.  

@@ -1,8 +1,8 @@
 +++
 title = "Paano isalin ang sarili mong libro sa 101 na wika sa loob lamang ng ilang minuto"
-tags = ["Prosa","Pagsulat","Pagsasalin","Google Docs","Awtomasyon"]
-googleDocUrl = "https://docs.google.com/document/d/1QYLFqpKtex0YYSmiTBAVBO-zpEoukDAc5Nb-L30xNoU/edit"
-date = 2026-09-25T05:58:50.038Z
+tags = ["Pagsusulat","Pagsasalin"]
+googleDocUrl = "https://docs.google.com/document/d/10Ejyk-E9eLDAwBawrWtlMnqCif8hZBwDBeJHpu2UZQQ/edit"
+date = 2026-10-19T08:46:05.160Z
 +++
 
 Ang Gemini tool at ang standard translator sa Google Docs ay nagbigay-daan sa akin na i-scale ang mga teksto sa pandaigdigang antas halos agad-agad at sa pinakamababang gastos. Salamat sa sarili kong batch processing script, nag-aalok ako ng serbisyo para mabilis na isalin ang iyong dokumento sa mahigit 100 wika nang walang manu-manong interbensyon.  

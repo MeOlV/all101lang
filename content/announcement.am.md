@@ -1,8 +1,8 @@
 +++
 title = "የራስዎን መጽሐፍ በደቂቃዎች ውስጥ ወደ 101 ቋንቋዎች እንዴት መተርጎም እንደሚችሉ"
-tags = ["ፕሮዝ፣ ጽሑፍ፣ ትርጉሞች፣ ጉግል ሰነዶች፣ አውቶሜሽን"]
-googleDocUrl = "https://docs.google.com/document/d/1Y47MRa2xCKtoVtvh5vqOAy2seKbE23Fw-FCQRJu-RbA/edit"
-date = 2026-09-25T05:58:50.016Z
+tags = ["ጽሑፍ፣ ትርጉሞች"]
+googleDocUrl = "https://docs.google.com/document/d/1ucxTlC_KNnO2VKaFcozEpD18uIKwQ8f5qCyS1lGgg10/edit"
+date = 2026-10-19T08:46:05.144Z
 +++
 
 የጀሚኒ መሳሪያ እና በGoogle ሰነዶች ውስጥ ያለው መደበኛ ተርጓሚ ጽሑፎችን በፍጥነት እና በትንሽ ወጪ ወደ ዓለም አቀፍ ደረጃ እንድሰፋ አስችሎኛል። ለራሴ የባች ማቀነባበሪያ ስክሪፕት ምስጋና ይግባውና ሰነድዎን በእጅ ጣልቃ ገብነት ሳላደርግ ወደ 100 ቋንቋዎች በፍጥነት ለመተርጎም የሚያስችል አገልግሎት አቀርባለሁ።  

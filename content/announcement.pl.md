@@ -1,8 +1,8 @@
 +++
 title = "Jak przetłumaczyć własną książkę na 101 języków w kilka minut"
-tags = ["Proza","pisanie","tłumaczenia","Dokumenty Google","automatyzacja"]
-googleDocUrl = "https://docs.google.com/document/d/1cneihicWxEesfTTfWgzcKxZnmHzyvCw3Z3OwIKVuoS8/edit"
-date = 2026-09-25T05:58:50.033Z
+tags = ["Pisanie","tłumaczenia"]
+googleDocUrl = "https://docs.google.com/document/d/1F1O6fmmF1XIsXSTPCUaIVuEfetl0GOAzTyyY4X00TvQ/edit"
+date = 2026-10-19T08:46:05.156Z
 +++
 
 Narzędzie Gemini i standardowy tłumacz w Dokumentach Google pozwoliły mi niemal natychmiast i przy minimalnych kosztach skalować teksty do poziomu globalnego. Dzięki mojemu autorskiemu skryptowi przetwarzania wsadowego oferuję usługę szybkiego tłumaczenia dokumentu na ponad 100 języków bez konieczności ręcznej interwencji.  

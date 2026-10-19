@@ -1,8 +1,8 @@
 +++
 title = "Com traduir el teu propi llibre a 101 idiomes en minuts"
-tags = ["Prosa","Escriptura","Traduccions","Google Docs","Automatització"]
-googleDocUrl = "https://docs.google.com/document/d/12JVaTmyj_bYsvOQxMCFSV7zP8H7JOyt88Uavel-tADw/edit"
-date = 2026-09-25T05:58:50.018Z
+tags = ["Escriptura","Traduccions"]
+googleDocUrl = "https://docs.google.com/document/d/1G1OMPsEb_lSAqZ5qC1HaRlW3ne8w6EgD7nMpWl8rQ3w/edit"
+date = 2026-10-19T08:46:05.145Z
 +++
 
 L'eina Gemini i el traductor estàndard de Google Docs m'han permès escalar textos a nivell global gairebé a l'instant i amb un cost mínim. Gràcies al meu propi script de processament per lots, ofereixo un servei per traduir ràpidament el vostre document a més de 100 idiomes sense intervenció manual.  

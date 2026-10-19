@@ -1,8 +1,8 @@
 +++
 title = "Hoe kinne jo jo eigen boek yn minuten yn 101 talen oersette"
-tags = ["Proaza","Skriuwen","Oersettingen","Google Docs","Automatisearring"]
-googleDocUrl = "https://docs.google.com/document/d/15BBrMA-IyKYnhLjMfuLbqC7qf0OOUP9HBqr5fW5d_qQ/edit"
-date = 2026-09-25T05:58:50.022Z
+tags = ["Skriuwen","Oersettingen"]
+googleDocUrl = "https://docs.google.com/document/d/1QbhosTlIRX2YikAC4pZUHMB6-x2AiRr325xZluhcuKc/edit"
+date = 2026-10-19T08:46:05.148Z
 +++
 
 Mei de Gemini-ark en de standert oersetter yn Google Docs kin ik teksten hast direkt en tsjin minimale kosten nei in wrâldwiid nivo skaalje. Mei tank oan myn eigen batchferwurkingsskript bied ik in tsjinst oan om jo dokumint fluch te oersetten yn mear as 100 talen sûnder hânmjittige yntervinsje.  

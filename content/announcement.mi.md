@@ -1,8 +1,8 @@
 +++
 title = "Me pēhea te whakamāori i tāu ake pukapuka ki ngā reo 101 i roto i ngā meneti"
-tags = ["Te Tuhituhi","Te Tuhituhi","Ngā Whakamāoritanga","Ngā Tuhinga a Google","Te Aunoatanga"]
-googleDocUrl = "https://docs.google.com/document/d/1uOVtciVfY2q12kxan7eicwQIFL8N_Fmzg6vFCCHHBho/edit"
-date = 2026-09-25T05:58:50.030Z
+tags = ["Te Tuhituhi","Ngā Whakamāoritanga"]
+googleDocUrl = "https://docs.google.com/document/d/16KdD__yCNvyJeMgfEWnGhAKI-wFIX-w6Spx0x-eJ2pI/edit"
+date = 2026-10-19T08:46:05.154Z
 +++
 
 Nā te taputapu Gemini me te kaiwhakamāori paerewa i roto i ngā Tuhinga a Google, kua taea e au te whakarahi ake i ngā tuhinga ki te taumata ao tata tonu, me te iti rawa o te utu. Nā taku ake tuhinga tukatuka puranga, ka tukuna e au he ratonga hei whakamāori tere i tō tuhinga ki roto i te neke atu i te 100 reo, me te kore e hiahiatia he wawaotanga ā-ringa.  

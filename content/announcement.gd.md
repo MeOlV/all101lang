@@ -1,8 +1,8 @@
 +++
 title = "Mar a dh’eadar-theangaicheas tu do leabhar fhèin gu 101 cànan ann am mionaidean"
-tags = ["Rosg","Sgrìobhadh","Eadar-theangachaidhean","Google Docs","Fèin-ghluasad"]
-googleDocUrl = "https://docs.google.com/document/d/1dVTtO_ABpYCw2IsW5P1BfpObPtaW06ByhhzgS4gmgxg/edit"
-date = 2026-09-25T05:58:50.022Z
+tags = ["Sgrìobhadh","Eadar-theangachaidhean"]
+googleDocUrl = "https://docs.google.com/document/d/1iNxc-37Orr3sR9oHjrJk2Asn2jyPt1kCVDCv8bSuiMI/edit"
+date = 2026-10-19T08:46:05.149Z
 +++
 
 Tha an inneal Gemini agus an t-eadar-theangair àbhaisteach ann an Google Docs air leigeil leam teacsaichean a sgèileadh gu ìre chruinneil cha mhòr sa bhad agus aig cosgais as ìsle. ​​Le taing don sgriobt giollachd baidse agam fhèin, tha mi a’ tabhann seirbheis gus an sgrìobhainn agad eadar-theangachadh gu sgiobalta gu còrr air 100 cànan gun eadar-theachd làimhe.  

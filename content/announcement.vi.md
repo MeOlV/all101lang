@@ -1,8 +1,8 @@
 +++
 title = "Làm thế nào để dịch cuốn sách của bạn sang 101 ngôn ngữ chỉ trong vài phút"
-tags = ["Văn xuôi","Viết lách","Dịch thuật","Google Docs","Tự động hóa"]
-googleDocUrl = "https://docs.google.com/document/d/1p-WbK8p0SSIzEL6LN0iKH5DJLXgcRYhUyoyGT2wT5uI/edit"
-date = 2026-09-25T05:58:50.039Z
+tags = ["Viết","Dịch thuật"]
+googleDocUrl = "https://docs.google.com/document/d/1okqSsZPiB7WkJwFQhpchQ1xEerB_JqN57Y3y5XsWOAs/edit"
+date = 2026-10-19T08:46:05.161Z
 +++
 
 Công cụ Gemini và trình dịch tiêu chuẩn trong Google Docs đã cho phép tôi dịch văn bản lên phạm vi toàn cầu gần như ngay lập tức và với chi phí tối thiểu. Nhờ vào kịch bản xử lý hàng loạt do chính tôi phát triển, tôi cung cấp dịch vụ dịch tài liệu của bạn nhanh chóng sang hơn 100 ngôn ngữ mà không cần can thiệp thủ công.  

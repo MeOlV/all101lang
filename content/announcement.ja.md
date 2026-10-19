@@ -1,8 +1,8 @@
 +++
 title = "自分の本を101言語に数分で翻訳する方法"
-tags = ["散文、執筆、翻訳、Googleドキュメント、自動化"]
-googleDocUrl = "https://docs.google.com/document/d/17Xt3YPSF0d732C_ojqAzMgc4-hFwzoQceQOou5P_3ok/edit"
-date = 2026-09-25T05:58:50.027Z
+tags = ["執筆、翻訳"]
+googleDocUrl = "https://docs.google.com/document/d/14vrr94oyQSYPTtxyT-Tx6FZsXC3654NjCd9ci5kqxag/edit"
+date = 2026-10-19T08:46:05.152Z
 +++
 
 GeminiツールとGoogleドキュメントの標準翻訳機能のおかげで、テキストをほぼ瞬時に、しかも最小限のコストでグローバル規模に展開できるようになりました。独自のバッチ処理スクリプトにより、手作業を一切必要とせずに、お客様のドキュメントを100以上の言語に迅速に翻訳するサービスを提供しています。  

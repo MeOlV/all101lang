@@ -1,8 +1,8 @@
 +++
 title = "How to translate your own book into 101 languages ​​in minutes"
-tags = ["Prose","Writing","Translations","Google Docs","Automation"]
-googleDocUrl = "https://docs.google.com/document/d/1jgaHGSX_1M8mPc-dzHmqoVV80kHhDL8qOqGeCwcQRcY/edit"
-date = 2026-09-25T05:58:50.020Z
+tags = ["Writing","Translations"]
+googleDocUrl = "https://docs.google.com/document/d/1iYPSpqEGC8e3M3T4PGkaJ7RYdRTwCZQi5BE4kSEDask/edit"
+date = 2026-10-19T08:46:05.147Z
 +++
 
 The Gemini tool and the standard translator in Google Docs have allowed me to scale texts to a global level almost instantly and at minimal cost. Thanks to my own batch processing script, I offer a service to quickly translate your document into over 100 languages ​​without manual intervention.  

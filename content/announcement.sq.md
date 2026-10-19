@@ -1,8 +1,8 @@
 +++
 title = "Si ta përktheni librin tuaj në 101 gjuhë brenda pak minutash"
-tags = ["Prozë","Shkrim","Përkthime","Dokumente Google","Automatizim"]
-googleDocUrl = "https://docs.google.com/document/d/1S8bSGqCZsBLIZ8OKriSShyZm0ls0puGOlV7yO6c6i8I/edit"
-date = 2026-09-25T05:58:50.035Z
+tags = ["Shkrim","Përkthime"]
+googleDocUrl = "https://docs.google.com/document/d/1XlZD4oa-lJfqbRgmnBTlkhH2zXmIFSDlDViDWcXLD7I/edit"
+date = 2026-10-19T08:46:05.158Z
 +++
 
 Mjeti Gemini dhe përkthyesi standard në Google Docs më kanë lejuar të shkallëzoj tekstet në një nivel global pothuajse menjëherë dhe me kosto minimale. Falë skriptit tim të përpunimit në grup, unë ofroj një shërbim për të përkthyer shpejt dokumentin tuaj në mbi 100 gjuhë pa ndërhyrje manuale.  

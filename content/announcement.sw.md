@@ -1,8 +1,8 @@
 +++
 title = "Jinsi ya kutafsiri kitabu chako mwenyewe katika lugha 101 kwa dakika"
-tags = ["Nathari","Uandishi","Tafsiri","Hati za Google","Otomatiki"]
-googleDocUrl = "https://docs.google.com/document/d/1szm3F4CSeDdRutSoA-MAH5SuVHWKotpmeTCSQ5sf6ck/edit"
-date = 2026-09-25T05:58:50.036Z
+tags = ["Uandishi","Tafsiri"]
+googleDocUrl = "https://docs.google.com/document/d/1TXCTWdreDXIVWc7zYLdgtN8sS6u8ZzIejIhIKeuAoo8/edit"
+date = 2026-10-19T08:46:05.159Z
 +++
 
 Zana ya Gemini na mtafsiri sanifu katika Hati za Google vimeniruhusu kupanua maandishi hadi kiwango cha kimataifa karibu mara moja na kwa gharama ndogo. Shukrani kwa hati yangu ya usindikaji wa kundi, ninatoa huduma ya kutafsiri hati yako haraka katika lugha zaidi ya 100 bila kuingilia kati kwa mikono.  

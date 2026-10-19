@@ -1,8 +1,8 @@
 +++
 title = "Kuinka kääntää oma kirjasi 101 kielelle muutamassa minuutissa"
-tags = ["Proosa","kirjoittaminen","käännökset","Google Docs","automaatio"]
-googleDocUrl = "https://docs.google.com/document/d/1jVLjalpTQbl0ICaQz9A9U-sNmHx6TKiRKGMwHOD6gSw/edit"
-date = 2026-09-25T05:58:50.021Z
+tags = ["Kirjoittaminen","käännökset"]
+googleDocUrl = "https://docs.google.com/document/d/1k3mBzMzRGCorM1HdK4EMEsM30jyiN68OjgdFdBj7BUs/edit"
+date = 2026-10-19T08:46:05.148Z
 +++
 
 Gemini-työkalun ja Google Docsin vakiokääntäjän avulla olen pystynyt skaalaamaan tekstejä globaalille tasolle lähes välittömästi ja minimaalisilla kustannuksilla. Oman eräkäsittelyskriptini ansiosta tarjoan palvelua, jolla voin kääntää asiakirjasi nopeasti yli 100 kielelle ilman manuaalisia toimia.  

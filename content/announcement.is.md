@@ -1,8 +1,8 @@
 +++
 title = "Hvernig á að þýða þína eigin bók á 101 tungumál á nokkrum mínútum"
-tags = ["Prósi","Ritun","Þýðingar","Google skjöl","Sjálfvirkni"]
-googleDocUrl = "https://docs.google.com/document/d/1HatcLyRdVrRZmi-oNvDLWX4igJgLEG4Ul8u0qNOvaeE/edit"
-date = 2026-09-25T05:58:50.026Z
+tags = ["Ritun","Þýðingar"]
+googleDocUrl = "https://docs.google.com/document/d/1ITRGpod0tjBVZcaQUk1i4kbaSbJhaD9xJcIHETcigyU/edit"
+date = 2026-10-19T08:46:05.151Z
 +++
 
 Gemini tólið og staðlaða þýðandinn í Google Docs hafa gert mér kleift að stækka texta á alþjóðlegt stig nánast samstundis og með lágmarkskostnaði. Þökk sé mínu eigin hópvinnsluforriti býð ég upp á þjónustu til að þýða skjöl fljótt á yfir 100 tungumál án handvirkrar íhlutunar.  

@@ -1,8 +1,8 @@
 +++
 title = "Kiel traduki vian propran libron en 101 lingvojn en minutoj"
-tags = ["Prozo","Verkado","Tradukoj","Google Docs","Aŭtomatigo"]
-googleDocUrl = "https://docs.google.com/document/d/1Aarzt7e8dUwkctne-svHZBUYfVJ31Qg_IHoF31t-624/edit"
-date = 2026-09-25T05:58:50.020Z
+tags = ["Verkado","Tradukoj"]
+googleDocUrl = "https://docs.google.com/document/d/1bPgu3ldbc12wIC1dk9EpbjjPN-7jH7DKsTyNLrPWVlw/edit"
+date = 2026-10-19T08:46:05.147Z
 +++
 
 La ilo Gemini kaj la norma tradukilo en Google Docs permesis al mi skali tekstojn al tutmonda nivelo preskaŭ tuj kaj je minimuma kosto. Danke al mia propra aro-prilabora skripto, mi ofertas servon por rapide traduki vian dokumenton en pli ol 100 lingvojn sen mana interveno.  

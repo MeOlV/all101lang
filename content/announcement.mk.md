@@ -1,8 +1,8 @@
 +++
 title = "Како да ја преведете вашата книга на 101 јазик за неколку минути"
-tags = ["Проза","Пишување","Преводи","Google Docs","Автоматизација"]
-googleDocUrl = "https://docs.google.com/document/d/15Ps6g7-bg--l_1eM9JnWqqBLyAoND_rm-pPuRGoYtNo/edit"
-date = 2026-09-25T05:58:50.030Z
+tags = ["Пишување","преводи"]
+googleDocUrl = "https://docs.google.com/document/d/1fEqGdilce6xzZrcE9PoKGwlzCnhBUqtxoKVKYrrjvkg/edit"
+date = 2026-10-19T08:46:05.154Z
 +++
 
 Алатката Gemini и стандардниот преведувач во Google Docs ми овозможија да ги скалирам текстовите на глобално ниво речиси веднаш и со минимални трошоци. Благодарение на мојата сопствена скрипта за обработка на серии, нудам услуга за брзо преведување на вашиот документ на над 100 јазици без рачна интервенција.  

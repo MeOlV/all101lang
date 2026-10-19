@@ -1,8 +1,8 @@
 +++
 title = "මිනිත්තු කිහිපයකින් ඔබේම පොතක් භාෂා 101කට පරිවර්තනය කරන්නේ කෙසේද?"
-tags = ["ගද්‍ය","ලිවීම","පරිවර්තන","ගූගල් ලියකියවිලි","ස්වයංක්‍රීයකරණය"]
-googleDocUrl = "https://docs.google.com/document/d/1LG8egTNCws6aw2iNxkxOwqwHyjQ2UURl_VTFsDrz-rE/edit"
-date = 2026-09-25T05:58:50.034Z
+tags = ["ලිවීම","පරිවර්තන"]
+googleDocUrl = "https://docs.google.com/document/d/14wYOsbRJWITvnUlDfZ0cIKfFbAhtLNbrzIre83U08CI/edit"
+date = 2026-10-19T08:46:05.157Z
 +++
 
 Gemini මෙවලම සහ Google Docs හි සම්මත පරිවර්තකය මට පෙළ ගෝලීය මට්ටමට ක්ෂණිකව සහ අවම වියදමකින් පරිමාණය කිරීමට ඉඩ දී ඇත. මගේම කණ්ඩායම් සැකසුම් ස්ක්‍රිප්ටයට ස්තූතිවන්ත වන්නට, අතින් මැදිහත් වීමකින් තොරව ඔබේ ලේඛනය භාෂා 100 කට වඩා ඉක්මනින් පරිවර්තනය කිරීමට මම සේවාවක් ලබා දෙමි.  

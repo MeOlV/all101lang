@@ -1,8 +1,8 @@
 +++
 title = "Sida buuggaaga loogu turjumo 101 luqadood daqiiqado gudahood"
-tags = ["Tirakoob","Qoris","Turjumaad","Google Docs","Otomaatig"]
-googleDocUrl = "https://docs.google.com/document/d/1YimJ48uPYCy7w3ZC2J3mgdqXEwX_raqB9FXdf1CTSd4/edit"
-date = 2026-09-25T05:58:50.035Z
+tags = ["Qorista","Turjumaadaha"]
+googleDocUrl = "https://docs.google.com/document/d/1dNFr1JqPv-bX0Ly6QCdTNAoqWLssnrQdWnH_-kUxqRE/edit"
+date = 2026-10-19T08:46:05.157Z
 +++
 
 Qalabka Gemini iyo turjumaanka caadiga ah ee Google Docs ayaa ii oggolaaday inaan qoraallada u rogo heer caalami ah isla markiiba iyo kharash yar. Iyada oo ay ugu wacan tahay qoraalkayga habaynta dufcadda, waxaan bixiyaa adeeg si dhakhso leh loogu turjumo dukumeentigaaga in ka badan 100 luqadood iyada oo aan la faragelin gacanta.  

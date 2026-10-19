@@ -1,8 +1,8 @@
 +++
 title = "Kumaha narjamahkeun buku anjeun sorangan kana 101 basa dina sababaraha menit"
-tags = ["Prosa","Nulis","Tarjamahan","Google Docs","Otomatisasi"]
-googleDocUrl = "https://docs.google.com/document/d/1EuZ_q2gEKh10VxvqQ5j_L_UZCelWU0O_ISwq2dWLhDE/edit"
-date = 2026-09-25T05:58:50.036Z
+tags = ["Nulis","Tarjamahan"]
+googleDocUrl = "https://docs.google.com/document/d/1lFs6mo2cGzC6W574PtguwcTM-mDEe7dJt2r4M05vdOQ/edit"
+date = 2026-10-19T08:46:05.158Z
 +++
 
 Pakakas Gemini sareng penerjemah standar dina Google Docs parantos ngamungkinkeun kuring pikeun ngatur skala téks ka tingkat global ampir langsung sareng kalayan biaya minimal. Hatur nuhun kana skrip pamrosésan batch kuring nyalira, kuring nawiskeun jasa pikeun narjamahkeun dokumén anjeun gancang kana langkung ti 100 basa tanpa campur tangan manual.  

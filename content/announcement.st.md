@@ -1,8 +1,8 @@
 +++
 title = "Mokhoa oa ho fetolela buka ea hau lipuong tse 101 ka metsotso"
-tags = ["Prose","Ho Ngola","Liphetolelo","Litokomane tsa Google","Boiketsetso"]
-googleDocUrl = "https://docs.google.com/document/d/1EMKgOP4qK5_7JC1rOsC47R_9qzTVeu9rogX95i1kGOc/edit"
-date = 2026-09-25T05:58:50.036Z
+tags = ["Ho Ngola","Liphetolelo"]
+googleDocUrl = "https://docs.google.com/document/d/1cnk4A7p1N7m2tqY4tj-TncIKmTccEHQIPcaDVjObhDc/edit"
+date = 2026-10-19T08:46:05.158Z
 +++
 
 Sesebelisoa sa Gemini le mofetoleli ea tloaelehileng ho Google Docs li nthusitse ho holisa mongolo ho ea boemong ba lefats'e hang-hang le ka litšenyehelo tse tlase. Ka lebaka la sengoloa sa ka sa ho sebetsana le batch, ke fana ka tšebeletso ea ho fetolela tokomane ea hau ka potlako lipuong tse fetang 100 ntle le ho kenella ka letsoho.  

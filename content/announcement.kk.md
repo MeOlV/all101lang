@@ -1,8 +1,8 @@
 +++
 title = "Кітабыңызды бірнеше минут ішінде 101 тілге қалай аударуға болады"
-tags = ["Проза","Жазу","Аудармалар","Google Docs","Автоматтандыру"]
-googleDocUrl = "https://docs.google.com/document/d/1kmyAUjld13xIMRLQ6GQ18uqzsspvQwHtKGVPbsMgjBg/edit"
-date = 2026-09-25T05:58:50.028Z
+tags = ["Жазу","аудармалар"]
+googleDocUrl = "https://docs.google.com/document/d/1RXJ-ObdDFXEJnX-VBsynDoU04dNJKM56VulZalrr74M/edit"
+date = 2026-10-19T08:46:05.152Z
 +++
 
 Gemini құралы және Google Docs бағдарламасындағы стандартты аудармашы мәтіндерді жаһандық деңгейге дейін бірден және минималды шығынмен масштабтауға мүмкіндік берді. Жеке пакеттік өңдеу сценарийімнің арқасында мен құжатыңызды қолмен араласпай 100-ден астам тілге тез аудару қызметін ұсынамын.  

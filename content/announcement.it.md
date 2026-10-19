@@ -1,8 +1,8 @@
 +++
 title = "Come tradurre il tuo libro in 101 lingue in pochi minuti"
-tags = ["Prosa","Scrittura","Traduzioni","Google Docs","Automazione"]
-googleDocUrl = "https://docs.google.com/document/d/1qBLbh9AS2o6uJpygpf9pIr4xA1itnWH6k1m7DWO36NQ/edit"
-date = 2026-09-25T05:58:50.026Z
+tags = ["Scrittura","Traduzioni"]
+googleDocUrl = "https://docs.google.com/document/d/1NkWaIm8R6cMUNqpBFmSInrktbvbEXpABAkwWndbvx8k/edit"
+date = 2026-10-19T08:46:05.151Z
 +++
 
 Lo strumento Gemini e il traduttore standard di Google Docs mi hanno permesso di tradurre testi a livello globale in modo quasi istantaneo e a costi minimi. Grazie a un mio script di elaborazione batch, offro un servizio di traduzione rapida del tuo documento in oltre 100 lingue senza intervento manuale.  
