@@ -1,13 +1,20 @@
 +++
 title = "Indlela yokuguqulela incwadi yakho kwiilwimi ezili-101 ngemizuzu"
-tags = ["Ukubhala","Iinguqulelo"]
+tags = ["Ababhali","Ukuzipapasha","Ukuguqulela"]
 googleDocUrl = "https://docs.google.com/document/d/1hmkCA226dngj01Am3Rt6UKvvHDlnt1gVMcStLe_ONAI/edit"
-date = 2026-10-19T08:46:05.161Z
+date = 2026-10-22T08:09:39.108Z
 +++
 
 Isixhobo seGemini kunye nomguquleli oqhelekileyo kwiGoogle Docs zindivumele ukuba ndikwazi ukunyusa imibhalo iye kwinqanaba lehlabathi phantse ngoko nangoko kwaye ngexabiso eliphantsi. Ngenxa yesikripthi sam sokucubungula ibhetshi, ndinikezela ngenkonzo yokuguqulela uxwebhu lwakho ngokukhawuleza kwiilwimi ezingaphezu kwe-100 ngaphandle kokungenelela ngesandla.  
+  
 Kutheni isebenza:  
+  
+<!--more-->  
+  
 * Ikhawuleza kakhulu: Iilwimi ezili-101 kwimizuzu eli-15 (≈ imizuzwana eli-9 ngolwimi ngalunye kuxwebhu olunamagama angama-48,000).  
+  
 * Ukwanda: Gcina izihloko, uluhlu, iitafile, kunye nemifanekiso.  
+  
 * Ukonga: Ixabiso lokuguqulela incwadi kwiilwimi ezili-101 limalunga ne-€5 / $6 kuphela.  
+  
 Ngezantsi uza kufumana imiyalelo epheleleyo kunye nemigaqo yoku-odola inguqulelo ye-101 yomsebenzi wakho.

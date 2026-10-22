@@ -1,13 +1,20 @@
 +++
 title = "Kepiye carane nerjemahake buku sampeyan dhewe menyang 101 basa sajrone sawetara menit"
-tags = ["Nulis","Terjemahan"]
+tags = ["Penulis","Penerbitan mandiri","Terjemahan"]
 googleDocUrl = "https://docs.google.com/document/d/1nwBoG1bOzrK0uicJMhmbcSZ2j3sAFdNVsrgky3ZD274/edit"
-date = 2026-10-19T08:46:05.152Z
+date = 2026-10-22T08:09:39.098Z
 +++
 
 Piranti Gemini lan penerjemah standar ing Google Docs wis ngidini aku ngowahi teks menyang tingkat global meh langsung lan kanthi biaya minimal. Amarga skrip pangolahan batchku dhewe, aku nawakake layanan kanggo nerjemahake dokumen sampeyan kanthi cepet menyang luwih saka 100 basa tanpa intervensi manual.  
+  
 Apa sebabe bisa digunakake:  
+  
+<!--more-->  
+  
 * Cepet banget: 101 basa sajrone 15 menit (≈ 9 detik saben basa kanggo dokumen 48.000 tembung).  
+  
 * Skalabilitas: Njaga judhul, dhaptar, tabel, lan gambar.  
+  
 * Tabungan: Biaya nerjemahake buku menyang 101 basa mung udakara €5 / $6.  
+  
 Ing ngisor iki sampeyan bakal nemokake pandhuan lan syarat lengkap kanggo pesen terjemahan kaping 101 saka karya sampeyan.

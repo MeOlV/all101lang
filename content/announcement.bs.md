@@ -1,13 +1,20 @@
 +++
 title = "Kako prevesti vlastitu knjigu na 101 jezik za nekoliko minuta"
-tags = ["Pisanje","prijevodi"]
+tags = ["Pisci","Samoopublivanje","Priprema"]
 googleDocUrl = "https://docs.google.com/document/d/14bDH536CG2Rwu9bQWzR-drQLoStet2dj9cu-Okn9H_g/edit"
-date = 2026-10-19T08:46:05.145Z
+date = 2026-10-22T08:09:39.091Z
 +++
 
 Alat Gemini i standardni prevodilac u Google dokumentima omogućili su mi da gotovo trenutno i uz minimalne troškove skaliram tekstove na globalni nivo. Zahvaljujući vlastitom skriptu za obradu u paketima, nudim uslugu brzog prevođenja vašeg dokumenta na preko 100 jezika bez ručne intervencije.  
+  
 Zašto funkcioniše:  
+  
+<!--more-->  
+  
 * Ultra brzo: 101 jezik za 15 minuta (≈ 9 sekundi po jeziku za dokument od 48.000 riječi).  
+  
 * Skalabilnost: Sačuvajte naslove, liste, tabele i slike.  
+  
 * Ušteda: Cijena prevođenja knjige na 101 jezik iznosi samo oko 5 € / 6 $.  
+  
 U nastavku ćete pronaći kompletna uputstva i uslove za naručivanje 101. prevoda vašeg djela.

@@ -1,13 +1,20 @@
 +++
 title = "Momwe mungamasulire buku lanu m'zilankhulo 101 mumphindi zochepa"
-tags = ["Kulemba","Kumasulira"]
+tags = ["Olemba","Kusindikiza yekha","Kumasulira"]
 googleDocUrl = "https://docs.google.com/document/d/1Y5Te2gVAsYDVSq3NaVdwkRsGeRgEKGu7Hiw56rr9Jhw/edit"
-date = 2026-10-19T08:46:05.155Z
+date = 2026-10-22T08:09:39.102Z
 +++
 
 Chida cha Gemini ndi womasulira wamba mu Google Docs zandithandiza kukweza malemba padziko lonse nthawi yomweyo komanso pamtengo wotsika. Chifukwa cha script yanga yokonza ma batch, ndimapereka ntchito yomasulira chikalata chanu mwachangu m'zilankhulo zoposa 100 popanda kugwiritsa ntchito manja.  
+  
 Chifukwa chake imagwira ntchito:  
+  
+<!--more-->  
+  
 * Yofulumira kwambiri: Zilankhulo 101 mu mphindi 15 (≈ masekondi 9 pa chinenero chilichonse pa chikalata cha mawu 48,000).  
+  
 * Kukula: Sungani mitu, mindandanda, matebulo, ndi zithunzi.  
+  
 * Ndalama Zosungidwa: Mtengo womasulira buku m'zilankhulo 101 ndi pafupifupi €5 / $6 yokha.  
+  
 Pansipa mupeza malangizo athunthu ndi malamulo oyitanitsa kumasulira kwa 101 kwa ntchito yanu.
