@@ -1,8 +1,8 @@
 +++
 title = "Wéi Dir Äert eegent Buch a Minutten an 101 Sproochen iwwersetze kënnt"
 tags = ["Schreiwer","Self-Publishing","Iwwersetzungen"]
-googleDocUrl = "https://docs.google.com/document/d/1nxXkca8zzFUki85VsrwW8L_WsFBi4fGyipUx2--cXhY/edit"
-date = 2026-10-22T08:09:39.099Z
+googleDocUrl = "https://docs.google.com/document/d/1nbl2j3WIbOrWrWJQ5fHGgDcSg9sThNmgLZ4yTCQppLQ/edit"
+date = 2026-10-23T06:31:32.127Z
 +++
 
 Den Gemini-Tool an den Standard-Iwwersetzer a Google Docs hunn et mir erméiglecht, Texter bal direkt an zu minimale Käschten op e globalen Niveau ze skaléieren. Dank mengem eegene Batch-Veraarbechtungsskript bidden ech e Service un, fir Äert Dokument séier an iwwer 100 Sproochen ouni manuell Interventioun ze iwwersetzen.  

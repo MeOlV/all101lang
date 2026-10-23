@@ -1,8 +1,8 @@
 +++
 title = "Kif tittraduċi l-ktieb tiegħek stess f'101 lingwa f'minuti"
 tags = ["Kittieba","Awtopubblikazzjoni","Traduzzjonijiet"]
-googleDocUrl = "https://docs.google.com/document/d/1i3QKhbj6wY2v7XEOZ8SRkYUEDkf8Jl5_Osf2auRFNmE/edit"
-date = 2026-10-22T08:09:39.101Z
+googleDocUrl = "https://docs.google.com/document/d/1q17JZJ-_cOAypG22j1N6dAnZd1COfDCLsfpSV7vNM9M/edit"
+date = 2026-10-23T06:31:32.129Z
 +++
 
 L-għodda Gemini u t-traduttur standard f'Google Docs ippermettewli nagħmel skala ta' testi għal livell globali kważi istantanjament u bi prezz minimu. Bis-saħħa tal-iskritt tal-ipproċessar tal-lott tiegħi stess, noffri servizz biex nittraduċi malajr id-dokument tiegħek f'aktar minn 100 lingwa mingħajr intervent manwali.  

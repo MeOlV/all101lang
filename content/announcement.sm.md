@@ -1,8 +1,8 @@
 +++
 title = "Auala e faaliliu ai lau lava tusi i gagana e 101 i ni nai minute"
 tags = ["Tusitala","Lolomi ia te oe lava","Faaliliuga"]
-googleDocUrl = "https://docs.google.com/document/d/18NdCSsHcspjJnkPJ5-CYrfdTMG7rk0nesbGIMUYZsdI/edit"
-date = 2026-10-22T08:09:39.103Z
+googleDocUrl = "https://docs.google.com/document/d/1rZwAmMmooeQtgcYkbFt1Q-yqLSVcIZkjFAzzYcnJO-g/edit"
+date = 2026-10-23T06:31:32.132Z
 +++
 
 O le meafaigaluega Gemini ma le faaliliu masani i Google Docs ua mafai ai ona ou faʻateleina tusitusiga i se tulaga faʻavaomalo toetoe lava a vave ma i se tau maualalo. Faʻafetai i laʻu lava tusitusiga faʻatulagaina, ou te ofoina atu se tautua e faʻaliliu vave ai lau pepa i gagana e silia ma le 100 e aunoa ma le faʻalavelave lima.  

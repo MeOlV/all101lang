@@ -1,8 +1,8 @@
 +++
 title = "Kaip per kelias minutes išversti savo knygą į 101 kalbą"
 tags = ["Rašytojai","Leidyba","Vertimai"]
-googleDocUrl = "https://docs.google.com/document/d/1o4OXtRVaExeZ-HqEc-lQBEH2hOyBALapYsSIgsgYV6s/edit"
-date = 2026-10-22T08:09:39.100Z
+googleDocUrl = "https://docs.google.com/document/d/1e3P_22ZlVdiVd1JnYFTaDX0vFWrnkiJRD-e3iSnM4LA/edit"
+date = 2026-10-23T06:31:32.127Z
 +++
 
 „Gemini“ įrankis ir standartinis „Google“ dokumentų vertėjas leido man beveik akimirksniu ir minimaliomis sąnaudomis pritaikyti tekstus pasauliniu mastu. Dėl savo paties sukurto paketinio apdorojimo scenarijaus siūlau paslaugą, leidžiančią greitai išversti jūsų dokumentą į daugiau nei 100 kalbų be rankinio įsikišimo.  

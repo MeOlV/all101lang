@@ -1,8 +1,8 @@
 +++
 title = "ວິທີການແປປຶ້ມຂອງເຈົ້າເອງເປັນ 101 ພາສາພາຍໃນນາທີ"
 tags = ["ນັກຂຽນ","ການພິມເຜີຍແພ້ດ້ວຍຕົນເອງ","ການແປພາສາ"]
-googleDocUrl = "https://docs.google.com/document/d/1gF_dj5d1yjCD4vo9AqeaO8Dgy98hFlqjFzpxIaDOoKU/edit"
-date = 2026-10-22T08:09:39.099Z
+googleDocUrl = "https://docs.google.com/document/d/1KPb_7ZtYzpMi8qcqAIbjUv80kUUhZAUzX0gABx4X-5s/edit"
+date = 2026-10-23T06:31:32.127Z
 +++
 
 ເຄື່ອງມື Gemini ແລະຕົວແປມາດຕະຖານໃນ Google Docs ໄດ້ຊ່ວຍໃຫ້ຂ້ອຍສາມາດປັບຂະໜາດຂໍ້ຄວາມໃຫ້ຢູ່ໃນລະດັບໂລກໄດ້ທັນທີ ແລະ ມີຄ່າໃຊ້ຈ່າຍໜ້ອຍທີ່ສຸດ. ຂໍຂອບໃຈກັບສະຄຣິບປະມວນຜົນແບບ batch ຂອງຂ້ອຍເອງ, ຂ້ອຍສະເໜີບໍລິການເພື່ອແປເອກະສານຂອງເຈົ້າໄດ້ໄວເປັນຫຼາຍກວ່າ 100 ພາສາໂດຍບໍ່ມີການແຊກແຊງດ້ວຍຕົນເອງ.  

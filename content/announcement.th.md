@@ -1,8 +1,8 @@
 +++
 title = "วิธีแปลหนังสือของคุณเองเป็น 101 ภาษาภายในไม่กี่นาที"
 tags = ["นักเขียน","การเผยแพร่ด้วยตนเอง","การแปล"]
-googleDocUrl = "https://docs.google.com/document/d/1so5QbYVa44AmbtHF9HwTEQtWD015abUh2gnlxwOKyQg/edit"
-date = 2026-10-22T08:09:39.106Z
+googleDocUrl = "https://docs.google.com/document/d/10BIp6qDdTsqnyzTPh_tkzDNVYW7XNXcYGQIb8jHgKMM/edit"
+date = 2026-10-23T06:31:32.135Z
 +++
 
 เครื่องมือ Gemini และตัวแปลภาษามาตรฐานใน Google Docs ช่วยให้ผมสามารถแปลข้อความในระดับสากลได้อย่างรวดเร็วและด้วยต้นทุนที่ต่ำมาก ด้วยสคริปต์การประมวลผลแบบกลุ่มที่ผมพัฒนาขึ้นเอง ผมจึงเสนอบริการแปลเอกสารของคุณเป็นภาษาต่างๆ กว่า 100 ภาษาได้อย่างรวดเร็วโดยไม่ต้องมีการแทรกแซงจากมนุษย์  

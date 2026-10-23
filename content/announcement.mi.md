@@ -1,8 +1,8 @@
 +++
 title = "Me pēhea te whakamāori i tāu ake pukapuka ki ngā reo 101 i roto i ngā meneti"
 tags = ["Ngā kaituhi","Whakaputa whaiaro","Whakawhitinga kōrero"]
-googleDocUrl = "https://docs.google.com/document/d/16KdD__yCNvyJeMgfEWnGhAKI-wFIX-w6Spx0x-eJ2pI/edit"
-date = 2026-10-22T08:09:39.100Z
+googleDocUrl = "https://docs.google.com/document/d/1pCO1It87yAiPjYRUQbPRdBAtH4P3HaxKzyJfxSEnZDA/edit"
+date = 2026-10-23T06:31:32.128Z
 +++
 
 Nā te taputapu Gemini me te kaiwhakamāori paerewa i roto i ngā Tuhinga a Google, kua taea e au te whakarahi ake i ngā tuhinga ki te taumata ao tata tonu, me te iti rawa o te utu. Nā taku ake tuhinga tukatuka puranga, ka tukuna e au he ratonga hei whakamāori tere i tō tuhinga ki roto i te neke atu i te 100 reo, me te kore e hiahiatia he wawaotanga ā-ringa.  
@@ -13,7 +13,7 @@ He aha i mahi ai:
   
 * Tino tere: 101 ngā reo i roto i te 15 meneti (≈ 9 hēkona mō ia reo mō tētahi tuhinga 48,000 kupu).  
   
-* Tauine: Tiakina ngā pane, ngā rārangi, ngā ripanga me ngā whakaahua.  
+* Tauine: Tiakina ngā pane, ngā rārangi, ngā ripanga, me ngā whakaahua.  
   
 * Penapena: Ko te utu mō te whakamāori i tētahi pukapuka ki ngā reo 101 he tata ki te €5 / $6 noa iho.  
   

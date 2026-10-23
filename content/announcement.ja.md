@@ -1,8 +1,8 @@
 +++
 title = "自分の本を101言語に数分で翻訳する方法"
 tags = ["作家","自費出版","翻訳"]
-googleDocUrl = "https://docs.google.com/document/d/14vrr94oyQSYPTtxyT-Tx6FZsXC3654NjCd9ci5kqxag/edit"
-date = 2026-10-22T08:09:39.097Z
+googleDocUrl = "https://docs.google.com/document/d/1qbwmLWHNOxJ9FcgdBIxiBQdXnsW1sRmJ2rfapoJLu8c/edit"
+date = 2026-10-23T06:31:32.125Z
 +++
 
 GeminiツールとGoogleドキュメントの標準翻訳機能のおかげで、テキストをほぼ瞬時に、しかも最小限のコストでグローバル規模に展開できるようになりました。独自のバッチ処理スクリプトにより、手作業を一切必要とせずに、お客様のドキュメントを100以上の言語に迅速に翻訳するサービスを提供しています。  

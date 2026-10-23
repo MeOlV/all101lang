@@ -1,8 +1,8 @@
 +++
 title = "Ahoana ny fomba fandikana ny bokinao manokana amin'ny fiteny 101 ao anatin'ny minitra vitsy"
 tags = ["Mpanoratra","Famoahana tena","Fandikan-teny"]
-googleDocUrl = "https://docs.google.com/document/d/1pYN7lYZD7I5D50MtDOLL4RdwbojYJKmcPFLwmmiR5lM/edit"
-date = 2026-10-22T08:09:39.100Z
+googleDocUrl = "https://docs.google.com/document/d/13rWnvUcygJgaW9t-EywZNzI3Fb4UhVlgHG0A3g9qD0Y/edit"
+date = 2026-10-23T06:31:32.128Z
 +++
 
 Ny fitaovana Gemini sy ny mpandika teny mahazatra ao amin'ny Google Docs dia nahafahako nampitombo ny haben'ny lahatsoratra ho amin'ny ambaratonga manerantany saika eo no ho eo ary amin'ny vidiny faran'izay kely. Noho ny script fanodinana batch-ko manokana, dia manolotra serivisy aho handikana haingana ny antontan-taratasinao amin'ny fiteny mihoatra ny 100 tsy misy fidirana an-tanana.  

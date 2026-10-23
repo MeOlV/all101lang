@@ -1,8 +1,8 @@
 +++
 title = "Kepiye carane nerjemahake buku sampeyan dhewe menyang 101 basa sajrone sawetara menit"
 tags = ["Penulis","Penerbitan mandiri","Terjemahan"]
-googleDocUrl = "https://docs.google.com/document/d/1nwBoG1bOzrK0uicJMhmbcSZ2j3sAFdNVsrgky3ZD274/edit"
-date = 2026-10-22T08:09:39.098Z
+googleDocUrl = "https://docs.google.com/document/d/1KYEPxdxjkd6HDSLBU3MjWavJi7GHHkf6nJzBgz1bFaA/edit"
+date = 2026-10-23T06:31:32.125Z
 +++
 
 Piranti Gemini lan penerjemah standar ing Google Docs wis ngidini aku ngowahi teks menyang tingkat global meh langsung lan kanthi biaya minimal. Amarga skrip pangolahan batchku dhewe, aku nawakake layanan kanggo nerjemahake dokumen sampeyan kanthi cepet menyang luwih saka 100 basa tanpa intervensi manual.  

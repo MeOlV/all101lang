@@ -1,8 +1,8 @@
 +++
 title = "Otu esi asụgharị akwụkwọ nke gị gaa n'asụsụ 101 n'ime nkeji ole na ole"
 tags = ["Ndị edemede","Mbipụta onwe","Ntụgharị asụsụ"]
-googleDocUrl = "https://docs.google.com/document/d/1CnPYyTa68JIJw1paFoRBC8TfXcC3cc6OfkHWrLAsRcE/edit"
-date = 2026-10-22T08:09:39.097Z
+googleDocUrl = "https://docs.google.com/document/d/1L6skBs-y2ii0K4O0b71zEFdgXxl7rBPMTxaizXhqd3Y/edit"
+date = 2026-10-23T06:31:32.124Z
 +++
 
 Ngwa Gemini na onye ntụgharị asụsụ nkịtị dị na Google Docs enyela m ohere ịgbasa ederede n'ụwa niile ozugbo na obere ọnụ ahịa. Site na edemede nhazi nke m, ana m enye ọrụ iji tụgharịa akwụkwọ gị ngwa ngwa gaa n'asụsụ karịrị 100 na-enweghị aka.  

@@ -1,8 +1,8 @@
 +++
 title = "Yuav ua li cas txhais koj phau ntawv ua 101 hom lus hauv feeb"
 tags = ["Cov kws sau ntawv","Luam tawm kheej","Txhais lus"]
-googleDocUrl = "https://docs.google.com/document/d/1ldRNN-_vKX1RksZEQFBg3PSU6KSUvUcgoPLeYwcDmMQ/edit"
-date = 2026-10-22T08:09:39.095Z
+googleDocUrl = "https://docs.google.com/document/d/1XBXBGgEbS1p5Tbm3YHYBqd-qSlwN7TcM-1FYE5c-rgY/edit"
+date = 2026-10-23T06:31:32.123Z
 +++
 
 Lub cuab yeej Gemini thiab tus neeg txhais lus txheem hauv Google Docs tau tso cai rau kuv kom nce cov ntawv mus rau theem thoob ntiaj teb yuav luag tam sim ntawd thiab tsawg kawg nkaus tus nqi. Ua tsaug rau kuv tus kheej cov ntawv sau ua ke, kuv muab kev pabcuam los txhais koj daim ntawv sai sai rau ntau dua 100 hom lus yam tsis muaj kev cuam tshuam tes.  

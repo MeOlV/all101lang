@@ -1,8 +1,8 @@
 +++
 title = "Öz kitabınızı dəqiqələrə 101 dilə necə tərcümə etmək olar"
 tags = ["Yazıçılar","Öz-özünə nəşr","Tərcümələr"]
-googleDocUrl = "https://docs.google.com/document/d/1kqmjieLAjy_PICI-SEpzhTDQpResq2flxua1M3rL7yM/edit"
-date = 2026-10-22T08:09:39.090Z
+googleDocUrl = "https://docs.google.com/document/d/1Ta7-guvYIPwtlMgtySPPevxFrC_uSemoe5A5WQIhmJU/edit"
+date = 2026-10-23T06:31:32.117Z
 +++
 
 Gemini aləti və Google Docs-dakı standart tərcüməçi mətnləri demək olar ki, dərhal və minimal xərclə qlobal səviyyəyə qaldırmağa imkan verdi. Öz toplu emal skriptim sayəsində sənədinizi əl ilə müdaxilə etmədən 100-dən çox dilə tez bir zamanda tərcümə etmək xidməti təklif edirəm.  

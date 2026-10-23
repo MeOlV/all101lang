@@ -1,8 +1,8 @@
 +++
 title = "Maitiro ekushandura bhuku rako mumitauro 101 mumaminitsi"
-tags = ["Vanyori","Kuzvinyora","Shanduro"]
-googleDocUrl = "https://docs.google.com/document/d/168yS1mizhSv00XgXN6qQ4XER6qPrfV8Rtuq8XqNidco/edit"
-date = 2026-10-22T08:09:39.104Z
+tags = ["Vanyori","Kuzvibudisa","Shanduro"]
+googleDocUrl = "https://docs.google.com/document/d/178CqzJrUn74adQc5va3UFr7Y1I0VuwuY4Dy71KY1JRE/edit"
+date = 2026-10-23T06:31:32.132Z
 +++
 
 Chishandiso cheGemini pamwe chete nemushanduri akajairwa muGoogle Docs zvakandibatsira kuti ndikwanise kuwedzera magwaro pasi rose nekukasika uye nemutengo wakaderera. Nekuda kwechinyorwa changu chekugadzirisa ma "batch", ndinopa sevhisi yekushandura gwaro rako nekukurumidza mumitauro inopfuura zana pasina kupindira nemaoko.  
