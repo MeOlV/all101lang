@@ -2,7 +2,7 @@
 title = "ווי אזוי צו איבערזעצן אייער אייגענע בוך אין 101 שפראכן אין מינוטן"
 tags = ["‏שרייבער","זעלבסט-אויסגאבע","איבערזעצונגען"]
 googleDocUrl = "https://docs.google.com/document/d/1RZB2D3DKxKuQiArfhbSnKEI41Dz8sEihU8c-5PDmAUs/edit"
-date = 2026-10-23T06:31:32.137Z
+date = 2026-10-29T11:43:29.622Z
 +++
 
 שרייבער, זעלבסט-אויסגאבע, איבערזעצונגען  

@@ -2,7 +2,7 @@
 title = "איך לתרגם את הספר שלך ל-101 שפות תוך דקות"
 tags = ["‏סופרים","הוצאה עצמית","תרגומים"]
 googleDocUrl = "https://docs.google.com/document/d/1Zp7a2rJEkj4-ROUBP3f40Iz0B7aLxeNXva4W64uw6UI/edit"
-date = 2026-10-23T06:31:32.125Z
+date = 2026-10-29T11:43:29.608Z
 +++
 
 סופרים, הוצאה עצמית, תרגומים  

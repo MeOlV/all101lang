@@ -2,7 +2,7 @@
 title = "단 몇 분 만에 내 책을 101개 언어로 번역하는 방법"
 tags = ["작가","독립출판","번역"]
 googleDocUrl = "https://docs.google.com/document/d/12iSIl9Mc-vD1GJDsz5cL-xKjhxZPMyBJ2BmSMDhSO1Y/edit"
-date = 2026-10-23T06:31:32.126Z
+date = 2026-10-29T11:43:29.610Z
 +++
 
 Gemini 도구와 Google Docs의 기본 번역 기능을 활용하여 거의 즉각적이고 최소한의 비용으로 텍스트를 전 세계적으로 배포할 수 있었습니다. 제가 개발한 일괄 처리 스크립트를 통해 수동 작업 없이 100개 이상의 언어로 문서를 신속하게 번역해 드리는 서비스를 제공합니다.  

@@ -2,7 +2,7 @@
 title = "Cara menterjemah buku anda sendiri ke dalam 101 bahasa dalam beberapa minit"
 tags = ["Penulis","Penerbitan sendiri","Terjemahan"]
 googleDocUrl = "https://docs.google.com/document/d/1PMhG615yQ1ILTxvD8LVTsaDoxlZ6P_dzZEG0taLO-Ew/edit"
-date = 2026-10-23T06:31:32.129Z
+date = 2026-10-29T11:43:29.613Z
 +++
 
 Alat Gemini dan penterjemah standard dalam Google Docs telah membolehkan saya menskala teks ke peringkat global hampir serta-merta dan pada kos yang minimum. Terima kasih kepada skrip pemprosesan kelompok saya sendiri, saya menawarkan perkhidmatan untuk menterjemah dokumen anda dengan cepat ke lebih 100 bahasa tanpa campur tangan manual.  

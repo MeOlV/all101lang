@@ -2,7 +2,7 @@
 title = "Conas do leabhar féin a aistriú go 101 teanga i gceann nóiméad"
 tags = ["Scríbhneoirí","Féinfhoilsiú","Aistriúcháin"]
 googleDocUrl = "https://docs.google.com/document/d/18ILd_KyPA1idm-OHq3rvR1IW60YQaLTO7kBjlLslwvs/edit"
-date = 2026-10-23T06:31:32.121Z
+date = 2026-10-29T11:43:29.604Z
 +++
 
 A bhuíochas leis an uirlis Gemini agus an t-aistritheoir caighdeánach i Google Docs, is féidir liom téacsanna a scálú go leibhéal domhanda beagnach láithreach agus ar chostas íosta. A bhuíochas le mo script próiseála baisce féin, cuirim seirbhís ar fáil chun do dhoiciméad a aistriú go tapa i níos mó ná 100 teanga gan idirghabháil láimhe.  

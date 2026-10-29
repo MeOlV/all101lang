@@ -1,8 +1,8 @@
 +++
 title = "Hoe vertaal je je eigen boek in 101 talen in enkele minuten?"
-tags = ["Schrijvers","Samydav","Vertalingen"]
+tags = ["Schrijvers","Zelfpublicatie","Vertalingen"]
 googleDocUrl = "https://docs.google.com/document/d/1OJPyVhL6_URF5LIOXh1Ikazngh8mGduJHC7T5P7UdE0/edit"
-date = 2026-10-23T06:31:32.129Z
+date = 2026-10-29T11:43:29.614Z
 +++
 
 Met de Gemini-tool en de standaardvertaler in Google Docs kan ik teksten vrijwel direct en tegen minimale kosten wereldwijd vertalen. Dankzij mijn eigen batchverwerkingsscript bied ik een service aan waarmee u uw document snel en zonder handmatige tussenkomst in meer dan 100 talen kunt vertalen.  

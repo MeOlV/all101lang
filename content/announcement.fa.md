@@ -2,7 +2,7 @@
 title = "چگونه کتاب خود را در عرض چند دقیقه به 101 زبان ترجمه کنید"
 tags = ["‏نویسندگان","خودناشری","ترجمه‌ها"]
 googleDocUrl = "https://docs.google.com/document/d/1vbB932tyKeZKFH8BOcVktbiFoGMszHVHMBi3HnhBbpk/edit"
-date = 2026-10-23T06:31:32.121Z
+date = 2026-10-29T11:43:29.603Z
 +++
 
 نویسندگان, خودناشری, ترجمه‌ها  

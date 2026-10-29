@@ -2,7 +2,7 @@
 title = "Indlela yokuhumusha incwadi yakho ngezilimi ezingu-101 ngemizuzu"
 tags = ["Ababhali","Ukuzishicilela","Ukuhumusha"]
 googleDocUrl = "https://docs.google.com/document/d/1w7abgW8pM-MwxxagxCIMQH_6OZcvfJXDA5NEO_i42Pc/edit"
-date = 2026-10-23T06:31:32.137Z
+date = 2026-10-29T11:43:29.623Z
 +++
 
 Ithuluzi le-Gemini kanye nomhumushi ojwayelekile ku-Google Docs kungivumele ukuthi ngikhulise imibhalo iye ezingeni lomhlaba wonke cishe ngokushesha futhi ngezindleko eziphansi. Ngenxa yesikripthi sami sokucubungula amaqoqo, nginikeza isevisi yokuhumusha ngokushesha idokhumenti yakho ezilimini ezingaphezu kwe-100 ngaphandle kokungenelela ngesandla.  
