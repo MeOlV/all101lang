@@ -2,7 +2,7 @@
 title = "Kā dažu minūšu laikā iztulkot savu grāmatu 101 valodā"
 tags = ["Rakstnieki","Pašizdevniecība","Tulkojumi"]
 googleDocUrl = "https://docs.google.com/document/d/1LjDV57r2tb5pWV7GJ46At4T4yw8hu4DZ1znJYpWqzJ0/edit"
-date = 2026-10-29T11:43:29.612Z
+date = 2026-10-29T17:56:44.389Z
 +++
 
 Gemini rīks un standarta tulkotājs pakalpojumā Google dokumenti ir ļāvuši man gandrīz acumirklī un ar minimālām izmaksām mērogot tekstus globālā līmenī. Pateicoties manam pakešapstrādes skriptam, es piedāvāju pakalpojumu, kas ļauj ātri iztulkot jūsu dokumentu vairāk nekā 100 valodās bez manuālas iejaukšanās.  

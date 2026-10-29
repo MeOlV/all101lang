@@ -2,7 +2,7 @@
 title = "Meriv çawa di çend hûrdeman de pirtûka xwe wergerîne 101 zimanan"
 tags = ["Nivîskar","Weşana xweser","Werger"]
 googleDocUrl = "https://docs.google.com/document/d/1Kk7QB_0Zx7M4TESr-uQks2F2zahIsdmmN4AD49eldg0/edit"
-date = 2026-10-29T11:43:29.610Z
+date = 2026-10-29T17:56:44.388Z
 +++
 
 Amûra Gemini û wergêrê standard di Google Docs de rê da min ku ez nivîsan hema hema tavilê û bi lêçûnek kêm bigihînin asta gerdûnî. Bi saya skrîpta pêvajoya komî ya xwe, ez xizmetek pêşkêş dikim da ku belgeya we bi lez û bez bêyî destwerdana destan wergerînim zêdetirî 100 zimanan.  

@@ -2,7 +2,7 @@
 title = "پنهنجي ڪتاب کي منٽن ۾ 101 ٻولين ۾ ڪيئن ترجمو ڪجي"
 tags = ["‏ليکڪ","پنهنجي طرفان شايع ڪرڻ","ترجمو"]
 googleDocUrl = "https://docs.google.com/document/d/19YD-EmD6dFcK0n6Cdk_TEZps43NF3DRRpwQwx8xb2Q8/edit"
-date = 2026-10-29T11:43:29.616Z
+date = 2026-10-29T17:56:44.392Z
 +++
 
 ليکڪ, پنهنجي طرفان شايع ڪرڻ, ترجمو  

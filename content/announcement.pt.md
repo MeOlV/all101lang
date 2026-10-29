@@ -2,7 +2,7 @@
 title = "Como traduzir seu próprio livro para 101 idiomas em minutos"
 tags = ["Escritores","Autopublicação","Traduções"]
 googleDocUrl = "https://docs.google.com/document/d/13ipXyUunygmd-Q_qkk3qr9tRLyIffJX_spnmHM4WgvU/edit"
-date = 2026-10-29T11:43:29.615Z
+date = 2026-10-29T17:56:44.392Z
 +++
 
 A ferramenta Gemini e o tradutor padrão do Google Docs me permitiram ampliar textos para um nível global quase instantaneamente e a um custo mínimo. Graças ao meu próprio script de processamento em lote, ofereço um serviço para traduzir seu documento rapidamente para mais de 100 idiomas sem intervenção manual.  

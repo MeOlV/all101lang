@@ -2,7 +2,7 @@
 title = "Hoe om jou eie boek binne minute in 101 tale te vertaal"
 tags = ["Skrywers","Samydav","Vertalings"]
 googleDocUrl = "https://docs.google.com/document/d/11FOWyLfkHri-9Pz0MBMfI0JU2WSnO7CW8bja5M4G_wc/edit"
-date = 2026-10-29T11:43:29.593Z
+date = 2026-10-29T17:56:44.373Z
 +++
 
 Die Gemini-instrument en die standaardvertaler in Google Docs het my toegelaat om tekste amper onmiddellik en teen minimale koste na 'n globale vlak te skaal. Danksy my eie bondelverwerkingskrip bied ek 'n diens om jou dokument vinnig in meer as 100 tale te vertaal sonder handmatige ingryping.  

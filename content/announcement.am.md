@@ -2,7 +2,7 @@
 title = "የራስዎን መጽሐፍ በደቂቃዎች ውስጥ ወደ 101 ቋንቋዎች እንዴት መተርጎም እንደሚችሉ"
 tags = ["מחברים","ራስን ማោះ","ትርጉሞች"]
 googleDocUrl = "https://docs.google.com/document/d/1YfYTYSjNw-1ymtH4yp1B7I-POHYHH5CF4NlgIHlyKJU/edit"
-date = 2026-10-29T11:43:29.599Z
+date = 2026-10-29T17:56:44.379Z
 +++
 
 מחברים, ራስን ማោះ, ትርጉሞች  

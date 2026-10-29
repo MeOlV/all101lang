@@ -2,7 +2,7 @@
 title = "Kako prevesti vlastitu knjigu na 101 jezik za nekoliko minuta"
 tags = ["Pisci","Samizdat","Prijevodi"]
 googleDocUrl = "https://docs.google.com/document/d/1hpeLBsHng4s7ZP8HJ4SJ2i9SprYhEtjoDfxmQIF2kl4/edit"
-date = 2026-10-29T11:43:29.606Z
+date = 2026-10-29T17:56:44.384Z
 +++
 
 Alat Gemini i standardni prevoditelj u Google dokumentima omogućili su mi gotovo trenutno skaliranje tekstova na globalnu razinu uz minimalne troškove. Zahvaljujući vlastitom skriptu za skupnu obradu, nudim uslugu brzog prevođenja vašeg dokumenta na preko 100 jezika bez ručne intervencije.  
