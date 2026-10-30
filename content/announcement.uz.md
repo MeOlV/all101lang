@@ -2,7 +2,7 @@
 title = "O'zingizning kitobingizni bir necha daqiqada 101 tilga qanday tarjima qilish mumkin"
 tags = ["Yozuvchilar","O'z-o'zini nashr etish","Tarjimalar"]
 googleDocUrl = "https://docs.google.com/document/d/1UE7A4SY-3Dn955qaTrqzZPz27xR9fyHod-ipWi5Mo0s/edit"
-date = 2026-10-29T17:56:44.396Z
+date = 2026-10-30T17:10:50.266Z
 +++
 
 Gemini vositasi va Google Docs’dagi standart tarjimon menga matnlarni deyarli bir zumda va minimal xarajatlar bilan global darajaga ko‘tarish imkonini berdi. O‘zimning ommaviy ishlov berish skriptim tufayli men hujjatingizni qo‘lda aralashuvsiz 100 dan ortiq tillarga tezda tarjima qilish xizmatini taklif qilaman.  

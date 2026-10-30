@@ -2,7 +2,7 @@
 title = "Quomodo librum tuum in centum et unas linguas intra minuta convertere possis."
 tags = ["Scriptores","Autoeditio","Translationes"]
 googleDocUrl = "https://docs.google.com/document/d/1Z1ztEBdEXXVyPv52iaYfBvjDrI-E7an7kDl7fPvOxuI/edit"
-date = 2026-10-29T17:56:44.388Z
+date = 2026-10-30T17:10:50.258Z
 +++
 
 Instrumentum Gemini et interpres consuetus in Google Docs mihi permiserunt ut textus ad gradum globalem fere statim et minimo pretio extendam. Gratias meo proprio scripto ad tractandum in serie, officium offero ad documentum tuum celeriter in plus quam centum linguas convertendum sine interventione manuali.  

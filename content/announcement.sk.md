@@ -2,7 +2,7 @@
 title = "Ako preložiť vlastnú knihu do 101 jazykov za pár minút"
 tags = ["Spisovatelia","Self-publishing","Preklady"]
 googleDocUrl = "https://docs.google.com/document/d/1ulqYYLtiTdrDFCIbGo8D65nhmHCEPGIr2CBo58a0qf8/edit"
-date = 2026-10-29T17:56:44.392Z
+date = 2026-10-30T17:10:50.262Z
 +++
 
 Nástroj Gemini a štandardný prekladač v Dokumentoch Google mi umožnili takmer okamžite a s minimálnymi nákladmi škálovať texty na globálnu úroveň. Vďaka môjmu vlastnému skriptu pre dávkové spracovanie ponúkam službu rýchleho prekladu vášho dokumentu do viac ako 100 jazykov bez manuálneho zásahu.  

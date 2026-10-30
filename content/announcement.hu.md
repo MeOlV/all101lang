@@ -2,7 +2,7 @@
 title = "Hogyan fordítsd le a saját könyvedet 101 nyelvre percek alatt"
 tags = ["Írók","Szamydav","Fordítások"]
 googleDocUrl = "https://docs.google.com/document/d/1SJI8sF9iw_VE2ez4PnZWVDuosGNvhrjEoBr7BskVB2k/edit"
-date = 2026-10-29T17:56:44.385Z
+date = 2026-10-30T17:10:50.254Z
 +++
 
 A Gemini eszköz és a Google Dokumentumok standard fordítója lehetővé tette számomra, hogy szinte azonnal és minimális költséggel globális szintre skálázzam a szövegeket. Saját kötegelt feldolgozási szkriptemnek köszönhetően olyan szolgáltatást kínálok, amellyel gyorsan lefordíthatom a dokumentumot több mint 100 nyelvre manuális beavatkozás nélkül.  

@@ -2,7 +2,7 @@
 title = "Hoe kinne jo jo eigen boek yn minuten yn 101 talen oersette"
 tags = ["Skriuwers","Samydav","Oersettings"]
 googleDocUrl = "https://docs.google.com/document/d/1w871qpS5c3lrSx79NGuTDjvOPUP3ZJdTy9Ro7WwYAbw/edit"
-date = 2026-10-29T17:56:44.383Z
+date = 2026-10-30T17:10:50.252Z
 +++
 
 Mei de Gemini-ark en de standert oersetter yn Google Docs kin ik teksten hast direkt en tsjin minimale kosten nei in wrâldwiid nivo skaalje. Mei tank oan myn eigen batchferwurkingsskript bied ik in tsjinst oan om jo dokumint fluch te oersetten yn mear as 100 talen sûnder hânmjittige yntervinsje.  
