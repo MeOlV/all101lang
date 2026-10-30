@@ -2,7 +2,7 @@
 title = "Cumu traduce u vostru propiu libru in 101 lingue in minuti"
 tags = ["Scrittori","Samydav","Traduzzioni"]
 googleDocUrl = "https://docs.google.com/document/d/1ltO19bEiAmEK-IvGjjsRChfGnYSyWwOsE-cq3hSL_yQ/edit"
-date = 2026-10-30T17:10:50.249Z
+date = 2026-10-30T18:42:21.058Z
 +++
 
 U strumentu Gemini è u traduttore standard in Google Docs m'anu permessu di scalà i testi à un livellu glubale guasi istantaneamente è à un costu minimu. Grazie à u mo propiu script di trasfurmazioni in batch, offru un serviziu per traduce rapidamente u vostru documentu in più di 100 lingue senza intervenzione manuale.  

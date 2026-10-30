@@ -2,7 +2,7 @@
 title = "Nola itzuli zure liburua 101 hizkuntzatara minutu gutxitan"
 tags = ["Idazleak","Autoedizioa","Itzulpenak"]
 googleDocUrl = "https://docs.google.com/document/d/1z7jgmwcDGGFmpUWB4opkWOoj-cbppGs0GhCsVQtCXmE/edit"
-date = 2026-10-30T17:10:50.251Z
+date = 2026-10-30T18:42:21.060Z
 +++
 
 Gemini tresnak eta Google Docs-eko itzultzaile estandarrak testuak maila globalera eskalatzeko aukera eman didate ia berehala eta kostu minimoan. Nire prozesatzeko script propioari esker, zure dokumentua 100 hizkuntza baino gehiagotara azkar itzultzeko zerbitzua eskaintzen dut, eskuzko esku-hartzerik gabe.  

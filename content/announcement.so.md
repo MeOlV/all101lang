@@ -2,7 +2,7 @@
 title = "Sida buuggaaga loogu turjumo 101 luqadood daqiiqado gudahood"
 tags = ["Qoraayaasha","Daabacaadda nafta","Turjumaadaha"]
 googleDocUrl = "https://docs.google.com/document/d/16PEiiT1kDvaEOlyW2CNHs05ps06eczMqwCUxR-KYras/edit"
-date = 2026-10-30T17:10:50.262Z
+date = 2026-10-30T18:42:21.071Z
 +++
 
 Qalabka Gemini iyo turjumaanka caadiga ah ee Google Docs ayaa ii oggolaaday inaan qoraallada u rogo heer caalami ah isla markiiba iyo kharash yar. Iyada oo ay ugu wacan tahay qoraalkayga habaynta dufcadda, waxaan bixiyaa adeeg si dhakhso leh loogu turjumo dukumeentigaaga in ka badan 100 luqadood iyada oo aan la faragelin gacanta.  

@@ -2,7 +2,7 @@
 title = "Wie Sie Ihr eigenes Buch in wenigen Minuten in 101 Sprachen übersetzen"
 tags = ["Autoren","Selbstverlag","Übersetzung"]
 googleDocUrl = "https://docs.google.com/document/d/1pwRZUYt0krxRj3gwqKdCDm3RlrQuG4-KV1aGPUPqb44/edit"
-date = 2026-10-30T17:10:50.250Z
+date = 2026-10-30T18:42:21.058Z
 +++
 
 Mit dem Gemini-Tool und dem Standardübersetzer in Google Docs konnte ich Texte nahezu sofort und kostengünstig global skalieren. Dank meines eigenen Batch-Verarbeitungsskripts biete ich einen Service an, der Ihr Dokument schnell und ohne manuelle Eingriffe in über 100 Sprachen übersetzt.  

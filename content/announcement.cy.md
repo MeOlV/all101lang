@@ -2,7 +2,7 @@
 title = "Sut i gyfieithu eich llyfr eich hun i 101 iaith mewn munudau"
 tags = ["Awduron","Samydav","Cyfieithiadau"]
 googleDocUrl = "https://docs.google.com/document/d/1svSygVA0sWKV5kDYFRYf8s7lj2ZY79OnJdgztqJG6Zk/edit"
-date = 2026-10-30T17:10:50.250Z
+date = 2026-10-30T18:42:21.058Z
 +++
 
 Mae'r offeryn Gemini a'r cyfieithydd safonol yn Google Docs wedi caniatáu i mi raddio testunau i lefel fyd-eang bron yn syth ac am gost leiaf. Diolch i'm sgript prosesu swp fy hun, rwy'n cynnig gwasanaeth i gyfieithu'ch dogfen yn gyflym i dros 100 o ieithoedd heb ymyrraeth â llaw.  

@@ -2,7 +2,7 @@
 title = "څنګه خپل کتاب په څو دقیقو کې ۱۰۱ ژبو ته وژباړئ"
 tags = ["‏لیکوالان","پخپله خپرول","ژباړې"]
 googleDocUrl = "https://docs.google.com/document/d/19SZHRMmlrzgT7OME7up3mFgNFqKCV64Lb5LGgSlP-Yw/edit"
-date = 2026-10-30T17:10:50.261Z
+date = 2026-10-30T18:42:21.069Z
 +++
 
 لیکوالان, پخپله خپرول, ژباړې  

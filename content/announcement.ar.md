@@ -2,7 +2,7 @@
 title = "كيفية ترجمة كتابك الخاص إلى 101 لغة في دقائق"
 tags = ["‏كتاب","النشر الذاتي","ترجمات"]
 googleDocUrl = "https://docs.google.com/document/d/1Xd1lCKLT-D295ayge0FMQVFKXz6d1AybMWTWqXiwftk/edit"
-date = 2026-10-30T17:10:50.248Z
+date = 2026-10-30T18:42:21.056Z
 +++
 
 كتاب, النشر الذاتي, ترجمات  

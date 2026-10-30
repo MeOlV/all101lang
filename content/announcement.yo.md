@@ -2,7 +2,7 @@
 title = "Bii o ṣe le tumọ iwe tirẹ si ede 101 ni iṣẹju diẹ"
 tags = ["Awọn onkọwe","Titẹjade ara ẹni","Awọn itumọ"]
 googleDocUrl = "https://docs.google.com/document/d/1XN7ogWvxEV7f2bO5VOxkjwOnU1hSnWOTJERTqoBbu7s/edit"
-date = 2026-10-30T17:10:50.266Z
+date = 2026-10-30T18:42:21.076Z
 +++
 
 Ohun èlò Gemini àti olùtúmọ̀ èdè tó wà nínú Google Docs ti jẹ́ kí n lè gbé àwọn ọ̀rọ̀ sí ìpele àgbáyé lẹ́sẹ̀kẹsẹ̀ àti pẹ̀lú owó díẹ̀. Mo dúpẹ́ lọ́wọ́ ìwé ìṣàtúnṣe ìpele mi, mo sì ń ṣe iṣẹ́ láti túmọ̀ ìwé rẹ sí èdè tó lé ní ọgọ́rùn-ún láìsí ìfọwọ́sowọ́pọ̀ pẹ̀lú ọwọ́.  

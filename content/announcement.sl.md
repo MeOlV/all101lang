@@ -2,7 +2,7 @@
 title = "Kako v nekaj minutah prevesti svojo knjigo v 101 jezik"
 tags = ["Pisatelji","Založništvo","Prevodi"]
 googleDocUrl = "https://docs.google.com/document/d/1bZTZ39yAOGGCzlcJpxG9kySg5NAK_R8hYnP2d85vpuU/edit"
-date = 2026-10-30T17:10:50.262Z
+date = 2026-10-30T18:42:21.071Z
 +++
 
 Orodje Gemini in standardni prevajalnik v Google Dokumentih sta mi omogočila skoraj takojšnje in minimalne stroške prilagajanja besedil na globalno raven. Zahvaljujoč lastnemu skriptu za paketno obdelavo ponujam storitev hitrega prevajanja vašega dokumenta v več kot 100 jezikov brez ročnega posredovanja.  

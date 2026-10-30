@@ -2,7 +2,7 @@
 title = "如何在幾分鐘內將自己的書翻譯成 101 種語言"
 tags = ["作家","自費出版","翻譯"]
 googleDocUrl = "https://docs.google.com/document/d/1bJHIpzF4jvPaP7wR3a82yHafAx9ApxzLdSGNO9NgHQI/edit"
-date = 2026-10-30T17:10:50.267Z
+date = 2026-10-30T18:42:21.076Z
 +++
 
 Gemini 工具和 Google Docs 的標準翻譯功能讓我能夠以極低的成本，幾乎瞬間將文字翻譯成全球通用語言。憑藉我自主開發的批量處理腳本，我可以提供無需人工幹預，快速將您的文件翻譯成 100 多種語言的服務。  

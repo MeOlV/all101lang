@@ -2,7 +2,7 @@
 title = "Momwe mungamasulire buku lanu m'zilankhulo 101 mumphindi zochepa"
 tags = ["Alembi","Kuzisindikiza","Tembenuzo"]
 googleDocUrl = "https://docs.google.com/document/d/1aysNcg1piPhE4XqogQrTZ4uXrNcNh2OObqBsENnP6JY/edit"
-date = 2026-10-30T17:10:50.261Z
+date = 2026-10-30T18:42:21.069Z
 +++
 
 Chida cha Gemini ndi womasulira wamba mu Google Docs zandithandiza kukweza malemba padziko lonse nthawi yomweyo komanso pamtengo wotsika. Chifukwa cha script yanga yokonza ma batch, ndimapereka ntchito yomasulira chikalata chanu mwachangu m'zilankhulo zoposa 100 popanda kugwiritsa ntchito manja.  
