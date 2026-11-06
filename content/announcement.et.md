@@ -2,7 +2,7 @@
 title = "Kuidas tõlkida oma raamat minutitega 101 keelde"
 tags = ["Kirjanikud","Omakirjastus","Tõlked"]
 googleDocUrl = "https://docs.google.com/document/d/1SUyDKtq_pIlcUL548Ld8l0WQbqx4LyRYEoCH2OdV0wI/edit"
-date = 2026-11-06T08:00:37.278Z
+date = 2026-11-06T08:30:17.615Z
 +++
 
 Gemini tööriist ja Google Docsi standardne tõlkija on võimaldanud mul tekste peaaegu koheselt ja minimaalsete kuludega globaalsele tasemele skaleerida. Tänu oma partiitöötlusskriptile pakun teenust, mis võimaldab teie dokumenti kiiresti tõlkida enam kui 100 keelde ilma käsitsi sekkumiseta.  

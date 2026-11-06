@@ -2,7 +2,7 @@
 title = "اپنی کتاب کا منٹوں میں 101 زبانوں میں ترجمہ کیسے کریں۔"
 tags = ["‏مصنفین","سیلف پبلشنگ","تراجم"]
 googleDocUrl = "https://docs.google.com/document/d/1XNIv-vVV5CBp2CZxwW6NGGz3nSZCBL-khnUmNNuUXO4/edit"
-date = 2026-11-06T08:00:37.301Z
+date = 2026-11-06T08:30:17.628Z
 +++
 
 مصنفین, سیلف پبلشنگ, تراجم  
