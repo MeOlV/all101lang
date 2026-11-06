@@ -1,8 +1,8 @@
 +++
 title = "Unsaon paghubad sa imong kaugalingong libro ngadto sa 101 ka pinulongan sulod sa pipila ka minuto"
-tags = ["Mga magsusulat","Self-publishing","Mga paghubad"]
+tags = ["Mga magsusulat","Kaugalingong pagmantala","Mga paghubad"]
 googleDocUrl = "https://docs.google.com/document/d/1xn-IIxJxHf4dQlJjtgem-sHevdhrXDhSrCymc9QYmFw/edit"
-date = 2026-11-06T05:42:30.464Z
+date = 2026-11-06T06:30:31.244Z
 +++
 
 Ang Gemini tool ug ang standard translator sa Google Docs nagtugot kanako sa pag-scale sa mga teksto ngadto sa global nga lebel hapit dayon ug sa gamay nga gasto. Tungod sa akong kaugalingong batch processing script, nagtanyag ako og serbisyo aron dali nga mahubad ang imong dokumento ngadto sa kapin sa 100 ka mga pinulongan nga walay manual nga interbensyon.  

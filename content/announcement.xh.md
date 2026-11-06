@@ -2,7 +2,7 @@
 title = "Indlela yokuguqulela incwadi yakho kwiilwimi ezili-101 ngemizuzu"
 tags = ["Ababhali","Ukuzipapasha","Ukuguqulela"]
 googleDocUrl = "https://docs.google.com/document/d/1eWw9BxivOXKhTJY90coTbNcEautcxy-FeC5DIR5XUvU/edit"
-date = 2026-11-06T05:42:30.505Z
+date = 2026-11-06T06:30:31.275Z
 +++
 
 Isixhobo seGemini kunye nomguquleli oqhelekileyo kwiGoogle Docs zindivumele ukuba ndikwazi ukunyusa imibhalo iye kwinqanaba lehlabathi phantse ngoko nangoko kwaye ngexabiso eliphantsi. Ngenxa yesikripthi sam sokucubungula ibhetshi, ndinikezela ngenkonzo yokuguqulela uxwebhu lwakho ngokukhawuleza kwiilwimi ezingaphezu kwe-100 ngaphandle kokungenelela ngesandla.  
