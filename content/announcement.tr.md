@@ -2,7 +2,7 @@
 title = "Kendi kitabınızı dakikalar içinde 101 dile nasıl çevirebilirsiniz?"
 tags = ["Yazarlar","Self-publishing","Çeviriler"]
 googleDocUrl = "https://docs.google.com/document/d/1647IoCu0pc27L8N5b6BJ6A8H9Nc9MnSWOgbczGT1V8g/edit"
-date = 2026-11-06T06:30:31.273Z
+date = 2026-11-06T08:00:37.300Z
 +++
 
 Gemini aracı ve Google Docs'taki standart çevirmen, metinleri neredeyse anında ve minimum maliyetle küresel ölçekte çevirmeme olanak sağladı. Kendi geliştirdiğim toplu işleme komut dosyası sayesinde, belgenizi manuel müdahale olmadan 100'den fazla dile hızlı bir şekilde çevirme hizmeti sunuyorum.  

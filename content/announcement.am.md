@@ -2,7 +2,7 @@
 title = "የራስዎን መጽሐፍ በደቂቃዎች ውስጥ ወደ 101 ቋንቋዎች እንዴት መተርጎም እንደሚችሉ"
 tags = ["ደራሲያን","ራስን ማተም","ትርጉሞች"]
 googleDocUrl = "https://docs.google.com/document/d/1YfYTYSjNw-1ymtH4yp1B7I-POHYHH5CF4NlgIHlyKJU/edit"
-date = 2026-11-06T06:30:31.242Z
+date = 2026-11-06T08:00:37.272Z
 +++
 
 መቅድም  
